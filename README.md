@@ -1,7 +1,7 @@
 # ✨ Spell & Scroll Solutions, Inc. — HR Analytics Project ✨
 
 <p align="center">
-  ![ChatGPT Image Apr 1, 2025, 10_16_36 PM](https://github.com/user-attachments/assets/453232d6-ffc0-4765-bbf6-65408bca6868)
+  https://github.com/ShanePrairie/spell-scroll-hr-analytics/blob/main/wizard_hr_banner.png
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ This project features five interconnected tables with rich, semi-messy, realisti
 | `exit_interviews`        | Reasons for employee departures & recommendations      |
 | `promotions`             | Internal promotions and advancement records            |
 
-📄 Each table is described in detail in the [📘 HR Data Documentation](./HR_Data_Documentation).
+📄 Each table is described in detail in the [📘 HR Data Documentation](https://github.com/ShanePrairie/spell-scroll-hr-analytics/blob/main/HR_Data_Documentation.pdf).
 
 ---
 
@@ -52,14 +52,14 @@ This project features five interconnected tables with rich, semi-messy, realisti
 ## 🚀 Getting Started
 1. Clone the repository
 2. Import CSVs into PostgreSQL or your preferred SQL tool
-3. Use the [📜 SQL setup script](./wizard_hr_sql_setup) to create schema
+3. Use the [📜 SQL setup script](https://github.com/ShanePrairie/spell-scroll-hr-analytics/blob/main/--%20PostgreSQL%20Schema%20Setup%20for%20Spell%20%26%20Scroll%20Solutions%20HR%20Database.docx) to create schema
 4. Explore tables using joins, filters, and dashboards
 
 ---
 
 ## 🗺️ Entity Relationship Diagram (ERD)
 <p align="center">
-  <img src="wizard_hr_erd.png" alt="ERD showing relationships between employees and related tables">
+  <img src="https://github.com/ShanePrairie/spell-scroll-hr-analytics/blob/main/wizard_hr_erd.png" alt="ERD showing relationships between employees and related tables">
 </p>
 
 ---
