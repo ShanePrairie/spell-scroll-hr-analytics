@@ -55,7 +55,7 @@ This project features five interconnected tables with rich, semi-messy, realisti
 ## 🚀 Getting Started
 1. Clone the repository
 2. Import CSVs into PostgreSQL or your preferred SQL tool
-3. Use the [📜 SQL setup script](https://github.com/ShanePrairie/spell-scroll-hr-analytics/blob/main/--%20PostgreSQL%20Schema%20Setup%20for%20Spell%20%26%20Scroll%20Solutions%20HR%20Database.docx) to create schema
+3. Use the [📜 SQL setup script](https://github.com/ShanePrairie/spell-scroll-hr-analytics/blob/main/wizard_hr_sql_setup.sql) to create schema
 4. Explore tables using joins, filters, and dashboards
 
 ---
