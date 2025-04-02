@@ -1,0 +1,2467 @@
+certification_id,employee_id,cert_name,cert_level,issue_date,expiry_date,status
+1,1,Herbology Essentials,Intermediate,2024-04-29,2027-04-29,Valid
+2,1,Defensive Charms,Beginner,2022-04-13,2023-04-13,Revoked
+3,2,Dark Magic Identification,Master,2021-12-07,2024-12-07,Valid
+4,2,Wand Safety 101,Intermediate,2020-06-22,2024-06-22,Revoked
+5,2,Teleportation Accuracy,Master,2020-01-19,2023-01-19,Revoked
+6,2,Potion Brewing Basics,Intermediate,2017-12-19,2019-12-19,Valid
+7,3,Herbology Essentials,Beginner,2024-01-11,2029-01-11,Expired
+8,3,Defensive Charms,Beginner,2020-02-23,2023-02-23,Revoked
+9,4,Defensive Charms,Intermediate,2023-04-10,2024-04-10,Revoked
+10,4,Wand Safety 101,Master,2020-04-04,2024-04-04,Revoked
+11,4,Wand Safety 101,Intermediate,2021-07-07,2024-07-07,Expired
+12,4,Herbology Essentials,Beginner,2021-01-30,2024-01-30,Revoked
+13,5,Muggle Interaction Training,Beginner,2021-10-13,2023-10-13,Expired
+14,5,Potion Brewing Basics,Master,2022-01-17,2023-01-17,Valid
+15,6,Magical Ethics,Master,2021-12-20,2026-12-20,Expired
+16,6,Teleportation Accuracy,Intermediate,2023-07-18,2028-07-18,Valid
+17,7,Defensive Charms,Intermediate,2021-11-16,2022-11-16,Valid
+18,8,Potion Brewing Basics,Intermediate,2024-09-29,2027-09-29,Expired
+19,8,Herbology Essentials,Intermediate,2021-10-13,2026-10-13,Valid
+20,9,Wand Safety 101,Beginner,2016-02-15,2020-02-15,Revoked
+21,9,Herbology Essentials,Master,2017-10-28,2022-10-28,Revoked
+22,9,Magical Ethics,Master,2024-01-09,2027-01-09,Expired
+23,10,Teleportation Accuracy,Intermediate,2024-06-09,2027-06-09,Revoked
+24,11,Dark Magic Identification,Beginner,2019-03-30,2020-03-30,Revoked
+25,11,Teleportation Accuracy,Intermediate,2016-05-20,2019-05-20,Valid
+26,12,Wand Safety 101,Beginner,2016-10-03,2020-10-03,Revoked
+27,13,Defensive Charms,Intermediate,2023-11-12,2026-11-12,Valid
+28,13,Dark Magic Identification,Beginner,2018-05-30,2023-05-30,Expired
+29,13,Wand Safety 101,Beginner,2015-06-16,2018-06-16,Valid
+30,13,Advanced Spell Theory,Intermediate,2023-02-07,2024-02-07,Revoked
+31,14,Herbology Essentials,Intermediate,2023-03-08,2026-03-08,Revoked
+32,14,Defensive Charms,Beginner,2016-09-23,2021-09-23,Valid
+33,14,Muggle Interaction Training,Intermediate,2025-03-11,2030-03-11,Valid
+34,15,Magical Ethics,Master,2017-06-03,2021-06-03,Expired
+35,15,Dark Magic Identification,Master,2022-11-16,2024-11-16,Valid
+36,15,Potion Brewing Basics,Master,2022-04-13,2027-04-13,Valid
+37,15,Wand Safety 101,Master,2020-12-30,2022-12-30,Expired
+38,16,Herbology Essentials,Intermediate,2018-09-18,2021-09-18,Valid
+39,16,Muggle Interaction Training,Beginner,2017-03-23,2022-03-23,Valid
+40,17,Herbology Essentials,Intermediate,2021-03-01,2025-03-01,Valid
+41,17,Magical Ethics,Beginner,2022-06-27,2023-06-27,Revoked
+42,18,Dark Magic Identification,Master,2021-01-08,2026-01-08,Valid
+43,18,Dark Magic Identification,Master,2017-09-29,2018-09-29,Valid
+44,18,Dark Magic Identification,Master,2018-06-03,2021-06-03,Expired
+45,19,Defensive Charms,Master,2018-02-27,2023-02-27,Valid
+46,19,Wand Safety 101,Master,2015-05-05,2019-05-05,Valid
+47,19,Herbology Essentials,Master,2018-09-12,2022-09-12,Expired
+48,20,Wand Safety 101,Intermediate,2020-04-03,2025-04-03,Revoked
+49,20,Advanced Spell Theory,Beginner,2016-12-09,2019-12-09,Expired
+50,20,Defensive Charms,Intermediate,2019-02-08,2020-02-08,Valid
+51,21,Potion Brewing Basics,Beginner,2016-12-18,2017-12-18,Valid
+52,21,Dark Magic Identification,Intermediate,2015-06-05,2020-06-05,Revoked
+53,21,Defensive Charms,Master,2018-03-23,2019-03-23,Revoked
+54,21,Advanced Spell Theory,Beginner,2021-06-30,2025-06-30,Expired
+55,22,Defensive Charms,Intermediate,2023-07-01,2027-07-01,Revoked
+56,22,Teleportation Accuracy,Beginner,2019-02-16,2023-02-16,Revoked
+57,23,Herbology Essentials,Beginner,2023-12-01,2027-12-01,Revoked
+58,23,Advanced Spell Theory,Beginner,2025-02-19,2030-02-19,Revoked
+59,24,Wand Safety 101,Beginner,2019-04-13,2020-04-13,Valid
+60,24,Muggle Interaction Training,Beginner,2024-07-31,2028-07-31,Revoked
+61,24,Defensive Charms,Beginner,2023-07-09,2027-07-09,Valid
+62,24,Advanced Spell Theory,Intermediate,2020-11-25,2022-11-25,Revoked
+63,25,Herbology Essentials,Beginner,2018-07-21,2019-07-21,Expired
+64,25,Dark Magic Identification,Master,2017-02-24,2019-02-24,Valid
+65,25,Wand Safety 101,Intermediate,2022-06-10,2027-06-10,Valid
+66,25,Defensive Charms,Intermediate,2018-10-10,2019-10-10,Revoked
+67,26,Herbology Essentials,Intermediate,2021-04-19,2025-04-19,Expired
+68,26,Dark Magic Identification,Beginner,2017-04-07,2018-04-07,Expired
+69,27,Advanced Spell Theory,Intermediate,2018-11-10,2022-11-10,Expired
+70,27,Defensive Charms,Intermediate,2022-02-03,2024-02-03,Valid
+71,27,Advanced Spell Theory,Intermediate,2024-01-02,2025-01-02,Expired
+72,28,Defensive Charms,Master,2019-08-27,2020-08-27,Expired
+73,28,Potion Brewing Basics,Beginner,2020-03-13,2025-03-13,Expired
+74,29,Defensive Charms,Master,2024-12-04,2027-12-04,Revoked
+75,29,Magical Ethics,Master,2021-04-16,2026-04-16,Expired
+76,29,Teleportation Accuracy,Beginner,2022-03-23,2025-03-23,Revoked
+77,30,Advanced Spell Theory,Master,2016-04-04,2017-04-04,Expired
+78,30,Muggle Interaction Training,Intermediate,2020-04-17,2022-04-17,Expired
+79,30,Defensive Charms,Master,2024-11-06,2026-11-06,Valid
+80,30,Wand Safety 101,Beginner,2024-04-24,2029-04-24,Revoked
+81,31,Potion Brewing Basics,Beginner,2019-06-06,2021-06-06,Expired
+82,31,Teleportation Accuracy,Intermediate,2021-01-16,2022-01-16,Valid
+83,31,Defensive Charms,Master,2023-09-09,2024-09-09,Valid
+84,31,Dark Magic Identification,Master,2020-09-03,2021-09-03,Expired
+85,32,Wand Safety 101,Beginner,2022-11-07,2026-11-07,Expired
+86,32,Wand Safety 101,Beginner,2023-04-17,2024-04-17,Expired
+87,33,Potion Brewing Basics,Master,2017-04-22,2022-04-22,Revoked
+88,33,Advanced Spell Theory,Master,2017-06-11,2018-06-11,Revoked
+89,34,Herbology Essentials,Master,2020-02-07,2021-02-07,Expired
+90,34,Potion Brewing Basics,Beginner,2023-05-30,2026-05-30,Expired
+91,35,Wand Safety 101,Beginner,2021-01-01,2023-01-01,Revoked
+92,36,Advanced Spell Theory,Beginner,2022-04-21,2027-04-21,Revoked
+93,36,Advanced Spell Theory,Intermediate,2020-12-04,2024-12-04,Valid
+94,36,Wand Safety 101,Master,2015-11-21,2018-11-21,Expired
+95,36,Advanced Spell Theory,Master,2023-07-05,2024-07-05,Revoked
+96,37,Wand Safety 101,Beginner,2021-04-01,2022-04-01,Revoked
+97,37,Potion Brewing Basics,Intermediate,2022-10-23,2024-10-23,Valid
+98,37,Potion Brewing Basics,Beginner,2018-03-22,2019-03-22,Revoked
+99,37,Advanced Spell Theory,Beginner,2020-05-27,2025-05-27,Revoked
+100,38,Potion Brewing Basics,Beginner,2021-06-28,2025-06-28,Revoked
+101,39,Wand Safety 101,Master,2016-05-09,2021-05-09,Expired
+102,39,Dark Magic Identification,Master,2018-12-19,2019-12-19,Valid
+103,39,Potion Brewing Basics,Beginner,2016-04-25,2017-04-25,Expired
+104,40,Herbology Essentials,Master,2020-11-28,2025-11-28,Valid
+105,40,Herbology Essentials,Master,2017-11-13,2021-11-13,Expired
+106,41,Muggle Interaction Training,Beginner,2018-09-17,2021-09-17,Valid
+107,41,Dark Magic Identification,Intermediate,2018-02-22,2020-02-22,Valid
+108,42,Muggle Interaction Training,Master,2019-01-21,2024-01-21,Expired
+109,42,Dark Magic Identification,Intermediate,2024-04-04,2027-04-04,Expired
+110,42,Teleportation Accuracy,Beginner,2025-01-08,2030-01-08,Valid
+111,42,Teleportation Accuracy,Master,2025-01-07,2030-01-07,Valid
+112,43,Wand Safety 101,Intermediate,2023-08-13,2025-08-13,Revoked
+113,43,Defensive Charms,Master,2020-08-04,2023-08-04,Revoked
+114,43,Defensive Charms,Beginner,2015-12-31,2019-12-31,Valid
+115,44,Teleportation Accuracy,Intermediate,2023-05-30,2028-05-30,Valid
+116,44,Advanced Spell Theory,Intermediate,2015-11-24,2019-11-24,Valid
+117,44,Herbology Essentials,Master,2021-03-12,2026-03-12,Expired
+118,45,Dark Magic Identification,Intermediate,2024-08-13,2029-08-13,Expired
+119,45,Herbology Essentials,Beginner,2022-03-20,2026-03-20,Expired
+120,45,Herbology Essentials,Master,2017-03-11,2018-03-11,Revoked
+121,46,Herbology Essentials,Master,2024-04-02,2026-04-02,Expired
+122,47,Wand Safety 101,Beginner,2018-06-16,2023-06-16,Expired
+123,48,Teleportation Accuracy,Master,2017-04-22,2021-04-22,Expired
+124,48,Magical Ethics,Beginner,2021-04-02,2024-04-02,Revoked
+125,48,Wand Safety 101,Intermediate,2017-01-14,2019-01-14,Expired
+126,49,Herbology Essentials,Intermediate,2021-06-19,2024-06-19,Revoked
+127,49,Herbology Essentials,Intermediate,2025-02-23,2030-02-23,Valid
+128,49,Teleportation Accuracy,Beginner,2022-12-04,2027-12-04,Valid
+129,50,Wand Safety 101,Master,2021-03-05,2026-03-05,Revoked
+130,50,Muggle Interaction Training,Master,2024-07-11,2025-07-11,Valid
+131,50,Defensive Charms,Master,2017-09-03,2019-09-03,Valid
+132,51,Magical Ethics,Master,2016-10-14,2019-10-14,Valid
+133,51,Muggle Interaction Training,Beginner,2020-03-05,2024-03-05,Revoked
+134,51,Herbology Essentials,Beginner,2024-10-29,2025-10-29,Expired
+135,51,Dark Magic Identification,Master,2021-07-16,2023-07-16,Valid
+136,52,Muggle Interaction Training,Intermediate,2018-05-17,2021-05-17,Revoked
+137,52,Defensive Charms,Intermediate,2021-04-24,2022-04-24,Expired
+138,52,Dark Magic Identification,Beginner,2020-04-23,2021-04-23,Valid
+139,52,Defensive Charms,Beginner,2021-08-03,2023-08-03,Valid
+140,53,Muggle Interaction Training,Master,2018-12-01,2021-12-01,Valid
+141,53,Herbology Essentials,Intermediate,2018-07-20,2019-07-20,Revoked
+142,53,Advanced Spell Theory,Intermediate,2024-11-26,2027-11-26,Revoked
+143,54,Potion Brewing Basics,Intermediate,2016-09-01,2018-09-01,Revoked
+144,54,Herbology Essentials,Intermediate,2023-09-22,2026-09-22,Revoked
+145,54,Magical Ethics,Master,2018-09-06,2019-09-06,Valid
+146,54,Wand Safety 101,Master,2019-04-11,2020-04-11,Valid
+147,55,Defensive Charms,Intermediate,2018-08-27,2023-08-27,Valid
+148,56,Wand Safety 101,Master,2020-11-07,2021-11-07,Revoked
+149,56,Wand Safety 101,Beginner,2019-02-18,2023-02-18,Valid
+150,56,Wand Safety 101,Master,2018-04-30,2022-04-30,Valid
+151,56,Teleportation Accuracy,Intermediate,2023-03-08,2026-03-08,Expired
+152,57,Magical Ethics,Master,2017-01-01,2020-01-01,Revoked
+153,58,Magical Ethics,Master,2020-05-15,2022-05-15,Valid
+154,58,Dark Magic Identification,Master,2024-04-20,2026-04-20,Revoked
+155,58,Defensive Charms,Beginner,2021-11-26,2026-11-26,Valid
+156,59,Advanced Spell Theory,Intermediate,2017-12-02,2019-12-02,Expired
+157,60,Dark Magic Identification,Beginner,2019-10-28,2021-10-28,Valid
+158,60,Teleportation Accuracy,Master,2021-10-17,2026-10-17,Expired
+159,60,Advanced Spell Theory,Beginner,2020-08-01,2021-08-01,Revoked
+160,61,Muggle Interaction Training,Intermediate,2018-05-15,2020-05-15,Expired
+161,61,Dark Magic Identification,Intermediate,2024-01-03,2026-01-03,Revoked
+162,61,Potion Brewing Basics,Intermediate,2021-11-17,2024-11-17,Valid
+163,61,Potion Brewing Basics,Beginner,2017-05-28,2022-05-28,Expired
+164,62,Herbology Essentials,Master,2018-10-24,2019-10-24,Expired
+165,62,Magical Ethics,Beginner,2017-12-04,2021-12-04,Expired
+166,62,Magical Ethics,Intermediate,2023-01-18,2027-01-18,Revoked
+167,62,Magical Ethics,Intermediate,2017-11-14,2021-11-14,Expired
+168,63,Muggle Interaction Training,Beginner,2018-11-18,2023-11-18,Valid
+169,63,Advanced Spell Theory,Intermediate,2020-05-25,2021-05-25,Valid
+170,64,Magical Ethics,Intermediate,2020-10-07,2025-10-07,Expired
+171,65,Wand Safety 101,Master,2019-05-13,2021-05-13,Expired
+172,65,Advanced Spell Theory,Master,2017-07-28,2018-07-28,Expired
+173,66,Defensive Charms,Master,2016-11-04,2021-11-04,Valid
+174,66,Teleportation Accuracy,Beginner,2020-01-27,2024-01-27,Valid
+175,66,Muggle Interaction Training,Beginner,2024-06-10,2028-06-10,Revoked
+176,66,Dark Magic Identification,Intermediate,2022-07-31,2027-07-31,Valid
+177,67,Magical Ethics,Master,2017-04-27,2021-04-27,Expired
+178,68,Defensive Charms,Master,2024-07-12,2029-07-12,Valid
+179,68,Defensive Charms,Beginner,2020-09-10,2022-09-10,Expired
+180,69,Muggle Interaction Training,Intermediate,2015-04-28,2017-04-28,Revoked
+181,70,Dark Magic Identification,Beginner,2019-07-11,2020-07-11,Valid
+182,70,Advanced Spell Theory,Beginner,2020-06-07,2023-06-07,Valid
+183,71,Defensive Charms,Intermediate,2022-08-06,2027-08-06,Revoked
+184,72,Dark Magic Identification,Beginner,2016-02-05,2019-02-05,Revoked
+185,72,Dark Magic Identification,Intermediate,2017-07-15,2018-07-15,Expired
+186,72,Dark Magic Identification,Master,2019-02-15,2020-02-15,Revoked
+187,72,Wand Safety 101,Master,2021-08-16,2025-08-16,Expired
+188,73,Defensive Charms,Beginner,2017-02-06,2022-02-06,Valid
+189,73,Dark Magic Identification,Master,2022-10-05,2024-10-05,Expired
+190,74,Defensive Charms,Intermediate,2017-05-23,2018-05-23,Valid
+191,74,Teleportation Accuracy,Beginner,2016-04-28,2019-04-28,Expired
+192,75,Dark Magic Identification,Master,2015-11-14,2017-11-14,Expired
+193,75,Muggle Interaction Training,Intermediate,2024-02-16,2029-02-16,Valid
+194,75,Advanced Spell Theory,Intermediate,2018-08-10,2019-08-10,Expired
+195,75,Defensive Charms,Beginner,2022-02-03,2023-02-03,Revoked
+196,76,Dark Magic Identification,Intermediate,2024-10-30,2027-10-30,Expired
+197,76,Muggle Interaction Training,Beginner,2017-03-01,2018-03-01,Revoked
+198,76,Dark Magic Identification,Intermediate,2019-08-17,2024-08-17,Expired
+199,76,Wand Safety 101,Intermediate,2020-06-15,2021-06-15,Valid
+200,77,Muggle Interaction Training,Beginner,2019-06-09,2021-06-09,Valid
+201,77,Advanced Spell Theory,Intermediate,2024-04-20,2028-04-20,Valid
+202,77,Advanced Spell Theory,Beginner,2022-12-07,2026-12-07,Valid
+203,78,Wand Safety 101,Beginner,2020-05-08,2024-05-08,Valid
+204,78,Teleportation Accuracy,Intermediate,2018-11-17,2023-11-17,Expired
+205,78,Teleportation Accuracy,Beginner,2019-11-04,2021-11-04,Valid
+206,78,Potion Brewing Basics,Intermediate,2019-12-05,2020-12-05,Revoked
+207,79,Magical Ethics,Intermediate,2021-05-29,2026-05-29,Expired
+208,80,Teleportation Accuracy,Beginner,2020-12-01,2025-12-01,Valid
+209,80,Advanced Spell Theory,Master,2024-10-22,2029-10-22,Valid
+210,80,Dark Magic Identification,Master,2022-10-21,2026-10-21,Expired
+211,80,Dark Magic Identification,Master,2017-10-23,2022-10-23,Expired
+212,81,Dark Magic Identification,Master,2019-12-09,2023-12-09,Revoked
+213,82,Herbology Essentials,Intermediate,2024-05-24,2026-05-24,Revoked
+214,83,Defensive Charms,Master,2018-09-09,2022-09-09,Expired
+215,84,Magical Ethics,Master,2020-09-07,2025-09-07,Revoked
+216,84,Herbology Essentials,Master,2016-01-07,2017-01-07,Expired
+217,85,Herbology Essentials,Master,2016-08-07,2020-08-07,Revoked
+218,85,Herbology Essentials,Beginner,2015-04-29,2017-04-29,Revoked
+219,86,Muggle Interaction Training,Beginner,2022-10-13,2027-10-13,Expired
+220,87,Defensive Charms,Master,2023-10-01,2025-10-01,Revoked
+221,87,Teleportation Accuracy,Master,2017-10-19,2022-10-19,Valid
+222,87,Teleportation Accuracy,Intermediate,2018-02-23,2021-02-23,Expired
+223,87,Muggle Interaction Training,Intermediate,2021-01-16,2022-01-16,Revoked
+224,88,Herbology Essentials,Beginner,2024-01-14,2028-01-14,Revoked
+225,88,Dark Magic Identification,Intermediate,2018-12-16,2021-12-16,Revoked
+226,88,Wand Safety 101,Master,2018-10-06,2023-10-06,Revoked
+227,88,Muggle Interaction Training,Beginner,2019-10-26,2021-10-26,Revoked
+228,89,Defensive Charms,Beginner,2018-10-14,2022-10-14,Expired
+229,89,Defensive Charms,Beginner,2017-08-01,2022-08-01,Revoked
+230,90,Teleportation Accuracy,Beginner,2023-06-09,2026-06-09,Expired
+231,91,Defensive Charms,Beginner,2019-07-28,2020-07-28,Revoked
+232,91,Herbology Essentials,Intermediate,2024-10-13,2029-10-13,Expired
+233,91,Dark Magic Identification,Beginner,2020-02-21,2021-02-21,Valid
+234,92,Defensive Charms,Intermediate,2021-03-15,2026-03-15,Valid
+235,92,Dark Magic Identification,Intermediate,2021-10-31,2024-10-31,Revoked
+236,92,Magical Ethics,Master,2017-03-02,2022-03-02,Expired
+237,92,Wand Safety 101,Master,2024-04-28,2029-04-28,Expired
+238,93,Muggle Interaction Training,Master,2016-11-04,2021-11-04,Revoked
+239,93,Herbology Essentials,Master,2021-04-12,2022-04-12,Expired
+240,93,Teleportation Accuracy,Beginner,2017-09-26,2018-09-26,Revoked
+241,94,Muggle Interaction Training,Master,2016-05-15,2018-05-15,Expired
+242,94,Muggle Interaction Training,Intermediate,2015-07-01,2020-07-01,Valid
+243,94,Advanced Spell Theory,Intermediate,2021-02-01,2026-02-01,Revoked
+244,95,Advanced Spell Theory,Intermediate,2015-06-24,2017-06-24,Revoked
+245,95,Advanced Spell Theory,Intermediate,2023-10-15,2026-10-15,Expired
+246,95,Magical Ethics,Beginner,2022-08-24,2027-08-24,Valid
+247,96,Wand Safety 101,Intermediate,2015-08-14,2016-08-14,Revoked
+248,96,Advanced Spell Theory,Intermediate,2015-06-18,2019-06-18,Revoked
+249,96,Dark Magic Identification,Intermediate,2021-11-30,2022-11-30,Revoked
+250,96,Wand Safety 101,Intermediate,2015-10-12,2020-10-12,Expired
+251,97,Teleportation Accuracy,Intermediate,2019-11-26,2022-11-26,Revoked
+252,97,Dark Magic Identification,Beginner,2024-04-03,2028-04-03,Expired
+253,97,Advanced Spell Theory,Master,2022-02-03,2023-02-03,Revoked
+254,98,Dark Magic Identification,Intermediate,2019-02-12,2023-02-12,Revoked
+255,98,Herbology Essentials,Beginner,2017-04-05,2022-04-05,Valid
+256,99,Teleportation Accuracy,Intermediate,2023-04-29,2027-04-29,Expired
+257,99,Teleportation Accuracy,Intermediate,2016-08-06,2020-08-06,Valid
+258,99,Herbology Essentials,Master,2017-03-10,2018-03-10,Revoked
+259,100,Magical Ethics,Intermediate,2020-04-03,2024-04-03,Expired
+260,100,Magical Ethics,Master,2022-07-19,2025-07-19,Revoked
+261,100,Wand Safety 101,Intermediate,2016-11-19,2018-11-19,Valid
+262,100,Dark Magic Identification,Master,2018-04-18,2020-04-18,Expired
+263,101,Herbology Essentials,Intermediate,2018-11-28,2019-11-28,Valid
+264,101,Advanced Spell Theory,Intermediate,2021-02-18,2025-02-18,Valid
+265,101,Wand Safety 101,Master,2023-05-19,2027-05-19,Valid
+266,102,Wand Safety 101,Master,2019-07-21,2022-07-21,Valid
+267,102,Magical Ethics,Beginner,2015-12-13,2019-12-13,Valid
+268,102,Herbology Essentials,Intermediate,2016-02-14,2019-02-14,Revoked
+269,103,Advanced Spell Theory,Intermediate,2016-08-29,2021-08-29,Expired
+270,103,Defensive Charms,Intermediate,2016-09-18,2021-09-18,Revoked
+271,103,Wand Safety 101,Beginner,2015-07-27,2019-07-27,Valid
+272,103,Defensive Charms,Beginner,2020-10-23,2023-10-23,Valid
+273,104,Teleportation Accuracy,Master,2018-01-06,2020-01-06,Expired
+274,105,Potion Brewing Basics,Beginner,2017-12-30,2019-12-30,Revoked
+275,105,Potion Brewing Basics,Beginner,2023-12-22,2025-12-22,Expired
+276,105,Dark Magic Identification,Beginner,2025-02-18,2027-02-18,Revoked
+277,105,Magical Ethics,Beginner,2024-11-23,2028-11-23,Valid
+278,106,Muggle Interaction Training,Intermediate,2018-09-13,2019-09-13,Valid
+279,106,Defensive Charms,Intermediate,2016-04-27,2021-04-27,Valid
+280,106,Dark Magic Identification,Master,2022-12-19,2024-12-19,Valid
+281,107,Herbology Essentials,Intermediate,2021-09-10,2024-09-10,Expired
+282,107,Potion Brewing Basics,Intermediate,2023-03-02,2028-03-02,Expired
+283,108,Teleportation Accuracy,Master,2023-03-30,2028-03-30,Expired
+284,108,Teleportation Accuracy,Beginner,2023-11-05,2025-11-05,Expired
+285,109,Herbology Essentials,Master,2024-08-07,2029-08-07,Valid
+286,109,Advanced Spell Theory,Master,2020-12-12,2024-12-12,Expired
+287,109,Potion Brewing Basics,Intermediate,2016-06-10,2017-06-10,Expired
+288,110,Defensive Charms,Master,2015-06-03,2016-06-03,Expired
+289,110,Advanced Spell Theory,Master,2018-09-16,2021-09-16,Expired
+290,110,Potion Brewing Basics,Intermediate,2019-12-03,2020-12-03,Revoked
+291,110,Herbology Essentials,Intermediate,2018-04-20,2020-04-20,Revoked
+292,111,Herbology Essentials,Intermediate,2020-12-19,2025-12-19,Revoked
+293,111,Teleportation Accuracy,Intermediate,2015-08-30,2018-08-30,Valid
+294,111,Advanced Spell Theory,Intermediate,2019-04-02,2020-04-02,Expired
+295,112,Advanced Spell Theory,Beginner,2016-06-25,2019-06-25,Expired
+296,113,Defensive Charms,Intermediate,2016-03-23,2018-03-23,Revoked
+297,113,Magical Ethics,Master,2015-12-27,2019-12-27,Valid
+298,114,Magical Ethics,Beginner,2020-10-18,2023-10-18,Valid
+299,114,Herbology Essentials,Intermediate,2018-06-20,2019-06-20,Valid
+300,114,Teleportation Accuracy,Intermediate,2016-12-21,2020-12-21,Expired
+301,114,Herbology Essentials,Beginner,2024-09-18,2026-09-18,Valid
+302,115,Muggle Interaction Training,Master,2024-08-20,2027-08-20,Valid
+303,115,Wand Safety 101,Master,2021-11-18,2024-11-18,Revoked
+304,115,Potion Brewing Basics,Master,2021-12-15,2023-12-15,Valid
+305,115,Magical Ethics,Intermediate,2017-04-08,2019-04-08,Expired
+306,116,Magical Ethics,Beginner,2015-06-03,2020-06-03,Expired
+307,116,Potion Brewing Basics,Intermediate,2018-06-25,2019-06-25,Valid
+308,116,Muggle Interaction Training,Intermediate,2022-06-12,2027-06-12,Valid
+309,117,Wand Safety 101,Beginner,2021-02-18,2023-02-18,Revoked
+310,117,Defensive Charms,Master,2021-04-09,2023-04-09,Revoked
+311,117,Advanced Spell Theory,Intermediate,2023-12-01,2026-12-01,Revoked
+312,117,Wand Safety 101,Master,2016-06-04,2021-06-04,Revoked
+313,118,Magical Ethics,Master,2020-01-27,2024-01-27,Expired
+314,118,Magical Ethics,Master,2025-03-25,2029-03-25,Valid
+315,118,Muggle Interaction Training,Intermediate,2022-04-18,2025-04-18,Expired
+316,119,Herbology Essentials,Master,2019-11-18,2024-11-18,Revoked
+317,120,Advanced Spell Theory,Beginner,2023-01-23,2027-01-23,Revoked
+318,121,Magical Ethics,Beginner,2019-08-15,2022-08-15,Revoked
+319,121,Potion Brewing Basics,Master,2019-12-07,2021-12-07,Valid
+320,121,Wand Safety 101,Master,2021-07-31,2024-07-31,Revoked
+321,122,Advanced Spell Theory,Intermediate,2024-06-02,2026-06-02,Revoked
+322,122,Teleportation Accuracy,Beginner,2018-11-29,2022-11-29,Revoked
+323,122,Teleportation Accuracy,Master,2023-11-06,2024-11-06,Expired
+324,123,Wand Safety 101,Beginner,2020-04-06,2023-04-06,Revoked
+325,123,Magical Ethics,Beginner,2021-01-11,2023-01-11,Revoked
+326,123,Wand Safety 101,Intermediate,2024-01-05,2027-01-05,Expired
+327,124,Advanced Spell Theory,Intermediate,2019-03-27,2024-03-27,Valid
+328,125,Defensive Charms,Master,2021-03-07,2026-03-07,Expired
+329,126,Wand Safety 101,Beginner,2021-11-30,2024-11-30,Valid
+330,127,Muggle Interaction Training,Beginner,2020-12-09,2022-12-09,Revoked
+331,127,Teleportation Accuracy,Master,2023-04-27,2027-04-27,Valid
+332,127,Herbology Essentials,Beginner,2020-10-16,2022-10-16,Expired
+333,128,Potion Brewing Basics,Beginner,2024-07-20,2026-07-20,Revoked
+334,128,Wand Safety 101,Master,2020-08-09,2024-08-09,Revoked
+335,128,Potion Brewing Basics,Beginner,2023-05-14,2025-05-14,Expired
+336,128,Defensive Charms,Master,2020-02-02,2022-02-02,Expired
+337,129,Dark Magic Identification,Master,2019-05-15,2020-05-15,Revoked
+338,129,Potion Brewing Basics,Master,2016-09-28,2019-09-28,Revoked
+339,130,Magical Ethics,Intermediate,2022-10-02,2024-10-02,Valid
+340,131,Defensive Charms,Intermediate,2024-01-28,2028-01-28,Valid
+341,132,Potion Brewing Basics,Intermediate,2021-05-19,2025-05-19,Revoked
+342,133,Dark Magic Identification,Master,2022-07-29,2026-07-29,Valid
+343,134,Advanced Spell Theory,Intermediate,2022-01-15,2025-01-15,Expired
+344,134,Advanced Spell Theory,Beginner,2024-09-03,2029-09-03,Expired
+345,134,Potion Brewing Basics,Master,2020-01-17,2022-01-17,Valid
+346,134,Teleportation Accuracy,Beginner,2017-08-29,2019-08-29,Revoked
+347,135,Magical Ethics,Intermediate,2025-01-25,2028-01-25,Expired
+348,135,Dark Magic Identification,Master,2017-11-10,2021-11-10,Valid
+349,135,Teleportation Accuracy,Master,2019-12-23,2023-12-23,Expired
+350,135,Potion Brewing Basics,Master,2021-02-02,2026-02-02,Revoked
+351,136,Dark Magic Identification,Intermediate,2017-01-24,2022-01-24,Revoked
+352,136,Dark Magic Identification,Intermediate,2023-08-20,2028-08-20,Expired
+353,136,Advanced Spell Theory,Master,2018-05-27,2022-05-27,Valid
+354,136,Wand Safety 101,Intermediate,2019-10-24,2021-10-24,Revoked
+355,137,Herbology Essentials,Master,2016-01-25,2017-01-25,Valid
+356,137,Dark Magic Identification,Master,2023-05-24,2024-05-24,Valid
+357,138,Defensive Charms,Intermediate,2024-01-02,2025-01-02,Expired
+358,138,Teleportation Accuracy,Intermediate,2024-11-24,2029-11-24,Expired
+359,139,Wand Safety 101,Master,2019-05-17,2020-05-17,Expired
+360,139,Dark Magic Identification,Beginner,2022-02-12,2024-02-12,Valid
+361,139,Magical Ethics,Intermediate,2019-09-12,2020-09-12,Revoked
+362,139,Advanced Spell Theory,Intermediate,2021-01-26,2022-01-26,Valid
+363,140,Herbology Essentials,Intermediate,2019-06-12,2022-06-12,Revoked
+364,140,Potion Brewing Basics,Intermediate,2022-10-29,2026-10-29,Valid
+365,141,Advanced Spell Theory,Beginner,2016-06-13,2017-06-13,Valid
+366,142,Teleportation Accuracy,Intermediate,2024-01-12,2027-01-12,Valid
+367,143,Defensive Charms,Master,2023-08-22,2025-08-22,Expired
+368,143,Teleportation Accuracy,Beginner,2019-06-12,2020-06-12,Expired
+369,144,Wand Safety 101,Master,2021-02-05,2024-02-05,Revoked
+370,144,Muggle Interaction Training,Master,2019-04-10,2021-04-10,Revoked
+371,144,Teleportation Accuracy,Beginner,2024-10-05,2025-10-05,Revoked
+372,144,Teleportation Accuracy,Master,2021-08-31,2026-08-31,Expired
+373,145,Teleportation Accuracy,Beginner,2022-06-20,2025-06-20,Revoked
+374,145,Advanced Spell Theory,Intermediate,2023-04-16,2026-04-16,Expired
+375,146,Defensive Charms,Beginner,2019-06-23,2024-06-23,Valid
+376,146,Magical Ethics,Beginner,2017-09-22,2021-09-22,Revoked
+377,146,Muggle Interaction Training,Intermediate,2022-01-31,2025-01-31,Valid
+378,147,Magical Ethics,Master,2017-09-07,2018-09-07,Expired
+379,148,Muggle Interaction Training,Master,2024-09-08,2027-09-08,Valid
+380,148,Wand Safety 101,Intermediate,2023-06-13,2025-06-13,Expired
+381,148,Potion Brewing Basics,Beginner,2023-08-18,2027-08-18,Expired
+382,148,Muggle Interaction Training,Master,2015-10-28,2019-10-28,Expired
+383,149,Herbology Essentials,Intermediate,2021-10-20,2025-10-20,Revoked
+384,149,Potion Brewing Basics,Beginner,2023-12-28,2028-12-28,Valid
+385,149,Potion Brewing Basics,Beginner,2023-04-05,2024-04-05,Revoked
+386,149,Dark Magic Identification,Beginner,2020-07-19,2024-07-19,Valid
+387,150,Defensive Charms,Beginner,2017-01-24,2019-01-24,Valid
+388,151,Wand Safety 101,Intermediate,2024-01-29,2027-01-29,Revoked
+389,151,Wand Safety 101,Master,2019-04-06,2022-04-06,Valid
+390,151,Teleportation Accuracy,Beginner,2019-06-05,2020-06-05,Valid
+391,151,Advanced Spell Theory,Beginner,2024-03-23,2028-03-23,Expired
+392,152,Wand Safety 101,Beginner,2017-01-21,2018-01-21,Revoked
+393,152,Defensive Charms,Beginner,2021-10-17,2024-10-17,Expired
+394,153,Teleportation Accuracy,Master,2016-01-13,2019-01-13,Valid
+395,153,Dark Magic Identification,Intermediate,2015-12-05,2018-12-05,Revoked
+396,154,Potion Brewing Basics,Master,2021-09-08,2026-09-08,Revoked
+397,154,Teleportation Accuracy,Beginner,2021-04-22,2023-04-22,Expired
+398,154,Herbology Essentials,Beginner,2020-12-15,2024-12-15,Revoked
+399,155,Wand Safety 101,Intermediate,2023-09-07,2025-09-07,Valid
+400,156,Dark Magic Identification,Intermediate,2020-10-02,2025-10-02,Valid
+401,157,Defensive Charms,Beginner,2022-01-26,2027-01-26,Valid
+402,158,Advanced Spell Theory,Intermediate,2015-12-18,2018-12-18,Valid
+403,159,Potion Brewing Basics,Beginner,2016-11-01,2021-11-01,Valid
+404,159,Defensive Charms,Beginner,2024-08-21,2026-08-21,Revoked
+405,159,Dark Magic Identification,Intermediate,2020-06-26,2024-06-26,Expired
+406,159,Magical Ethics,Master,2023-07-18,2028-07-18,Valid
+407,160,Teleportation Accuracy,Beginner,2024-04-28,2026-04-28,Expired
+408,160,Advanced Spell Theory,Master,2021-02-02,2022-02-02,Revoked
+409,161,Defensive Charms,Intermediate,2022-06-28,2027-06-28,Valid
+410,161,Muggle Interaction Training,Master,2015-11-21,2019-11-21,Expired
+411,161,Wand Safety 101,Master,2019-08-06,2020-08-06,Expired
+412,161,Herbology Essentials,Intermediate,2023-01-26,2028-01-26,Revoked
+413,162,Wand Safety 101,Intermediate,2017-12-20,2019-12-20,Valid
+414,162,Advanced Spell Theory,Master,2021-11-09,2024-11-09,Expired
+415,162,Advanced Spell Theory,Beginner,2016-11-24,2021-11-24,Expired
+416,163,Herbology Essentials,Intermediate,2022-05-02,2025-05-02,Revoked
+417,164,Muggle Interaction Training,Beginner,2023-06-12,2026-06-12,Expired
+418,164,Potion Brewing Basics,Master,2022-02-17,2027-02-17,Expired
+419,164,Dark Magic Identification,Master,2024-03-06,2025-03-06,Revoked
+420,165,Dark Magic Identification,Beginner,2021-11-10,2024-11-10,Expired
+421,166,Teleportation Accuracy,Beginner,2018-06-18,2021-06-18,Valid
+422,166,Teleportation Accuracy,Beginner,2015-04-26,2016-04-26,Revoked
+423,166,Dark Magic Identification,Master,2020-12-01,2022-12-01,Valid
+424,166,Herbology Essentials,Beginner,2025-03-18,2030-03-18,Revoked
+425,167,Dark Magic Identification,Beginner,2021-03-03,2026-03-03,Valid
+426,167,Teleportation Accuracy,Master,2023-06-06,2025-06-06,Valid
+427,168,Wand Safety 101,Intermediate,2024-05-09,2025-05-09,Revoked
+428,169,Defensive Charms,Master,2020-09-22,2023-09-22,Valid
+429,170,Teleportation Accuracy,Intermediate,2016-03-19,2020-03-19,Expired
+430,171,Potion Brewing Basics,Beginner,2017-10-19,2021-10-19,Valid
+431,172,Advanced Spell Theory,Master,2015-07-26,2016-07-26,Expired
+432,172,Wand Safety 101,Beginner,2020-07-02,2022-07-02,Valid
+433,173,Teleportation Accuracy,Beginner,2015-11-01,2020-11-01,Revoked
+434,173,Herbology Essentials,Beginner,2021-06-26,2023-06-26,Valid
+435,173,Advanced Spell Theory,Intermediate,2016-12-20,2019-12-20,Expired
+436,173,Defensive Charms,Master,2023-11-13,2028-11-13,Valid
+437,174,Teleportation Accuracy,Master,2022-03-05,2025-03-05,Revoked
+438,174,Potion Brewing Basics,Beginner,2022-08-14,2024-08-14,Valid
+439,175,Defensive Charms,Master,2021-02-13,2023-02-13,Valid
+440,175,Teleportation Accuracy,Intermediate,2016-04-22,2021-04-22,Valid
+441,175,Wand Safety 101,Beginner,2024-07-10,2028-07-10,Revoked
+442,176,Advanced Spell Theory,Beginner,2016-05-13,2021-05-13,Valid
+443,177,Muggle Interaction Training,Beginner,2017-07-08,2022-07-08,Revoked
+444,177,Defensive Charms,Master,2017-12-10,2020-12-10,Expired
+445,178,Defensive Charms,Master,2019-08-06,2020-08-06,Valid
+446,178,Advanced Spell Theory,Master,2015-06-05,2019-06-05,Revoked
+447,178,Teleportation Accuracy,Beginner,2017-12-06,2019-12-06,Revoked
+448,179,Muggle Interaction Training,Master,2017-07-07,2019-07-07,Valid
+449,180,Potion Brewing Basics,Master,2020-03-18,2025-03-18,Revoked
+450,181,Teleportation Accuracy,Beginner,2019-03-21,2023-03-21,Expired
+451,181,Potion Brewing Basics,Master,2016-08-04,2021-08-04,Revoked
+452,182,Magical Ethics,Beginner,2025-03-19,2029-03-19,Expired
+453,183,Dark Magic Identification,Master,2021-05-25,2022-05-25,Revoked
+454,183,Advanced Spell Theory,Beginner,2016-05-20,2020-05-20,Valid
+455,183,Herbology Essentials,Beginner,2021-05-03,2025-05-03,Valid
+456,184,Potion Brewing Basics,Beginner,2019-06-10,2021-06-10,Expired
+457,184,Wand Safety 101,Beginner,2018-01-28,2022-01-28,Revoked
+458,184,Teleportation Accuracy,Master,2021-05-16,2023-05-16,Valid
+459,184,Muggle Interaction Training,Beginner,2018-08-28,2022-08-28,Expired
+460,185,Magical Ethics,Intermediate,2017-04-02,2020-04-02,Revoked
+461,185,Defensive Charms,Master,2017-12-16,2018-12-16,Valid
+462,185,Magical Ethics,Beginner,2023-12-05,2025-12-05,Valid
+463,185,Potion Brewing Basics,Intermediate,2022-09-14,2024-09-14,Expired
+464,186,Advanced Spell Theory,Beginner,2019-06-20,2020-06-20,Valid
+465,186,Potion Brewing Basics,Beginner,2016-08-21,2021-08-21,Revoked
+466,186,Potion Brewing Basics,Master,2015-07-29,2016-07-29,Expired
+467,186,Advanced Spell Theory,Beginner,2024-01-01,2025-01-01,Expired
+468,187,Wand Safety 101,Master,2019-10-29,2022-10-29,Valid
+469,188,Wand Safety 101,Beginner,2015-10-11,2017-10-11,Revoked
+470,188,Magical Ethics,Intermediate,2016-06-25,2019-06-25,Expired
+471,189,Potion Brewing Basics,Master,2021-06-04,2025-06-04,Revoked
+472,189,Dark Magic Identification,Intermediate,2017-07-13,2021-07-13,Expired
+473,189,Muggle Interaction Training,Master,2022-12-02,2027-12-02,Expired
+474,190,Muggle Interaction Training,Intermediate,2017-04-12,2018-04-12,Revoked
+475,190,Defensive Charms,Beginner,2016-10-20,2020-10-20,Expired
+476,190,Dark Magic Identification,Master,2021-04-10,2023-04-10,Revoked
+477,190,Muggle Interaction Training,Master,2022-07-19,2023-07-19,Expired
+478,191,Wand Safety 101,Beginner,2018-02-27,2020-02-27,Revoked
+479,191,Wand Safety 101,Intermediate,2024-01-28,2029-01-28,Expired
+480,191,Wand Safety 101,Intermediate,2017-03-11,2022-03-11,Valid
+481,192,Potion Brewing Basics,Intermediate,2021-02-11,2026-02-11,Expired
+482,193,Muggle Interaction Training,Beginner,2024-07-22,2029-07-22,Expired
+483,193,Teleportation Accuracy,Intermediate,2022-11-09,2023-11-09,Expired
+484,193,Potion Brewing Basics,Beginner,2023-07-15,2028-07-15,Revoked
+485,194,Defensive Charms,Beginner,2024-04-04,2025-04-04,Valid
+486,195,Wand Safety 101,Beginner,2025-02-19,2028-02-19,Expired
+487,195,Teleportation Accuracy,Beginner,2023-12-02,2028-12-02,Valid
+488,195,Teleportation Accuracy,Intermediate,2022-04-10,2023-04-10,Expired
+489,195,Magical Ethics,Beginner,2023-12-29,2024-12-29,Valid
+490,196,Herbology Essentials,Intermediate,2018-11-30,2023-11-30,Revoked
+491,196,Herbology Essentials,Master,2025-01-19,2026-01-19,Valid
+492,196,Herbology Essentials,Beginner,2017-02-27,2020-02-27,Revoked
+493,197,Defensive Charms,Intermediate,2023-01-22,2028-01-22,Expired
+494,197,Magical Ethics,Master,2019-11-21,2024-11-21,Revoked
+495,197,Defensive Charms,Beginner,2024-10-12,2028-10-12,Expired
+496,198,Dark Magic Identification,Master,2016-08-21,2021-08-21,Expired
+497,199,Dark Magic Identification,Beginner,2015-11-25,2019-11-25,Expired
+498,199,Herbology Essentials,Intermediate,2021-05-04,2023-05-04,Revoked
+499,199,Advanced Spell Theory,Beginner,2022-05-05,2024-05-05,Revoked
+500,199,Magical Ethics,Master,2023-03-26,2026-03-26,Revoked
+501,200,Muggle Interaction Training,Intermediate,2025-02-01,2026-02-01,Revoked
+502,200,Muggle Interaction Training,Beginner,2022-10-12,2027-10-12,Revoked
+503,200,Teleportation Accuracy,Master,2018-01-26,2023-01-26,Expired
+504,201,Magical Ethics,Intermediate,2021-05-01,2022-05-01,Expired
+505,202,Teleportation Accuracy,Intermediate,2025-03-31,2028-03-31,Revoked
+506,202,Teleportation Accuracy,Master,2021-04-06,2024-04-06,Valid
+507,202,Teleportation Accuracy,Master,2015-05-03,2016-05-03,Expired
+508,203,Wand Safety 101,Intermediate,2021-06-15,2023-06-15,Valid
+509,203,Magical Ethics,Master,2019-09-30,2024-09-30,Revoked
+510,203,Herbology Essentials,Master,2022-12-17,2023-12-17,Expired
+511,204,Advanced Spell Theory,Beginner,2018-03-11,2019-03-11,Revoked
+512,205,Magical Ethics,Intermediate,2024-10-09,2026-10-09,Valid
+513,205,Defensive Charms,Beginner,2024-04-14,2027-04-14,Valid
+514,205,Advanced Spell Theory,Intermediate,2023-06-23,2026-06-23,Expired
+515,206,Potion Brewing Basics,Beginner,2016-12-02,2017-12-02,Expired
+516,206,Potion Brewing Basics,Beginner,2021-06-19,2022-06-19,Revoked
+517,206,Advanced Spell Theory,Intermediate,2016-09-06,2020-09-06,Expired
+518,206,Advanced Spell Theory,Master,2020-01-14,2022-01-14,Expired
+519,207,Potion Brewing Basics,Intermediate,2024-06-04,2028-06-04,Expired
+520,207,Wand Safety 101,Intermediate,2018-11-01,2023-11-01,Revoked
+521,207,Potion Brewing Basics,Intermediate,2021-08-03,2025-08-03,Valid
+522,207,Advanced Spell Theory,Intermediate,2022-10-06,2025-10-06,Valid
+523,208,Teleportation Accuracy,Beginner,2021-07-09,2026-07-09,Revoked
+524,208,Teleportation Accuracy,Intermediate,2022-12-13,2026-12-13,Expired
+525,208,Dark Magic Identification,Master,2018-07-16,2022-07-16,Revoked
+526,209,Wand Safety 101,Intermediate,2015-05-27,2017-05-27,Expired
+527,210,Potion Brewing Basics,Intermediate,2018-06-18,2023-06-18,Valid
+528,210,Advanced Spell Theory,Intermediate,2023-06-05,2028-06-05,Revoked
+529,210,Herbology Essentials,Beginner,2021-12-16,2024-12-16,Expired
+530,210,Dark Magic Identification,Intermediate,2020-11-05,2024-11-05,Valid
+531,211,Advanced Spell Theory,Master,2023-10-03,2027-10-03,Expired
+532,211,Advanced Spell Theory,Intermediate,2019-12-25,2021-12-25,Expired
+533,211,Wand Safety 101,Beginner,2017-07-09,2018-07-09,Expired
+534,212,Herbology Essentials,Master,2024-01-14,2028-01-14,Valid
+535,212,Dark Magic Identification,Intermediate,2024-09-02,2029-09-02,Revoked
+536,212,Dark Magic Identification,Beginner,2020-08-04,2024-08-04,Valid
+537,213,Defensive Charms,Beginner,2024-04-10,2028-04-10,Revoked
+538,214,Wand Safety 101,Intermediate,2019-12-01,2022-12-01,Expired
+539,214,Potion Brewing Basics,Master,2021-09-01,2026-09-01,Valid
+540,214,Muggle Interaction Training,Beginner,2020-12-14,2025-12-14,Revoked
+541,214,Herbology Essentials,Intermediate,2016-08-12,2021-08-12,Revoked
+542,215,Magical Ethics,Master,2020-08-09,2024-08-09,Revoked
+543,216,Potion Brewing Basics,Intermediate,2022-02-19,2025-02-19,Valid
+544,216,Teleportation Accuracy,Beginner,2022-09-30,2023-09-30,Revoked
+545,216,Dark Magic Identification,Intermediate,2019-08-14,2023-08-14,Valid
+546,216,Teleportation Accuracy,Master,2020-09-12,2025-09-12,Valid
+547,217,Muggle Interaction Training,Beginner,2017-01-22,2021-01-22,Expired
+548,217,Advanced Spell Theory,Intermediate,2019-03-01,2024-03-01,Expired
+549,217,Herbology Essentials,Master,2021-10-02,2024-10-02,Expired
+550,217,Herbology Essentials,Intermediate,2021-01-21,2026-01-21,Valid
+551,218,Defensive Charms,Beginner,2019-06-13,2020-06-13,Valid
+552,218,Defensive Charms,Intermediate,2016-07-02,2019-07-02,Valid
+553,219,Wand Safety 101,Master,2015-11-18,2020-11-18,Valid
+554,219,Wand Safety 101,Master,2017-06-16,2021-06-16,Valid
+555,220,Herbology Essentials,Beginner,2018-10-15,2020-10-15,Valid
+556,220,Wand Safety 101,Beginner,2018-04-10,2022-04-10,Expired
+557,221,Potion Brewing Basics,Beginner,2020-04-24,2023-04-24,Revoked
+558,221,Dark Magic Identification,Intermediate,2017-05-24,2021-05-24,Expired
+559,221,Defensive Charms,Beginner,2019-09-26,2020-09-26,Expired
+560,221,Potion Brewing Basics,Master,2015-04-19,2019-04-19,Valid
+561,222,Teleportation Accuracy,Master,2024-06-04,2025-06-04,Valid
+562,222,Muggle Interaction Training,Beginner,2021-08-14,2023-08-14,Revoked
+563,222,Teleportation Accuracy,Beginner,2024-03-10,2025-03-10,Valid
+564,223,Potion Brewing Basics,Beginner,2015-04-04,2017-04-04,Expired
+565,223,Muggle Interaction Training,Master,2023-05-09,2027-05-09,Revoked
+566,223,Teleportation Accuracy,Beginner,2015-10-08,2017-10-08,Revoked
+567,223,Defensive Charms,Beginner,2020-06-02,2022-06-02,Expired
+568,224,Teleportation Accuracy,Beginner,2022-11-28,2026-11-28,Valid
+569,224,Muggle Interaction Training,Master,2020-04-23,2025-04-23,Expired
+570,225,Defensive Charms,Master,2025-03-26,2027-03-26,Expired
+571,225,Advanced Spell Theory,Master,2015-06-08,2016-06-08,Valid
+572,226,Defensive Charms,Intermediate,2023-03-02,2028-03-02,Expired
+573,226,Teleportation Accuracy,Intermediate,2022-08-01,2023-08-01,Valid
+574,226,Advanced Spell Theory,Master,2021-10-31,2025-10-31,Revoked
+575,227,Herbology Essentials,Intermediate,2024-02-07,2028-02-07,Expired
+576,228,Dark Magic Identification,Intermediate,2016-01-16,2021-01-16,Revoked
+577,228,Dark Magic Identification,Intermediate,2015-09-06,2016-09-06,Revoked
+578,229,Herbology Essentials,Beginner,2019-12-20,2023-12-20,Valid
+579,229,Teleportation Accuracy,Intermediate,2023-08-13,2025-08-13,Expired
+580,229,Potion Brewing Basics,Master,2022-07-30,2023-07-30,Expired
+581,229,Herbology Essentials,Master,2024-05-04,2026-05-04,Valid
+582,230,Potion Brewing Basics,Beginner,2023-09-11,2028-09-11,Revoked
+583,230,Potion Brewing Basics,Beginner,2024-03-05,2028-03-05,Valid
+584,230,Dark Magic Identification,Beginner,2023-06-29,2026-06-29,Valid
+585,230,Herbology Essentials,Beginner,2022-04-21,2027-04-21,Expired
+586,231,Herbology Essentials,Master,2021-03-16,2025-03-16,Expired
+587,232,Herbology Essentials,Intermediate,2015-11-19,2016-11-19,Revoked
+588,233,Herbology Essentials,Beginner,2022-04-07,2026-04-07,Valid
+589,233,Teleportation Accuracy,Beginner,2021-04-08,2026-04-08,Revoked
+590,233,Wand Safety 101,Beginner,2024-09-18,2029-09-18,Expired
+591,234,Teleportation Accuracy,Beginner,2018-08-03,2022-08-03,Expired
+592,235,Wand Safety 101,Beginner,2018-06-11,2020-06-11,Expired
+593,235,Potion Brewing Basics,Beginner,2022-07-06,2024-07-06,Expired
+594,236,Dark Magic Identification,Intermediate,2023-06-24,2026-06-24,Valid
+595,236,Advanced Spell Theory,Beginner,2016-11-16,2018-11-16,Revoked
+596,236,Advanced Spell Theory,Intermediate,2024-07-21,2026-07-21,Revoked
+597,237,Wand Safety 101,Beginner,2023-01-27,2025-01-27,Valid
+598,238,Wand Safety 101,Master,2020-08-04,2023-08-04,Valid
+599,238,Defensive Charms,Master,2019-02-03,2022-02-03,Revoked
+600,238,Dark Magic Identification,Beginner,2021-10-25,2022-10-25,Revoked
+601,239,Teleportation Accuracy,Beginner,2022-04-15,2025-04-15,Revoked
+602,240,Herbology Essentials,Master,2018-08-19,2023-08-19,Revoked
+603,240,Muggle Interaction Training,Master,2021-05-06,2026-05-06,Revoked
+604,241,Dark Magic Identification,Beginner,2024-05-30,2026-05-30,Revoked
+605,241,Herbology Essentials,Master,2023-11-18,2028-11-18,Valid
+606,241,Muggle Interaction Training,Beginner,2024-07-07,2025-07-07,Expired
+607,242,Advanced Spell Theory,Intermediate,2016-07-06,2020-07-06,Revoked
+608,243,Teleportation Accuracy,Master,2019-02-22,2020-02-22,Expired
+609,243,Advanced Spell Theory,Master,2024-01-26,2029-01-26,Valid
+610,244,Dark Magic Identification,Beginner,2022-11-26,2023-11-26,Expired
+611,244,Advanced Spell Theory,Master,2018-08-31,2021-08-31,Expired
+612,244,Teleportation Accuracy,Intermediate,2024-03-15,2028-03-15,Expired
+613,244,Defensive Charms,Intermediate,2018-09-04,2022-09-04,Valid
+614,245,Wand Safety 101,Intermediate,2021-05-23,2022-05-23,Revoked
+615,245,Wand Safety 101,Intermediate,2017-12-19,2022-12-19,Expired
+616,245,Potion Brewing Basics,Master,2023-02-19,2024-02-19,Expired
+617,246,Muggle Interaction Training,Beginner,2019-10-30,2022-10-30,Expired
+618,246,Herbology Essentials,Beginner,2024-02-10,2028-02-10,Revoked
+619,246,Herbology Essentials,Beginner,2023-11-21,2024-11-21,Valid
+620,247,Teleportation Accuracy,Master,2021-12-13,2026-12-13,Expired
+621,247,Advanced Spell Theory,Intermediate,2018-10-06,2020-10-06,Revoked
+622,247,Advanced Spell Theory,Intermediate,2019-05-20,2022-05-20,Revoked
+623,248,Dark Magic Identification,Intermediate,2023-06-27,2027-06-27,Valid
+624,248,Defensive Charms,Beginner,2022-07-24,2024-07-24,Revoked
+625,249,Herbology Essentials,Beginner,2021-08-16,2024-08-16,Revoked
+626,249,Muggle Interaction Training,Intermediate,2021-01-14,2022-01-14,Valid
+627,250,Magical Ethics,Master,2022-04-21,2025-04-21,Expired
+628,251,Muggle Interaction Training,Intermediate,2017-12-11,2018-12-11,Valid
+629,251,Dark Magic Identification,Master,2021-03-15,2022-03-15,Expired
+630,252,Potion Brewing Basics,Beginner,2025-03-07,2028-03-07,Revoked
+631,253,Dark Magic Identification,Intermediate,2015-05-06,2016-05-06,Revoked
+632,253,Teleportation Accuracy,Beginner,2016-03-19,2020-03-19,Valid
+633,254,Wand Safety 101,Intermediate,2025-01-09,2027-01-09,Valid
+634,254,Dark Magic Identification,Intermediate,2019-02-07,2022-02-07,Expired
+635,254,Potion Brewing Basics,Master,2020-10-28,2024-10-28,Expired
+636,254,Teleportation Accuracy,Beginner,2022-10-28,2023-10-28,Valid
+637,255,Muggle Interaction Training,Beginner,2024-07-17,2025-07-17,Expired
+638,255,Muggle Interaction Training,Intermediate,2023-02-23,2028-02-23,Revoked
+639,256,Muggle Interaction Training,Beginner,2022-02-25,2024-02-25,Expired
+640,257,Wand Safety 101,Master,2020-11-28,2023-11-28,Valid
+641,257,Teleportation Accuracy,Master,2019-01-10,2022-01-10,Revoked
+642,257,Dark Magic Identification,Beginner,2022-09-02,2023-09-02,Expired
+643,258,Dark Magic Identification,Intermediate,2021-12-13,2026-12-13,Valid
+644,258,Herbology Essentials,Intermediate,2021-07-07,2026-07-07,Valid
+645,259,Defensive Charms,Intermediate,2022-01-13,2024-01-13,Expired
+646,259,Muggle Interaction Training,Beginner,2022-12-03,2027-12-03,Valid
+647,260,Potion Brewing Basics,Master,2015-11-19,2016-11-19,Valid
+648,260,Dark Magic Identification,Beginner,2020-01-22,2021-01-22,Valid
+649,261,Herbology Essentials,Beginner,2017-12-17,2020-12-17,Expired
+650,261,Dark Magic Identification,Master,2016-11-17,2020-11-17,Expired
+651,262,Defensive Charms,Beginner,2024-01-05,2029-01-05,Expired
+652,262,Muggle Interaction Training,Master,2015-05-21,2019-05-21,Expired
+653,262,Advanced Spell Theory,Beginner,2018-03-28,2019-03-28,Expired
+654,262,Defensive Charms,Intermediate,2020-02-02,2021-02-02,Valid
+655,263,Muggle Interaction Training,Intermediate,2024-01-15,2027-01-15,Valid
+656,263,Advanced Spell Theory,Intermediate,2022-12-05,2025-12-05,Revoked
+657,264,Herbology Essentials,Master,2024-10-19,2027-10-19,Valid
+658,264,Potion Brewing Basics,Intermediate,2023-10-07,2025-10-07,Valid
+659,264,Muggle Interaction Training,Beginner,2024-11-24,2026-11-24,Revoked
+660,265,Teleportation Accuracy,Intermediate,2023-07-25,2028-07-25,Valid
+661,266,Dark Magic Identification,Beginner,2020-08-09,2024-08-09,Expired
+662,267,Muggle Interaction Training,Intermediate,2024-01-25,2027-01-25,Valid
+663,267,Teleportation Accuracy,Intermediate,2019-02-19,2024-02-19,Valid
+664,267,Muggle Interaction Training,Master,2016-07-13,2018-07-13,Expired
+665,268,Teleportation Accuracy,Beginner,2024-11-21,2026-11-21,Revoked
+666,268,Advanced Spell Theory,Beginner,2021-07-08,2025-07-08,Valid
+667,269,Magical Ethics,Beginner,2019-03-23,2022-03-23,Revoked
+668,269,Potion Brewing Basics,Beginner,2023-11-27,2026-11-27,Valid
+669,269,Magical Ethics,Beginner,2015-08-14,2018-08-14,Valid
+670,270,Magical Ethics,Master,2017-11-05,2019-11-05,Expired
+671,271,Potion Brewing Basics,Beginner,2022-02-25,2027-02-25,Revoked
+672,271,Dark Magic Identification,Master,2022-04-22,2027-04-22,Valid
+673,271,Herbology Essentials,Master,2024-03-21,2027-03-21,Valid
+674,272,Advanced Spell Theory,Master,2023-07-17,2026-07-17,Expired
+675,272,Wand Safety 101,Master,2024-04-28,2027-04-28,Expired
+676,273,Wand Safety 101,Master,2018-09-06,2020-09-06,Revoked
+677,273,Magical Ethics,Beginner,2019-02-21,2023-02-21,Revoked
+678,273,Dark Magic Identification,Intermediate,2016-12-19,2020-12-19,Revoked
+679,273,Muggle Interaction Training,Master,2020-01-31,2021-01-31,Revoked
+680,274,Muggle Interaction Training,Intermediate,2016-06-19,2019-06-19,Valid
+681,275,Wand Safety 101,Master,2016-04-11,2018-04-11,Revoked
+682,275,Advanced Spell Theory,Beginner,2022-08-27,2027-08-27,Valid
+683,276,Defensive Charms,Intermediate,2023-05-10,2027-05-10,Revoked
+684,276,Muggle Interaction Training,Master,2016-11-09,2019-11-09,Valid
+685,276,Magical Ethics,Intermediate,2016-12-24,2020-12-24,Valid
+686,277,Potion Brewing Basics,Intermediate,2018-10-21,2023-10-21,Expired
+687,277,Magical Ethics,Intermediate,2019-01-29,2023-01-29,Valid
+688,278,Herbology Essentials,Intermediate,2024-01-18,2027-01-18,Expired
+689,278,Teleportation Accuracy,Master,2019-11-21,2024-11-21,Revoked
+690,279,Defensive Charms,Master,2022-06-07,2023-06-07,Expired
+691,280,Defensive Charms,Beginner,2018-07-10,2023-07-10,Expired
+692,280,Potion Brewing Basics,Master,2016-08-02,2018-08-02,Revoked
+693,280,Teleportation Accuracy,Master,2023-03-20,2027-03-20,Expired
+694,281,Defensive Charms,Master,2023-10-22,2024-10-22,Valid
+695,281,Potion Brewing Basics,Intermediate,2022-06-26,2027-06-26,Revoked
+696,281,Advanced Spell Theory,Beginner,2018-03-11,2021-03-11,Valid
+697,282,Dark Magic Identification,Intermediate,2016-12-13,2018-12-13,Valid
+698,282,Teleportation Accuracy,Master,2017-11-07,2020-11-07,Valid
+699,282,Muggle Interaction Training,Intermediate,2021-06-19,2023-06-19,Valid
+700,283,Wand Safety 101,Master,2015-09-15,2018-09-15,Revoked
+701,284,Magical Ethics,Master,2022-06-23,2023-06-23,Valid
+702,285,Magical Ethics,Master,2023-02-10,2026-02-10,Revoked
+703,285,Magical Ethics,Intermediate,2023-07-23,2024-07-23,Revoked
+704,285,Advanced Spell Theory,Master,2015-09-12,2017-09-12,Revoked
+705,286,Potion Brewing Basics,Intermediate,2025-01-14,2029-01-14,Expired
+706,286,Defensive Charms,Beginner,2019-05-08,2021-05-08,Valid
+707,287,Defensive Charms,Intermediate,2024-06-15,2025-06-15,Revoked
+708,287,Magical Ethics,Beginner,2020-06-26,2024-06-26,Expired
+709,288,Herbology Essentials,Beginner,2018-07-12,2019-07-12,Valid
+710,288,Teleportation Accuracy,Beginner,2022-05-15,2024-05-15,Revoked
+711,288,Dark Magic Identification,Intermediate,2025-03-14,2029-03-14,Revoked
+712,288,Wand Safety 101,Beginner,2021-10-31,2026-10-31,Revoked
+713,289,Dark Magic Identification,Beginner,2025-02-12,2026-02-12,Revoked
+714,289,Potion Brewing Basics,Intermediate,2023-10-28,2025-10-28,Expired
+715,290,Advanced Spell Theory,Beginner,2018-08-04,2021-08-04,Valid
+716,290,Potion Brewing Basics,Beginner,2019-12-01,2022-12-01,Valid
+717,291,Herbology Essentials,Beginner,2016-02-18,2020-02-18,Valid
+718,291,Herbology Essentials,Master,2021-02-15,2024-02-15,Revoked
+719,291,Wand Safety 101,Intermediate,2015-08-14,2020-08-14,Expired
+720,291,Wand Safety 101,Beginner,2022-06-12,2023-06-12,Valid
+721,292,Muggle Interaction Training,Master,2015-05-03,2018-05-03,Expired
+722,293,Muggle Interaction Training,Master,2016-03-01,2020-03-01,Expired
+723,293,Wand Safety 101,Master,2022-01-05,2026-01-05,Valid
+724,293,Herbology Essentials,Beginner,2019-04-16,2022-04-16,Expired
+725,294,Wand Safety 101,Beginner,2025-01-19,2029-01-19,Expired
+726,295,Magical Ethics,Beginner,2017-03-28,2022-03-28,Valid
+727,296,Wand Safety 101,Intermediate,2017-01-16,2021-01-16,Valid
+728,297,Defensive Charms,Intermediate,2021-07-01,2023-07-01,Valid
+729,298,Dark Magic Identification,Intermediate,2022-08-21,2023-08-21,Revoked
+730,298,Advanced Spell Theory,Beginner,2022-02-03,2027-02-03,Valid
+731,298,Advanced Spell Theory,Beginner,2015-08-28,2020-08-28,Revoked
+732,299,Advanced Spell Theory,Beginner,2016-02-12,2018-02-12,Valid
+733,300,Advanced Spell Theory,Intermediate,2017-05-12,2019-05-12,Revoked
+734,300,Dark Magic Identification,Intermediate,2023-07-07,2027-07-07,Revoked
+735,300,Defensive Charms,Intermediate,2024-04-11,2025-04-11,Expired
+736,301,Teleportation Accuracy,Beginner,2019-03-19,2020-03-19,Revoked
+737,301,Herbology Essentials,Intermediate,2019-08-25,2024-08-25,Valid
+738,301,Magical Ethics,Beginner,2019-04-23,2021-04-23,Revoked
+739,302,Wand Safety 101,Beginner,2018-09-22,2022-09-22,Revoked
+740,302,Herbology Essentials,Master,2022-11-15,2024-11-15,Expired
+741,302,Magical Ethics,Master,2019-06-09,2022-06-09,Revoked
+742,302,Dark Magic Identification,Master,2024-07-09,2029-07-09,Expired
+743,303,Wand Safety 101,Beginner,2017-11-19,2020-11-19,Valid
+744,303,Potion Brewing Basics,Intermediate,2015-04-08,2019-04-08,Valid
+745,303,Wand Safety 101,Intermediate,2019-04-01,2024-04-01,Expired
+746,303,Advanced Spell Theory,Intermediate,2022-08-18,2026-08-18,Valid
+747,304,Defensive Charms,Intermediate,2019-04-02,2021-04-02,Valid
+748,305,Magical Ethics,Beginner,2023-05-25,2028-05-25,Valid
+749,305,Defensive Charms,Intermediate,2020-04-29,2021-04-29,Expired
+750,305,Potion Brewing Basics,Intermediate,2020-09-25,2021-09-25,Valid
+751,306,Advanced Spell Theory,Beginner,2015-06-22,2020-06-22,Expired
+752,307,Muggle Interaction Training,Master,2019-12-16,2022-12-16,Valid
+753,307,Potion Brewing Basics,Master,2024-09-06,2029-09-06,Valid
+754,308,Muggle Interaction Training,Master,2015-06-12,2017-06-12,Valid
+755,308,Herbology Essentials,Master,2023-09-16,2025-09-16,Expired
+756,308,Potion Brewing Basics,Intermediate,2016-06-13,2018-06-13,Revoked
+757,309,Dark Magic Identification,Beginner,2017-05-21,2019-05-21,Expired
+758,309,Defensive Charms,Intermediate,2018-12-14,2021-12-14,Valid
+759,310,Herbology Essentials,Intermediate,2017-09-09,2020-09-09,Valid
+760,310,Potion Brewing Basics,Master,2021-10-23,2024-10-23,Revoked
+761,310,Advanced Spell Theory,Master,2016-09-28,2021-09-28,Revoked
+762,311,Herbology Essentials,Master,2024-07-25,2029-07-25,Valid
+763,312,Muggle Interaction Training,Intermediate,2020-05-11,2022-05-11,Revoked
+764,312,Dark Magic Identification,Master,2021-07-28,2025-07-28,Expired
+765,313,Dark Magic Identification,Master,2015-08-06,2018-08-06,Expired
+766,313,Wand Safety 101,Master,2019-12-05,2024-12-05,Valid
+767,314,Potion Brewing Basics,Master,2019-06-26,2024-06-26,Expired
+768,315,Herbology Essentials,Beginner,2020-03-06,2022-03-06,Revoked
+769,315,Teleportation Accuracy,Master,2019-09-06,2020-09-06,Valid
+770,315,Herbology Essentials,Beginner,2020-02-16,2024-02-16,Revoked
+771,316,Defensive Charms,Intermediate,2016-05-21,2021-05-21,Revoked
+772,317,Teleportation Accuracy,Master,2021-08-11,2022-08-11,Valid
+773,317,Advanced Spell Theory,Master,2016-02-09,2018-02-09,Revoked
+774,317,Defensive Charms,Master,2020-07-07,2024-07-07,Valid
+775,317,Advanced Spell Theory,Intermediate,2024-07-13,2025-07-13,Revoked
+776,318,Dark Magic Identification,Beginner,2017-10-25,2019-10-25,Revoked
+777,318,Muggle Interaction Training,Beginner,2023-06-11,2028-06-11,Valid
+778,318,Muggle Interaction Training,Beginner,2017-10-19,2018-10-19,Expired
+779,319,Potion Brewing Basics,Intermediate,2024-08-17,2028-08-17,Revoked
+780,319,Teleportation Accuracy,Beginner,2025-01-19,2026-01-19,Revoked
+781,319,Muggle Interaction Training,Master,2018-05-20,2021-05-20,Revoked
+782,319,Magical Ethics,Intermediate,2021-02-21,2025-02-21,Expired
+783,320,Potion Brewing Basics,Intermediate,2016-11-28,2020-11-28,Expired
+784,320,Defensive Charms,Intermediate,2019-07-20,2021-07-20,Expired
+785,320,Wand Safety 101,Master,2015-09-01,2019-09-01,Valid
+786,320,Herbology Essentials,Intermediate,2016-09-19,2018-09-19,Revoked
+787,321,Teleportation Accuracy,Beginner,2022-09-05,2027-09-05,Valid
+788,321,Defensive Charms,Intermediate,2021-10-21,2022-10-21,Valid
+789,321,Teleportation Accuracy,Intermediate,2017-04-06,2019-04-06,Expired
+790,322,Herbology Essentials,Master,2015-09-01,2019-09-01,Expired
+791,322,Muggle Interaction Training,Intermediate,2019-05-27,2020-05-27,Valid
+792,322,Magical Ethics,Intermediate,2021-09-08,2026-09-08,Expired
+793,322,Dark Magic Identification,Master,2021-02-12,2023-02-12,Revoked
+794,323,Defensive Charms,Beginner,2020-12-11,2023-12-11,Revoked
+795,323,Muggle Interaction Training,Intermediate,2018-08-13,2023-08-13,Valid
+796,324,Wand Safety 101,Intermediate,2019-02-07,2023-02-07,Valid
+797,325,Teleportation Accuracy,Intermediate,2022-01-01,2023-01-01,Expired
+798,326,Teleportation Accuracy,Beginner,2017-06-04,2020-06-04,Valid
+799,326,Dark Magic Identification,Beginner,2016-10-31,2017-10-31,Valid
+800,327,Advanced Spell Theory,Master,2019-08-07,2020-08-07,Valid
+801,327,Muggle Interaction Training,Intermediate,2016-12-23,2017-12-23,Valid
+802,328,Wand Safety 101,Beginner,2018-05-30,2023-05-30,Valid
+803,328,Wand Safety 101,Intermediate,2019-09-09,2023-09-09,Expired
+804,328,Herbology Essentials,Beginner,2024-02-24,2025-02-24,Valid
+805,329,Herbology Essentials,Beginner,2022-04-15,2025-04-15,Valid
+806,329,Defensive Charms,Beginner,2017-04-10,2022-04-10,Valid
+807,329,Teleportation Accuracy,Intermediate,2015-12-26,2018-12-26,Revoked
+808,329,Herbology Essentials,Beginner,2016-11-11,2021-11-11,Valid
+809,330,Muggle Interaction Training,Master,2024-08-31,2027-08-31,Revoked
+810,330,Teleportation Accuracy,Master,2021-12-22,2023-12-22,Valid
+811,331,Herbology Essentials,Beginner,2025-01-03,2028-01-03,Revoked
+812,331,Advanced Spell Theory,Beginner,2018-08-09,2023-08-09,Valid
+813,332,Magical Ethics,Intermediate,2015-11-08,2018-11-08,Expired
+814,332,Defensive Charms,Intermediate,2024-04-01,2027-04-01,Valid
+815,332,Potion Brewing Basics,Beginner,2017-11-15,2018-11-15,Expired
+816,332,Dark Magic Identification,Beginner,2019-12-12,2022-12-12,Revoked
+817,333,Magical Ethics,Beginner,2022-05-23,2025-05-23,Revoked
+818,333,Dark Magic Identification,Beginner,2018-05-10,2021-05-10,Valid
+819,333,Wand Safety 101,Beginner,2022-09-20,2024-09-20,Expired
+820,333,Dark Magic Identification,Intermediate,2018-06-10,2021-06-10,Valid
+821,334,Magical Ethics,Beginner,2023-08-21,2028-08-21,Expired
+822,334,Potion Brewing Basics,Beginner,2016-08-06,2021-08-06,Expired
+823,334,Advanced Spell Theory,Master,2017-06-24,2019-06-24,Expired
+824,335,Magical Ethics,Master,2023-07-27,2026-07-27,Revoked
+825,335,Muggle Interaction Training,Master,2025-01-26,2028-01-26,Expired
+826,335,Muggle Interaction Training,Beginner,2019-01-19,2021-01-19,Valid
+827,335,Advanced Spell Theory,Intermediate,2015-11-10,2016-11-10,Expired
+828,336,Muggle Interaction Training,Intermediate,2017-07-24,2019-07-24,Revoked
+829,336,Potion Brewing Basics,Intermediate,2022-09-17,2024-09-17,Revoked
+830,337,Teleportation Accuracy,Master,2019-09-05,2023-09-05,Valid
+831,338,Potion Brewing Basics,Beginner,2024-06-04,2025-06-04,Valid
+832,338,Magical Ethics,Intermediate,2021-10-05,2024-10-05,Revoked
+833,338,Potion Brewing Basics,Beginner,2016-11-12,2018-11-12,Revoked
+834,339,Muggle Interaction Training,Beginner,2016-08-06,2020-08-06,Expired
+835,339,Herbology Essentials,Intermediate,2017-06-29,2021-06-29,Revoked
+836,339,Magical Ethics,Beginner,2022-12-13,2027-12-13,Valid
+837,339,Herbology Essentials,Master,2019-09-18,2022-09-18,Revoked
+838,340,Teleportation Accuracy,Intermediate,2016-03-10,2018-03-10,Expired
+839,340,Teleportation Accuracy,Intermediate,2020-03-10,2023-03-10,Valid
+840,340,Dark Magic Identification,Master,2023-09-26,2026-09-26,Revoked
+841,341,Dark Magic Identification,Master,2025-03-21,2027-03-21,Expired
+842,341,Teleportation Accuracy,Intermediate,2017-04-16,2022-04-16,Expired
+843,342,Wand Safety 101,Intermediate,2020-05-18,2024-05-18,Valid
+844,343,Dark Magic Identification,Master,2022-06-27,2026-06-27,Expired
+845,343,Potion Brewing Basics,Intermediate,2015-11-02,2016-11-02,Valid
+846,343,Potion Brewing Basics,Master,2017-11-26,2020-11-26,Revoked
+847,344,Wand Safety 101,Master,2017-05-22,2018-05-22,Revoked
+848,344,Herbology Essentials,Intermediate,2022-06-23,2026-06-23,Revoked
+849,344,Dark Magic Identification,Intermediate,2017-10-01,2019-10-01,Expired
+850,344,Potion Brewing Basics,Intermediate,2018-12-22,2021-12-22,Expired
+851,345,Muggle Interaction Training,Beginner,2024-07-13,2025-07-13,Expired
+852,345,Dark Magic Identification,Beginner,2024-11-27,2029-11-27,Revoked
+853,345,Defensive Charms,Intermediate,2015-04-22,2018-04-22,Expired
+854,345,Herbology Essentials,Intermediate,2021-06-11,2022-06-11,Valid
+855,346,Teleportation Accuracy,Beginner,2023-05-04,2024-05-04,Revoked
+856,346,Potion Brewing Basics,Intermediate,2019-07-15,2023-07-15,Revoked
+857,347,Herbology Essentials,Intermediate,2020-12-23,2023-12-23,Expired
+858,347,Defensive Charms,Intermediate,2024-11-28,2025-11-28,Valid
+859,348,Defensive Charms,Beginner,2016-07-01,2021-07-01,Valid
+860,349,Wand Safety 101,Intermediate,2017-08-10,2020-08-10,Valid
+861,349,Dark Magic Identification,Beginner,2021-12-22,2024-12-22,Valid
+862,350,Advanced Spell Theory,Beginner,2017-11-19,2022-11-19,Revoked
+863,350,Magical Ethics,Intermediate,2023-11-24,2027-11-24,Expired
+864,350,Herbology Essentials,Master,2021-10-14,2022-10-14,Valid
+865,351,Dark Magic Identification,Master,2022-09-03,2024-09-03,Expired
+866,351,Wand Safety 101,Intermediate,2021-11-20,2022-11-20,Valid
+867,352,Teleportation Accuracy,Intermediate,2018-09-21,2020-09-21,Revoked
+868,352,Dark Magic Identification,Master,2022-12-30,2026-12-30,Revoked
+869,353,Defensive Charms,Beginner,2023-08-02,2026-08-02,Valid
+870,353,Magical Ethics,Beginner,2023-08-10,2026-08-10,Revoked
+871,353,Herbology Essentials,Intermediate,2016-03-02,2019-03-02,Revoked
+872,354,Herbology Essentials,Intermediate,2018-12-26,2021-12-26,Revoked
+873,354,Potion Brewing Basics,Intermediate,2022-11-26,2027-11-26,Expired
+874,354,Potion Brewing Basics,Beginner,2020-07-14,2022-07-14,Revoked
+875,355,Magical Ethics,Intermediate,2023-03-22,2024-03-22,Valid
+876,355,Potion Brewing Basics,Beginner,2020-04-01,2022-04-01,Expired
+877,355,Potion Brewing Basics,Intermediate,2022-10-25,2024-10-25,Revoked
+878,356,Dark Magic Identification,Master,2024-07-31,2029-07-31,Expired
+879,356,Defensive Charms,Beginner,2019-09-05,2024-09-05,Valid
+880,356,Wand Safety 101,Beginner,2018-08-03,2019-08-03,Expired
+881,357,Muggle Interaction Training,Master,2023-11-20,2024-11-20,Revoked
+882,357,Wand Safety 101,Master,2015-04-25,2016-04-25,Revoked
+883,357,Teleportation Accuracy,Intermediate,2021-01-25,2026-01-25,Revoked
+884,357,Dark Magic Identification,Master,2022-09-29,2025-09-29,Revoked
+885,358,Dark Magic Identification,Master,2022-11-09,2026-11-09,Valid
+886,358,Dark Magic Identification,Master,2023-05-05,2025-05-05,Expired
+887,359,Wand Safety 101,Master,2024-01-03,2028-01-03,Expired
+888,359,Advanced Spell Theory,Master,2024-08-30,2028-08-30,Expired
+889,359,Teleportation Accuracy,Master,2015-10-25,2018-10-25,Expired
+890,360,Wand Safety 101,Master,2016-11-14,2017-11-14,Valid
+891,361,Potion Brewing Basics,Beginner,2016-01-27,2020-01-27,Expired
+892,362,Muggle Interaction Training,Master,2023-01-22,2027-01-22,Revoked
+893,363,Dark Magic Identification,Master,2016-01-12,2020-01-12,Expired
+894,363,Wand Safety 101,Beginner,2023-12-14,2026-12-14,Valid
+895,363,Advanced Spell Theory,Intermediate,2025-02-13,2029-02-13,Expired
+896,363,Advanced Spell Theory,Intermediate,2019-11-26,2022-11-26,Expired
+897,364,Advanced Spell Theory,Master,2017-05-06,2021-05-06,Expired
+898,364,Defensive Charms,Beginner,2021-11-17,2026-11-17,Expired
+899,364,Herbology Essentials,Master,2016-04-21,2017-04-21,Revoked
+900,365,Advanced Spell Theory,Intermediate,2021-06-08,2022-06-08,Revoked
+901,365,Herbology Essentials,Master,2024-05-13,2028-05-13,Revoked
+902,365,Teleportation Accuracy,Master,2017-07-24,2020-07-24,Expired
+903,365,Dark Magic Identification,Master,2023-11-02,2024-11-02,Revoked
+904,366,Defensive Charms,Intermediate,2019-06-05,2023-06-05,Expired
+905,366,Dark Magic Identification,Intermediate,2018-08-10,2022-08-10,Revoked
+906,366,Muggle Interaction Training,Beginner,2021-05-05,2022-05-05,Expired
+907,366,Muggle Interaction Training,Beginner,2022-12-01,2026-12-01,Expired
+908,367,Herbology Essentials,Beginner,2016-12-28,2019-12-28,Revoked
+909,367,Dark Magic Identification,Intermediate,2020-12-16,2024-12-16,Revoked
+910,367,Herbology Essentials,Master,2021-06-03,2023-06-03,Valid
+911,368,Wand Safety 101,Master,2017-03-19,2021-03-19,Expired
+912,368,Dark Magic Identification,Master,2024-05-08,2028-05-08,Revoked
+913,369,Herbology Essentials,Intermediate,2021-11-28,2026-11-28,Revoked
+914,369,Muggle Interaction Training,Master,2020-03-06,2021-03-06,Expired
+915,369,Magical Ethics,Beginner,2020-05-14,2021-05-14,Revoked
+916,369,Defensive Charms,Master,2018-10-27,2022-10-27,Revoked
+917,370,Potion Brewing Basics,Master,2018-01-09,2019-01-09,Revoked
+918,370,Magical Ethics,Intermediate,2024-02-16,2029-02-16,Valid
+919,370,Wand Safety 101,Intermediate,2017-02-27,2019-02-27,Expired
+920,370,Potion Brewing Basics,Beginner,2025-02-22,2027-02-22,Valid
+921,371,Magical Ethics,Intermediate,2019-04-30,2021-04-30,Valid
+922,371,Potion Brewing Basics,Master,2018-03-25,2023-03-25,Revoked
+923,372,Dark Magic Identification,Intermediate,2017-11-03,2021-11-03,Expired
+924,372,Herbology Essentials,Intermediate,2018-05-23,2022-05-23,Revoked
+925,373,Muggle Interaction Training,Intermediate,2016-07-24,2020-07-24,Valid
+926,374,Dark Magic Identification,Master,2019-07-06,2023-07-06,Valid
+927,374,Dark Magic Identification,Master,2018-03-18,2020-03-18,Revoked
+928,375,Herbology Essentials,Beginner,2020-02-17,2022-02-17,Revoked
+929,375,Potion Brewing Basics,Intermediate,2018-09-09,2023-09-09,Revoked
+930,376,Potion Brewing Basics,Master,2019-10-18,2022-10-18,Revoked
+931,376,Wand Safety 101,Beginner,2019-09-12,2021-09-12,Expired
+932,377,Wand Safety 101,Intermediate,2024-12-09,2028-12-09,Revoked
+933,377,Defensive Charms,Master,2017-10-05,2018-10-05,Revoked
+934,378,Teleportation Accuracy,Intermediate,2021-10-02,2023-10-02,Revoked
+935,378,Magical Ethics,Beginner,2020-07-31,2025-07-31,Revoked
+936,378,Dark Magic Identification,Beginner,2016-10-26,2019-10-26,Revoked
+937,378,Herbology Essentials,Beginner,2023-06-23,2027-06-23,Valid
+938,379,Muggle Interaction Training,Beginner,2020-10-15,2024-10-15,Revoked
+939,379,Teleportation Accuracy,Beginner,2021-04-04,2026-04-04,Revoked
+940,379,Magical Ethics,Master,2022-06-16,2026-06-16,Expired
+941,379,Wand Safety 101,Beginner,2020-11-02,2022-11-02,Expired
+942,380,Teleportation Accuracy,Master,2020-09-07,2025-09-07,Revoked
+943,381,Teleportation Accuracy,Intermediate,2019-05-17,2024-05-17,Expired
+944,381,Wand Safety 101,Master,2023-11-02,2028-11-02,Valid
+945,381,Advanced Spell Theory,Intermediate,2019-06-07,2020-06-07,Revoked
+946,381,Herbology Essentials,Master,2019-02-13,2024-02-13,Valid
+947,382,Advanced Spell Theory,Master,2022-08-26,2023-08-26,Valid
+948,382,Advanced Spell Theory,Beginner,2015-07-30,2017-07-30,Valid
+949,382,Teleportation Accuracy,Intermediate,2022-04-20,2026-04-20,Revoked
+950,383,Defensive Charms,Beginner,2024-12-15,2026-12-15,Expired
+951,384,Advanced Spell Theory,Intermediate,2020-03-23,2024-03-23,Revoked
+952,384,Potion Brewing Basics,Master,2017-08-18,2021-08-18,Valid
+953,385,Muggle Interaction Training,Intermediate,2023-08-22,2028-08-22,Valid
+954,385,Wand Safety 101,Beginner,2018-02-02,2020-02-02,Expired
+955,385,Herbology Essentials,Beginner,2017-06-24,2019-06-24,Valid
+956,386,Dark Magic Identification,Master,2020-06-23,2021-06-23,Expired
+957,386,Wand Safety 101,Beginner,2019-03-29,2023-03-29,Revoked
+958,386,Potion Brewing Basics,Intermediate,2017-04-01,2018-04-01,Revoked
+959,386,Potion Brewing Basics,Intermediate,2024-06-10,2029-06-10,Revoked
+960,387,Potion Brewing Basics,Intermediate,2018-04-18,2021-04-18,Expired
+961,387,Dark Magic Identification,Intermediate,2022-02-21,2026-02-21,Valid
+962,387,Teleportation Accuracy,Beginner,2016-09-29,2020-09-29,Expired
+963,387,Defensive Charms,Beginner,2021-03-03,2024-03-03,Expired
+964,388,Wand Safety 101,Intermediate,2020-08-04,2021-08-04,Revoked
+965,388,Muggle Interaction Training,Master,2020-08-05,2025-08-05,Revoked
+966,388,Teleportation Accuracy,Intermediate,2017-07-22,2022-07-22,Revoked
+967,388,Potion Brewing Basics,Master,2022-12-22,2023-12-22,Expired
+968,389,Magical Ethics,Intermediate,2019-09-28,2024-09-28,Valid
+969,389,Advanced Spell Theory,Beginner,2018-07-26,2020-07-26,Valid
+970,390,Muggle Interaction Training,Intermediate,2022-08-22,2023-08-22,Revoked
+971,390,Wand Safety 101,Intermediate,2023-10-28,2028-10-28,Revoked
+972,391,Teleportation Accuracy,Beginner,2024-09-01,2027-09-01,Valid
+973,392,Herbology Essentials,Intermediate,2016-07-03,2020-07-03,Valid
+974,392,Magical Ethics,Beginner,2022-01-09,2025-01-09,Revoked
+975,392,Potion Brewing Basics,Beginner,2024-02-01,2025-02-01,Expired
+976,392,Dark Magic Identification,Beginner,2020-05-28,2024-05-28,Valid
+977,393,Magical Ethics,Intermediate,2019-01-14,2020-01-14,Valid
+978,393,Defensive Charms,Beginner,2019-11-21,2024-11-21,Valid
+979,393,Defensive Charms,Intermediate,2021-10-10,2026-10-10,Revoked
+980,393,Muggle Interaction Training,Master,2019-06-22,2021-06-22,Valid
+981,394,Advanced Spell Theory,Intermediate,2019-10-26,2024-10-26,Expired
+982,394,Teleportation Accuracy,Intermediate,2019-03-29,2023-03-29,Valid
+983,395,Wand Safety 101,Beginner,2022-08-14,2026-08-14,Expired
+984,395,Magical Ethics,Beginner,2024-11-24,2028-11-24,Valid
+985,395,Muggle Interaction Training,Intermediate,2024-01-27,2029-01-27,Expired
+986,395,Teleportation Accuracy,Beginner,2022-05-21,2023-05-21,Revoked
+987,396,Teleportation Accuracy,Master,2019-10-27,2022-10-27,Valid
+988,396,Dark Magic Identification,Beginner,2023-01-29,2026-01-29,Revoked
+989,396,Magical Ethics,Beginner,2017-09-21,2019-09-21,Expired
+990,397,Potion Brewing Basics,Master,2016-12-14,2020-12-14,Expired
+991,397,Teleportation Accuracy,Master,2017-11-29,2021-11-29,Revoked
+992,397,Defensive Charms,Beginner,2022-10-14,2026-10-14,Revoked
+993,397,Defensive Charms,Intermediate,2015-09-12,2019-09-12,Revoked
+994,398,Muggle Interaction Training,Intermediate,2022-09-07,2025-09-07,Revoked
+995,398,Defensive Charms,Master,2016-09-06,2017-09-06,Revoked
+996,399,Teleportation Accuracy,Master,2024-03-02,2027-03-02,Expired
+997,399,Advanced Spell Theory,Beginner,2015-12-23,2019-12-23,Expired
+998,400,Defensive Charms,Master,2020-06-02,2022-06-02,Valid
+999,400,Advanced Spell Theory,Beginner,2017-03-07,2022-03-07,Expired
+1000,401,Wand Safety 101,Master,2018-02-08,2020-02-08,Expired
+1001,401,Dark Magic Identification,Master,2017-09-01,2022-09-01,Expired
+1002,401,Teleportation Accuracy,Beginner,2020-08-09,2022-08-09,Valid
+1003,402,Defensive Charms,Beginner,2024-01-31,2027-01-31,Expired
+1004,402,Muggle Interaction Training,Beginner,2021-07-19,2023-07-19,Revoked
+1005,402,Defensive Charms,Intermediate,2019-09-10,2023-09-10,Expired
+1006,403,Herbology Essentials,Master,2021-03-16,2022-03-16,Expired
+1007,403,Advanced Spell Theory,Master,2019-12-28,2022-12-28,Valid
+1008,403,Defensive Charms,Intermediate,2022-04-28,2024-04-28,Revoked
+1009,403,Wand Safety 101,Beginner,2025-02-02,2026-02-02,Revoked
+1010,404,Advanced Spell Theory,Intermediate,2019-10-07,2023-10-07,Expired
+1011,404,Magical Ethics,Intermediate,2015-09-01,2020-09-01,Revoked
+1012,405,Teleportation Accuracy,Beginner,2021-05-19,2022-05-19,Revoked
+1013,406,Magical Ethics,Beginner,2016-03-05,2021-03-05,Revoked
+1014,407,Potion Brewing Basics,Intermediate,2024-03-15,2025-03-15,Expired
+1015,407,Teleportation Accuracy,Master,2015-10-01,2020-10-01,Revoked
+1016,407,Advanced Spell Theory,Master,2022-04-13,2026-04-13,Expired
+1017,408,Advanced Spell Theory,Master,2022-10-31,2023-10-31,Valid
+1018,409,Wand Safety 101,Master,2018-09-13,2020-09-13,Valid
+1019,409,Advanced Spell Theory,Intermediate,2022-06-30,2025-06-30,Valid
+1020,409,Wand Safety 101,Master,2021-07-21,2026-07-21,Valid
+1021,410,Advanced Spell Theory,Master,2020-01-23,2021-01-23,Revoked
+1022,410,Advanced Spell Theory,Master,2022-03-10,2027-03-10,Valid
+1023,410,Defensive Charms,Beginner,2016-04-16,2020-04-16,Valid
+1024,410,Defensive Charms,Master,2021-04-08,2026-04-08,Valid
+1025,411,Teleportation Accuracy,Master,2020-11-16,2024-11-16,Valid
+1026,411,Advanced Spell Theory,Beginner,2022-08-28,2023-08-28,Valid
+1027,411,Dark Magic Identification,Beginner,2024-11-03,2027-11-03,Revoked
+1028,411,Wand Safety 101,Beginner,2023-09-13,2027-09-13,Revoked
+1029,412,Muggle Interaction Training,Beginner,2018-09-04,2022-09-04,Expired
+1030,412,Herbology Essentials,Intermediate,2018-12-09,2022-12-09,Expired
+1031,413,Magical Ethics,Beginner,2017-07-06,2021-07-06,Revoked
+1032,413,Muggle Interaction Training,Master,2024-04-25,2026-04-25,Expired
+1033,413,Wand Safety 101,Intermediate,2020-09-28,2022-09-28,Revoked
+1034,414,Magical Ethics,Intermediate,2016-03-04,2021-03-04,Revoked
+1035,414,Advanced Spell Theory,Beginner,2021-09-13,2024-09-13,Valid
+1036,414,Dark Magic Identification,Intermediate,2018-01-20,2021-01-20,Valid
+1037,415,Wand Safety 101,Master,2018-09-27,2019-09-27,Valid
+1038,416,Magical Ethics,Beginner,2016-01-06,2017-01-06,Expired
+1039,417,Defensive Charms,Intermediate,2019-10-31,2021-10-31,Valid
+1040,417,Advanced Spell Theory,Master,2024-05-16,2029-05-16,Valid
+1041,417,Herbology Essentials,Beginner,2021-09-15,2023-09-15,Expired
+1042,418,Advanced Spell Theory,Beginner,2018-04-09,2019-04-09,Revoked
+1043,418,Muggle Interaction Training,Intermediate,2018-09-11,2020-09-11,Valid
+1044,418,Potion Brewing Basics,Intermediate,2022-04-25,2025-04-25,Valid
+1045,418,Potion Brewing Basics,Beginner,2025-01-12,2030-01-12,Revoked
+1046,419,Wand Safety 101,Intermediate,2018-01-10,2022-01-10,Expired
+1047,419,Muggle Interaction Training,Intermediate,2023-07-06,2028-07-06,Valid
+1048,420,Muggle Interaction Training,Intermediate,2016-08-01,2020-08-01,Valid
+1049,420,Advanced Spell Theory,Master,2015-06-19,2019-06-19,Expired
+1050,420,Advanced Spell Theory,Master,2016-07-01,2020-07-01,Valid
+1051,421,Advanced Spell Theory,Intermediate,2016-09-19,2017-09-19,Revoked
+1052,421,Herbology Essentials,Intermediate,2020-08-09,2021-08-09,Expired
+1053,422,Defensive Charms,Beginner,2022-04-05,2027-04-05,Valid
+1054,422,Potion Brewing Basics,Beginner,2018-09-03,2020-09-03,Expired
+1055,422,Defensive Charms,Beginner,2023-11-03,2028-11-03,Valid
+1056,423,Potion Brewing Basics,Intermediate,2021-03-15,2025-03-15,Valid
+1057,424,Magical Ethics,Master,2016-06-17,2018-06-17,Valid
+1058,424,Defensive Charms,Intermediate,2015-04-23,2019-04-23,Revoked
+1059,425,Teleportation Accuracy,Intermediate,2018-07-13,2021-07-13,Valid
+1060,425,Muggle Interaction Training,Master,2022-02-21,2027-02-21,Valid
+1061,425,Advanced Spell Theory,Master,2019-06-13,2020-06-13,Revoked
+1062,425,Herbology Essentials,Master,2015-06-23,2016-06-23,Revoked
+1063,426,Dark Magic Identification,Master,2022-01-20,2024-01-20,Revoked
+1064,427,Dark Magic Identification,Master,2024-08-28,2027-08-28,Valid
+1065,428,Muggle Interaction Training,Intermediate,2016-11-30,2019-11-30,Valid
+1066,428,Herbology Essentials,Intermediate,2020-11-10,2023-11-10,Revoked
+1067,428,Wand Safety 101,Master,2016-07-19,2019-07-19,Expired
+1068,429,Potion Brewing Basics,Master,2021-07-25,2024-07-25,Revoked
+1069,429,Dark Magic Identification,Intermediate,2022-05-30,2025-05-30,Valid
+1070,430,Muggle Interaction Training,Intermediate,2024-09-01,2027-09-01,Revoked
+1071,431,Potion Brewing Basics,Intermediate,2020-07-15,2022-07-15,Expired
+1072,431,Teleportation Accuracy,Beginner,2019-01-24,2022-01-24,Revoked
+1073,431,Potion Brewing Basics,Beginner,2024-01-02,2025-01-02,Revoked
+1074,432,Potion Brewing Basics,Beginner,2022-12-22,2026-12-22,Expired
+1075,433,Potion Brewing Basics,Beginner,2018-07-17,2022-07-17,Expired
+1076,433,Teleportation Accuracy,Intermediate,2023-07-24,2025-07-24,Expired
+1077,433,Advanced Spell Theory,Intermediate,2016-03-26,2017-03-26,Revoked
+1078,433,Potion Brewing Basics,Intermediate,2023-10-07,2027-10-07,Valid
+1079,434,Defensive Charms,Beginner,2015-06-22,2017-06-22,Expired
+1080,434,Advanced Spell Theory,Beginner,2021-08-25,2022-08-25,Expired
+1081,434,Magical Ethics,Intermediate,2023-09-27,2026-09-27,Expired
+1082,435,Muggle Interaction Training,Master,2022-06-05,2026-06-05,Revoked
+1083,435,Teleportation Accuracy,Master,2023-08-04,2028-08-04,Expired
+1084,435,Potion Brewing Basics,Beginner,2017-03-05,2019-03-05,Revoked
+1085,436,Herbology Essentials,Intermediate,2015-12-03,2020-12-03,Revoked
+1086,436,Dark Magic Identification,Beginner,2019-09-14,2024-09-14,Valid
+1087,437,Dark Magic Identification,Beginner,2025-01-30,2030-01-30,Revoked
+1088,437,Potion Brewing Basics,Master,2019-09-06,2023-09-06,Valid
+1089,437,Wand Safety 101,Master,2018-02-10,2019-02-10,Revoked
+1090,438,Teleportation Accuracy,Master,2025-03-01,2026-03-01,Expired
+1091,438,Magical Ethics,Intermediate,2016-10-25,2020-10-25,Revoked
+1092,439,Teleportation Accuracy,Intermediate,2017-04-24,2018-04-24,Revoked
+1093,439,Herbology Essentials,Master,2016-10-21,2018-10-21,Expired
+1094,440,Muggle Interaction Training,Intermediate,2021-10-25,2025-10-25,Valid
+1095,440,Teleportation Accuracy,Master,2016-10-18,2021-10-18,Expired
+1096,440,Muggle Interaction Training,Beginner,2019-01-21,2023-01-21,Expired
+1097,441,Defensive Charms,Beginner,2023-03-02,2028-03-02,Revoked
+1098,441,Herbology Essentials,Master,2018-03-29,2023-03-29,Revoked
+1099,441,Teleportation Accuracy,Intermediate,2020-02-03,2024-02-03,Expired
+1100,442,Dark Magic Identification,Intermediate,2021-07-15,2026-07-15,Expired
+1101,442,Advanced Spell Theory,Intermediate,2020-12-13,2025-12-13,Expired
+1102,443,Potion Brewing Basics,Beginner,2019-11-06,2020-11-06,Valid
+1103,443,Magical Ethics,Beginner,2015-06-05,2018-06-05,Expired
+1104,443,Potion Brewing Basics,Beginner,2018-07-15,2019-07-15,Revoked
+1105,443,Teleportation Accuracy,Intermediate,2019-09-17,2020-09-17,Valid
+1106,444,Muggle Interaction Training,Master,2016-10-18,2018-10-18,Valid
+1107,445,Magical Ethics,Master,2019-04-14,2022-04-14,Revoked
+1108,445,Dark Magic Identification,Intermediate,2024-02-23,2029-02-23,Expired
+1109,445,Magical Ethics,Beginner,2020-10-09,2025-10-09,Valid
+1110,446,Advanced Spell Theory,Beginner,2019-12-11,2020-12-11,Valid
+1111,446,Teleportation Accuracy,Master,2022-11-06,2023-11-06,Valid
+1112,447,Advanced Spell Theory,Master,2019-03-26,2024-03-26,Revoked
+1113,447,Wand Safety 101,Beginner,2020-03-05,2025-03-05,Revoked
+1114,447,Wand Safety 101,Intermediate,2018-09-11,2021-09-11,Valid
+1115,448,Wand Safety 101,Intermediate,2016-06-21,2021-06-21,Revoked
+1116,448,Defensive Charms,Master,2023-02-12,2027-02-12,Valid
+1117,448,Advanced Spell Theory,Intermediate,2020-02-02,2024-02-02,Revoked
+1118,449,Teleportation Accuracy,Intermediate,2024-03-27,2026-03-27,Expired
+1119,450,Teleportation Accuracy,Master,2022-11-07,2024-11-07,Expired
+1120,450,Wand Safety 101,Beginner,2019-04-24,2022-04-24,Expired
+1121,451,Wand Safety 101,Intermediate,2021-09-26,2026-09-26,Valid
+1122,452,Muggle Interaction Training,Beginner,2024-07-16,2028-07-16,Valid
+1123,453,Potion Brewing Basics,Beginner,2022-09-17,2027-09-17,Expired
+1124,454,Defensive Charms,Beginner,2020-10-05,2021-10-05,Revoked
+1125,455,Advanced Spell Theory,Master,2019-10-11,2024-10-11,Valid
+1126,455,Teleportation Accuracy,Master,2021-08-31,2022-08-31,Expired
+1127,455,Magical Ethics,Intermediate,2020-07-26,2024-07-26,Expired
+1128,456,Potion Brewing Basics,Intermediate,2018-08-29,2020-08-29,Revoked
+1129,456,Advanced Spell Theory,Master,2023-12-01,2025-12-01,Valid
+1130,456,Magical Ethics,Beginner,2022-06-07,2026-06-07,Valid
+1131,457,Teleportation Accuracy,Intermediate,2025-02-16,2028-02-16,Valid
+1132,458,Teleportation Accuracy,Intermediate,2020-01-25,2022-01-25,Expired
+1133,458,Defensive Charms,Master,2022-07-20,2027-07-20,Expired
+1134,458,Muggle Interaction Training,Beginner,2023-09-24,2027-09-24,Expired
+1135,459,Wand Safety 101,Intermediate,2023-04-27,2026-04-27,Expired
+1136,460,Defensive Charms,Intermediate,2024-10-05,2026-10-05,Revoked
+1137,460,Defensive Charms,Beginner,2017-08-30,2022-08-30,Expired
+1138,460,Herbology Essentials,Intermediate,2025-01-30,2027-01-30,Valid
+1139,461,Muggle Interaction Training,Intermediate,2024-12-02,2028-12-02,Valid
+1140,461,Potion Brewing Basics,Intermediate,2019-08-19,2023-08-19,Valid
+1141,461,Defensive Charms,Intermediate,2022-09-19,2025-09-19,Expired
+1142,461,Wand Safety 101,Master,2017-05-09,2019-05-09,Revoked
+1143,462,Muggle Interaction Training,Beginner,2016-11-21,2020-11-21,Expired
+1144,462,Defensive Charms,Master,2017-06-15,2021-06-15,Expired
+1145,462,Advanced Spell Theory,Master,2023-07-15,2025-07-15,Valid
+1146,462,Potion Brewing Basics,Intermediate,2015-04-06,2016-04-06,Revoked
+1147,463,Advanced Spell Theory,Master,2020-09-09,2021-09-09,Revoked
+1148,464,Teleportation Accuracy,Master,2024-12-08,2025-12-08,Valid
+1149,465,Dark Magic Identification,Intermediate,2023-11-02,2027-11-02,Expired
+1150,465,Muggle Interaction Training,Intermediate,2023-10-19,2026-10-19,Expired
+1151,465,Potion Brewing Basics,Master,2018-03-14,2021-03-14,Revoked
+1152,465,Magical Ethics,Beginner,2021-01-11,2022-01-11,Revoked
+1153,466,Dark Magic Identification,Beginner,2017-05-06,2018-05-06,Expired
+1154,466,Magical Ethics,Beginner,2025-03-01,2030-03-01,Expired
+1155,467,Wand Safety 101,Beginner,2018-12-27,2019-12-27,Expired
+1156,467,Teleportation Accuracy,Intermediate,2020-05-24,2023-05-24,Valid
+1157,467,Advanced Spell Theory,Intermediate,2025-02-04,2028-02-04,Revoked
+1158,468,Potion Brewing Basics,Intermediate,2018-03-11,2021-03-11,Revoked
+1159,468,Dark Magic Identification,Beginner,2023-12-09,2025-12-09,Valid
+1160,468,Muggle Interaction Training,Beginner,2015-09-26,2018-09-26,Revoked
+1161,469,Potion Brewing Basics,Master,2017-10-06,2019-10-06,Valid
+1162,470,Defensive Charms,Master,2017-10-16,2019-10-16,Valid
+1163,470,Muggle Interaction Training,Beginner,2022-10-27,2024-10-27,Valid
+1164,470,Wand Safety 101,Beginner,2021-09-04,2025-09-04,Expired
+1165,470,Wand Safety 101,Beginner,2017-05-30,2021-05-30,Revoked
+1166,471,Muggle Interaction Training,Intermediate,2021-07-21,2022-07-21,Valid
+1167,472,Magical Ethics,Beginner,2017-08-13,2021-08-13,Expired
+1168,472,Magical Ethics,Beginner,2015-11-12,2019-11-12,Expired
+1169,473,Herbology Essentials,Intermediate,2022-09-28,2023-09-28,Expired
+1170,473,Wand Safety 101,Beginner,2017-06-23,2019-06-23,Expired
+1171,474,Muggle Interaction Training,Beginner,2022-11-09,2024-11-09,Revoked
+1172,474,Advanced Spell Theory,Beginner,2019-09-25,2024-09-25,Valid
+1173,474,Potion Brewing Basics,Beginner,2020-05-20,2025-05-20,Expired
+1174,475,Advanced Spell Theory,Beginner,2018-01-08,2022-01-08,Valid
+1175,475,Dark Magic Identification,Beginner,2020-10-18,2021-10-18,Revoked
+1176,475,Advanced Spell Theory,Intermediate,2024-06-09,2029-06-09,Valid
+1177,476,Herbology Essentials,Intermediate,2018-10-06,2021-10-06,Valid
+1178,476,Wand Safety 101,Master,2015-06-20,2020-06-20,Expired
+1179,477,Defensive Charms,Beginner,2021-10-17,2025-10-17,Valid
+1180,477,Teleportation Accuracy,Beginner,2024-08-25,2026-08-25,Valid
+1181,477,Defensive Charms,Intermediate,2024-04-01,2027-04-01,Revoked
+1182,477,Herbology Essentials,Intermediate,2019-08-04,2023-08-04,Revoked
+1183,478,Defensive Charms,Beginner,2022-02-24,2025-02-24,Valid
+1184,479,Dark Magic Identification,Master,2019-09-15,2023-09-15,Expired
+1185,479,Defensive Charms,Intermediate,2019-12-12,2024-12-12,Valid
+1186,479,Defensive Charms,Beginner,2016-08-29,2018-08-29,Revoked
+1187,479,Herbology Essentials,Intermediate,2024-12-19,2027-12-19,Revoked
+1188,480,Defensive Charms,Beginner,2015-06-16,2019-06-16,Revoked
+1189,481,Wand Safety 101,Intermediate,2015-07-29,2017-07-29,Revoked
+1190,482,Teleportation Accuracy,Beginner,2024-11-07,2027-11-07,Valid
+1191,482,Muggle Interaction Training,Intermediate,2020-07-16,2025-07-16,Expired
+1192,482,Dark Magic Identification,Beginner,2019-10-07,2021-10-07,Valid
+1193,483,Wand Safety 101,Master,2017-01-26,2018-01-26,Expired
+1194,484,Herbology Essentials,Master,2015-04-05,2017-04-05,Revoked
+1195,484,Magical Ethics,Intermediate,2016-06-18,2019-06-18,Valid
+1196,485,Teleportation Accuracy,Intermediate,2020-09-26,2025-09-26,Valid
+1197,485,Dark Magic Identification,Beginner,2025-02-05,2030-02-05,Valid
+1198,486,Muggle Interaction Training,Beginner,2018-07-02,2019-07-02,Valid
+1199,486,Advanced Spell Theory,Master,2023-01-29,2028-01-29,Valid
+1200,486,Defensive Charms,Intermediate,2020-07-15,2024-07-15,Expired
+1201,487,Herbology Essentials,Master,2022-09-16,2023-09-16,Revoked
+1202,487,Herbology Essentials,Master,2024-02-26,2026-02-26,Revoked
+1203,487,Teleportation Accuracy,Beginner,2021-08-03,2026-08-03,Revoked
+1204,487,Herbology Essentials,Beginner,2023-04-20,2026-04-20,Expired
+1205,488,Wand Safety 101,Intermediate,2018-12-12,2020-12-12,Revoked
+1206,488,Teleportation Accuracy,Intermediate,2018-04-16,2021-04-16,Valid
+1207,488,Teleportation Accuracy,Master,2024-09-25,2026-09-25,Revoked
+1208,489,Potion Brewing Basics,Master,2023-03-03,2026-03-03,Valid
+1209,489,Muggle Interaction Training,Intermediate,2015-09-25,2018-09-25,Expired
+1210,489,Herbology Essentials,Master,2024-07-06,2029-07-06,Valid
+1211,489,Magical Ethics,Beginner,2019-08-17,2020-08-17,Revoked
+1212,490,Herbology Essentials,Intermediate,2020-12-28,2021-12-28,Revoked
+1213,491,Potion Brewing Basics,Master,2018-07-23,2023-07-23,Revoked
+1214,492,Herbology Essentials,Beginner,2017-10-16,2018-10-16,Expired
+1215,493,Defensive Charms,Intermediate,2017-08-05,2018-08-05,Valid
+1216,493,Wand Safety 101,Beginner,2017-01-10,2019-01-10,Valid
+1217,493,Herbology Essentials,Master,2016-12-20,2020-12-20,Expired
+1218,494,Teleportation Accuracy,Beginner,2015-06-06,2020-06-06,Expired
+1219,494,Potion Brewing Basics,Master,2016-04-13,2018-04-13,Revoked
+1220,494,Dark Magic Identification,Master,2018-09-23,2021-09-23,Valid
+1221,495,Muggle Interaction Training,Intermediate,2024-11-25,2027-11-25,Revoked
+1222,495,Advanced Spell Theory,Master,2022-04-22,2026-04-22,Expired
+1223,495,Dark Magic Identification,Master,2024-12-19,2029-12-19,Expired
+1224,496,Herbology Essentials,Beginner,2023-08-06,2024-08-06,Valid
+1225,496,Wand Safety 101,Intermediate,2023-08-24,2025-08-24,Revoked
+1226,497,Herbology Essentials,Beginner,2019-05-05,2022-05-05,Revoked
+1227,497,Advanced Spell Theory,Beginner,2022-07-02,2027-07-02,Revoked
+1228,497,Magical Ethics,Beginner,2021-12-02,2023-12-02,Expired
+1229,497,Wand Safety 101,Beginner,2021-08-17,2025-08-17,Valid
+1230,498,Potion Brewing Basics,Intermediate,2024-06-18,2029-06-18,Revoked
+1231,498,Advanced Spell Theory,Intermediate,2020-07-07,2023-07-07,Valid
+1232,498,Potion Brewing Basics,Intermediate,2024-04-06,2027-04-06,Valid
+1233,499,Wand Safety 101,Intermediate,2018-02-05,2023-02-05,Revoked
+1234,499,Defensive Charms,Intermediate,2019-09-02,2022-09-02,Expired
+1235,500,Herbology Essentials,Beginner,2016-06-08,2019-06-08,Valid
+1236,500,Defensive Charms,Intermediate,2023-08-04,2024-08-04,Expired
+1237,501,Magical Ethics,Intermediate,2019-09-17,2023-09-17,Expired
+1238,501,Herbology Essentials,Beginner,2023-11-29,2027-11-29,Revoked
+1239,501,Magical Ethics,Beginner,2016-07-15,2019-07-15,Valid
+1240,501,Potion Brewing Basics,Beginner,2021-10-24,2023-10-24,Valid
+1241,502,Advanced Spell Theory,Master,2019-08-23,2023-08-23,Revoked
+1242,502,Defensive Charms,Master,2021-07-04,2022-07-04,Expired
+1243,502,Potion Brewing Basics,Beginner,2015-05-22,2018-05-22,Expired
+1244,503,Wand Safety 101,Master,2023-05-04,2026-05-04,Revoked
+1245,503,Wand Safety 101,Intermediate,2016-11-20,2019-11-20,Valid
+1246,504,Magical Ethics,Master,2019-01-15,2024-01-15,Revoked
+1247,504,Dark Magic Identification,Master,2016-10-10,2020-10-10,Revoked
+1248,504,Advanced Spell Theory,Intermediate,2020-03-09,2021-03-09,Expired
+1249,505,Wand Safety 101,Beginner,2019-08-13,2020-08-13,Expired
+1250,505,Teleportation Accuracy,Master,2021-02-07,2023-02-07,Revoked
+1251,506,Defensive Charms,Intermediate,2023-05-02,2027-05-02,Revoked
+1252,506,Muggle Interaction Training,Intermediate,2021-06-08,2025-06-08,Expired
+1253,506,Dark Magic Identification,Intermediate,2020-06-04,2025-06-04,Expired
+1254,507,Herbology Essentials,Beginner,2016-03-30,2021-03-30,Expired
+1255,507,Dark Magic Identification,Beginner,2015-06-23,2019-06-23,Revoked
+1256,507,Muggle Interaction Training,Intermediate,2019-05-25,2022-05-25,Revoked
+1257,508,Wand Safety 101,Beginner,2020-02-02,2021-02-02,Expired
+1258,508,Potion Brewing Basics,Beginner,2017-05-30,2020-05-30,Valid
+1259,508,Wand Safety 101,Intermediate,2018-01-13,2019-01-13,Expired
+1260,509,Teleportation Accuracy,Beginner,2023-10-02,2027-10-02,Valid
+1261,509,Wand Safety 101,Intermediate,2022-03-08,2023-03-08,Valid
+1262,509,Magical Ethics,Beginner,2024-07-01,2029-07-01,Valid
+1263,510,Teleportation Accuracy,Master,2015-10-14,2016-10-14,Valid
+1264,510,Defensive Charms,Intermediate,2015-09-12,2019-09-12,Expired
+1265,510,Herbology Essentials,Intermediate,2021-12-23,2022-12-23,Valid
+1266,511,Teleportation Accuracy,Intermediate,2018-10-07,2022-10-07,Valid
+1267,512,Potion Brewing Basics,Master,2017-10-07,2022-10-07,Expired
+1268,513,Potion Brewing Basics,Master,2022-05-02,2025-05-02,Valid
+1269,513,Herbology Essentials,Master,2020-01-31,2025-01-31,Expired
+1270,513,Dark Magic Identification,Intermediate,2018-10-25,2019-10-25,Valid
+1271,514,Teleportation Accuracy,Beginner,2022-02-27,2023-02-27,Valid
+1272,515,Teleportation Accuracy,Master,2023-07-12,2024-07-12,Valid
+1273,515,Dark Magic Identification,Intermediate,2021-10-20,2023-10-20,Expired
+1274,515,Defensive Charms,Intermediate,2023-05-19,2025-05-19,Revoked
+1275,516,Magical Ethics,Master,2024-01-17,2025-01-17,Revoked
+1276,516,Magical Ethics,Intermediate,2017-03-24,2020-03-24,Valid
+1277,516,Teleportation Accuracy,Master,2019-07-12,2021-07-12,Valid
+1278,516,Defensive Charms,Beginner,2016-08-16,2021-08-16,Revoked
+1279,517,Wand Safety 101,Master,2019-06-18,2021-06-18,Revoked
+1280,518,Advanced Spell Theory,Master,2018-09-06,2019-09-06,Valid
+1281,518,Defensive Charms,Intermediate,2018-09-14,2019-09-14,Expired
+1282,519,Magical Ethics,Intermediate,2023-11-07,2026-11-07,Revoked
+1283,519,Defensive Charms,Master,2016-10-29,2019-10-29,Valid
+1284,520,Wand Safety 101,Master,2021-04-24,2025-04-24,Valid
+1285,520,Dark Magic Identification,Beginner,2016-12-06,2019-12-06,Revoked
+1286,520,Wand Safety 101,Intermediate,2018-01-10,2020-01-10,Valid
+1287,521,Teleportation Accuracy,Beginner,2017-03-24,2021-03-24,Valid
+1288,521,Wand Safety 101,Intermediate,2021-10-07,2022-10-07,Revoked
+1289,521,Muggle Interaction Training,Master,2021-08-17,2025-08-17,Revoked
+1290,522,Magical Ethics,Intermediate,2020-07-02,2021-07-02,Expired
+1291,522,Magical Ethics,Beginner,2019-04-20,2020-04-20,Revoked
+1292,522,Teleportation Accuracy,Beginner,2023-09-02,2026-09-02,Revoked
+1293,522,Herbology Essentials,Master,2022-05-20,2026-05-20,Expired
+1294,523,Herbology Essentials,Master,2020-02-20,2023-02-20,Valid
+1295,524,Potion Brewing Basics,Intermediate,2019-02-09,2020-02-09,Valid
+1296,524,Teleportation Accuracy,Intermediate,2017-05-30,2018-05-30,Expired
+1297,524,Advanced Spell Theory,Intermediate,2019-09-22,2021-09-22,Revoked
+1298,524,Dark Magic Identification,Master,2024-12-20,2025-12-20,Valid
+1299,525,Potion Brewing Basics,Master,2018-09-08,2022-09-08,Expired
+1300,525,Muggle Interaction Training,Beginner,2017-01-29,2022-01-29,Valid
+1301,525,Potion Brewing Basics,Intermediate,2023-07-30,2028-07-30,Revoked
+1302,525,Herbology Essentials,Intermediate,2022-04-03,2027-04-03,Expired
+1303,526,Advanced Spell Theory,Beginner,2022-03-30,2023-03-30,Valid
+1304,526,Advanced Spell Theory,Master,2017-06-14,2021-06-14,Revoked
+1305,526,Defensive Charms,Beginner,2022-10-31,2026-10-31,Revoked
+1306,527,Wand Safety 101,Master,2024-12-25,2025-12-25,Expired
+1307,528,Herbology Essentials,Intermediate,2016-08-08,2020-08-08,Expired
+1308,529,Muggle Interaction Training,Beginner,2024-07-27,2025-07-27,Valid
+1309,530,Muggle Interaction Training,Intermediate,2024-10-06,2027-10-06,Valid
+1310,530,Advanced Spell Theory,Beginner,2020-09-12,2024-09-12,Revoked
+1311,530,Advanced Spell Theory,Master,2018-10-24,2020-10-24,Valid
+1312,531,Magical Ethics,Beginner,2015-05-04,2019-05-04,Revoked
+1313,532,Herbology Essentials,Intermediate,2025-02-28,2027-02-28,Expired
+1314,532,Muggle Interaction Training,Master,2016-05-23,2017-05-23,Revoked
+1315,532,Defensive Charms,Beginner,2021-11-25,2022-11-25,Expired
+1316,533,Teleportation Accuracy,Beginner,2021-09-16,2026-09-16,Valid
+1317,534,Wand Safety 101,Intermediate,2019-03-11,2022-03-11,Revoked
+1318,534,Magical Ethics,Intermediate,2021-06-24,2024-06-24,Revoked
+1319,534,Herbology Essentials,Beginner,2023-06-13,2028-06-13,Expired
+1320,534,Potion Brewing Basics,Master,2018-10-16,2020-10-16,Expired
+1321,535,Wand Safety 101,Beginner,2016-01-04,2019-01-04,Expired
+1322,535,Herbology Essentials,Intermediate,2021-04-07,2025-04-07,Expired
+1323,535,Advanced Spell Theory,Master,2022-06-03,2025-06-03,Revoked
+1324,535,Magical Ethics,Intermediate,2016-07-23,2021-07-23,Valid
+1325,536,Wand Safety 101,Intermediate,2020-09-11,2022-09-11,Valid
+1326,536,Defensive Charms,Intermediate,2025-02-12,2029-02-12,Revoked
+1327,536,Wand Safety 101,Beginner,2024-09-06,2025-09-06,Valid
+1328,537,Wand Safety 101,Beginner,2016-07-15,2020-07-15,Revoked
+1329,537,Advanced Spell Theory,Beginner,2020-08-28,2021-08-28,Revoked
+1330,538,Magical Ethics,Intermediate,2015-08-30,2020-08-30,Revoked
+1331,539,Wand Safety 101,Beginner,2015-10-29,2016-10-29,Expired
+1332,539,Wand Safety 101,Master,2021-11-18,2024-11-18,Expired
+1333,539,Advanced Spell Theory,Beginner,2019-04-01,2021-04-01,Expired
+1334,539,Muggle Interaction Training,Master,2024-08-26,2025-08-26,Revoked
+1335,540,Potion Brewing Basics,Master,2016-09-19,2020-09-19,Revoked
+1336,540,Herbology Essentials,Master,2017-01-13,2018-01-13,Revoked
+1337,540,Wand Safety 101,Beginner,2018-03-05,2021-03-05,Valid
+1338,541,Advanced Spell Theory,Master,2016-03-12,2020-03-12,Expired
+1339,541,Teleportation Accuracy,Intermediate,2021-05-18,2026-05-18,Valid
+1340,541,Wand Safety 101,Intermediate,2023-04-14,2025-04-14,Valid
+1341,542,Magical Ethics,Beginner,2020-07-06,2025-07-06,Revoked
+1342,542,Teleportation Accuracy,Intermediate,2017-05-27,2019-05-27,Expired
+1343,543,Teleportation Accuracy,Intermediate,2017-03-06,2020-03-06,Revoked
+1344,544,Dark Magic Identification,Beginner,2022-06-14,2027-06-14,Expired
+1345,544,Defensive Charms,Master,2021-12-28,2024-12-28,Expired
+1346,545,Muggle Interaction Training,Master,2016-02-26,2018-02-26,Valid
+1347,545,Wand Safety 101,Intermediate,2018-11-01,2021-11-01,Expired
+1348,545,Wand Safety 101,Intermediate,2017-04-09,2019-04-09,Revoked
+1349,546,Magical Ethics,Intermediate,2015-04-17,2018-04-17,Revoked
+1350,546,Magical Ethics,Beginner,2015-10-04,2017-10-04,Valid
+1351,546,Defensive Charms,Master,2015-09-01,2018-09-01,Valid
+1352,546,Herbology Essentials,Intermediate,2016-01-12,2017-01-12,Revoked
+1353,547,Advanced Spell Theory,Intermediate,2015-08-10,2017-08-10,Revoked
+1354,548,Herbology Essentials,Beginner,2025-01-01,2028-01-01,Expired
+1355,548,Magical Ethics,Master,2019-07-03,2022-07-03,Valid
+1356,548,Teleportation Accuracy,Beginner,2021-03-18,2024-03-18,Valid
+1357,548,Defensive Charms,Master,2019-11-05,2021-11-05,Valid
+1358,549,Magical Ethics,Master,2015-08-09,2019-08-09,Expired
+1359,549,Dark Magic Identification,Intermediate,2019-12-30,2020-12-30,Expired
+1360,550,Potion Brewing Basics,Intermediate,2017-05-23,2018-05-23,Expired
+1361,551,Defensive Charms,Beginner,2017-01-13,2018-01-13,Valid
+1362,551,Teleportation Accuracy,Beginner,2020-08-24,2024-08-24,Revoked
+1363,552,Defensive Charms,Master,2020-08-30,2023-08-30,Revoked
+1364,553,Herbology Essentials,Master,2023-07-11,2024-07-11,Expired
+1365,553,Wand Safety 101,Master,2025-01-02,2026-01-02,Expired
+1366,553,Magical Ethics,Intermediate,2019-03-22,2023-03-22,Revoked
+1367,554,Dark Magic Identification,Master,2021-12-28,2023-12-28,Valid
+1368,554,Potion Brewing Basics,Beginner,2023-07-15,2028-07-15,Valid
+1369,554,Wand Safety 101,Beginner,2015-08-23,2020-08-23,Valid
+1370,554,Teleportation Accuracy,Master,2021-12-01,2026-12-01,Revoked
+1371,555,Magical Ethics,Master,2024-08-10,2028-08-10,Valid
+1372,555,Magical Ethics,Intermediate,2022-07-07,2026-07-07,Revoked
+1373,555,Wand Safety 101,Master,2017-05-19,2019-05-19,Revoked
+1374,556,Potion Brewing Basics,Master,2016-06-24,2021-06-24,Revoked
+1375,556,Defensive Charms,Beginner,2020-10-18,2024-10-18,Revoked
+1376,556,Potion Brewing Basics,Intermediate,2022-10-27,2027-10-27,Revoked
+1377,556,Dark Magic Identification,Intermediate,2017-04-02,2020-04-02,Valid
+1378,557,Advanced Spell Theory,Intermediate,2023-12-28,2028-12-28,Revoked
+1379,558,Advanced Spell Theory,Master,2023-05-14,2024-05-14,Valid
+1380,558,Advanced Spell Theory,Master,2016-01-21,2018-01-21,Valid
+1381,559,Advanced Spell Theory,Beginner,2017-11-18,2022-11-18,Revoked
+1382,559,Teleportation Accuracy,Intermediate,2020-04-01,2022-04-01,Valid
+1383,559,Herbology Essentials,Beginner,2025-02-15,2030-02-15,Expired
+1384,560,Magical Ethics,Master,2023-04-30,2024-04-30,Revoked
+1385,560,Defensive Charms,Master,2023-04-10,2025-04-10,Revoked
+1386,560,Potion Brewing Basics,Beginner,2019-11-04,2023-11-04,Valid
+1387,561,Herbology Essentials,Intermediate,2016-12-27,2018-12-27,Valid
+1388,561,Teleportation Accuracy,Master,2017-11-21,2018-11-21,Expired
+1389,562,Herbology Essentials,Intermediate,2020-06-14,2022-06-14,Revoked
+1390,562,Teleportation Accuracy,Master,2021-02-23,2025-02-23,Expired
+1391,563,Herbology Essentials,Beginner,2022-11-17,2025-11-17,Revoked
+1392,563,Wand Safety 101,Intermediate,2024-09-12,2028-09-12,Revoked
+1393,563,Teleportation Accuracy,Beginner,2016-02-09,2020-02-09,Expired
+1394,563,Wand Safety 101,Master,2019-01-06,2023-01-06,Revoked
+1395,564,Potion Brewing Basics,Master,2016-06-11,2021-06-11,Revoked
+1396,564,Dark Magic Identification,Master,2024-11-01,2028-11-01,Expired
+1397,564,Advanced Spell Theory,Beginner,2016-02-29,2017-02-29,Expired
+1398,564,Advanced Spell Theory,Master,2015-10-04,2016-10-04,Valid
+1399,565,Dark Magic Identification,Beginner,2018-07-06,2021-07-06,Expired
+1400,565,Herbology Essentials,Master,2017-03-03,2021-03-03,Revoked
+1401,565,Teleportation Accuracy,Beginner,2022-06-14,2027-06-14,Expired
+1402,565,Wand Safety 101,Master,2015-11-17,2017-11-17,Expired
+1403,566,Muggle Interaction Training,Master,2016-02-10,2017-02-10,Expired
+1404,566,Dark Magic Identification,Master,2016-05-13,2017-05-13,Expired
+1405,567,Muggle Interaction Training,Intermediate,2020-08-04,2021-08-04,Expired
+1406,567,Herbology Essentials,Beginner,2019-09-26,2024-09-26,Valid
+1407,567,Wand Safety 101,Intermediate,2016-07-29,2020-07-29,Expired
+1408,567,Advanced Spell Theory,Intermediate,2024-09-11,2025-09-11,Valid
+1409,568,Dark Magic Identification,Intermediate,2021-03-18,2022-03-18,Expired
+1410,569,Advanced Spell Theory,Master,2019-01-10,2024-01-10,Revoked
+1411,569,Defensive Charms,Master,2018-04-14,2022-04-14,Revoked
+1412,569,Herbology Essentials,Intermediate,2021-04-10,2023-04-10,Revoked
+1413,570,Magical Ethics,Intermediate,2023-12-21,2027-12-21,Valid
+1414,570,Herbology Essentials,Intermediate,2020-12-18,2025-12-18,Valid
+1415,570,Wand Safety 101,Master,2017-10-10,2022-10-10,Valid
+1416,570,Wand Safety 101,Master,2023-03-07,2026-03-07,Expired
+1417,571,Defensive Charms,Master,2021-09-12,2026-09-12,Valid
+1418,571,Herbology Essentials,Beginner,2016-06-28,2020-06-28,Valid
+1419,572,Dark Magic Identification,Beginner,2023-04-29,2025-04-29,Revoked
+1420,572,Advanced Spell Theory,Master,2021-10-12,2024-10-12,Expired
+1421,573,Advanced Spell Theory,Master,2017-11-12,2018-11-12,Revoked
+1422,573,Defensive Charms,Master,2024-09-18,2025-09-18,Expired
+1423,573,Advanced Spell Theory,Master,2021-08-10,2024-08-10,Expired
+1424,574,Potion Brewing Basics,Beginner,2021-01-22,2024-01-22,Valid
+1425,574,Potion Brewing Basics,Intermediate,2018-02-20,2021-02-20,Expired
+1426,574,Defensive Charms,Master,2016-12-09,2019-12-09,Valid
+1427,575,Potion Brewing Basics,Beginner,2018-02-22,2021-02-22,Expired
+1428,575,Defensive Charms,Master,2022-07-21,2023-07-21,Expired
+1429,576,Defensive Charms,Intermediate,2015-06-22,2020-06-22,Expired
+1430,577,Magical Ethics,Beginner,2024-08-23,2025-08-23,Expired
+1431,577,Herbology Essentials,Beginner,2017-01-31,2019-01-31,Expired
+1432,577,Herbology Essentials,Master,2022-02-27,2024-02-27,Valid
+1433,577,Magical Ethics,Master,2022-03-30,2027-03-30,Valid
+1434,578,Herbology Essentials,Intermediate,2017-02-18,2019-02-18,Expired
+1435,578,Magical Ethics,Master,2019-12-21,2024-12-21,Revoked
+1436,579,Potion Brewing Basics,Beginner,2017-03-26,2019-03-26,Revoked
+1437,579,Wand Safety 101,Beginner,2016-10-06,2020-10-06,Revoked
+1438,579,Teleportation Accuracy,Intermediate,2023-06-17,2025-06-17,Revoked
+1439,580,Defensive Charms,Master,2021-12-24,2024-12-24,Valid
+1440,580,Potion Brewing Basics,Beginner,2020-04-01,2021-04-01,Revoked
+1441,580,Defensive Charms,Intermediate,2018-04-28,2023-04-28,Revoked
+1442,581,Muggle Interaction Training,Beginner,2018-05-21,2020-05-21,Expired
+1443,581,Dark Magic Identification,Intermediate,2016-03-29,2018-03-29,Revoked
+1444,582,Wand Safety 101,Beginner,2022-07-21,2026-07-21,Valid
+1445,582,Magical Ethics,Beginner,2023-12-28,2028-12-28,Revoked
+1446,582,Teleportation Accuracy,Beginner,2016-01-30,2021-01-30,Revoked
+1447,582,Advanced Spell Theory,Beginner,2016-01-16,2020-01-16,Revoked
+1448,583,Defensive Charms,Master,2021-09-15,2022-09-15,Expired
+1449,584,Muggle Interaction Training,Beginner,2015-10-11,2020-10-11,Revoked
+1450,584,Advanced Spell Theory,Intermediate,2020-05-05,2025-05-05,Revoked
+1451,585,Dark Magic Identification,Master,2019-08-08,2020-08-08,Expired
+1452,586,Dark Magic Identification,Beginner,2015-09-17,2017-09-17,Expired
+1453,587,Defensive Charms,Master,2017-01-14,2022-01-14,Revoked
+1454,588,Wand Safety 101,Beginner,2025-01-24,2029-01-24,Valid
+1455,588,Herbology Essentials,Beginner,2015-05-05,2016-05-05,Revoked
+1456,588,Defensive Charms,Master,2015-07-23,2018-07-23,Revoked
+1457,588,Potion Brewing Basics,Master,2023-06-10,2027-06-10,Expired
+1458,589,Teleportation Accuracy,Intermediate,2023-04-05,2027-04-05,Revoked
+1459,590,Magical Ethics,Intermediate,2024-09-25,2028-09-25,Valid
+1460,591,Muggle Interaction Training,Intermediate,2015-06-30,2018-06-30,Expired
+1461,591,Dark Magic Identification,Master,2017-12-09,2018-12-09,Expired
+1462,591,Muggle Interaction Training,Beginner,2019-01-22,2024-01-22,Revoked
+1463,591,Potion Brewing Basics,Intermediate,2020-04-07,2025-04-07,Valid
+1464,592,Magical Ethics,Intermediate,2015-06-05,2018-06-05,Revoked
+1465,592,Defensive Charms,Beginner,2024-04-22,2025-04-22,Expired
+1466,592,Dark Magic Identification,Intermediate,2025-02-22,2030-02-22,Valid
+1467,593,Magical Ethics,Beginner,2023-06-15,2024-06-15,Valid
+1468,593,Advanced Spell Theory,Master,2016-05-13,2018-05-13,Revoked
+1469,593,Teleportation Accuracy,Master,2015-06-01,2019-06-01,Expired
+1470,594,Teleportation Accuracy,Intermediate,2016-06-17,2019-06-17,Revoked
+1471,594,Dark Magic Identification,Beginner,2022-08-29,2026-08-29,Valid
+1472,595,Muggle Interaction Training,Intermediate,2023-03-16,2025-03-16,Revoked
+1473,595,Potion Brewing Basics,Master,2021-04-14,2026-04-14,Valid
+1474,596,Magical Ethics,Master,2016-05-31,2021-05-31,Revoked
+1475,597,Advanced Spell Theory,Intermediate,2017-01-28,2022-01-28,Revoked
+1476,598,Potion Brewing Basics,Master,2017-07-31,2019-07-31,Valid
+1477,599,Wand Safety 101,Beginner,2022-09-04,2024-09-04,Revoked
+1478,599,Advanced Spell Theory,Master,2017-09-15,2019-09-15,Expired
+1479,599,Muggle Interaction Training,Intermediate,2016-05-07,2021-05-07,Expired
+1480,599,Potion Brewing Basics,Beginner,2023-05-11,2026-05-11,Revoked
+1481,600,Advanced Spell Theory,Beginner,2020-10-09,2024-10-09,Expired
+1482,601,Dark Magic Identification,Master,2017-04-04,2022-04-04,Revoked
+1483,601,Teleportation Accuracy,Intermediate,2020-10-11,2025-10-11,Expired
+1484,601,Wand Safety 101,Master,2019-04-20,2023-04-20,Revoked
+1485,602,Defensive Charms,Master,2017-09-01,2021-09-01,Valid
+1486,602,Herbology Essentials,Intermediate,2016-04-29,2019-04-29,Revoked
+1487,602,Potion Brewing Basics,Master,2020-07-15,2022-07-15,Valid
+1488,602,Dark Magic Identification,Beginner,2019-10-06,2020-10-06,Expired
+1489,603,Potion Brewing Basics,Master,2023-10-28,2028-10-28,Valid
+1490,604,Potion Brewing Basics,Beginner,2024-09-21,2026-09-21,Expired
+1491,604,Potion Brewing Basics,Intermediate,2018-09-17,2021-09-17,Expired
+1492,604,Herbology Essentials,Beginner,2016-11-15,2020-11-15,Valid
+1493,604,Magical Ethics,Intermediate,2018-09-21,2019-09-21,Expired
+1494,605,Dark Magic Identification,Master,2022-10-05,2026-10-05,Revoked
+1495,606,Wand Safety 101,Master,2025-02-27,2027-02-27,Valid
+1496,606,Advanced Spell Theory,Master,2018-08-26,2021-08-26,Valid
+1497,606,Herbology Essentials,Master,2022-07-21,2023-07-21,Valid
+1498,606,Herbology Essentials,Intermediate,2021-01-23,2026-01-23,Valid
+1499,607,Advanced Spell Theory,Master,2020-03-23,2022-03-23,Revoked
+1500,607,Magical Ethics,Beginner,2016-10-04,2018-10-04,Expired
+1501,608,Defensive Charms,Beginner,2017-06-04,2020-06-04,Revoked
+1502,608,Wand Safety 101,Intermediate,2019-07-05,2020-07-05,Valid
+1503,608,Wand Safety 101,Beginner,2016-05-09,2020-05-09,Revoked
+1504,608,Advanced Spell Theory,Master,2018-12-08,2020-12-08,Revoked
+1505,609,Advanced Spell Theory,Master,2017-11-21,2019-11-21,Valid
+1506,610,Magical Ethics,Intermediate,2018-09-21,2023-09-21,Valid
+1507,610,Wand Safety 101,Beginner,2022-07-22,2024-07-22,Revoked
+1508,611,Dark Magic Identification,Master,2020-08-06,2023-08-06,Valid
+1509,611,Advanced Spell Theory,Master,2016-07-16,2020-07-16,Revoked
+1510,611,Magical Ethics,Beginner,2020-03-20,2022-03-20,Expired
+1511,612,Wand Safety 101,Beginner,2020-12-18,2024-12-18,Valid
+1512,613,Magical Ethics,Intermediate,2022-02-21,2025-02-21,Revoked
+1513,613,Wand Safety 101,Beginner,2020-12-09,2025-12-09,Revoked
+1514,613,Defensive Charms,Beginner,2025-03-21,2030-03-21,Expired
+1515,613,Magical Ethics,Beginner,2016-07-12,2017-07-12,Revoked
+1516,614,Dark Magic Identification,Beginner,2018-08-15,2023-08-15,Valid
+1517,614,Teleportation Accuracy,Master,2018-04-28,2020-04-28,Expired
+1518,614,Magical Ethics,Master,2024-04-26,2028-04-26,Valid
+1519,614,Defensive Charms,Beginner,2016-05-24,2021-05-24,Expired
+1520,615,Muggle Interaction Training,Master,2022-01-28,2026-01-28,Revoked
+1521,615,Defensive Charms,Master,2016-06-06,2021-06-06,Revoked
+1522,616,Magical Ethics,Beginner,2018-11-23,2021-11-23,Valid
+1523,617,Wand Safety 101,Intermediate,2020-10-05,2024-10-05,Expired
+1524,617,Herbology Essentials,Intermediate,2024-02-01,2025-02-01,Valid
+1525,618,Magical Ethics,Beginner,2020-06-05,2023-06-05,Valid
+1526,619,Magical Ethics,Beginner,2023-08-15,2024-08-15,Revoked
+1527,619,Potion Brewing Basics,Master,2015-11-24,2017-11-24,Valid
+1528,620,Dark Magic Identification,Intermediate,2017-11-11,2022-11-11,Revoked
+1529,621,Potion Brewing Basics,Master,2018-04-28,2020-04-28,Revoked
+1530,621,Muggle Interaction Training,Intermediate,2020-12-03,2025-12-03,Revoked
+1531,621,Potion Brewing Basics,Beginner,2023-08-04,2025-08-04,Revoked
+1532,622,Advanced Spell Theory,Master,2020-06-14,2025-06-14,Revoked
+1533,622,Magical Ethics,Intermediate,2020-07-05,2023-07-05,Valid
+1534,623,Advanced Spell Theory,Intermediate,2016-09-09,2018-09-09,Expired
+1535,623,Teleportation Accuracy,Master,2020-06-06,2021-06-06,Valid
+1536,623,Potion Brewing Basics,Intermediate,2015-12-04,2017-12-04,Revoked
+1537,624,Teleportation Accuracy,Master,2020-04-22,2023-04-22,Revoked
+1538,624,Dark Magic Identification,Intermediate,2016-10-22,2019-10-22,Expired
+1539,625,Defensive Charms,Intermediate,2022-06-11,2027-06-11,Revoked
+1540,625,Wand Safety 101,Master,2016-01-24,2019-01-24,Valid
+1541,625,Wand Safety 101,Master,2022-10-24,2027-10-24,Expired
+1542,625,Potion Brewing Basics,Beginner,2022-06-14,2025-06-14,Valid
+1543,626,Herbology Essentials,Master,2022-01-28,2025-01-28,Revoked
+1544,627,Dark Magic Identification,Master,2022-12-20,2027-12-20,Valid
+1545,627,Muggle Interaction Training,Intermediate,2018-01-23,2020-01-23,Expired
+1546,627,Herbology Essentials,Intermediate,2022-08-25,2025-08-25,Expired
+1547,628,Advanced Spell Theory,Master,2019-05-07,2023-05-07,Valid
+1548,628,Herbology Essentials,Intermediate,2021-01-10,2022-01-10,Valid
+1549,628,Dark Magic Identification,Beginner,2020-05-27,2021-05-27,Expired
+1550,629,Potion Brewing Basics,Beginner,2015-12-18,2020-12-18,Revoked
+1551,629,Herbology Essentials,Beginner,2016-05-19,2018-05-19,Revoked
+1552,629,Wand Safety 101,Master,2024-07-25,2029-07-25,Expired
+1553,630,Herbology Essentials,Master,2017-08-06,2021-08-06,Revoked
+1554,630,Teleportation Accuracy,Beginner,2020-05-01,2024-05-01,Valid
+1555,630,Dark Magic Identification,Master,2020-07-06,2022-07-06,Valid
+1556,630,Magical Ethics,Intermediate,2019-09-04,2023-09-04,Valid
+1557,631,Teleportation Accuracy,Master,2020-12-22,2024-12-22,Expired
+1558,631,Magical Ethics,Beginner,2022-05-23,2025-05-23,Revoked
+1559,631,Advanced Spell Theory,Beginner,2024-01-21,2026-01-21,Valid
+1560,632,Dark Magic Identification,Beginner,2018-04-16,2022-04-16,Revoked
+1561,632,Dark Magic Identification,Master,2019-11-29,2020-11-29,Revoked
+1562,632,Wand Safety 101,Beginner,2021-04-12,2023-04-12,Expired
+1563,633,Potion Brewing Basics,Master,2019-12-09,2021-12-09,Expired
+1564,633,Muggle Interaction Training,Master,2016-05-11,2019-05-11,Valid
+1565,633,Defensive Charms,Master,2017-01-24,2018-01-24,Expired
+1566,634,Defensive Charms,Master,2024-04-19,2025-04-19,Revoked
+1567,635,Wand Safety 101,Beginner,2018-08-28,2020-08-28,Valid
+1568,635,Herbology Essentials,Beginner,2025-02-04,2028-02-04,Expired
+1569,636,Herbology Essentials,Master,2024-09-29,2026-09-29,Valid
+1570,637,Teleportation Accuracy,Master,2023-02-02,2024-02-02,Valid
+1571,638,Magical Ethics,Master,2021-05-01,2022-05-01,Valid
+1572,638,Advanced Spell Theory,Beginner,2022-07-05,2026-07-05,Expired
+1573,638,Herbology Essentials,Beginner,2022-07-29,2023-07-29,Valid
+1574,638,Dark Magic Identification,Master,2016-12-15,2020-12-15,Revoked
+1575,639,Wand Safety 101,Master,2019-09-29,2023-09-29,Valid
+1576,639,Dark Magic Identification,Beginner,2019-10-18,2021-10-18,Expired
+1577,639,Advanced Spell Theory,Intermediate,2023-09-05,2027-09-05,Expired
+1578,640,Dark Magic Identification,Master,2024-06-30,2026-06-30,Valid
+1579,640,Potion Brewing Basics,Beginner,2016-04-01,2020-04-01,Expired
+1580,640,Muggle Interaction Training,Beginner,2016-09-29,2018-09-29,Expired
+1581,640,Herbology Essentials,Master,2023-12-23,2025-12-23,Expired
+1582,641,Herbology Essentials,Beginner,2021-09-28,2024-09-28,Revoked
+1583,642,Teleportation Accuracy,Intermediate,2020-12-17,2024-12-17,Expired
+1584,642,Defensive Charms,Intermediate,2021-08-16,2026-08-16,Expired
+1585,642,Muggle Interaction Training,Intermediate,2020-06-25,2022-06-25,Expired
+1586,642,Dark Magic Identification,Beginner,2017-10-06,2019-10-06,Valid
+1587,643,Advanced Spell Theory,Master,2019-03-13,2024-03-13,Valid
+1588,644,Muggle Interaction Training,Master,2021-02-02,2026-02-02,Valid
+1589,644,Potion Brewing Basics,Master,2017-03-28,2021-03-28,Valid
+1590,645,Herbology Essentials,Master,2020-01-18,2021-01-18,Revoked
+1591,646,Potion Brewing Basics,Beginner,2022-04-25,2023-04-25,Revoked
+1592,646,Potion Brewing Basics,Intermediate,2016-02-26,2018-02-26,Expired
+1593,646,Dark Magic Identification,Intermediate,2018-04-26,2023-04-26,Expired
+1594,646,Dark Magic Identification,Master,2021-09-17,2025-09-17,Valid
+1595,647,Potion Brewing Basics,Intermediate,2017-08-24,2021-08-24,Valid
+1596,647,Teleportation Accuracy,Intermediate,2024-09-09,2029-09-09,Expired
+1597,647,Wand Safety 101,Beginner,2019-04-11,2021-04-11,Valid
+1598,647,Muggle Interaction Training,Master,2016-11-24,2021-11-24,Revoked
+1599,648,Muggle Interaction Training,Master,2016-06-15,2021-06-15,Expired
+1600,648,Potion Brewing Basics,Beginner,2021-01-17,2026-01-17,Valid
+1601,649,Wand Safety 101,Master,2023-06-24,2026-06-24,Revoked
+1602,650,Muggle Interaction Training,Intermediate,2019-01-03,2023-01-03,Revoked
+1603,650,Dark Magic Identification,Beginner,2016-11-25,2019-11-25,Expired
+1604,650,Defensive Charms,Master,2016-03-09,2017-03-09,Valid
+1605,651,Teleportation Accuracy,Master,2018-04-25,2020-04-25,Revoked
+1606,652,Herbology Essentials,Beginner,2024-06-13,2025-06-13,Valid
+1607,653,Teleportation Accuracy,Intermediate,2015-10-27,2020-10-27,Expired
+1608,653,Magical Ethics,Master,2022-03-28,2023-03-28,Revoked
+1609,653,Defensive Charms,Master,2016-01-03,2017-01-03,Valid
+1610,654,Magical Ethics,Intermediate,2024-12-31,2025-12-31,Expired
+1611,654,Magical Ethics,Intermediate,2023-02-22,2027-02-22,Valid
+1612,654,Magical Ethics,Intermediate,2022-07-28,2023-07-28,Valid
+1613,654,Wand Safety 101,Master,2015-07-09,2016-07-09,Expired
+1614,655,Advanced Spell Theory,Beginner,2017-11-30,2018-11-30,Revoked
+1615,656,Herbology Essentials,Beginner,2017-06-10,2022-06-10,Valid
+1616,656,Herbology Essentials,Master,2018-03-18,2023-03-18,Expired
+1617,657,Teleportation Accuracy,Master,2016-12-04,2020-12-04,Valid
+1618,658,Defensive Charms,Intermediate,2021-04-06,2023-04-06,Revoked
+1619,658,Dark Magic Identification,Beginner,2017-12-14,2018-12-14,Expired
+1620,658,Potion Brewing Basics,Beginner,2015-04-23,2016-04-23,Valid
+1621,658,Herbology Essentials,Beginner,2023-08-12,2026-08-12,Expired
+1622,659,Wand Safety 101,Beginner,2018-06-03,2021-06-03,Expired
+1623,659,Muggle Interaction Training,Intermediate,2016-09-18,2020-09-18,Expired
+1624,659,Magical Ethics,Master,2018-04-20,2022-04-20,Valid
+1625,660,Wand Safety 101,Beginner,2019-12-24,2021-12-24,Revoked
+1626,660,Dark Magic Identification,Beginner,2015-08-05,2017-08-05,Expired
+1627,660,Muggle Interaction Training,Intermediate,2024-11-25,2025-11-25,Valid
+1628,660,Potion Brewing Basics,Master,2023-07-26,2025-07-26,Expired
+1629,661,Muggle Interaction Training,Master,2019-12-12,2022-12-12,Expired
+1630,661,Herbology Essentials,Intermediate,2019-10-05,2024-10-05,Expired
+1631,661,Herbology Essentials,Intermediate,2016-08-24,2018-08-24,Revoked
+1632,661,Advanced Spell Theory,Intermediate,2015-06-08,2018-06-08,Revoked
+1633,662,Herbology Essentials,Intermediate,2020-04-26,2023-04-26,Revoked
+1634,662,Potion Brewing Basics,Beginner,2020-12-17,2022-12-17,Expired
+1635,662,Herbology Essentials,Intermediate,2016-07-25,2021-07-25,Revoked
+1636,663,Advanced Spell Theory,Intermediate,2016-02-15,2018-02-15,Valid
+1637,663,Muggle Interaction Training,Master,2022-02-17,2025-02-17,Expired
+1638,664,Magical Ethics,Intermediate,2019-03-28,2021-03-28,Valid
+1639,664,Defensive Charms,Beginner,2023-07-22,2026-07-22,Expired
+1640,664,Dark Magic Identification,Master,2019-08-15,2023-08-15,Expired
+1641,665,Potion Brewing Basics,Intermediate,2016-07-24,2018-07-24,Valid
+1642,665,Magical Ethics,Intermediate,2017-08-19,2020-08-19,Expired
+1643,666,Potion Brewing Basics,Master,2020-03-03,2023-03-03,Expired
+1644,666,Advanced Spell Theory,Master,2016-09-16,2019-09-16,Expired
+1645,666,Defensive Charms,Master,2023-06-24,2027-06-24,Revoked
+1646,667,Wand Safety 101,Master,2021-05-26,2026-05-26,Expired
+1647,667,Herbology Essentials,Intermediate,2016-04-20,2020-04-20,Valid
+1648,668,Advanced Spell Theory,Master,2017-10-10,2019-10-10,Revoked
+1649,669,Wand Safety 101,Intermediate,2020-11-12,2023-11-12,Expired
+1650,669,Teleportation Accuracy,Intermediate,2020-01-30,2023-01-30,Expired
+1651,670,Advanced Spell Theory,Beginner,2016-06-26,2018-06-26,Expired
+1652,671,Teleportation Accuracy,Beginner,2016-10-10,2017-10-10,Valid
+1653,671,Potion Brewing Basics,Intermediate,2015-07-23,2018-07-23,Revoked
+1654,671,Defensive Charms,Beginner,2015-07-24,2017-07-24,Valid
+1655,672,Potion Brewing Basics,Beginner,2020-09-12,2023-09-12,Valid
+1656,672,Herbology Essentials,Master,2022-03-18,2024-03-18,Valid
+1657,672,Advanced Spell Theory,Beginner,2017-09-02,2021-09-02,Expired
+1658,672,Magical Ethics,Beginner,2024-09-28,2027-09-28,Valid
+1659,673,Herbology Essentials,Intermediate,2022-04-19,2023-04-19,Valid
+1660,674,Defensive Charms,Intermediate,2018-04-27,2021-04-27,Expired
+1661,674,Herbology Essentials,Intermediate,2017-02-16,2020-02-16,Valid
+1662,674,Herbology Essentials,Master,2017-01-15,2020-01-15,Expired
+1663,675,Herbology Essentials,Master,2019-12-27,2020-12-27,Valid
+1664,676,Potion Brewing Basics,Master,2022-06-27,2027-06-27,Valid
+1665,677,Herbology Essentials,Master,2018-12-04,2021-12-04,Revoked
+1666,677,Teleportation Accuracy,Master,2021-04-28,2025-04-28,Valid
+1667,677,Advanced Spell Theory,Beginner,2018-06-05,2019-06-05,Revoked
+1668,677,Wand Safety 101,Intermediate,2016-04-07,2021-04-07,Valid
+1669,678,Herbology Essentials,Intermediate,2024-02-21,2027-02-21,Revoked
+1670,678,Advanced Spell Theory,Beginner,2021-09-27,2023-09-27,Revoked
+1671,679,Teleportation Accuracy,Master,2022-06-29,2025-06-29,Expired
+1672,679,Potion Brewing Basics,Intermediate,2021-08-04,2022-08-04,Revoked
+1673,679,Dark Magic Identification,Intermediate,2018-01-04,2019-01-04,Expired
+1674,679,Herbology Essentials,Master,2021-01-13,2022-01-13,Revoked
+1675,680,Muggle Interaction Training,Master,2019-03-02,2021-03-02,Valid
+1676,680,Herbology Essentials,Intermediate,2016-02-02,2020-02-02,Revoked
+1677,680,Herbology Essentials,Intermediate,2015-04-18,2020-04-18,Valid
+1678,681,Wand Safety 101,Beginner,2017-12-30,2020-12-30,Valid
+1679,682,Potion Brewing Basics,Master,2018-03-08,2023-03-08,Revoked
+1680,682,Advanced Spell Theory,Beginner,2019-12-02,2021-12-02,Expired
+1681,683,Defensive Charms,Intermediate,2020-05-06,2024-05-06,Valid
+1682,684,Wand Safety 101,Master,2019-02-01,2020-02-01,Revoked
+1683,684,Magical Ethics,Intermediate,2015-09-22,2016-09-22,Revoked
+1684,685,Defensive Charms,Beginner,2023-09-25,2027-09-25,Revoked
+1685,685,Teleportation Accuracy,Intermediate,2020-05-18,2024-05-18,Expired
+1686,685,Magical Ethics,Beginner,2018-07-22,2020-07-22,Valid
+1687,685,Wand Safety 101,Intermediate,2020-03-28,2024-03-28,Expired
+1688,686,Defensive Charms,Master,2024-02-10,2027-02-10,Expired
+1689,686,Herbology Essentials,Intermediate,2017-10-07,2019-10-07,Valid
+1690,686,Defensive Charms,Intermediate,2017-01-26,2022-01-26,Revoked
+1691,686,Wand Safety 101,Intermediate,2020-09-01,2022-09-01,Valid
+1692,687,Teleportation Accuracy,Master,2019-12-20,2023-12-20,Revoked
+1693,687,Wand Safety 101,Master,2023-01-21,2026-01-21,Expired
+1694,688,Teleportation Accuracy,Beginner,2018-01-20,2021-01-20,Revoked
+1695,689,Potion Brewing Basics,Intermediate,2025-03-18,2026-03-18,Valid
+1696,689,Dark Magic Identification,Intermediate,2019-03-21,2020-03-21,Revoked
+1697,689,Herbology Essentials,Master,2023-11-05,2027-11-05,Expired
+1698,690,Herbology Essentials,Intermediate,2016-07-05,2020-07-05,Expired
+1699,691,Defensive Charms,Intermediate,2016-03-13,2017-03-13,Expired
+1700,691,Dark Magic Identification,Intermediate,2023-05-02,2025-05-02,Revoked
+1701,691,Defensive Charms,Master,2016-04-19,2018-04-19,Revoked
+1702,691,Magical Ethics,Intermediate,2015-08-24,2018-08-24,Valid
+1703,692,Muggle Interaction Training,Intermediate,2019-06-23,2023-06-23,Valid
+1704,692,Herbology Essentials,Intermediate,2019-01-26,2022-01-26,Valid
+1705,692,Magical Ethics,Intermediate,2018-01-02,2021-01-02,Revoked
+1706,692,Muggle Interaction Training,Master,2016-07-19,2018-07-19,Valid
+1707,693,Herbology Essentials,Beginner,2015-08-13,2016-08-13,Valid
+1708,693,Muggle Interaction Training,Master,2022-01-02,2027-01-02,Expired
+1709,693,Muggle Interaction Training,Beginner,2023-11-09,2025-11-09,Expired
+1710,694,Potion Brewing Basics,Master,2023-01-19,2026-01-19,Expired
+1711,694,Magical Ethics,Intermediate,2020-01-27,2022-01-27,Valid
+1712,694,Advanced Spell Theory,Master,2020-09-17,2022-09-17,Valid
+1713,694,Dark Magic Identification,Master,2024-03-30,2027-03-30,Valid
+1714,695,Defensive Charms,Beginner,2019-06-01,2024-06-01,Revoked
+1715,696,Potion Brewing Basics,Master,2022-01-07,2025-01-07,Valid
+1716,696,Dark Magic Identification,Beginner,2016-01-03,2017-01-03,Valid
+1717,696,Advanced Spell Theory,Intermediate,2015-12-14,2016-12-14,Revoked
+1718,697,Magical Ethics,Intermediate,2025-03-16,2028-03-16,Valid
+1719,698,Wand Safety 101,Intermediate,2023-12-21,2025-12-21,Expired
+1720,699,Teleportation Accuracy,Master,2016-08-29,2017-08-29,Expired
+1721,699,Magical Ethics,Intermediate,2015-06-22,2017-06-22,Expired
+1722,699,Defensive Charms,Beginner,2018-09-08,2022-09-08,Valid
+1723,699,Magical Ethics,Intermediate,2021-04-26,2022-04-26,Valid
+1724,700,Advanced Spell Theory,Beginner,2025-03-01,2029-03-01,Valid
+1725,700,Wand Safety 101,Intermediate,2016-07-11,2017-07-11,Expired
+1726,700,Herbology Essentials,Intermediate,2017-09-20,2021-09-20,Revoked
+1727,700,Teleportation Accuracy,Intermediate,2022-04-09,2025-04-09,Revoked
+1728,701,Defensive Charms,Intermediate,2015-10-05,2018-10-05,Valid
+1729,701,Herbology Essentials,Beginner,2024-01-20,2028-01-20,Expired
+1730,702,Defensive Charms,Beginner,2023-03-01,2025-03-01,Expired
+1731,703,Wand Safety 101,Intermediate,2018-07-31,2023-07-31,Valid
+1732,703,Wand Safety 101,Beginner,2025-03-06,2028-03-06,Expired
+1733,703,Advanced Spell Theory,Beginner,2015-10-23,2018-10-23,Expired
+1734,703,Herbology Essentials,Master,2020-10-19,2023-10-19,Expired
+1735,704,Advanced Spell Theory,Intermediate,2020-06-14,2021-06-14,Valid
+1736,704,Wand Safety 101,Beginner,2025-03-22,2029-03-22,Revoked
+1737,704,Defensive Charms,Master,2021-08-10,2024-08-10,Revoked
+1738,704,Dark Magic Identification,Beginner,2021-05-10,2023-05-10,Valid
+1739,705,Magical Ethics,Beginner,2024-06-29,2028-06-29,Revoked
+1740,706,Muggle Interaction Training,Beginner,2016-02-19,2018-02-19,Expired
+1741,706,Magical Ethics,Master,2024-03-23,2026-03-23,Expired
+1742,706,Herbology Essentials,Intermediate,2017-10-07,2018-10-07,Valid
+1743,707,Dark Magic Identification,Beginner,2024-08-21,2027-08-21,Revoked
+1744,708,Wand Safety 101,Beginner,2021-01-19,2026-01-19,Expired
+1745,708,Magical Ethics,Beginner,2019-09-06,2023-09-06,Expired
+1746,708,Wand Safety 101,Beginner,2017-11-28,2020-11-28,Expired
+1747,708,Herbology Essentials,Beginner,2018-06-30,2020-06-30,Expired
+1748,709,Defensive Charms,Master,2020-04-27,2025-04-27,Revoked
+1749,710,Magical Ethics,Intermediate,2020-09-15,2025-09-15,Valid
+1750,711,Advanced Spell Theory,Master,2023-08-02,2027-08-02,Valid
+1751,711,Potion Brewing Basics,Master,2019-09-25,2020-09-25,Valid
+1752,711,Dark Magic Identification,Intermediate,2018-04-18,2023-04-18,Expired
+1753,712,Potion Brewing Basics,Beginner,2023-11-11,2024-11-11,Revoked
+1754,713,Wand Safety 101,Intermediate,2015-12-21,2020-12-21,Valid
+1755,714,Potion Brewing Basics,Beginner,2020-07-29,2024-07-29,Valid
+1756,714,Wand Safety 101,Master,2022-03-04,2023-03-04,Revoked
+1757,714,Potion Brewing Basics,Beginner,2021-09-25,2023-09-25,Revoked
+1758,714,Herbology Essentials,Beginner,2017-04-23,2022-04-23,Expired
+1759,715,Magical Ethics,Intermediate,2016-11-02,2020-11-02,Expired
+1760,715,Wand Safety 101,Master,2016-06-15,2021-06-15,Revoked
+1761,715,Advanced Spell Theory,Intermediate,2022-06-19,2023-06-19,Expired
+1762,716,Advanced Spell Theory,Beginner,2024-12-07,2027-12-07,Expired
+1763,716,Magical Ethics,Intermediate,2022-11-11,2026-11-11,Revoked
+1764,716,Magical Ethics,Beginner,2015-12-15,2018-12-15,Valid
+1765,716,Potion Brewing Basics,Beginner,2015-05-04,2016-05-04,Revoked
+1766,717,Defensive Charms,Beginner,2024-10-28,2026-10-28,Revoked
+1767,718,Teleportation Accuracy,Intermediate,2016-01-21,2018-01-21,Revoked
+1768,718,Defensive Charms,Beginner,2024-04-30,2029-04-30,Expired
+1769,719,Magical Ethics,Intermediate,2016-02-25,2020-02-25,Revoked
+1770,719,Dark Magic Identification,Master,2017-06-26,2020-06-26,Revoked
+1771,719,Magical Ethics,Beginner,2016-02-02,2019-02-02,Revoked
+1772,719,Advanced Spell Theory,Intermediate,2024-08-23,2027-08-23,Valid
+1773,720,Wand Safety 101,Beginner,2023-09-14,2028-09-14,Valid
+1774,720,Teleportation Accuracy,Beginner,2016-02-13,2019-02-13,Revoked
+1775,721,Muggle Interaction Training,Master,2016-12-17,2017-12-17,Expired
+1776,721,Herbology Essentials,Intermediate,2015-05-16,2016-05-16,Revoked
+1777,721,Advanced Spell Theory,Intermediate,2017-01-26,2022-01-26,Expired
+1778,721,Wand Safety 101,Master,2024-01-22,2026-01-22,Expired
+1779,722,Advanced Spell Theory,Master,2020-04-17,2024-04-17,Expired
+1780,722,Magical Ethics,Intermediate,2021-08-23,2026-08-23,Expired
+1781,722,Herbology Essentials,Beginner,2016-04-13,2017-04-13,Expired
+1782,723,Potion Brewing Basics,Intermediate,2020-02-02,2024-02-02,Expired
+1783,723,Herbology Essentials,Intermediate,2020-10-28,2021-10-28,Expired
+1784,723,Dark Magic Identification,Beginner,2022-08-19,2025-08-19,Revoked
+1785,723,Dark Magic Identification,Intermediate,2015-11-15,2019-11-15,Expired
+1786,724,Wand Safety 101,Master,2023-10-11,2025-10-11,Expired
+1787,724,Magical Ethics,Intermediate,2024-08-12,2028-08-12,Valid
+1788,725,Dark Magic Identification,Master,2018-02-28,2020-02-28,Expired
+1789,726,Muggle Interaction Training,Intermediate,2020-12-09,2023-12-09,Expired
+1790,726,Wand Safety 101,Master,2017-11-15,2021-11-15,Expired
+1791,726,Advanced Spell Theory,Intermediate,2016-02-26,2020-02-26,Revoked
+1792,727,Muggle Interaction Training,Beginner,2019-11-18,2021-11-18,Valid
+1793,727,Advanced Spell Theory,Master,2015-07-16,2019-07-16,Valid
+1794,727,Dark Magic Identification,Beginner,2015-11-09,2020-11-09,Expired
+1795,727,Wand Safety 101,Intermediate,2022-08-15,2025-08-15,Valid
+1796,728,Potion Brewing Basics,Intermediate,2019-09-05,2021-09-05,Revoked
+1797,729,Muggle Interaction Training,Master,2024-05-30,2027-05-30,Expired
+1798,729,Teleportation Accuracy,Beginner,2022-10-25,2027-10-25,Valid
+1799,729,Wand Safety 101,Master,2019-10-28,2022-10-28,Expired
+1800,730,Advanced Spell Theory,Beginner,2015-10-12,2019-10-12,Valid
+1801,730,Muggle Interaction Training,Intermediate,2024-05-18,2027-05-18,Revoked
+1802,731,Dark Magic Identification,Beginner,2022-09-21,2027-09-21,Valid
+1803,732,Muggle Interaction Training,Master,2017-08-30,2021-08-30,Revoked
+1804,732,Muggle Interaction Training,Beginner,2019-06-04,2024-06-04,Revoked
+1805,732,Advanced Spell Theory,Master,2022-06-13,2024-06-13,Valid
+1806,733,Herbology Essentials,Master,2017-02-03,2022-02-03,Valid
+1807,733,Wand Safety 101,Master,2015-12-21,2018-12-21,Revoked
+1808,734,Teleportation Accuracy,Beginner,2022-06-18,2025-06-18,Expired
+1809,735,Defensive Charms,Master,2021-12-24,2026-12-24,Expired
+1810,735,Magical Ethics,Intermediate,2024-02-10,2026-02-10,Valid
+1811,735,Magical Ethics,Beginner,2021-03-15,2025-03-15,Valid
+1812,735,Wand Safety 101,Intermediate,2022-08-01,2025-08-01,Expired
+1813,736,Wand Safety 101,Master,2016-08-30,2017-08-30,Valid
+1814,736,Teleportation Accuracy,Beginner,2022-07-11,2023-07-11,Valid
+1815,736,Muggle Interaction Training,Beginner,2018-10-26,2023-10-26,Expired
+1816,737,Dark Magic Identification,Intermediate,2020-01-01,2025-01-01,Expired
+1817,737,Magical Ethics,Beginner,2020-08-13,2022-08-13,Revoked
+1818,738,Defensive Charms,Beginner,2020-01-03,2021-01-03,Valid
+1819,739,Muggle Interaction Training,Master,2019-02-08,2024-02-08,Expired
+1820,739,Magical Ethics,Intermediate,2022-04-17,2025-04-17,Valid
+1821,739,Potion Brewing Basics,Master,2020-10-20,2022-10-20,Revoked
+1822,739,Potion Brewing Basics,Beginner,2020-06-27,2021-06-27,Expired
+1823,740,Dark Magic Identification,Beginner,2022-03-05,2024-03-05,Valid
+1824,741,Dark Magic Identification,Intermediate,2018-09-27,2020-09-27,Revoked
+1825,741,Wand Safety 101,Beginner,2022-08-26,2024-08-26,Expired
+1826,741,Teleportation Accuracy,Master,2022-08-11,2024-08-11,Expired
+1827,742,Dark Magic Identification,Master,2021-08-22,2024-08-22,Valid
+1828,742,Teleportation Accuracy,Intermediate,2015-12-29,2019-12-29,Valid
+1829,742,Teleportation Accuracy,Intermediate,2015-12-04,2019-12-04,Expired
+1830,743,Herbology Essentials,Beginner,2020-10-01,2021-10-01,Revoked
+1831,743,Advanced Spell Theory,Intermediate,2017-12-04,2018-12-04,Valid
+1832,743,Wand Safety 101,Beginner,2016-01-22,2018-01-22,Expired
+1833,743,Defensive Charms,Master,2016-11-01,2018-11-01,Valid
+1834,744,Muggle Interaction Training,Beginner,2016-07-30,2019-07-30,Valid
+1835,745,Herbology Essentials,Intermediate,2020-02-09,2025-02-09,Valid
+1836,745,Dark Magic Identification,Master,2019-06-13,2020-06-13,Expired
+1837,746,Herbology Essentials,Master,2024-11-03,2026-11-03,Revoked
+1838,746,Magical Ethics,Intermediate,2024-05-07,2027-05-07,Revoked
+1839,747,Muggle Interaction Training,Beginner,2021-12-17,2024-12-17,Expired
+1840,747,Defensive Charms,Master,2020-11-22,2023-11-22,Revoked
+1841,747,Herbology Essentials,Beginner,2018-10-31,2021-10-31,Expired
+1842,748,Muggle Interaction Training,Beginner,2024-07-23,2027-07-23,Valid
+1843,749,Dark Magic Identification,Beginner,2022-07-14,2026-07-14,Expired
+1844,750,Muggle Interaction Training,Intermediate,2018-08-08,2019-08-08,Expired
+1845,750,Advanced Spell Theory,Master,2025-03-04,2027-03-04,Revoked
+1846,750,Potion Brewing Basics,Beginner,2018-04-20,2022-04-20,Expired
+1847,750,Magical Ethics,Intermediate,2021-05-25,2023-05-25,Revoked
+1848,751,Magical Ethics,Master,2020-02-22,2023-02-22,Expired
+1849,751,Potion Brewing Basics,Intermediate,2022-11-26,2027-11-26,Expired
+1850,752,Potion Brewing Basics,Intermediate,2022-03-12,2025-03-12,Expired
+1851,753,Dark Magic Identification,Intermediate,2020-11-10,2024-11-10,Valid
+1852,753,Magical Ethics,Beginner,2025-02-24,2026-02-24,Expired
+1853,754,Defensive Charms,Intermediate,2018-10-29,2021-10-29,Revoked
+1854,754,Magical Ethics,Master,2023-01-11,2025-01-11,Valid
+1855,754,Wand Safety 101,Intermediate,2022-12-14,2024-12-14,Expired
+1856,754,Muggle Interaction Training,Master,2021-07-27,2023-07-27,Revoked
+1857,755,Teleportation Accuracy,Intermediate,2020-08-30,2025-08-30,Revoked
+1858,755,Herbology Essentials,Beginner,2015-04-14,2020-04-14,Expired
+1859,756,Advanced Spell Theory,Master,2016-06-21,2021-06-21,Revoked
+1860,756,Dark Magic Identification,Beginner,2015-04-26,2017-04-26,Valid
+1861,757,Magical Ethics,Intermediate,2018-01-10,2020-01-10,Revoked
+1862,758,Muggle Interaction Training,Intermediate,2019-02-07,2021-02-07,Revoked
+1863,758,Magical Ethics,Intermediate,2021-08-31,2026-08-31,Expired
+1864,759,Muggle Interaction Training,Master,2015-07-16,2019-07-16,Expired
+1865,759,Muggle Interaction Training,Master,2016-07-06,2017-07-06,Expired
+1866,760,Advanced Spell Theory,Beginner,2018-07-13,2020-07-13,Revoked
+1867,760,Wand Safety 101,Master,2020-03-05,2023-03-05,Valid
+1868,760,Herbology Essentials,Intermediate,2018-03-16,2022-03-16,Valid
+1869,760,Magical Ethics,Beginner,2021-01-29,2024-01-29,Revoked
+1870,761,Potion Brewing Basics,Intermediate,2020-07-05,2021-07-05,Valid
+1871,761,Potion Brewing Basics,Beginner,2018-09-26,2021-09-26,Revoked
+1872,761,Magical Ethics,Master,2024-11-22,2026-11-22,Valid
+1873,761,Teleportation Accuracy,Beginner,2017-07-10,2018-07-10,Valid
+1874,762,Dark Magic Identification,Intermediate,2023-03-03,2024-03-03,Revoked
+1875,762,Advanced Spell Theory,Beginner,2021-09-04,2026-09-04,Valid
+1876,762,Potion Brewing Basics,Beginner,2018-06-15,2022-06-15,Revoked
+1877,763,Wand Safety 101,Beginner,2017-01-22,2018-01-22,Revoked
+1878,763,Potion Brewing Basics,Master,2021-03-03,2023-03-03,Expired
+1879,764,Magical Ethics,Intermediate,2019-09-03,2022-09-03,Revoked
+1880,764,Advanced Spell Theory,Intermediate,2024-06-26,2029-06-26,Valid
+1881,764,Wand Safety 101,Master,2024-04-13,2029-04-13,Expired
+1882,765,Magical Ethics,Beginner,2022-07-12,2024-07-12,Expired
+1883,765,Teleportation Accuracy,Intermediate,2016-07-26,2019-07-26,Revoked
+1884,766,Magical Ethics,Master,2020-02-02,2024-02-02,Revoked
+1885,766,Wand Safety 101,Intermediate,2017-08-11,2020-08-11,Expired
+1886,767,Advanced Spell Theory,Master,2021-06-20,2026-06-20,Valid
+1887,767,Defensive Charms,Intermediate,2018-05-08,2021-05-08,Expired
+1888,768,Defensive Charms,Master,2020-04-29,2021-04-29,Valid
+1889,768,Magical Ethics,Master,2022-03-01,2023-03-01,Valid
+1890,768,Muggle Interaction Training,Beginner,2021-12-22,2023-12-22,Revoked
+1891,768,Potion Brewing Basics,Master,2015-06-10,2017-06-10,Revoked
+1892,769,Dark Magic Identification,Intermediate,2018-01-30,2023-01-30,Expired
+1893,769,Potion Brewing Basics,Master,2020-07-21,2021-07-21,Valid
+1894,769,Wand Safety 101,Master,2018-02-23,2023-02-23,Expired
+1895,770,Herbology Essentials,Master,2019-06-24,2020-06-24,Revoked
+1896,771,Herbology Essentials,Master,2024-05-18,2028-05-18,Valid
+1897,771,Magical Ethics,Intermediate,2022-11-10,2026-11-10,Expired
+1898,771,Defensive Charms,Master,2022-09-05,2026-09-05,Revoked
+1899,772,Herbology Essentials,Intermediate,2018-03-08,2021-03-08,Valid
+1900,772,Defensive Charms,Beginner,2016-02-16,2017-02-16,Expired
+1901,773,Defensive Charms,Beginner,2024-11-15,2027-11-15,Expired
+1902,773,Magical Ethics,Master,2023-02-01,2024-02-01,Expired
+1903,773,Muggle Interaction Training,Master,2021-08-01,2025-08-01,Valid
+1904,774,Advanced Spell Theory,Master,2022-01-06,2023-01-06,Revoked
+1905,774,Advanced Spell Theory,Intermediate,2016-06-25,2018-06-25,Valid
+1906,775,Magical Ethics,Master,2022-09-20,2026-09-20,Valid
+1907,775,Potion Brewing Basics,Intermediate,2024-07-28,2028-07-28,Valid
+1908,775,Dark Magic Identification,Master,2023-04-25,2027-04-25,Valid
+1909,775,Teleportation Accuracy,Intermediate,2022-10-19,2023-10-19,Valid
+1910,776,Defensive Charms,Master,2021-08-07,2025-08-07,Valid
+1911,776,Advanced Spell Theory,Beginner,2019-07-13,2021-07-13,Valid
+1912,776,Advanced Spell Theory,Master,2019-01-24,2023-01-24,Revoked
+1913,777,Potion Brewing Basics,Intermediate,2024-02-02,2025-02-02,Expired
+1914,777,Dark Magic Identification,Master,2023-07-16,2024-07-16,Valid
+1915,778,Teleportation Accuracy,Intermediate,2017-05-17,2020-05-17,Revoked
+1916,778,Herbology Essentials,Beginner,2022-05-01,2024-05-01,Expired
+1917,778,Magical Ethics,Intermediate,2015-08-22,2016-08-22,Expired
+1918,779,Muggle Interaction Training,Master,2021-03-01,2024-03-01,Expired
+1919,779,Teleportation Accuracy,Master,2017-05-29,2020-05-29,Expired
+1920,779,Teleportation Accuracy,Intermediate,2017-12-09,2018-12-09,Revoked
+1921,780,Herbology Essentials,Intermediate,2019-08-09,2024-08-09,Revoked
+1922,780,Potion Brewing Basics,Master,2022-03-12,2023-03-12,Expired
+1923,780,Magical Ethics,Intermediate,2020-12-29,2023-12-29,Valid
+1924,781,Teleportation Accuracy,Master,2023-09-10,2025-09-10,Revoked
+1925,781,Potion Brewing Basics,Master,2023-11-27,2026-11-27,Valid
+1926,781,Potion Brewing Basics,Beginner,2022-02-11,2025-02-11,Valid
+1927,782,Magical Ethics,Master,2023-08-02,2027-08-02,Valid
+1928,782,Herbology Essentials,Beginner,2019-05-23,2020-05-23,Expired
+1929,783,Dark Magic Identification,Intermediate,2019-10-05,2023-10-05,Expired
+1930,783,Potion Brewing Basics,Intermediate,2020-01-15,2023-01-15,Expired
+1931,783,Advanced Spell Theory,Master,2020-06-04,2021-06-04,Valid
+1932,784,Wand Safety 101,Master,2020-10-29,2023-10-29,Revoked
+1933,784,Muggle Interaction Training,Beginner,2025-02-05,2027-02-05,Expired
+1934,784,Wand Safety 101,Master,2021-01-20,2025-01-20,Valid
+1935,785,Dark Magic Identification,Master,2021-06-16,2022-06-16,Expired
+1936,785,Magical Ethics,Beginner,2024-01-27,2026-01-27,Valid
+1937,786,Muggle Interaction Training,Beginner,2022-01-31,2023-01-31,Valid
+1938,786,Potion Brewing Basics,Master,2023-07-29,2026-07-29,Revoked
+1939,787,Magical Ethics,Intermediate,2020-08-23,2021-08-23,Revoked
+1940,787,Advanced Spell Theory,Beginner,2017-11-19,2022-11-19,Revoked
+1941,788,Advanced Spell Theory,Master,2019-01-30,2024-01-30,Revoked
+1942,789,Teleportation Accuracy,Master,2021-11-18,2025-11-18,Expired
+1943,789,Magical Ethics,Intermediate,2018-05-08,2019-05-08,Revoked
+1944,789,Advanced Spell Theory,Master,2015-05-05,2017-05-05,Revoked
+1945,790,Muggle Interaction Training,Beginner,2018-12-06,2023-12-06,Valid
+1946,790,Advanced Spell Theory,Intermediate,2019-07-19,2020-07-19,Revoked
+1947,790,Wand Safety 101,Master,2025-03-13,2026-03-13,Valid
+1948,791,Muggle Interaction Training,Beginner,2019-06-25,2023-06-25,Expired
+1949,791,Potion Brewing Basics,Intermediate,2022-10-23,2023-10-23,Valid
+1950,791,Muggle Interaction Training,Beginner,2021-04-05,2022-04-05,Revoked
+1951,792,Defensive Charms,Master,2024-05-16,2028-05-16,Valid
+1952,792,Dark Magic Identification,Master,2020-09-01,2021-09-01,Expired
+1953,792,Advanced Spell Theory,Beginner,2021-09-17,2024-09-17,Revoked
+1954,792,Herbology Essentials,Beginner,2023-11-09,2028-11-09,Valid
+1955,793,Muggle Interaction Training,Master,2018-06-02,2021-06-02,Expired
+1956,793,Defensive Charms,Master,2016-05-22,2020-05-22,Revoked
+1957,793,Muggle Interaction Training,Beginner,2015-08-25,2017-08-25,Expired
+1958,794,Dark Magic Identification,Intermediate,2021-12-30,2022-12-30,Valid
+1959,794,Herbology Essentials,Beginner,2023-10-03,2025-10-03,Valid
+1960,794,Magical Ethics,Master,2017-10-29,2021-10-29,Expired
+1961,794,Magical Ethics,Beginner,2025-02-11,2030-02-11,Revoked
+1962,795,Muggle Interaction Training,Beginner,2017-01-14,2019-01-14,Expired
+1963,796,Dark Magic Identification,Master,2023-08-14,2028-08-14,Revoked
+1964,796,Herbology Essentials,Master,2024-06-09,2026-06-09,Valid
+1965,797,Advanced Spell Theory,Intermediate,2018-12-23,2020-12-23,Expired
+1966,798,Dark Magic Identification,Beginner,2016-11-12,2018-11-12,Revoked
+1967,798,Magical Ethics,Intermediate,2019-05-26,2022-05-26,Expired
+1968,799,Advanced Spell Theory,Beginner,2020-06-12,2025-06-12,Valid
+1969,800,Magical Ethics,Beginner,2018-01-16,2022-01-16,Expired
+1970,800,Muggle Interaction Training,Intermediate,2021-02-04,2022-02-04,Expired
+1971,800,Defensive Charms,Intermediate,2018-03-10,2019-03-10,Revoked
+1972,801,Defensive Charms,Beginner,2023-01-20,2028-01-20,Valid
+1973,802,Advanced Spell Theory,Intermediate,2018-01-04,2021-01-04,Expired
+1974,803,Advanced Spell Theory,Master,2022-12-23,2027-12-23,Revoked
+1975,803,Defensive Charms,Master,2021-08-24,2022-08-24,Expired
+1976,803,Muggle Interaction Training,Intermediate,2016-05-19,2021-05-19,Expired
+1977,803,Herbology Essentials,Intermediate,2020-05-05,2023-05-05,Expired
+1978,804,Muggle Interaction Training,Master,2020-09-11,2023-09-11,Expired
+1979,804,Advanced Spell Theory,Master,2015-10-30,2019-10-30,Valid
+1980,805,Dark Magic Identification,Intermediate,2019-07-29,2022-07-29,Valid
+1981,806,Teleportation Accuracy,Beginner,2015-04-20,2020-04-20,Revoked
+1982,806,Herbology Essentials,Master,2020-11-17,2024-11-17,Valid
+1983,807,Advanced Spell Theory,Master,2023-12-13,2027-12-13,Revoked
+1984,808,Defensive Charms,Beginner,2024-02-13,2029-02-13,Expired
+1985,808,Wand Safety 101,Beginner,2024-02-28,2028-02-28,Expired
+1986,808,Magical Ethics,Beginner,2020-07-18,2022-07-18,Expired
+1987,808,Teleportation Accuracy,Master,2019-05-06,2020-05-06,Expired
+1988,809,Advanced Spell Theory,Intermediate,2017-03-25,2022-03-25,Valid
+1989,809,Muggle Interaction Training,Beginner,2016-02-17,2018-02-17,Revoked
+1990,810,Defensive Charms,Intermediate,2023-05-15,2027-05-15,Expired
+1991,811,Defensive Charms,Master,2016-01-28,2020-01-28,Revoked
+1992,811,Wand Safety 101,Master,2017-12-16,2021-12-16,Revoked
+1993,811,Muggle Interaction Training,Intermediate,2015-10-07,2020-10-07,Expired
+1994,812,Potion Brewing Basics,Beginner,2022-08-25,2024-08-25,Revoked
+1995,812,Teleportation Accuracy,Master,2023-05-19,2026-05-19,Expired
+1996,813,Muggle Interaction Training,Master,2024-06-04,2026-06-04,Expired
+1997,814,Defensive Charms,Beginner,2020-09-16,2023-09-16,Valid
+1998,815,Advanced Spell Theory,Master,2024-08-17,2025-08-17,Revoked
+1999,816,Magical Ethics,Beginner,2018-11-02,2022-11-02,Expired
+2000,817,Advanced Spell Theory,Beginner,2023-04-28,2026-04-28,Revoked
+2001,817,Herbology Essentials,Beginner,2024-12-20,2027-12-20,Expired
+2002,818,Muggle Interaction Training,Beginner,2020-06-01,2024-06-01,Expired
+2003,819,Potion Brewing Basics,Intermediate,2024-03-20,2026-03-20,Valid
+2004,819,Magical Ethics,Master,2015-12-10,2020-12-10,Revoked
+2005,819,Teleportation Accuracy,Master,2015-08-30,2017-08-30,Valid
+2006,820,Muggle Interaction Training,Beginner,2016-06-10,2018-06-10,Valid
+2007,820,Teleportation Accuracy,Intermediate,2015-12-06,2018-12-06,Revoked
+2008,820,Potion Brewing Basics,Intermediate,2021-11-22,2025-11-22,Revoked
+2009,821,Defensive Charms,Beginner,2022-02-03,2025-02-03,Expired
+2010,821,Muggle Interaction Training,Intermediate,2021-06-27,2023-06-27,Expired
+2011,821,Potion Brewing Basics,Master,2020-10-14,2025-10-14,Revoked
+2012,821,Defensive Charms,Beginner,2020-04-18,2024-04-18,Valid
+2013,822,Herbology Essentials,Intermediate,2025-03-11,2030-03-11,Valid
+2014,822,Teleportation Accuracy,Master,2023-06-03,2027-06-03,Valid
+2015,823,Wand Safety 101,Beginner,2018-10-01,2022-10-01,Valid
+2016,823,Herbology Essentials,Master,2019-09-16,2023-09-16,Expired
+2017,823,Teleportation Accuracy,Intermediate,2022-01-05,2027-01-05,Valid
+2018,823,Teleportation Accuracy,Intermediate,2021-08-17,2025-08-17,Expired
+2019,824,Dark Magic Identification,Beginner,2024-04-05,2029-04-05,Expired
+2020,824,Advanced Spell Theory,Master,2019-02-19,2023-02-19,Expired
+2021,824,Wand Safety 101,Beginner,2022-10-13,2027-10-13,Expired
+2022,824,Defensive Charms,Beginner,2016-07-06,2019-07-06,Revoked
+2023,825,Potion Brewing Basics,Master,2021-06-04,2022-06-04,Valid
+2024,826,Magical Ethics,Master,2015-08-29,2018-08-29,Revoked
+2025,826,Defensive Charms,Master,2024-03-03,2029-03-03,Valid
+2026,827,Advanced Spell Theory,Beginner,2020-09-17,2022-09-17,Valid
+2027,828,Wand Safety 101,Intermediate,2019-05-16,2023-05-16,Expired
+2028,828,Teleportation Accuracy,Intermediate,2018-05-17,2021-05-17,Revoked
+2029,828,Magical Ethics,Beginner,2021-12-30,2025-12-30,Revoked
+2030,829,Wand Safety 101,Beginner,2024-04-08,2028-04-08,Valid
+2031,829,Wand Safety 101,Master,2018-02-27,2023-02-27,Valid
+2032,829,Potion Brewing Basics,Beginner,2020-05-26,2023-05-26,Expired
+2033,830,Dark Magic Identification,Master,2019-12-30,2022-12-30,Revoked
+2034,831,Muggle Interaction Training,Intermediate,2018-10-06,2021-10-06,Revoked
+2035,831,Herbology Essentials,Beginner,2020-08-05,2025-08-05,Revoked
+2036,831,Muggle Interaction Training,Beginner,2020-10-08,2023-10-08,Expired
+2037,831,Muggle Interaction Training,Intermediate,2022-05-16,2026-05-16,Valid
+2038,832,Dark Magic Identification,Master,2017-05-21,2022-05-21,Valid
+2039,832,Teleportation Accuracy,Beginner,2017-07-30,2022-07-30,Revoked
+2040,832,Defensive Charms,Intermediate,2021-12-02,2023-12-02,Revoked
+2041,833,Herbology Essentials,Beginner,2022-12-03,2023-12-03,Valid
+2042,833,Teleportation Accuracy,Intermediate,2016-04-12,2020-04-12,Valid
+2043,834,Teleportation Accuracy,Master,2016-10-03,2020-10-03,Expired
+2044,834,Advanced Spell Theory,Intermediate,2017-11-23,2021-11-23,Valid
+2045,834,Wand Safety 101,Intermediate,2019-06-07,2020-06-07,Expired
+2046,834,Magical Ethics,Master,2021-03-26,2023-03-26,Revoked
+2047,835,Wand Safety 101,Master,2020-05-16,2021-05-16,Revoked
+2048,835,Potion Brewing Basics,Beginner,2022-08-09,2023-08-09,Valid
+2049,835,Defensive Charms,Master,2017-05-31,2020-05-31,Revoked
+2050,835,Potion Brewing Basics,Master,2020-08-26,2024-08-26,Valid
+2051,836,Teleportation Accuracy,Master,2024-03-25,2026-03-25,Expired
+2052,837,Advanced Spell Theory,Intermediate,2017-06-03,2021-06-03,Expired
+2053,837,Potion Brewing Basics,Master,2016-09-24,2021-09-24,Expired
+2054,837,Magical Ethics,Intermediate,2022-04-08,2025-04-08,Revoked
+2055,838,Potion Brewing Basics,Intermediate,2023-01-02,2026-01-02,Revoked
+2056,838,Advanced Spell Theory,Intermediate,2024-03-31,2026-03-31,Valid
+2057,838,Teleportation Accuracy,Intermediate,2017-01-17,2018-01-17,Expired
+2058,839,Defensive Charms,Master,2022-11-12,2026-11-12,Valid
+2059,839,Defensive Charms,Intermediate,2023-10-11,2026-10-11,Valid
+2060,839,Advanced Spell Theory,Intermediate,2015-08-04,2020-08-04,Expired
+2061,840,Defensive Charms,Beginner,2016-10-12,2019-10-12,Revoked
+2062,840,Herbology Essentials,Beginner,2023-09-27,2027-09-27,Valid
+2063,841,Teleportation Accuracy,Intermediate,2020-09-15,2021-09-15,Expired
+2064,841,Herbology Essentials,Intermediate,2024-02-10,2027-02-10,Revoked
+2065,841,Advanced Spell Theory,Master,2024-10-14,2027-10-14,Valid
+2066,842,Defensive Charms,Master,2022-10-22,2023-10-22,Valid
+2067,842,Teleportation Accuracy,Beginner,2018-06-28,2019-06-28,Valid
+2068,842,Wand Safety 101,Master,2025-01-23,2027-01-23,Expired
+2069,842,Wand Safety 101,Master,2023-11-30,2027-11-30,Revoked
+2070,843,Dark Magic Identification,Master,2020-07-31,2024-07-31,Revoked
+2071,844,Wand Safety 101,Beginner,2022-12-23,2025-12-23,Expired
+2072,844,Teleportation Accuracy,Intermediate,2017-03-23,2021-03-23,Valid
+2073,844,Potion Brewing Basics,Master,2018-03-25,2021-03-25,Valid
+2074,845,Defensive Charms,Beginner,2023-04-13,2027-04-13,Valid
+2075,846,Wand Safety 101,Beginner,2016-01-25,2018-01-25,Revoked
+2076,846,Muggle Interaction Training,Intermediate,2022-08-12,2024-08-12,Expired
+2077,846,Herbology Essentials,Master,2025-02-01,2027-02-01,Expired
+2078,846,Defensive Charms,Intermediate,2023-08-09,2026-08-09,Expired
+2079,847,Potion Brewing Basics,Intermediate,2015-07-18,2019-07-18,Expired
+2080,848,Magical Ethics,Intermediate,2022-10-23,2023-10-23,Revoked
+2081,848,Potion Brewing Basics,Beginner,2024-09-16,2029-09-16,Revoked
+2082,848,Herbology Essentials,Beginner,2019-07-07,2021-07-07,Revoked
+2083,849,Dark Magic Identification,Beginner,2016-11-08,2018-11-08,Revoked
+2084,849,Potion Brewing Basics,Beginner,2020-08-01,2022-08-01,Revoked
+2085,849,Magical Ethics,Intermediate,2024-12-13,2028-12-13,Valid
+2086,849,Wand Safety 101,Intermediate,2020-09-14,2021-09-14,Expired
+2087,850,Defensive Charms,Beginner,2018-03-06,2022-03-06,Revoked
+2088,850,Magical Ethics,Master,2017-02-11,2021-02-11,Expired
+2089,851,Potion Brewing Basics,Master,2023-03-19,2027-03-19,Valid
+2090,851,Magical Ethics,Intermediate,2024-04-19,2029-04-19,Expired
+2091,851,Teleportation Accuracy,Intermediate,2020-04-15,2024-04-15,Revoked
+2092,851,Defensive Charms,Intermediate,2023-05-16,2024-05-16,Valid
+2093,852,Dark Magic Identification,Intermediate,2025-01-21,2029-01-21,Expired
+2094,852,Dark Magic Identification,Beginner,2016-06-23,2021-06-23,Valid
+2095,852,Potion Brewing Basics,Beginner,2016-11-06,2020-11-06,Expired
+2096,852,Advanced Spell Theory,Beginner,2019-02-17,2020-02-17,Valid
+2097,853,Defensive Charms,Master,2019-05-02,2024-05-02,Valid
+2098,853,Herbology Essentials,Beginner,2023-08-23,2027-08-23,Valid
+2099,853,Herbology Essentials,Intermediate,2016-12-11,2018-12-11,Expired
+2100,854,Wand Safety 101,Master,2023-08-04,2027-08-04,Revoked
+2101,854,Muggle Interaction Training,Intermediate,2021-09-12,2025-09-12,Revoked
+2102,854,Magical Ethics,Beginner,2015-04-13,2020-04-13,Revoked
+2103,854,Potion Brewing Basics,Intermediate,2023-03-03,2024-03-03,Valid
+2104,855,Magical Ethics,Beginner,2015-07-17,2016-07-17,Revoked
+2105,855,Teleportation Accuracy,Beginner,2015-07-06,2017-07-06,Revoked
+2106,856,Dark Magic Identification,Intermediate,2015-07-09,2018-07-09,Revoked
+2107,856,Wand Safety 101,Beginner,2018-04-15,2022-04-15,Revoked
+2108,857,Potion Brewing Basics,Master,2024-04-17,2028-04-17,Valid
+2109,857,Wand Safety 101,Master,2020-05-26,2022-05-26,Revoked
+2110,857,Magical Ethics,Master,2018-08-02,2021-08-02,Revoked
+2111,857,Muggle Interaction Training,Master,2021-08-01,2022-08-01,Revoked
+2112,858,Advanced Spell Theory,Beginner,2017-11-16,2021-11-16,Valid
+2113,859,Teleportation Accuracy,Intermediate,2016-11-01,2021-11-01,Valid
+2114,860,Dark Magic Identification,Beginner,2021-07-26,2025-07-26,Revoked
+2115,861,Muggle Interaction Training,Beginner,2023-01-23,2026-01-23,Expired
+2116,861,Teleportation Accuracy,Intermediate,2023-08-01,2025-08-01,Valid
+2117,861,Wand Safety 101,Intermediate,2024-03-15,2025-03-15,Expired
+2118,861,Wand Safety 101,Beginner,2021-09-27,2025-09-27,Valid
+2119,862,Magical Ethics,Intermediate,2016-07-08,2020-07-08,Expired
+2120,863,Advanced Spell Theory,Master,2024-03-18,2026-03-18,Revoked
+2121,863,Wand Safety 101,Intermediate,2016-12-03,2018-12-03,Valid
+2122,863,Dark Magic Identification,Intermediate,2023-03-28,2025-03-28,Revoked
+2123,864,Herbology Essentials,Intermediate,2020-06-26,2024-06-26,Revoked
+2124,864,Herbology Essentials,Beginner,2020-08-25,2025-08-25,Valid
+2125,865,Teleportation Accuracy,Beginner,2015-09-16,2019-09-16,Expired
+2126,865,Potion Brewing Basics,Intermediate,2018-10-06,2022-10-06,Expired
+2127,865,Defensive Charms,Beginner,2021-03-24,2023-03-24,Revoked
+2128,865,Magical Ethics,Intermediate,2023-11-27,2027-11-27,Revoked
+2129,866,Muggle Interaction Training,Beginner,2017-08-29,2021-08-29,Valid
+2130,866,Defensive Charms,Beginner,2017-10-10,2018-10-10,Valid
+2131,867,Advanced Spell Theory,Beginner,2015-11-13,2018-11-13,Revoked
+2132,868,Dark Magic Identification,Intermediate,2019-04-18,2022-04-18,Expired
+2133,868,Wand Safety 101,Master,2023-08-09,2025-08-09,Expired
+2134,869,Dark Magic Identification,Intermediate,2016-01-11,2018-01-11,Valid
+2135,869,Dark Magic Identification,Master,2025-02-03,2026-02-03,Revoked
+2136,869,Dark Magic Identification,Master,2022-02-19,2025-02-19,Revoked
+2137,870,Potion Brewing Basics,Master,2019-12-17,2022-12-17,Revoked
+2138,870,Dark Magic Identification,Beginner,2017-12-15,2018-12-15,Valid
+2139,871,Advanced Spell Theory,Intermediate,2019-11-21,2020-11-21,Revoked
+2140,872,Magical Ethics,Intermediate,2019-05-19,2022-05-19,Expired
+2141,872,Teleportation Accuracy,Intermediate,2018-07-10,2022-07-10,Valid
+2142,872,Herbology Essentials,Master,2023-08-08,2024-08-08,Expired
+2143,873,Defensive Charms,Intermediate,2019-11-17,2024-11-17,Expired
+2144,873,Muggle Interaction Training,Master,2021-01-17,2023-01-17,Revoked
+2145,874,Herbology Essentials,Intermediate,2025-03-13,2026-03-13,Valid
+2146,874,Wand Safety 101,Intermediate,2023-12-02,2026-12-02,Valid
+2147,874,Defensive Charms,Master,2023-06-07,2027-06-07,Expired
+2148,874,Wand Safety 101,Master,2019-12-14,2021-12-14,Valid
+2149,875,Defensive Charms,Beginner,2024-10-03,2029-10-03,Valid
+2150,876,Wand Safety 101,Master,2022-08-11,2023-08-11,Valid
+2151,876,Teleportation Accuracy,Master,2019-09-28,2023-09-28,Valid
+2152,876,Wand Safety 101,Beginner,2022-09-28,2026-09-28,Revoked
+2153,876,Potion Brewing Basics,Master,2015-05-21,2020-05-21,Expired
+2154,877,Teleportation Accuracy,Beginner,2021-03-17,2022-03-17,Valid
+2155,877,Magical Ethics,Master,2019-08-30,2020-08-30,Expired
+2156,877,Defensive Charms,Intermediate,2018-11-16,2022-11-16,Valid
+2157,877,Potion Brewing Basics,Beginner,2023-09-01,2028-09-01,Valid
+2158,878,Muggle Interaction Training,Master,2023-08-31,2028-08-31,Expired
+2159,878,Herbology Essentials,Master,2019-05-20,2022-05-20,Expired
+2160,878,Potion Brewing Basics,Beginner,2018-05-09,2021-05-09,Revoked
+2161,878,Wand Safety 101,Beginner,2019-04-24,2021-04-24,Expired
+2162,879,Advanced Spell Theory,Intermediate,2019-08-29,2020-08-29,Valid
+2163,880,Advanced Spell Theory,Beginner,2019-07-02,2022-07-02,Expired
+2164,880,Magical Ethics,Intermediate,2024-12-01,2025-12-01,Valid
+2165,881,Dark Magic Identification,Master,2023-03-11,2026-03-11,Valid
+2166,881,Dark Magic Identification,Intermediate,2019-10-09,2022-10-09,Revoked
+2167,881,Muggle Interaction Training,Master,2020-12-23,2025-12-23,Expired
+2168,881,Teleportation Accuracy,Beginner,2018-03-26,2023-03-26,Expired
+2169,882,Teleportation Accuracy,Master,2022-01-29,2025-01-29,Revoked
+2170,883,Wand Safety 101,Intermediate,2022-10-24,2024-10-24,Expired
+2171,883,Potion Brewing Basics,Master,2024-03-27,2027-03-27,Revoked
+2172,883,Potion Brewing Basics,Intermediate,2020-08-11,2023-08-11,Valid
+2173,883,Muggle Interaction Training,Master,2022-10-02,2027-10-02,Revoked
+2174,884,Herbology Essentials,Intermediate,2017-06-12,2018-06-12,Revoked
+2175,884,Wand Safety 101,Master,2015-08-08,2019-08-08,Valid
+2176,884,Teleportation Accuracy,Master,2016-10-20,2021-10-20,Revoked
+2177,885,Potion Brewing Basics,Beginner,2015-11-16,2019-11-16,Expired
+2178,885,Potion Brewing Basics,Intermediate,2017-02-02,2020-02-02,Revoked
+2179,886,Potion Brewing Basics,Master,2025-03-17,2030-03-17,Revoked
+2180,886,Muggle Interaction Training,Intermediate,2018-11-12,2020-11-12,Expired
+2181,886,Wand Safety 101,Beginner,2019-11-07,2020-11-07,Expired
+2182,886,Dark Magic Identification,Intermediate,2017-07-06,2019-07-06,Expired
+2183,887,Wand Safety 101,Intermediate,2019-10-17,2022-10-17,Expired
+2184,887,Teleportation Accuracy,Beginner,2019-03-18,2024-03-18,Valid
+2185,887,Advanced Spell Theory,Intermediate,2024-08-01,2029-08-01,Revoked
+2186,887,Wand Safety 101,Intermediate,2017-06-09,2021-06-09,Expired
+2187,888,Dark Magic Identification,Master,2024-09-06,2025-09-06,Expired
+2188,888,Herbology Essentials,Beginner,2017-08-15,2021-08-15,Valid
+2189,888,Herbology Essentials,Master,2016-04-23,2019-04-23,Valid
+2190,889,Muggle Interaction Training,Intermediate,2023-10-28,2027-10-28,Expired
+2191,890,Muggle Interaction Training,Intermediate,2018-05-27,2022-05-27,Valid
+2192,890,Dark Magic Identification,Intermediate,2017-07-16,2018-07-16,Revoked
+2193,891,Teleportation Accuracy,Beginner,2024-08-28,2028-08-28,Valid
+2194,891,Muggle Interaction Training,Intermediate,2021-06-24,2022-06-24,Valid
+2195,891,Muggle Interaction Training,Beginner,2023-03-26,2026-03-26,Valid
+2196,891,Muggle Interaction Training,Master,2022-05-18,2023-05-18,Revoked
+2197,892,Wand Safety 101,Beginner,2020-07-19,2023-07-19,Valid
+2198,892,Dark Magic Identification,Intermediate,2025-02-23,2027-02-23,Expired
+2199,892,Teleportation Accuracy,Beginner,2016-04-23,2021-04-23,Revoked
+2200,892,Muggle Interaction Training,Intermediate,2021-08-27,2022-08-27,Revoked
+2201,893,Dark Magic Identification,Master,2023-11-02,2025-11-02,Revoked
+2202,893,Advanced Spell Theory,Beginner,2020-06-17,2025-06-17,Expired
+2203,893,Magical Ethics,Master,2023-10-19,2024-10-19,Revoked
+2204,893,Advanced Spell Theory,Master,2021-11-11,2025-11-11,Valid
+2205,894,Wand Safety 101,Master,2018-10-08,2021-10-08,Valid
+2206,894,Advanced Spell Theory,Master,2020-02-09,2023-02-09,Revoked
+2207,895,Potion Brewing Basics,Master,2024-05-18,2026-05-18,Valid
+2208,895,Muggle Interaction Training,Beginner,2019-07-25,2024-07-25,Valid
+2209,896,Wand Safety 101,Master,2021-02-22,2022-02-22,Valid
+2210,897,Dark Magic Identification,Master,2017-06-09,2018-06-09,Revoked
+2211,897,Potion Brewing Basics,Beginner,2024-03-03,2027-03-03,Valid
+2212,897,Potion Brewing Basics,Beginner,2024-09-04,2028-09-04,Valid
+2213,897,Muggle Interaction Training,Beginner,2022-12-26,2025-12-26,Valid
+2214,898,Defensive Charms,Intermediate,2021-02-25,2024-02-25,Revoked
+2215,899,Defensive Charms,Master,2018-01-31,2020-01-31,Revoked
+2216,899,Wand Safety 101,Master,2023-11-10,2027-11-10,Revoked
+2217,899,Wand Safety 101,Master,2015-09-27,2016-09-27,Revoked
+2218,899,Defensive Charms,Intermediate,2020-12-01,2023-12-01,Revoked
+2219,900,Herbology Essentials,Intermediate,2016-04-03,2019-04-03,Valid
+2220,900,Muggle Interaction Training,Master,2017-03-20,2020-03-20,Revoked
+2221,901,Wand Safety 101,Intermediate,2015-12-05,2018-12-05,Expired
+2222,901,Wand Safety 101,Intermediate,2019-03-20,2022-03-20,Expired
+2223,901,Potion Brewing Basics,Master,2018-02-04,2019-02-04,Revoked
+2224,902,Teleportation Accuracy,Intermediate,2022-05-04,2024-05-04,Valid
+2225,902,Magical Ethics,Master,2017-10-01,2019-10-01,Expired
+2226,903,Muggle Interaction Training,Master,2022-02-17,2027-02-17,Expired
+2227,903,Potion Brewing Basics,Intermediate,2015-10-04,2020-10-04,Expired
+2228,903,Potion Brewing Basics,Master,2023-06-29,2025-06-29,Valid
+2229,903,Wand Safety 101,Intermediate,2023-05-08,2025-05-08,Revoked
+2230,904,Teleportation Accuracy,Intermediate,2025-03-22,2030-03-22,Expired
+2231,904,Muggle Interaction Training,Intermediate,2020-03-23,2025-03-23,Revoked
+2232,904,Defensive Charms,Master,2022-09-13,2024-09-13,Expired
+2233,905,Dark Magic Identification,Master,2021-08-12,2023-08-12,Revoked
+2234,906,Herbology Essentials,Beginner,2018-06-06,2020-06-06,Expired
+2235,906,Magical Ethics,Intermediate,2023-05-19,2026-05-19,Valid
+2236,906,Teleportation Accuracy,Master,2018-12-22,2023-12-22,Valid
+2237,906,Muggle Interaction Training,Intermediate,2019-04-15,2020-04-15,Expired
+2238,907,Wand Safety 101,Intermediate,2018-06-09,2023-06-09,Revoked
+2239,907,Muggle Interaction Training,Intermediate,2022-07-09,2027-07-09,Valid
+2240,908,Defensive Charms,Intermediate,2023-10-11,2024-10-11,Expired
+2241,908,Potion Brewing Basics,Master,2024-02-05,2026-02-05,Expired
+2242,909,Magical Ethics,Master,2020-12-23,2025-12-23,Expired
+2243,910,Wand Safety 101,Master,2016-10-09,2020-10-09,Revoked
+2244,910,Herbology Essentials,Beginner,2021-11-30,2024-11-30,Valid
+2245,910,Potion Brewing Basics,Master,2024-03-07,2029-03-07,Expired
+2246,911,Dark Magic Identification,Intermediate,2021-06-19,2025-06-19,Expired
+2247,912,Muggle Interaction Training,Beginner,2018-03-15,2021-03-15,Revoked
+2248,913,Potion Brewing Basics,Beginner,2015-07-17,2016-07-17,Expired
+2249,913,Advanced Spell Theory,Beginner,2017-08-12,2021-08-12,Revoked
+2250,913,Teleportation Accuracy,Master,2025-03-09,2027-03-09,Valid
+2251,913,Defensive Charms,Intermediate,2021-04-07,2026-04-07,Revoked
+2252,914,Magical Ethics,Master,2020-12-06,2021-12-06,Valid
+2253,914,Muggle Interaction Training,Beginner,2017-01-26,2019-01-26,Revoked
+2254,914,Potion Brewing Basics,Beginner,2020-12-02,2024-12-02,Expired
+2255,915,Wand Safety 101,Intermediate,2019-04-22,2020-04-22,Expired
+2256,915,Magical Ethics,Intermediate,2022-04-25,2026-04-25,Valid
+2257,916,Teleportation Accuracy,Master,2016-11-23,2018-11-23,Revoked
+2258,917,Dark Magic Identification,Intermediate,2020-01-01,2024-01-01,Expired
+2259,917,Potion Brewing Basics,Intermediate,2017-11-12,2020-11-12,Revoked
+2260,917,Defensive Charms,Intermediate,2016-02-28,2019-02-28,Valid
+2261,917,Magical Ethics,Beginner,2016-09-20,2017-09-20,Expired
+2262,918,Potion Brewing Basics,Intermediate,2018-02-07,2022-02-07,Expired
+2263,918,Dark Magic Identification,Intermediate,2024-08-08,2028-08-08,Valid
+2264,918,Defensive Charms,Master,2022-12-09,2024-12-09,Expired
+2265,919,Wand Safety 101,Intermediate,2019-01-17,2024-01-17,Revoked
+2266,920,Potion Brewing Basics,Master,2016-06-27,2018-06-27,Revoked
+2267,920,Dark Magic Identification,Master,2020-06-27,2025-06-27,Valid
+2268,921,Magical Ethics,Master,2021-02-14,2023-02-14,Expired
+2269,921,Defensive Charms,Master,2019-10-26,2021-10-26,Expired
+2270,921,Teleportation Accuracy,Intermediate,2022-11-16,2025-11-16,Revoked
+2271,921,Advanced Spell Theory,Master,2019-06-15,2024-06-15,Valid
+2272,922,Muggle Interaction Training,Intermediate,2022-10-16,2027-10-16,Valid
+2273,923,Potion Brewing Basics,Master,2022-04-18,2025-04-18,Revoked
+2274,923,Herbology Essentials,Intermediate,2022-06-15,2025-06-15,Valid
+2275,923,Dark Magic Identification,Intermediate,2024-10-29,2028-10-29,Expired
+2276,924,Advanced Spell Theory,Beginner,2018-06-08,2021-06-08,Revoked
+2277,924,Magical Ethics,Master,2018-07-04,2021-07-04,Expired
+2278,924,Herbology Essentials,Intermediate,2020-04-10,2024-04-10,Valid
+2279,925,Teleportation Accuracy,Master,2019-01-10,2022-01-10,Expired
+2280,925,Teleportation Accuracy,Intermediate,2016-01-20,2020-01-20,Expired
+2281,926,Magical Ethics,Master,2021-10-17,2026-10-17,Revoked
+2282,926,Wand Safety 101,Intermediate,2024-11-22,2027-11-22,Valid
+2283,926,Herbology Essentials,Master,2017-12-29,2020-12-29,Valid
+2284,926,Defensive Charms,Master,2017-08-16,2021-08-16,Revoked
+2285,927,Potion Brewing Basics,Beginner,2023-02-26,2026-02-26,Expired
+2286,927,Herbology Essentials,Master,2017-11-01,2019-11-01,Valid
+2287,927,Magical Ethics,Master,2020-12-02,2023-12-02,Revoked
+2288,927,Magical Ethics,Master,2022-02-18,2024-02-18,Valid
+2289,928,Defensive Charms,Intermediate,2016-10-09,2018-10-09,Expired
+2290,928,Dark Magic Identification,Intermediate,2019-09-20,2024-09-20,Revoked
+2291,928,Magical Ethics,Intermediate,2024-08-09,2025-08-09,Expired
+2292,929,Wand Safety 101,Intermediate,2023-09-06,2024-09-06,Valid
+2293,929,Magical Ethics,Master,2023-10-13,2024-10-13,Revoked
+2294,929,Defensive Charms,Beginner,2019-05-20,2024-05-20,Expired
+2295,929,Muggle Interaction Training,Intermediate,2018-04-25,2023-04-25,Expired
+2296,930,Wand Safety 101,Master,2022-11-08,2026-11-08,Valid
+2297,931,Magical Ethics,Master,2025-02-07,2029-02-07,Revoked
+2298,932,Advanced Spell Theory,Intermediate,2019-03-09,2023-03-09,Valid
+2299,933,Potion Brewing Basics,Beginner,2020-02-14,2024-02-14,Valid
+2300,933,Herbology Essentials,Master,2018-06-25,2023-06-25,Expired
+2301,933,Advanced Spell Theory,Master,2020-05-14,2022-05-14,Expired
+2302,934,Herbology Essentials,Beginner,2020-11-28,2024-11-28,Valid
+2303,935,Defensive Charms,Beginner,2016-07-20,2018-07-20,Valid
+2304,935,Defensive Charms,Beginner,2016-04-30,2021-04-30,Revoked
+2305,936,Muggle Interaction Training,Beginner,2020-12-07,2024-12-07,Revoked
+2306,936,Muggle Interaction Training,Master,2024-06-07,2026-06-07,Valid
+2307,936,Potion Brewing Basics,Intermediate,2021-07-19,2026-07-19,Valid
+2308,936,Wand Safety 101,Beginner,2025-02-04,2028-02-04,Revoked
+2309,937,Potion Brewing Basics,Intermediate,2024-04-19,2029-04-19,Expired
+2310,937,Defensive Charms,Intermediate,2018-12-30,2022-12-30,Expired
+2311,937,Magical Ethics,Intermediate,2024-09-27,2027-09-27,Valid
+2312,938,Dark Magic Identification,Master,2024-06-24,2028-06-24,Valid
+2313,938,Magical Ethics,Master,2018-12-26,2021-12-26,Valid
+2314,938,Potion Brewing Basics,Beginner,2015-05-19,2016-05-19,Valid
+2315,939,Teleportation Accuracy,Master,2021-12-05,2024-12-05,Expired
+2316,939,Wand Safety 101,Beginner,2024-11-20,2026-11-20,Revoked
+2317,940,Teleportation Accuracy,Beginner,2019-01-25,2024-01-25,Expired
+2318,940,Potion Brewing Basics,Beginner,2023-05-29,2028-05-29,Revoked
+2319,941,Potion Brewing Basics,Master,2024-01-23,2028-01-23,Valid
+2320,942,Teleportation Accuracy,Master,2022-07-08,2025-07-08,Expired
+2321,942,Defensive Charms,Master,2020-06-30,2025-06-30,Expired
+2322,942,Advanced Spell Theory,Intermediate,2017-05-08,2022-05-08,Revoked
+2323,943,Herbology Essentials,Beginner,2023-10-23,2028-10-23,Valid
+2324,943,Muggle Interaction Training,Intermediate,2022-08-26,2027-08-26,Revoked
+2325,943,Advanced Spell Theory,Master,2023-12-02,2028-12-02,Revoked
+2326,943,Advanced Spell Theory,Master,2022-11-15,2026-11-15,Expired
+2327,944,Teleportation Accuracy,Beginner,2023-12-01,2025-12-01,Expired
+2328,945,Defensive Charms,Master,2019-01-04,2024-01-04,Valid
+2329,945,Magical Ethics,Beginner,2017-04-29,2022-04-29,Revoked
+2330,945,Potion Brewing Basics,Intermediate,2017-10-20,2021-10-20,Expired
+2331,945,Advanced Spell Theory,Master,2022-05-28,2024-05-28,Valid
+2332,946,Herbology Essentials,Intermediate,2019-08-10,2022-08-10,Revoked
+2333,946,Advanced Spell Theory,Master,2018-11-26,2022-11-26,Valid
+2334,947,Potion Brewing Basics,Intermediate,2015-12-31,2018-12-31,Valid
+2335,948,Potion Brewing Basics,Beginner,2019-05-25,2023-05-25,Revoked
+2336,948,Magical Ethics,Master,2016-07-10,2020-07-10,Valid
+2337,948,Defensive Charms,Beginner,2015-09-06,2016-09-06,Revoked
+2338,949,Dark Magic Identification,Master,2021-09-19,2024-09-19,Revoked
+2339,950,Defensive Charms,Beginner,2017-07-04,2021-07-04,Valid
+2340,951,Dark Magic Identification,Master,2018-10-25,2019-10-25,Revoked
+2341,951,Advanced Spell Theory,Master,2019-04-04,2024-04-04,Expired
+2342,951,Dark Magic Identification,Beginner,2024-03-03,2029-03-03,Expired
+2343,952,Teleportation Accuracy,Intermediate,2017-11-08,2022-11-08,Valid
+2344,952,Herbology Essentials,Master,2019-12-26,2022-12-26,Expired
+2345,952,Muggle Interaction Training,Master,2021-02-21,2024-02-21,Valid
+2346,952,Muggle Interaction Training,Beginner,2025-02-09,2026-02-09,Valid
+2347,953,Teleportation Accuracy,Master,2025-01-06,2026-01-06,Valid
+2348,953,Wand Safety 101,Beginner,2016-03-29,2017-03-29,Valid
+2349,953,Wand Safety 101,Master,2024-10-26,2026-10-26,Revoked
+2350,953,Teleportation Accuracy,Beginner,2015-11-16,2018-11-16,Valid
+2351,954,Muggle Interaction Training,Intermediate,2016-11-29,2017-11-29,Revoked
+2352,955,Teleportation Accuracy,Master,2018-01-28,2020-01-28,Revoked
+2353,956,Defensive Charms,Beginner,2022-01-11,2023-01-11,Valid
+2354,956,Dark Magic Identification,Intermediate,2016-12-11,2017-12-11,Expired
+2355,957,Muggle Interaction Training,Master,2024-07-06,2026-07-06,Revoked
+2356,957,Potion Brewing Basics,Beginner,2015-11-28,2019-11-28,Valid
+2357,957,Magical Ethics,Intermediate,2021-06-30,2025-06-30,Expired
+2358,957,Potion Brewing Basics,Master,2019-06-08,2024-06-08,Revoked
+2359,958,Dark Magic Identification,Master,2024-07-22,2029-07-22,Revoked
+2360,959,Muggle Interaction Training,Intermediate,2018-01-04,2023-01-04,Expired
+2361,959,Wand Safety 101,Intermediate,2020-04-22,2025-04-22,Revoked
+2362,959,Teleportation Accuracy,Intermediate,2018-02-02,2019-02-02,Expired
+2363,960,Defensive Charms,Intermediate,2025-03-14,2026-03-14,Expired
+2364,960,Potion Brewing Basics,Master,2024-05-24,2028-05-24,Valid
+2365,961,Herbology Essentials,Master,2020-02-24,2022-02-24,Valid
+2366,961,Teleportation Accuracy,Beginner,2021-10-24,2026-10-24,Revoked
+2367,961,Advanced Spell Theory,Master,2019-03-15,2021-03-15,Valid
+2368,962,Magical Ethics,Intermediate,2018-04-01,2023-04-01,Expired
+2369,962,Defensive Charms,Intermediate,2021-10-18,2024-10-18,Revoked
+2370,963,Magical Ethics,Master,2018-04-23,2022-04-23,Expired
+2371,964,Dark Magic Identification,Beginner,2016-03-31,2017-03-31,Valid
+2372,964,Dark Magic Identification,Beginner,2018-08-28,2021-08-28,Revoked
+2373,964,Wand Safety 101,Beginner,2019-10-09,2020-10-09,Valid
+2374,964,Muggle Interaction Training,Intermediate,2023-02-01,2026-02-01,Revoked
+2375,965,Teleportation Accuracy,Intermediate,2025-01-07,2029-01-07,Valid
+2376,965,Teleportation Accuracy,Intermediate,2024-08-10,2025-08-10,Revoked
+2377,966,Muggle Interaction Training,Intermediate,2022-07-18,2023-07-18,Revoked
+2378,966,Teleportation Accuracy,Beginner,2021-01-08,2022-01-08,Expired
+2379,966,Defensive Charms,Beginner,2017-11-24,2022-11-24,Expired
+2380,967,Advanced Spell Theory,Beginner,2018-06-01,2021-06-01,Expired
+2381,967,Advanced Spell Theory,Beginner,2017-01-22,2020-01-22,Revoked
+2382,967,Magical Ethics,Beginner,2015-09-25,2020-09-25,Expired
+2383,967,Advanced Spell Theory,Beginner,2022-11-30,2025-11-30,Expired
+2384,968,Teleportation Accuracy,Master,2015-12-07,2020-12-07,Valid
+2385,968,Magical Ethics,Beginner,2020-05-23,2021-05-23,Valid
+2386,969,Dark Magic Identification,Master,2021-03-07,2022-03-07,Revoked
+2387,970,Magical Ethics,Beginner,2019-04-08,2024-04-08,Expired
+2388,970,Defensive Charms,Beginner,2017-02-16,2019-02-16,Revoked
+2389,970,Dark Magic Identification,Master,2023-03-09,2025-03-09,Revoked
+2390,971,Defensive Charms,Master,2016-07-31,2019-07-31,Valid
+2391,971,Dark Magic Identification,Master,2022-11-17,2025-11-17,Expired
+2392,971,Potion Brewing Basics,Intermediate,2018-04-17,2023-04-17,Valid
+2393,971,Defensive Charms,Beginner,2019-03-24,2021-03-24,Expired
+2394,972,Wand Safety 101,Beginner,2017-04-08,2019-04-08,Valid
+2395,972,Defensive Charms,Master,2019-04-09,2020-04-09,Valid
+2396,972,Dark Magic Identification,Master,2024-02-06,2028-02-06,Revoked
+2397,973,Teleportation Accuracy,Master,2024-05-09,2029-05-09,Expired
+2398,974,Wand Safety 101,Master,2024-10-06,2029-10-06,Revoked
+2399,974,Advanced Spell Theory,Master,2019-12-05,2020-12-05,Revoked
+2400,975,Teleportation Accuracy,Intermediate,2023-03-02,2024-03-02,Revoked
+2401,975,Herbology Essentials,Master,2015-08-12,2020-08-12,Expired
+2402,976,Defensive Charms,Master,2019-07-10,2020-07-10,Revoked
+2403,976,Muggle Interaction Training,Intermediate,2018-07-22,2019-07-22,Valid
+2404,977,Herbology Essentials,Beginner,2021-02-28,2023-02-28,Expired
+2405,978,Potion Brewing Basics,Intermediate,2015-12-08,2017-12-08,Expired
+2406,978,Teleportation Accuracy,Beginner,2016-03-11,2020-03-11,Revoked
+2407,978,Advanced Spell Theory,Master,2018-10-18,2020-10-18,Revoked
+2408,978,Potion Brewing Basics,Intermediate,2024-07-12,2026-07-12,Valid
+2409,979,Advanced Spell Theory,Intermediate,2023-01-11,2026-01-11,Valid
+2410,979,Dark Magic Identification,Intermediate,2024-03-05,2029-03-05,Valid
+2411,979,Defensive Charms,Beginner,2017-12-12,2019-12-12,Expired
+2412,979,Advanced Spell Theory,Master,2019-04-05,2020-04-05,Valid
+2413,980,Muggle Interaction Training,Intermediate,2016-10-15,2021-10-15,Revoked
+2414,980,Defensive Charms,Intermediate,2024-06-25,2028-06-25,Valid
+2415,981,Advanced Spell Theory,Beginner,2020-05-07,2021-05-07,Valid
+2416,982,Magical Ethics,Intermediate,2024-10-25,2025-10-25,Expired
+2417,983,Advanced Spell Theory,Master,2023-04-07,2027-04-07,Valid
+2418,983,Wand Safety 101,Master,2024-07-17,2028-07-17,Expired
+2419,984,Potion Brewing Basics,Beginner,2019-02-16,2021-02-16,Expired
+2420,984,Dark Magic Identification,Intermediate,2015-05-26,2019-05-26,Expired
+2421,984,Dark Magic Identification,Beginner,2016-12-12,2019-12-12,Valid
+2422,985,Defensive Charms,Intermediate,2016-08-08,2020-08-08,Valid
+2423,985,Dark Magic Identification,Beginner,2018-11-28,2021-11-28,Expired
+2424,986,Muggle Interaction Training,Beginner,2019-11-14,2024-11-14,Expired
+2425,986,Magical Ethics,Intermediate,2022-11-10,2026-11-10,Valid
+2426,986,Muggle Interaction Training,Intermediate,2018-01-20,2023-01-20,Expired
+2427,987,Defensive Charms,Master,2024-04-25,2025-04-25,Valid
+2428,987,Herbology Essentials,Beginner,2022-08-28,2025-08-28,Revoked
+2429,988,Defensive Charms,Beginner,2024-05-24,2026-05-24,Expired
+2430,988,Defensive Charms,Beginner,2024-10-07,2028-10-07,Revoked
+2431,988,Muggle Interaction Training,Master,2020-12-14,2021-12-14,Revoked
+2432,988,Dark Magic Identification,Intermediate,2024-10-06,2028-10-06,Expired
+2433,989,Magical Ethics,Intermediate,2015-04-08,2018-04-08,Valid
+2434,989,Teleportation Accuracy,Intermediate,2019-12-09,2020-12-09,Valid
+2435,989,Herbology Essentials,Beginner,2022-02-13,2023-02-13,Revoked
+2436,990,Teleportation Accuracy,Master,2020-10-04,2023-10-04,Expired
+2437,991,Magical Ethics,Intermediate,2023-12-05,2024-12-05,Expired
+2438,991,Wand Safety 101,Master,2023-10-15,2026-10-15,Valid
+2439,991,Wand Safety 101,Beginner,2021-02-22,2025-02-22,Valid
+2440,992,Herbology Essentials,Intermediate,2023-03-31,2027-03-31,Expired
+2441,992,Teleportation Accuracy,Beginner,2024-03-13,2025-03-13,Expired
+2442,992,Potion Brewing Basics,Intermediate,2024-05-17,2028-05-17,Revoked
+2443,992,Defensive Charms,Master,2022-05-09,2025-05-09,Revoked
+2444,993,Advanced Spell Theory,Master,2016-05-19,2021-05-19,Revoked
+2445,993,Herbology Essentials,Beginner,2015-04-14,2016-04-14,Revoked
+2446,993,Teleportation Accuracy,Intermediate,2024-06-03,2027-06-03,Revoked
+2447,993,Wand Safety 101,Master,2016-04-23,2017-04-23,Valid
+2448,994,Magical Ethics,Intermediate,2019-07-09,2020-07-09,Valid
+2449,994,Teleportation Accuracy,Intermediate,2022-10-14,2026-10-14,Expired
+2450,994,Potion Brewing Basics,Master,2024-04-12,2028-04-12,Valid
+2451,995,Teleportation Accuracy,Beginner,2015-08-21,2017-08-21,Expired
+2452,996,Magical Ethics,Beginner,2018-08-11,2023-08-11,Revoked
+2453,996,Potion Brewing Basics,Beginner,2020-08-24,2022-08-24,Revoked
+2454,997,Advanced Spell Theory,Beginner,2024-06-16,2027-06-16,Expired
+2455,997,Teleportation Accuracy,Beginner,2020-01-28,2021-01-28,Valid
+2456,997,Herbology Essentials,Beginner,2021-09-15,2022-09-15,Valid
+2457,997,Teleportation Accuracy,Master,2022-09-09,2026-09-09,Valid
+2458,998,Wand Safety 101,Beginner,2016-06-01,2019-06-01,Valid
+2459,998,Wand Safety 101,Master,2023-03-06,2028-03-06,Expired
+2460,998,Advanced Spell Theory,Intermediate,2015-07-22,2020-07-22,Expired
+2461,999,Magical Ethics,Beginner,2016-12-09,2019-12-09,Revoked
+2462,999,Defensive Charms,Master,2019-02-07,2023-02-07,Expired
+2463,999,Dark Magic Identification,Beginner,2024-04-12,2028-04-12,Valid
+2464,999,Defensive Charms,Intermediate,2021-08-05,2026-08-05,Valid
+2465,1000,Muggle Interaction Training,Master,2019-08-09,2022-08-09,Expired
+2466,1000,Magical Ethics,Intermediate,2023-06-11,2024-06-11,Valid

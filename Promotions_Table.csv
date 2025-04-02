@@ -1,0 +1,405 @@
+promotion_id,employee_id,promotion_date,previous_title,new_title,notes
+1,715,2023-01-21,Magical HR Specialist,Junior Spell Crafter,Successfully led magical creature relocation
+2,1000,2023-01-25,Magical HR Specialist,Master of Charms,Published advanced spell theory in Journal of Arcane Arts
+3,1000,2020-06-04,Master of Charms,Magical HR Specialist,Appointed by Ministry liaison
+4,1000,2024-08-05,Magical HR Specialist,Master of Charms,Recognized leadership in enchanted teams
+5,508,2020-05-15,Potions Intern,Senior Enchanter,Rapid learning of advanced charms
+6,508,2021-03-21,Senior Enchanter,Wand Safety Officer,Promoted for excellence in spellcasting
+7,932,2023-02-25,Potions Intern,Master of Charms,Successfully led magical creature relocation
+8,55,2021-06-30,Wand Safety Officer,Master of Charms,Published advanced spell theory in Journal of Arcane Arts
+9,55,2022-05-03,Master of Charms,Magical HR Specialist,Rapid learning of advanced charms
+10,314,2023-07-17,Wand Safety Officer,Junior Spell Crafter,Recognized leadership in enchanted teams
+11,83,2024-04-02,Senior Enchanter,Magical HR Specialist,Mentored multiple junior wizards
+12,83,2021-10-30,Magical HR Specialist,Junior Spell Crafter,Mentored multiple junior wizards
+13,83,2020-08-04,Junior Spell Crafter,Master of Charms,Mentored multiple junior wizards
+14,584,2021-05-19,Wand Safety Officer,Potions Intern,Recognized leadership in enchanted teams
+15,654,2023-09-17,Junior Spell Crafter,Potions Intern,Appointed by Ministry liaison
+16,654,2023-08-21,Potions Intern,Magical HR Specialist,Recognized leadership in enchanted teams
+17,721,2024-04-22,Junior Spell Crafter,Senior Enchanter,Mentored multiple junior wizards
+18,721,2022-04-05,Senior Enchanter,Junior Spell Crafter,Published advanced spell theory in Journal of Arcane Arts
+19,721,2021-03-31,Junior Spell Crafter,Potions Intern,Recognized leadership in enchanted teams
+20,227,2024-03-29,Senior Enchanter,Potions Intern,Appointed by Ministry liaison
+21,227,2023-11-22,Potions Intern,Junior Spell Crafter,Outstanding potion innovation
+22,227,2023-10-07,Junior Spell Crafter,Master of Charms,Successfully led magical creature relocation
+23,528,2020-09-11,Senior Enchanter,Wand Safety Officer,Mentored multiple junior wizards
+24,528,2022-10-04,Wand Safety Officer,Master of Charms,Mentored multiple junior wizards
+25,549,2022-06-13,Magical HR Specialist,Wand Safety Officer,Outstanding potion innovation
+26,786,2021-04-04,Senior Enchanter,Magical HR Specialist,Promoted for excellence in spellcasting
+27,786,2022-07-11,Magical HR Specialist,Master of Charms,Outstanding potion innovation
+28,764,2020-09-15,Senior Enchanter,Junior Spell Crafter,Promoted for excellence in spellcasting
+29,764,2022-03-22,Junior Spell Crafter,Magical HR Specialist,Promoted for excellence in spellcasting
+30,966,2022-03-11,Magical HR Specialist,Potions Intern,Mentored multiple junior wizards
+31,966,2020-05-15,Potions Intern,Magical HR Specialist,Appointed by Ministry liaison
+32,969,2022-11-28,Master of Charms,Junior Spell Crafter,Rapid learning of advanced charms
+33,969,2022-05-02,Junior Spell Crafter,Magical HR Specialist,Appointed by Ministry liaison
+34,969,2023-08-04,Magical HR Specialist,Master of Charms,Mentored multiple junior wizards
+35,656,2020-12-21,Junior Spell Crafter,Potions Intern,Recognized leadership in enchanted teams
+36,656,2023-01-01,Potions Intern,Wand Safety Officer,Promoted for excellence in spellcasting
+37,44,2021-11-22,Senior Enchanter,Junior Spell Crafter,Outstanding potion innovation
+38,44,2021-10-07,Junior Spell Crafter,Magical HR Specialist,Mentored multiple junior wizards
+39,517,2021-03-30,Master of Charms,Junior Spell Crafter,Published advanced spell theory in Journal of Arcane Arts
+40,517,2022-08-10,Junior Spell Crafter,Potions Intern,Promoted for excellence in spellcasting
+41,517,2021-01-13,Potions Intern,Senior Enchanter,Promoted for excellence in spellcasting
+42,601,2022-03-03,Potions Intern,Master of Charms,Appointed by Ministry liaison
+43,868,2021-05-29,Senior Enchanter,Master of Charms,Appointed by Ministry liaison
+44,944,2024-05-11,Master of Charms,Senior Enchanter,Successfully led magical creature relocation
+45,944,2020-09-10,Senior Enchanter,Wand Safety Officer,Outstanding potion innovation
+46,570,2024-12-17,Junior Spell Crafter,Magical HR Specialist,Rapid learning of advanced charms
+47,570,2023-02-04,Magical HR Specialist,Senior Enchanter,Recognized leadership in enchanted teams
+48,570,2020-10-04,Senior Enchanter,Wand Safety Officer,Promoted for excellence in spellcasting
+49,170,2024-12-08,Potions Intern,Wand Safety Officer,Mentored multiple junior wizards
+50,170,2023-01-04,Wand Safety Officer,Potions Intern,Recognized leadership in enchanted teams
+51,552,2024-02-16,Junior Spell Crafter,Magical HR Specialist,Appointed by Ministry liaison
+52,248,2020-05-12,Magical HR Specialist,Master of Charms,Successfully led magical creature relocation
+53,248,2024-05-15,Master of Charms,Wand Safety Officer,Promoted for excellence in spellcasting
+54,256,2023-07-21,Master of Charms,Magical HR Specialist,Promoted for excellence in spellcasting
+55,256,2021-10-17,Magical HR Specialist,Junior Spell Crafter,Successfully led magical creature relocation
+56,377,2020-06-27,Potions Intern,Senior Enchanter,Published advanced spell theory in Journal of Arcane Arts
+57,377,2023-11-01,Senior Enchanter,Wand Safety Officer,Outstanding potion innovation
+58,377,2022-04-23,Wand Safety Officer,Junior Spell Crafter,Successfully led magical creature relocation
+59,996,2022-10-30,Magical HR Specialist,Junior Spell Crafter,Successfully led magical creature relocation
+60,996,2021-07-18,Junior Spell Crafter,Potions Intern,Recognized leadership in enchanted teams
+61,996,2024-05-12,Potions Intern,Junior Spell Crafter,Successfully led magical creature relocation
+62,401,2022-11-07,Junior Spell Crafter,Senior Enchanter,Mentored multiple junior wizards
+63,401,2021-06-11,Senior Enchanter,Magical HR Specialist,Mentored multiple junior wizards
+64,401,2024-04-09,Magical HR Specialist,Potions Intern,Published advanced spell theory in Journal of Arcane Arts
+65,323,2020-11-10,Potions Intern,Wand Safety Officer,Appointed by Ministry liaison
+66,757,2021-11-02,Wand Safety Officer,Magical HR Specialist,Outstanding potion innovation
+67,961,2022-02-21,Wand Safety Officer,Potions Intern,Rapid learning of advanced charms
+68,43,2020-11-22,Wand Safety Officer,Junior Spell Crafter,Appointed by Ministry liaison
+69,43,2021-07-18,Junior Spell Crafter,Senior Enchanter,Successfully led magical creature relocation
+70,43,2021-10-01,Senior Enchanter,Potions Intern,Successfully led magical creature relocation
+71,186,2024-12-11,Junior Spell Crafter,Magical HR Specialist,Recognized leadership in enchanted teams
+72,844,2021-01-31,Potions Intern,Magical HR Specialist,Mentored multiple junior wizards
+73,103,2024-09-03,Master of Charms,Potions Intern,Successfully led magical creature relocation
+74,103,2023-08-01,Potions Intern,Magical HR Specialist,Outstanding potion innovation
+75,14,2020-08-23,Wand Safety Officer,Senior Enchanter,Recognized leadership in enchanted teams
+76,14,2022-08-21,Senior Enchanter,Potions Intern,Appointed by Ministry liaison
+77,849,2022-08-20,Senior Enchanter,Wand Safety Officer,Rapid learning of advanced charms
+78,910,2023-03-06,Magical HR Specialist,Wand Safety Officer,Promoted for excellence in spellcasting
+79,910,2021-01-25,Wand Safety Officer,Potions Intern,Rapid learning of advanced charms
+80,435,2023-02-18,Wand Safety Officer,Potions Intern,Promoted for excellence in spellcasting
+81,194,2024-03-06,Junior Spell Crafter,Master of Charms,Rapid learning of advanced charms
+82,194,2020-11-14,Master of Charms,Senior Enchanter,Recognized leadership in enchanted teams
+83,194,2021-03-18,Senior Enchanter,Junior Spell Crafter,Published advanced spell theory in Journal of Arcane Arts
+84,593,2024-06-19,Junior Spell Crafter,Magical HR Specialist,Recognized leadership in enchanted teams
+85,593,2024-06-14,Magical HR Specialist,Master of Charms,Rapid learning of advanced charms
+86,462,2023-05-12,Junior Spell Crafter,Senior Enchanter,Promoted for excellence in spellcasting
+87,211,2023-02-01,Senior Enchanter,Wand Safety Officer,Published advanced spell theory in Journal of Arcane Arts
+88,211,2021-05-18,Wand Safety Officer,Magical HR Specialist,Published advanced spell theory in Journal of Arcane Arts
+89,211,2020-09-25,Magical HR Specialist,Master of Charms,Mentored multiple junior wizards
+90,166,2022-08-26,Potions Intern,Wand Safety Officer,Successfully led magical creature relocation
+91,166,2025-03-10,Wand Safety Officer,Junior Spell Crafter,Mentored multiple junior wizards
+92,219,2024-06-15,Master of Charms,Wand Safety Officer,Promoted for excellence in spellcasting
+93,219,2023-10-29,Wand Safety Officer,Master of Charms,Mentored multiple junior wizards
+94,515,2023-09-30,Potions Intern,Junior Spell Crafter,Mentored multiple junior wizards
+95,515,2022-07-05,Junior Spell Crafter,Master of Charms,Rapid learning of advanced charms
+96,515,2024-08-15,Master of Charms,Magical HR Specialist,Outstanding potion innovation
+97,911,2023-08-24,Master of Charms,Magical HR Specialist,Successfully led magical creature relocation
+98,911,2025-03-30,Magical HR Specialist,Wand Safety Officer,Published advanced spell theory in Journal of Arcane Arts
+99,911,2024-10-25,Wand Safety Officer,Master of Charms,Successfully led magical creature relocation
+100,948,2023-01-22,Master of Charms,Potions Intern,Mentored multiple junior wizards
+101,406,2022-09-17,Junior Spell Crafter,Potions Intern,Mentored multiple junior wizards
+102,406,2022-03-07,Potions Intern,Wand Safety Officer,Successfully led magical creature relocation
+103,406,2024-07-11,Wand Safety Officer,Magical HR Specialist,Rapid learning of advanced charms
+104,400,2023-09-21,Senior Enchanter,Master of Charms,Mentored multiple junior wizards
+105,400,2021-03-18,Master of Charms,Wand Safety Officer,Rapid learning of advanced charms
+106,673,2024-11-12,Wand Safety Officer,Junior Spell Crafter,Outstanding potion innovation
+107,667,2023-08-11,Senior Enchanter,Master of Charms,Outstanding potion innovation
+108,326,2020-09-27,Potions Intern,Wand Safety Officer,Rapid learning of advanced charms
+109,326,2022-02-18,Wand Safety Officer,Senior Enchanter,Mentored multiple junior wizards
+110,326,2024-04-02,Senior Enchanter,Junior Spell Crafter,Recognized leadership in enchanted teams
+111,402,2023-07-22,Magical HR Specialist,Junior Spell Crafter,Successfully led magical creature relocation
+112,402,2023-09-07,Junior Spell Crafter,Potions Intern,Appointed by Ministry liaison
+113,58,2024-04-23,Magical HR Specialist,Master of Charms,Mentored multiple junior wizards
+114,405,2024-01-12,Junior Spell Crafter,Master of Charms,Appointed by Ministry liaison
+115,405,2022-06-17,Master of Charms,Senior Enchanter,Recognized leadership in enchanted teams
+116,405,2024-01-26,Senior Enchanter,Master of Charms,Successfully led magical creature relocation
+117,5,2024-09-30,Senior Enchanter,Junior Spell Crafter,Rapid learning of advanced charms
+118,5,2022-06-26,Junior Spell Crafter,Master of Charms,Promoted for excellence in spellcasting
+119,689,2021-06-08,Magical HR Specialist,Master of Charms,Recognized leadership in enchanted teams
+120,686,2023-11-30,Wand Safety Officer,Potions Intern,Successfully led magical creature relocation
+121,686,2021-01-27,Potions Intern,Wand Safety Officer,Published advanced spell theory in Journal of Arcane Arts
+122,686,2023-03-18,Wand Safety Officer,Senior Enchanter,Published advanced spell theory in Journal of Arcane Arts
+123,309,2023-06-10,Potions Intern,Wand Safety Officer,Promoted for excellence in spellcasting
+124,603,2020-04-29,Junior Spell Crafter,Senior Enchanter,Published advanced spell theory in Journal of Arcane Arts
+125,603,2024-07-16,Senior Enchanter,Wand Safety Officer,Published advanced spell theory in Journal of Arcane Arts
+126,502,2021-11-12,Wand Safety Officer,Senior Enchanter,Appointed by Ministry liaison
+127,502,2020-07-07,Senior Enchanter,Master of Charms,Promoted for excellence in spellcasting
+128,502,2022-07-03,Master of Charms,Magical HR Specialist,Rapid learning of advanced charms
+129,530,2024-04-30,Senior Enchanter,Potions Intern,Rapid learning of advanced charms
+130,530,2020-07-14,Potions Intern,Master of Charms,Promoted for excellence in spellcasting
+131,530,2022-03-29,Master of Charms,Potions Intern,Rapid learning of advanced charms
+132,451,2023-01-31,Master of Charms,Magical HR Specialist,Rapid learning of advanced charms
+133,263,2023-04-04,Master of Charms,Junior Spell Crafter,Rapid learning of advanced charms
+134,344,2024-09-27,Magical HR Specialist,Wand Safety Officer,Mentored multiple junior wizards
+135,50,2022-12-07,Magical HR Specialist,Master of Charms,Mentored multiple junior wizards
+136,50,2021-09-19,Master of Charms,Junior Spell Crafter,Rapid learning of advanced charms
+137,50,2021-06-01,Junior Spell Crafter,Master of Charms,Appointed by Ministry liaison
+138,89,2024-04-20,Senior Enchanter,Magical HR Specialist,Outstanding potion innovation
+139,89,2022-02-12,Magical HR Specialist,Senior Enchanter,Outstanding potion innovation
+140,89,2024-04-15,Senior Enchanter,Wand Safety Officer,Outstanding potion innovation
+141,458,2021-04-09,Magical HR Specialist,Junior Spell Crafter,Successfully led magical creature relocation
+142,458,2022-10-12,Junior Spell Crafter,Magical HR Specialist,Rapid learning of advanced charms
+143,458,2023-05-26,Magical HR Specialist,Potions Intern,Recognized leadership in enchanted teams
+144,232,2023-01-17,Wand Safety Officer,Junior Spell Crafter,Rapid learning of advanced charms
+145,704,2025-02-22,Potions Intern,Magical HR Specialist,Promoted for excellence in spellcasting
+146,704,2022-09-18,Magical HR Specialist,Master of Charms,Promoted for excellence in spellcasting
+147,704,2024-02-19,Master of Charms,Magical HR Specialist,Successfully led magical creature relocation
+148,947,2020-05-23,Senior Enchanter,Wand Safety Officer,Appointed by Ministry liaison
+149,789,2020-06-08,Junior Spell Crafter,Senior Enchanter,Mentored multiple junior wizards
+150,821,2021-03-11,Master of Charms,Senior Enchanter,Published advanced spell theory in Journal of Arcane Arts
+151,821,2022-09-17,Senior Enchanter,Wand Safety Officer,Outstanding potion innovation
+152,205,2025-02-02,Potions Intern,Wand Safety Officer,Published advanced spell theory in Journal of Arcane Arts
+153,205,2020-07-29,Wand Safety Officer,Magical HR Specialist,Mentored multiple junior wizards
+154,205,2024-07-22,Magical HR Specialist,Wand Safety Officer,Rapid learning of advanced charms
+155,81,2024-07-27,Senior Enchanter,Wand Safety Officer,Published advanced spell theory in Journal of Arcane Arts
+156,21,2021-10-03,Magical HR Specialist,Senior Enchanter,Rapid learning of advanced charms
+157,21,2020-11-25,Senior Enchanter,Junior Spell Crafter,Recognized leadership in enchanted teams
+158,21,2021-03-04,Junior Spell Crafter,Senior Enchanter,Published advanced spell theory in Journal of Arcane Arts
+159,350,2022-04-17,Wand Safety Officer,Potions Intern,Mentored multiple junior wizards
+160,350,2023-11-04,Potions Intern,Wand Safety Officer,Promoted for excellence in spellcasting
+161,350,2023-06-22,Wand Safety Officer,Magical HR Specialist,Recognized leadership in enchanted teams
+162,624,2020-10-05,Master of Charms,Senior Enchanter,Successfully led magical creature relocation
+163,624,2021-07-28,Senior Enchanter,Potions Intern,Published advanced spell theory in Journal of Arcane Arts
+164,683,2024-08-12,Master of Charms,Wand Safety Officer,Appointed by Ministry liaison
+165,254,2021-06-11,Master of Charms,Junior Spell Crafter,Recognized leadership in enchanted teams
+166,254,2024-11-13,Junior Spell Crafter,Wand Safety Officer,Recognized leadership in enchanted teams
+167,703,2020-11-08,Wand Safety Officer,Magical HR Specialist,Recognized leadership in enchanted teams
+168,703,2022-11-29,Magical HR Specialist,Junior Spell Crafter,Published advanced spell theory in Journal of Arcane Arts
+169,703,2023-05-27,Junior Spell Crafter,Wand Safety Officer,Appointed by Ministry liaison
+170,373,2021-04-06,Wand Safety Officer,Senior Enchanter,Mentored multiple junior wizards
+171,373,2022-05-18,Senior Enchanter,Potions Intern,Mentored multiple junior wizards
+172,67,2021-09-10,Magical HR Specialist,Potions Intern,Mentored multiple junior wizards
+173,423,2024-05-26,Junior Spell Crafter,Potions Intern,Recognized leadership in enchanted teams
+174,423,2021-09-21,Potions Intern,Wand Safety Officer,Rapid learning of advanced charms
+175,423,2023-05-29,Wand Safety Officer,Magical HR Specialist,Appointed by Ministry liaison
+176,729,2020-05-27,Senior Enchanter,Junior Spell Crafter,Promoted for excellence in spellcasting
+177,729,2023-12-21,Junior Spell Crafter,Senior Enchanter,Outstanding potion innovation
+178,448,2020-04-07,Senior Enchanter,Master of Charms,Mentored multiple junior wizards
+179,482,2024-11-10,Master of Charms,Senior Enchanter,Rapid learning of advanced charms
+180,482,2023-01-21,Senior Enchanter,Junior Spell Crafter,Appointed by Ministry liaison
+181,693,2020-04-08,Magical HR Specialist,Junior Spell Crafter,Recognized leadership in enchanted teams
+182,693,2021-06-26,Junior Spell Crafter,Master of Charms,Published advanced spell theory in Journal of Arcane Arts
+183,693,2020-12-30,Master of Charms,Wand Safety Officer,Mentored multiple junior wizards
+184,557,2021-03-09,Magical HR Specialist,Master of Charms,Rapid learning of advanced charms
+185,411,2023-12-08,Junior Spell Crafter,Potions Intern,Appointed by Ministry liaison
+186,411,2021-09-22,Potions Intern,Senior Enchanter,Promoted for excellence in spellcasting
+187,677,2021-07-07,Junior Spell Crafter,Master of Charms,Appointed by Ministry liaison
+188,677,2020-10-17,Master of Charms,Senior Enchanter,Successfully led magical creature relocation
+189,454,2021-08-12,Magical HR Specialist,Potions Intern,Outstanding potion innovation
+190,454,2020-06-10,Potions Intern,Wand Safety Officer,Mentored multiple junior wizards
+191,588,2024-03-13,Magical HR Specialist,Wand Safety Officer,Published advanced spell theory in Journal of Arcane Arts
+192,467,2024-06-20,Potions Intern,Senior Enchanter,Published advanced spell theory in Journal of Arcane Arts
+193,467,2023-08-11,Senior Enchanter,Wand Safety Officer,Appointed by Ministry liaison
+194,467,2020-09-22,Wand Safety Officer,Junior Spell Crafter,Published advanced spell theory in Journal of Arcane Arts
+195,202,2023-07-18,Potions Intern,Senior Enchanter,Successfully led magical creature relocation
+196,202,2024-01-21,Senior Enchanter,Master of Charms,Appointed by Ministry liaison
+197,202,2020-10-08,Master of Charms,Wand Safety Officer,Rapid learning of advanced charms
+198,262,2021-02-14,Magical HR Specialist,Potions Intern,Recognized leadership in enchanted teams
+199,262,2023-12-13,Potions Intern,Junior Spell Crafter,Recognized leadership in enchanted teams
+200,214,2021-07-05,Magical HR Specialist,Junior Spell Crafter,Published advanced spell theory in Journal of Arcane Arts
+201,214,2022-01-17,Junior Spell Crafter,Potions Intern,Published advanced spell theory in Journal of Arcane Arts
+202,669,2024-02-25,Magical HR Specialist,Wand Safety Officer,Recognized leadership in enchanted teams
+203,669,2023-07-26,Wand Safety Officer,Junior Spell Crafter,Outstanding potion innovation
+204,838,2021-06-07,Junior Spell Crafter,Potions Intern,Outstanding potion innovation
+205,838,2020-08-29,Potions Intern,Magical HR Specialist,Appointed by Ministry liaison
+206,838,2022-05-11,Magical HR Specialist,Potions Intern,Promoted for excellence in spellcasting
+207,303,2023-11-15,Junior Spell Crafter,Senior Enchanter,Published advanced spell theory in Journal of Arcane Arts
+208,303,2024-06-13,Senior Enchanter,Wand Safety Officer,Appointed by Ministry liaison
+209,852,2021-03-15,Senior Enchanter,Junior Spell Crafter,Recognized leadership in enchanted teams
+210,852,2021-03-08,Junior Spell Crafter,Master of Charms,Successfully led magical creature relocation
+211,972,2023-10-07,Wand Safety Officer,Senior Enchanter,Mentored multiple junior wizards
+212,972,2024-03-23,Senior Enchanter,Wand Safety Officer,Successfully led magical creature relocation
+213,972,2023-08-07,Wand Safety Officer,Junior Spell Crafter,Mentored multiple junior wizards
+214,172,2020-06-17,Senior Enchanter,Junior Spell Crafter,Rapid learning of advanced charms
+215,172,2024-02-14,Junior Spell Crafter,Potions Intern,Rapid learning of advanced charms
+216,32,2023-04-17,Wand Safety Officer,Junior Spell Crafter,Mentored multiple junior wizards
+217,281,2025-02-21,Magical HR Specialist,Junior Spell Crafter,Appointed by Ministry liaison
+218,281,2022-09-21,Junior Spell Crafter,Wand Safety Officer,Outstanding potion innovation
+219,225,2021-10-18,Master of Charms,Magical HR Specialist,Recognized leadership in enchanted teams
+220,774,2020-11-26,Junior Spell Crafter,Master of Charms,Promoted for excellence in spellcasting
+221,774,2024-08-30,Master of Charms,Magical HR Specialist,Promoted for excellence in spellcasting
+222,774,2024-11-12,Magical HR Specialist,Wand Safety Officer,Published advanced spell theory in Journal of Arcane Arts
+223,125,2025-01-27,Master of Charms,Senior Enchanter,Outstanding potion innovation
+224,125,2020-10-29,Senior Enchanter,Wand Safety Officer,Appointed by Ministry liaison
+225,125,2024-05-26,Wand Safety Officer,Potions Intern,Mentored multiple junior wizards
+226,863,2023-04-15,Junior Spell Crafter,Master of Charms,Rapid learning of advanced charms
+227,863,2022-07-26,Master of Charms,Senior Enchanter,Appointed by Ministry liaison
+228,369,2022-04-24,Wand Safety Officer,Magical HR Specialist,Successfully led magical creature relocation
+229,657,2023-10-15,Potions Intern,Junior Spell Crafter,Published advanced spell theory in Journal of Arcane Arts
+230,657,2022-04-07,Junior Spell Crafter,Potions Intern,Published advanced spell theory in Journal of Arcane Arts
+231,640,2023-11-29,Potions Intern,Magical HR Specialist,Rapid learning of advanced charms
+232,640,2021-10-11,Magical HR Specialist,Wand Safety Officer,Outstanding potion innovation
+233,640,2022-09-30,Wand Safety Officer,Junior Spell Crafter,Appointed by Ministry liaison
+234,439,2020-04-30,Potions Intern,Wand Safety Officer,Successfully led magical creature relocation
+235,439,2021-01-06,Wand Safety Officer,Senior Enchanter,Appointed by Ministry liaison
+236,439,2022-09-25,Senior Enchanter,Magical HR Specialist,Promoted for excellence in spellcasting
+237,887,2021-04-05,Senior Enchanter,Master of Charms,Successfully led magical creature relocation
+238,159,2025-02-11,Wand Safety Officer,Magical HR Specialist,Successfully led magical creature relocation
+239,159,2021-10-05,Magical HR Specialist,Wand Safety Officer,Successfully led magical creature relocation
+240,871,2022-12-11,Junior Spell Crafter,Wand Safety Officer,Appointed by Ministry liaison
+241,585,2022-11-04,Senior Enchanter,Junior Spell Crafter,Published advanced spell theory in Journal of Arcane Arts
+242,585,2021-06-30,Junior Spell Crafter,Senior Enchanter,Appointed by Ministry liaison
+243,713,2023-07-24,Potions Intern,Magical HR Specialist,Outstanding potion innovation
+244,713,2020-04-06,Magical HR Specialist,Master of Charms,Recognized leadership in enchanted teams
+245,713,2022-09-06,Master of Charms,Magical HR Specialist,Outstanding potion innovation
+246,428,2021-02-26,Senior Enchanter,Junior Spell Crafter,Appointed by Ministry liaison
+247,428,2024-03-26,Junior Spell Crafter,Magical HR Specialist,Recognized leadership in enchanted teams
+248,313,2021-07-02,Potions Intern,Wand Safety Officer,Rapid learning of advanced charms
+249,313,2023-05-06,Wand Safety Officer,Potions Intern,Published advanced spell theory in Journal of Arcane Arts
+250,962,2024-06-30,Potions Intern,Master of Charms,Recognized leadership in enchanted teams
+251,962,2025-01-25,Master of Charms,Wand Safety Officer,Mentored multiple junior wizards
+252,962,2023-06-18,Wand Safety Officer,Potions Intern,Appointed by Ministry liaison
+253,846,2022-09-23,Junior Spell Crafter,Senior Enchanter,Recognized leadership in enchanted teams
+254,308,2020-07-04,Potions Intern,Senior Enchanter,Recognized leadership in enchanted teams
+255,308,2024-02-09,Senior Enchanter,Magical HR Specialist,Promoted for excellence in spellcasting
+256,308,2024-01-31,Magical HR Specialist,Junior Spell Crafter,Recognized leadership in enchanted teams
+257,738,2024-09-25,Wand Safety Officer,Master of Charms,Recognized leadership in enchanted teams
+258,738,2021-11-08,Master of Charms,Junior Spell Crafter,Appointed by Ministry liaison
+259,738,2024-05-19,Junior Spell Crafter,Wand Safety Officer,Recognized leadership in enchanted teams
+260,979,2024-05-13,Junior Spell Crafter,Magical HR Specialist,Successfully led magical creature relocation
+261,572,2020-09-13,Wand Safety Officer,Potions Intern,Successfully led magical creature relocation
+262,572,2024-01-17,Potions Intern,Magical HR Specialist,Promoted for excellence in spellcasting
+263,77,2023-07-28,Magical HR Specialist,Junior Spell Crafter,Successfully led magical creature relocation
+264,105,2021-11-10,Magical HR Specialist,Master of Charms,Promoted for excellence in spellcasting
+265,273,2024-02-29,Master of Charms,Potions Intern,Mentored multiple junior wizards
+266,273,2022-08-31,Potions Intern,Master of Charms,Published advanced spell theory in Journal of Arcane Arts
+267,330,2023-10-12,Junior Spell Crafter,Wand Safety Officer,Published advanced spell theory in Journal of Arcane Arts
+268,330,2021-03-12,Wand Safety Officer,Master of Charms,Appointed by Ministry liaison
+269,330,2020-10-01,Master of Charms,Senior Enchanter,Rapid learning of advanced charms
+270,78,2023-07-19,Wand Safety Officer,Master of Charms,Mentored multiple junior wizards
+271,78,2023-12-28,Master of Charms,Wand Safety Officer,Published advanced spell theory in Journal of Arcane Arts
+272,390,2022-02-12,Junior Spell Crafter,Senior Enchanter,Rapid learning of advanced charms
+273,539,2023-08-24,Senior Enchanter,Wand Safety Officer,Appointed by Ministry liaison
+274,539,2021-11-10,Wand Safety Officer,Potions Intern,Rapid learning of advanced charms
+275,539,2021-10-02,Potions Intern,Junior Spell Crafter,Rapid learning of advanced charms
+276,226,2020-09-02,Senior Enchanter,Magical HR Specialist,Mentored multiple junior wizards
+277,434,2021-07-10,Master of Charms,Potions Intern,Mentored multiple junior wizards
+278,380,2022-08-29,Master of Charms,Wand Safety Officer,Outstanding potion innovation
+279,380,2022-07-24,Wand Safety Officer,Master of Charms,Recognized leadership in enchanted teams
+280,380,2025-01-14,Master of Charms,Senior Enchanter,Outstanding potion innovation
+281,696,2025-02-17,Master of Charms,Magical HR Specialist,Outstanding potion innovation
+282,696,2022-12-30,Magical HR Specialist,Potions Intern,Recognized leadership in enchanted teams
+283,696,2022-05-23,Potions Intern,Senior Enchanter,Successfully led magical creature relocation
+284,992,2021-08-02,Magical HR Specialist,Senior Enchanter,Outstanding potion innovation
+285,992,2023-10-18,Senior Enchanter,Junior Spell Crafter,Promoted for excellence in spellcasting
+286,860,2021-12-04,Magical HR Specialist,Wand Safety Officer,Mentored multiple junior wizards
+287,860,2021-03-13,Wand Safety Officer,Potions Intern,Rapid learning of advanced charms
+288,860,2025-03-16,Potions Intern,Wand Safety Officer,Recognized leadership in enchanted teams
+289,73,2023-01-16,Junior Spell Crafter,Potions Intern,Published advanced spell theory in Journal of Arcane Arts
+290,73,2024-11-24,Potions Intern,Junior Spell Crafter,Published advanced spell theory in Journal of Arcane Arts
+291,73,2020-09-15,Junior Spell Crafter,Wand Safety Officer,Mentored multiple junior wizards
+292,516,2024-07-19,Junior Spell Crafter,Potions Intern,Outstanding potion innovation
+293,516,2023-09-22,Potions Intern,Magical HR Specialist,Promoted for excellence in spellcasting
+294,516,2020-09-28,Magical HR Specialist,Senior Enchanter,Recognized leadership in enchanted teams
+295,891,2021-06-15,Wand Safety Officer,Senior Enchanter,Appointed by Ministry liaison
+296,709,2020-05-18,Senior Enchanter,Master of Charms,Mentored multiple junior wizards
+297,867,2023-12-27,Master of Charms,Magical HR Specialist,Rapid learning of advanced charms
+298,867,2025-02-12,Magical HR Specialist,Potions Intern,Outstanding potion innovation
+299,612,2024-05-05,Wand Safety Officer,Senior Enchanter,Appointed by Ministry liaison
+300,612,2023-12-10,Senior Enchanter,Magical HR Specialist,Rapid learning of advanced charms
+301,612,2025-03-18,Magical HR Specialist,Junior Spell Crafter,Recognized leadership in enchanted teams
+302,870,2025-03-06,Potions Intern,Master of Charms,Published advanced spell theory in Journal of Arcane Arts
+303,870,2021-05-14,Master of Charms,Junior Spell Crafter,Mentored multiple junior wizards
+304,870,2021-05-26,Junior Spell Crafter,Senior Enchanter,Outstanding potion innovation
+305,685,2021-10-15,Potions Intern,Master of Charms,Recognized leadership in enchanted teams
+306,76,2022-01-18,Potions Intern,Wand Safety Officer,Appointed by Ministry liaison
+307,76,2024-05-20,Wand Safety Officer,Magical HR Specialist,Published advanced spell theory in Journal of Arcane Arts
+308,76,2022-04-01,Magical HR Specialist,Junior Spell Crafter,Rapid learning of advanced charms
+309,424,2022-02-23,Master of Charms,Wand Safety Officer,Appointed by Ministry liaison
+310,424,2024-04-14,Wand Safety Officer,Senior Enchanter,Recognized leadership in enchanted teams
+311,953,2024-01-17,Senior Enchanter,Wand Safety Officer,Mentored multiple junior wizards
+312,501,2021-10-29,Wand Safety Officer,Master of Charms,Outstanding potion innovation
+313,501,2024-06-01,Master of Charms,Junior Spell Crafter,Successfully led magical creature relocation
+314,501,2021-08-08,Junior Spell Crafter,Potions Intern,Mentored multiple junior wizards
+315,771,2021-03-23,Potions Intern,Magical HR Specialist,Published advanced spell theory in Journal of Arcane Arts
+316,6,2021-12-21,Master of Charms,Magical HR Specialist,Appointed by Ministry liaison
+317,6,2025-02-08,Magical HR Specialist,Potions Intern,Published advanced spell theory in Journal of Arcane Arts
+318,6,2024-03-05,Potions Intern,Wand Safety Officer,Rapid learning of advanced charms
+319,145,2023-01-08,Junior Spell Crafter,Master of Charms,Published advanced spell theory in Journal of Arcane Arts
+320,145,2022-05-17,Master of Charms,Junior Spell Crafter,Rapid learning of advanced charms
+321,145,2021-05-31,Junior Spell Crafter,Master of Charms,Recognized leadership in enchanted teams
+322,311,2025-01-02,Potions Intern,Senior Enchanter,Successfully led magical creature relocation
+323,407,2024-01-27,Master of Charms,Magical HR Specialist,Promoted for excellence in spellcasting
+324,621,2023-10-31,Senior Enchanter,Magical HR Specialist,Appointed by Ministry liaison
+325,340,2021-02-05,Junior Spell Crafter,Potions Intern,Mentored multiple junior wizards
+326,182,2021-10-28,Potions Intern,Wand Safety Officer,Published advanced spell theory in Journal of Arcane Arts
+327,791,2021-05-21,Master of Charms,Magical HR Specialist,Mentored multiple junior wizards
+328,563,2024-09-25,Master of Charms,Senior Enchanter,Mentored multiple junior wizards
+329,563,2020-11-29,Senior Enchanter,Potions Intern,Successfully led magical creature relocation
+330,249,2023-04-17,Potions Intern,Magical HR Specialist,Rapid learning of advanced charms
+331,249,2021-12-19,Magical HR Specialist,Potions Intern,Promoted for excellence in spellcasting
+332,110,2024-01-23,Master of Charms,Potions Intern,Promoted for excellence in spellcasting
+333,520,2024-09-25,Senior Enchanter,Master of Charms,Recognized leadership in enchanted teams
+334,520,2020-12-23,Master of Charms,Wand Safety Officer,Outstanding potion innovation
+335,520,2020-04-11,Wand Safety Officer,Junior Spell Crafter,Outstanding potion innovation
+336,141,2021-07-08,Master of Charms,Senior Enchanter,Mentored multiple junior wizards
+337,141,2022-10-04,Senior Enchanter,Junior Spell Crafter,Rapid learning of advanced charms
+338,372,2024-01-12,Potions Intern,Master of Charms,Outstanding potion innovation
+339,372,2024-01-21,Master of Charms,Potions Intern,Outstanding potion innovation
+340,372,2024-01-02,Potions Intern,Junior Spell Crafter,Rapid learning of advanced charms
+341,374,2021-04-04,Senior Enchanter,Magical HR Specialist,Successfully led magical creature relocation
+342,444,2020-08-03,Wand Safety Officer,Master of Charms,Successfully led magical creature relocation
+343,444,2023-06-15,Master of Charms,Magical HR Specialist,Promoted for excellence in spellcasting
+344,444,2021-12-22,Magical HR Specialist,Wand Safety Officer,Promoted for excellence in spellcasting
+345,735,2023-06-17,Senior Enchanter,Junior Spell Crafter,Recognized leadership in enchanted teams
+346,95,2025-03-09,Magical HR Specialist,Potions Intern,Outstanding potion innovation
+347,95,2021-08-08,Potions Intern,Magical HR Specialist,Recognized leadership in enchanted teams
+348,579,2021-02-14,Master of Charms,Senior Enchanter,Recognized leadership in enchanted teams
+349,579,2021-05-13,Senior Enchanter,Wand Safety Officer,Outstanding potion innovation
+350,195,2020-07-23,Potions Intern,Magical HR Specialist,Outstanding potion innovation
+351,420,2022-06-02,Wand Safety Officer,Magical HR Specialist,Published advanced spell theory in Journal of Arcane Arts
+352,420,2024-02-10,Magical HR Specialist,Wand Safety Officer,Mentored multiple junior wizards
+353,420,2024-09-01,Wand Safety Officer,Potions Intern,Recognized leadership in enchanted teams
+354,212,2024-02-26,Magical HR Specialist,Junior Spell Crafter,Published advanced spell theory in Journal of Arcane Arts
+355,212,2024-03-23,Junior Spell Crafter,Master of Charms,Promoted for excellence in spellcasting
+356,212,2024-06-24,Master of Charms,Potions Intern,Outstanding potion innovation
+357,750,2022-08-31,Junior Spell Crafter,Wand Safety Officer,Promoted for excellence in spellcasting
+358,750,2024-05-13,Wand Safety Officer,Junior Spell Crafter,Successfully led magical creature relocation
+359,228,2020-09-15,Potions Intern,Magical HR Specialist,Published advanced spell theory in Journal of Arcane Arts
+360,228,2024-11-23,Magical HR Specialist,Wand Safety Officer,Appointed by Ministry liaison
+361,13,2023-02-16,Senior Enchanter,Potions Intern,Published advanced spell theory in Journal of Arcane Arts
+362,13,2023-07-29,Potions Intern,Master of Charms,Published advanced spell theory in Journal of Arcane Arts
+363,13,2024-10-13,Master of Charms,Wand Safety Officer,Rapid learning of advanced charms
+364,742,2024-03-06,Junior Spell Crafter,Magical HR Specialist,Promoted for excellence in spellcasting
+365,742,2020-04-10,Magical HR Specialist,Wand Safety Officer,Mentored multiple junior wizards
+366,742,2025-02-08,Wand Safety Officer,Potions Intern,Published advanced spell theory in Journal of Arcane Arts
+367,104,2020-06-07,Potions Intern,Magical HR Specialist,Published advanced spell theory in Journal of Arcane Arts
+368,104,2025-03-08,Magical HR Specialist,Potions Intern,Recognized leadership in enchanted teams
+369,104,2024-11-07,Potions Intern,Junior Spell Crafter,Published advanced spell theory in Journal of Arcane Arts
+370,356,2023-07-30,Magical HR Specialist,Junior Spell Crafter,Successfully led magical creature relocation
+371,356,2020-05-20,Junior Spell Crafter,Master of Charms,Outstanding potion innovation
+372,356,2021-12-02,Master of Charms,Magical HR Specialist,Recognized leadership in enchanted teams
+373,762,2023-10-04,Potions Intern,Senior Enchanter,Rapid learning of advanced charms
+374,762,2023-04-10,Senior Enchanter,Magical HR Specialist,Appointed by Ministry liaison
+375,762,2020-12-15,Magical HR Specialist,Wand Safety Officer,Outstanding potion innovation
+376,596,2022-05-12,Senior Enchanter,Master of Charms,Published advanced spell theory in Journal of Arcane Arts
+377,722,2023-11-09,Potions Intern,Master of Charms,Outstanding potion innovation
+378,148,2021-10-22,Master of Charms,Wand Safety Officer,Successfully led magical creature relocation
+379,148,2023-05-09,Wand Safety Officer,Senior Enchanter,Rapid learning of advanced charms
+380,148,2024-04-17,Senior Enchanter,Magical HR Specialist,Rapid learning of advanced charms
+381,526,2023-12-02,Senior Enchanter,Potions Intern,Outstanding potion innovation
+382,526,2025-02-17,Potions Intern,Wand Safety Officer,Rapid learning of advanced charms
+383,702,2024-11-10,Magical HR Specialist,Master of Charms,Outstanding potion innovation
+384,702,2020-12-27,Master of Charms,Junior Spell Crafter,Rapid learning of advanced charms
+385,611,2021-08-31,Magical HR Specialist,Senior Enchanter,Appointed by Ministry liaison
+386,611,2020-11-26,Senior Enchanter,Wand Safety Officer,Outstanding potion innovation
+387,611,2022-01-26,Wand Safety Officer,Potions Intern,Promoted for excellence in spellcasting
+388,63,2023-12-13,Potions Intern,Senior Enchanter,Outstanding potion innovation
+389,614,2023-02-25,Wand Safety Officer,Potions Intern,Mentored multiple junior wizards
+390,614,2023-03-11,Potions Intern,Master of Charms,Rapid learning of advanced charms
+391,833,2021-01-10,Magical HR Specialist,Senior Enchanter,Published advanced spell theory in Journal of Arcane Arts
+392,499,2021-06-16,Senior Enchanter,Master of Charms,Published advanced spell theory in Journal of Arcane Arts
+393,968,2023-12-12,Master of Charms,Senior Enchanter,Outstanding potion innovation
+394,968,2023-11-15,Senior Enchanter,Magical HR Specialist,Mentored multiple junior wizards
+395,968,2023-02-10,Magical HR Specialist,Junior Spell Crafter,Mentored multiple junior wizards
+396,777,2023-09-26,Magical HR Specialist,Junior Spell Crafter,Mentored multiple junior wizards
+397,777,2023-01-07,Junior Spell Crafter,Potions Intern,Promoted for excellence in spellcasting
+398,777,2022-06-28,Potions Intern,Junior Spell Crafter,Recognized leadership in enchanted teams
+399,192,2023-05-18,Junior Spell Crafter,Master of Charms,Mentored multiple junior wizards
+400,220,2023-01-09,Junior Spell Crafter,Senior Enchanter,Appointed by Ministry liaison
+401,220,2021-05-14,Senior Enchanter,Magical HR Specialist,Rapid learning of advanced charms
+402,220,2024-12-05,Magical HR Specialist,Wand Safety Officer,Mentored multiple junior wizards
+403,802,2020-12-23,Master of Charms,Wand Safety Officer,Rapid learning of advanced charms
+404,802,2022-01-21,Wand Safety Officer,Magical HR Specialist,Mentored multiple junior wizards

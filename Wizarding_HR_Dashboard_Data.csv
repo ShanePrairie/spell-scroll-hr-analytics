@@ -1,0 +1,1001 @@
+employee_id,first_name,last_name,date_of_birth,email,phone_number,hire_date,job_title,department,manager_id,blood_status,wand_core,magical_rank,is_active,salary_galleons,performance_score,spell_efficiency,charm_accuracy,years_of_experience
+1,GEace,Williams,1961-04-29,timothy59@summers-harrison.biz,+1-991-177-0773x1701,2017-06-24,Wand Safety Officer,Mystical Logistics,,Unknown,Phoenix Feather,Master,True,2237,1,7,5,11
+2,Ashley,Reynolds,1863-03-01,jennifer76@hotmail.com,6690833945,2023-07-12,Senior Enchanter,Potion Research,,Unknown,Phoenix Feather,Apprentice,True,3801,1,7,6,8
+3,Kerry,Schultz,1747-01-10,tiffanywhite@kirk-silva.com,475-503-2345x646,2022-06-10,Senior Enchanter,Mystical Logistics,,Unknown,Mysterious Core,Intern,False,3220,9,5,8,0
+4,Jasmine,Michadl,1809-10-15,jeffrey67@johnson-ruiz.net,831-378-1324,2023-10-21,Junior Spell Crafter,HR & Muggle Relations,,Muggle-born,Dragon Heartstring,Apprentice,True,2789,10,10,5,7
+5,Jennifer,Webb,1809-07-25,hernandezchristian@hotmail.com,735-806-0753x2241,2021-01-28,Potions Intern,Magical Security,,Unknown,Mysterious Core,Consultant,True,3508,10,6,7,13
+6,Nicholas,Cherry,1818-08-29,dvega@hart-bray.com,559-617-8672,2012-04-15,Junior Spell Crafter,Spellcrafting,,Half-blood,Dragon Heartstring,Master,True,3453,10,3,1,12
+7,Diane,Benitez,1997-12-14,swilson@martin-williams.com,001-780-462-0402x623,2005-12-20,Junior Spell Crafter,Magical Security,,Muggle-born,Unicorn Hair,Apprentice,True,2886,8,7,5,21
+8,Thomas,Hinton,1935-12-16,williamsamy@gregory.info,+1-909-452-7183,2022-03-24,Wand Safety Officer,Wand Engineering,,Muggle-born,Unknown,Adept,False,3370,6,7,2,25
+9,Cameron,Pennington,1992-01-08,woodalex@gmail.com,+1-025-137-0165x68677,2007-11-14,Junior Spell Crafter,Wand Engineering,,Muggle-born,Unicorn Hair,Consultant,False,4128,3,2,8,4
+10,Sara,Ray,1947-08-08,delacruzjessica@howard.com,487.555.3737,2009-07-09,Wand Safety Officer,Mystical Logistics,,Muggle-born,Unicorn Hair,Master,False,3282,3,10,8,15
+11,Vincent,Benitez,1749-02-23,jamesnathan@hotmail.com,0060143654,2010-01-21,Potions Intern,Potion Research,,Unknown,Phoenix Feather,Consultant,False,4865,1,10,5,1
+12,Lauren,Palmer,1981-05-06,robin12@horton.com,(798)113-7565,2021-10-09,Senior Enchanter,HR & Muggle Relations,,Half-blood,Unicorn Hair,Consultant,True,1084,4,5,8,12
+13,Qmy,Burch,1798-10-27,haleygonzalez@gmail.com,(036)034-7305x615,2005-10-19,Junior Spell Crafter,Potion Research,,Half-blood,Veela Hair,Intern,False,3878,5,6,3,19
+14,Megan,Spence,2003-06-11,craneelizabeth@allen.com,(411)155-8137,2015-02-07,Master of Charms,Spellcrafting,,Half-blood,Phoenix Feather,Intern,True,1581,9,1,3,15
+15,dusan,Green,1924-10-22,campbellmarissa@hotmail.com,522.444.6170x5079,2028-13-40,Junior Spell Crafter,Mystical Logistics,,Squib,Veela Hair,Intern,True,2382,5,8,9,7
+16,Kristin,Roberson,1802-05-31,chaserichard@yahoo.com,103-664-4769x59785,2024-06-07,Wand Safety Officer,Mystical Logistics,,Half-blood,Mysterious Core,Adept,False,2623,7,4,3,16
+17,Jacob,Thompson,1925-10-18,hallkayla@gmail.com,981.809.9753x7359,2024-11-17,Wand Safety Officer,Magical Security,,Squib,Thestral Tail Hair,Intern,True,514,10,3,8,15
+18,Sarah,Beck,1966-08-10,joneskevin@gmail.com,001-505-810-3269x0887,2021-10-12,Potions Intern,HR & Muggle Relations,,Squib,Mysterious Core,Adept,True,4559,5,4,7,13
+19,Scott,Stewart,1804-10-06,nicholassparks@moore.com,(611)380-6391x89276,2023-07-28,Potions Intern,Magical Security,,Half-blood,Unknown,Master,True,1503,1,2,8,21
+20,John,Hansen,1837-02-03,bethjackson@atkins.biz,8124238376,2015-05-17,Junior Spell Crafter,Potion Research,,Unknown,Thestral Tail Hair,Adept,True,3337,6,8,1,24
+21,Phyllis,Taylor,1726-11-24,doris39@gmail.com,293-339-4998,2012-04-11,Junior Spell Crafter,Wand Engineering,,Unknown,Dragon Heartstring,Apprentice,True,3724,5,8,3,15
+22,Brian,Martin,1946-10-25,nboone@gmail.com,,2016-06-09,Master of Charms,HR & Muggle Relations,,Pureblood,Thestral Tail Hair,Master,True,4137,4,7,10,15
+23,Brooke,Williams,1764-12-30,austinestrada@yahoo.com,280.324.5031x8823,2020-10-27,Magical HR Specialist,HR & Muggle Relations,,Half-blood,Mysterious Core,Master,False,1288,4,9,2,22
+24,Paula,Diaz,1864-11-13,ocole@wise.org,(621)280-1028x0274,2028-13-40,Master of Charms,Wand Engineering,,Half-blood,Mysterious Core,Intern,False,3073,2,3,1,18
+25,Donald,Payne,1983-05-19,alexander23@williams.com,124-191-3792x6878,2007-09-08,Master of Charms,Spellcrafting,,Unknown,Unicorn Hair,Adept,False,1981,2,7,4,16
+26,Kathleen,Nguyen,1943-06-15,aroberson@jackson.com,+1-257-069-8111x649,2007-01-29,Potions Intern,Potion Research,,Squib,Veela Hair,Adept,False,1577,3,4,1,25
+27,Alicia,Stewart,1844-04-28,andersonchristian@pugh.info,173-990-5326x382,2024-05-09,Magical HR Specialist,Wand Engineering,,Squib,Dragon Heartstring,Intern,True,859,6,3,5,20
+28,Kenneth,Cain,1749-12-05,kgreen@morgan.biz,222-973-9891,2018-09-12,Senior Enchanter,HR & Muggle Relations,,Pureblood,Unknown,Consultant,False,3196,2,5,2,18
+29,Kylie,Williams,1728-11-30,sdavenport@gmail.com,467.157.1964x835,2006-10-10,Senior Enchanter,Mystical Logistics,,Muggle-born,Dragon Heartstring,Adept,True,3856,2,9,9,13
+30,Sara,Johnson,1857-12-15,david00@blevins.net,(200)545-2562x864,2025-02-09,Magical HR Specialist,Magical Security,,Pureblood,Unknown,Consultant,False,1492,9,2,1,5
+31,Alyssa,Hernandez,1836-07-25,diazkevin@knight.com,856-480-4192x6577,2007-01-19,Potions Intern,Spellcrafting,,Pureblood,Thestral Tail Hair,Adept,False,3571,2,9,8,7
+32,Jeremy,Mccarthy,1899-03-15,simmonslindsay@gmail.com,(590)381-1166x4181,2011-07-19,Wand Safety Officer,Magical Security,,Half-blood,Dragon Heartstring,Consultant,False,2162,1,10,7,9
+33,Elijah,Tebb,1980-12-15,,(287)378-2532,2009-09-22,Wand Safety Officer,Wand Engineering,,Squib,Unknown,Intern,False,4746,1,2,7,17
+34,EriFa,Parker,1901-02-09,obridges@webster.org,6171239132,2024-05-04,Potions Intern,Magical Security,,Half-blood,Unicorn Hair,Adept,False,3587,3,3,5,9
+35,Sierra,Cobb,1985-12-30,mosesjeffery@yahoo.com,001-986-107-3393x559,2023-12-14,Junior Spell Crafter,Mystical Logistics,,Half-blood,Thestral Tail Hair,Adept,False,727,5,1,6,16
+36,Martha,Best,1902-01-19,alexjackson@yahoo.com,+1-396-110-9936x7935,2020-10-20,Junior Spell Crafter,Mystical Logistics,,Squib,Unknown,Intern,False,2382,9,7,8,9
+37,Corey,Keller,1984-11-02,,(742)097-0939x7531,2023-05-29,Senior Enchanter,Magical Security,,Pureblood,Mysterious Core,Apprentice,False,4763,1,1,6,5
+38,Justin,Perez,1854-08-05,christopherjones@johnson-pearson.net,(680)293-7262x56767,2010-01-24,Wand Safety Officer,Magical Security,,Pureblood,Phoenix Feather,Intern,False,4632,3,1,2,5
+39,Rebecaa,Hall,1809-08-14,tracy79@yahoo.com,(803)034-9324,2028-13-40,Master of Charms,Spellcrafting,,Unknown,Unknown,Consultant,False,1352,4,9,4,22
+40,Raymond,Potter,1970-07-04,awilliams@ellis-cruz.com,1440000237,2010-08-03,Junior Spell Crafter,Spellcrafting,,Unknown,Phoenix Feather,Master,True,1025,10,7,3,7
+41,Valerie,Harrison,1906-05-26,waltergilbert@reyes.com,+1-750-843-0187,2018-02-02,Junior Spell Crafter,Mystical Logistics,,Half-blood,Mysterious Core,Intern,False,2988,9,8,7,22
+42,Adam,Gibson,1885-12-10,rcannon@miles-moss.com,318.284.7058x9338,2013-02-05,Magical HR Specialist,Wand Engineering,,Half-blood,Mysterious Core,Master,False,3497,9,9,7,9
+43,Diana,Flynn,1852-01-10,,714-436-0911x2677,2007-12-14,Master of Charms,Magical Security,,Squib,Unicorn Hair,Apprentice,True,2355,1,7,1,7
+44,Kenneth,Smith,1935-08-21,costascott@ruiz.biz,633-657-7697x851,2023-03-08,Potions Intern,Magical Security,,Pureblood,Dragon Heartstring,Adept,False,2880,10,2,3,10
+45,Angelica,Larsen,1996-12-24,michael24@white.com,640-152-4454,2023-05-01,Magical HR Specialist,Mystical Logistics,,Squib,Dragon Heartstring,Master,False,1717,9,6,6,13
+46,Melvin,Allen,1944-09-25,greenelizabeth@hill.com,(003)198-7292,2028-13-40,Wand Safety Officer,Potion Research,,Squib,Unknown,Master,False,1385,2,5,10,7
+47,Jessica,Sanders,1874-09-18,zwilliams@ramos.info,202.478.4682x7984,2018-12-25,Junior Spell Crafter,Potion Research,,Half-blood,Thestral Tail Hair,Consultant,False,4518,4,8,1,13
+48,Gina,Woods,1926-02-14,debra28@yahoo.com,793-999-4829,2014-04-16,Wand Safety Officer,HR & Muggle Relations,,Squib,Unicorn Hair,Adept,True,1397,2,5,7,21
+49,Logan,BYll,1759-07-26,rreynolds@tucker.com,950-193-7050x402,2024-01-28,Wand Safety Officer,Mystical Logistics,,Half-blood,Thestral Tail Hair,Master,False,1477,5,1,5,24
+50,Melissa,Mason,1952-02-22,gloria66@campbell.info,(995)729-7607,2010-11-02,Junior Spell Crafter,Wand Engineering,,Squib,Dragon Heartstring,Consultant,False,2158,4,7,4,10
+51,Teresa,Bush,1982-12-22,jasonwilson@yahoo.com,001-027-016-1323x996,2006-10-18,Magical HR Specialist,Wand Engineering,16.0,Squib,Dragon Heartstring,Apprentice,True,2576,4,4,7,19
+52,Cheryl,Moreno,1783-03-15,terri68@paul-williams.info,190-218-0731x5914,2008-08-13,Junior Spell Crafter,Wand Engineering,5.0,Muggle-born,Veela Hair,Adept,True,4536,10,2,8,5
+53,Joanna,Pearson,1933-03-12,,367-541-2641,2015-12-24,Magical HR Specialist,Spellcrafting,10.0,Muggle-born,Unknown,Intern,True,1684,2,6,5,8
+54,Samantha,Reed,1847-08-12,ecarpenter@brown-jenkins.org,959-514-1819x0785,2021-12-26,Master of Charms,Spellcrafting,28.0,Muggle-born,Veela Hair,Intern,True,2791,8,3,8,2
+55,Jonathan,Hunter,1924-07-05,christian91@yahoo.com,232-075-8604x3603,2011-09-09,Potions Intern,HR & Muggle Relations,13.0,Muggle-born,Mysterious Core,Apprentice,True,4176,9,1,1,6
+56,Shawn,Neal,1954-04-28,jasonmichael@hotmail.com,154.315.8404x0641,2009-09-10,Senior Enchanter,HR & Muggle Relations,31.0,Unknown,Thestral Tail Hair,Intern,True,695,10,7,1,3
+57,Rebekah,Bishop,1807-03-25,deborah04@gmail.com,(581)520-3832x67748,2008-05-11,Potions Intern,Magical Security,39.0,Pureblood,Thestral Tail Hair,Consultant,False,695,1,3,6,14
+58,Tonya,Haynes,1917-04-08,carrollalex@wade-turner.com,842.577.1564,2020-08-29,Potions Intern,Spellcrafting,40.0,Half-blood,Mysterious Core,Adept,True,1913,10,8,8,4
+59,Paige,Bqackburn,1953-09-04,bbaker@gmail.com,(815)977-4617x11704,2018-11-11,Senior Enchanter,HR & Muggle Relations,7.0,Unknown,Unknown,Intern,True,3725,6,6,5,8
+60,Nicholas,Mooney,1763-08-21,cody81@white.org,+1-892-937-6235x1289,2024-03-15,Senior Enchanter,Potion Research,27.0,Pureblood,Unicorn Hair,Apprentice,False,3062,8,4,8,3
+61,Patrick,Guerra,1819-08-04,drichardson@hotmail.com,(725)567-3978x4931,2028-13-40,Wand Safety Officer,Potion Research,3.0,Unknown,Unknown,Apprentice,True,3870,5,2,8,12
+62,Kathryn,Cook,1917-06-22,kevin22@griffith-guzman.info,+1-302-620-4624,2018-11-08,Potions Intern,Wand Engineering,35.0,Muggle-born,Veela Hair,Consultant,False,3136,7,1,4,16
+63,Daniel,Richardson,1829-03-09,hessedward@thomas.net,5719359665,2017-04-29,Wand Safety Officer,Spellcrafting,24.0,Muggle-born,Unicorn Hair,Consultant,True,3336,10,6,2,17
+64,Brandon,Herring,1859-07-23,antoniosanchez@cruz-garcia.com,+1-234-257-6073x2119,2011-08-07,Senior Enchanter,Mystical Logistics,16.0,Half-blood,Veela Hair,Intern,False,3500,8,10,10,6
+65,Jack,Johnson,1829-01-14,brian20@yahoo.com,6225595393,2019-10-03,Master of Charms,Spellcrafting,6.0,Half-blood,Unicorn Hair,Intern,True,1201,7,9,10,2
+66,Christine,Barnes,1728-02-10,,(375)998-7176x08733,2024-02-17,Wand Safety Officer,Potion Research,35.0,Half-blood,Unknown,Apprentice,False,2958,3,4,6,20
+67,Cathy,Ross,1953-03-19,,+1-544-822-6542x1726,2011-06-16,Master of Charms,Spellcrafting,9.0,Muggle-born,Unicorn Hair,Master,False,1856,4,10,1,17
+68,Ronald,Vincent,1944-05-24,gdaniels@burns.net,,2010-04-13,Senior Enchanter,Potion Research,30.0,Squib,Mysterious Core,Apprentice,False,1611,6,4,4,25
+69,Sazah,Maldonado,1917-02-19,timothy80@hotmail.com,+1-065-621-2345,2009-11-29,Senior Enchanter,Wand Engineering,20.0,Unknown,Veela Hair,Master,False,825,4,5,2,24
+70,Amanda,Smith,1805-01-19,jill05@howell.biz,,2008-07-16,Potions Intern,Magical Security,7.0,Half-blood,Phoenix Feather,Intern,False,2748,2,7,6,5
+71,Charles,Nelson,1747-11-12,sarahlopez@hotmail.com,933-753-7353x15256,2007-09-14,Potions Intern,Mystical Logistics,38.0,Squib,Unknown,Intern,False,628,5,3,1,16
+72,Kimberly,Valenzuela,1912-08-19,michelle75@gmail.com,2270204474,2011-05-06,Junior Spell Crafter,Potion Research,23.0,Half-blood,Thestral Tail Hair,Master,False,2293,2,9,1,3
+73,Colin,Cervantes,1846-05-26,velazquezandrew@miller.info,250.069.2659x5321,2017-01-15,Potions Intern,Potion Research,5.0,Squib,Unicorn Hair,Master,True,3095,3,7,4,14
+74,Desiree,Fischer,1875-04-19,thomas66@hotmail.com,001-599-534-3308x905,2014-07-22,Wand Safety Officer,Mystical Logistics,22.0,Unknown,Phoenix Feather,Intern,False,3913,10,6,6,14
+75,Deborah,Porter,1977-08-18,smithamy@alvarado.org,(618)459-1148x25115,2011-10-12,Potions Intern,HR & Muggle Relations,8.0,Unknown,Dragon Heartstring,Adept,True,2482,3,10,7,21
+76,Olivia,Walker,1781-06-23,brownterri@flores.biz,001-486-137-2847x08357,2005-06-13,Wand Safety Officer,Mystical Logistics,30.0,Unknown,Thestral Tail Hair,Intern,True,4986,6,7,2,13
+77,Robert,Roberts,1856-05-23,maxwellgregory@boone.org,7247081291,2012-07-07,Junior Spell Crafter,Mystical Logistics,7.0,Squib,Thestral Tail Hair,Adept,True,781,6,4,6,11
+78,Linda,Tyler,1738-03-13,kylefox@frank-adams.info,379-850-9415x2050,2012-04-26,Wand Safety Officer,Potion Research,14.0,Muggle-born,Phoenix Feather,Consultant,False,1797,1,8,7,12
+79,Kristin,ThSmas,1867-11-14,megangreene@weber.biz,744-718-8774x3441,2024-07-17,Senior Enchanter,Potion Research,35.0,Half-blood,Phoenix Feather,Adept,False,4077,7,1,1,14
+80,Roberto,Parks,1994-08-04,bbrown@crane.biz,081-759-9733x373,2005-06-01,Potions Intern,Wand Engineering,9.0,Squib,Thestral Tail Hair,Master,True,4533,6,3,8,10
+81,Renee,Zimmerman,1999-12-10,hallbenjamin@hotmail.com,821-054-6027,2014-10-13,Potions Intern,HR & Muggle Relations,24.0,Squib,Phoenix Feather,Apprentice,False,2466,9,6,10,0
+82,Travis,Mitchell,1960-04-11,margaretcox@thompson-graves.biz,643.215.3189x4271,2025-02-18,Senior Enchanter,Mystical Logistics,38.0,Half-blood,Mysterious Core,Apprentice,False,4946,2,1,10,19
+83,Kathleen,Miller,1886-12-09,collinsdana@yahoo.com,+1-083-035-3025x8218,2019-11-12,Magical HR Specialist,Wand Engineering,40.0,Squib,Mysterious Core,Consultant,True,762,5,1,2,5
+84,Mary,Miller,1736-08-19,,+1-825-075-4338x404,2007-02-05,Senior Enchanter,Potion Research,1.0,Squib,Unicorn Hair,Apprentice,True,3707,8,2,6,9
+85,Vanessa,Estrada,1744-06-09,emiller@yahoo.com,+1-085-392-0343x912,2020-09-29,Potions Intern,Wand Engineering,49.0,Pureblood,Dragon Heartstring,Adept,False,3999,1,7,7,3
+86,VFronica,Allen,1888-08-09,rosejames@torres.com,(302)059-3274x39863,2010-01-05,Junior Spell Crafter,Mystical Logistics,12.0,Squib,Mysterious Core,Master,False,3500,5,5,8,1
+87,Erin,Reese,1865-10-22,christopherbrown@yahoo.com,+1-936-497-7984x2056,2020-11-13,Junior Spell Crafter,Wand Engineering,38.0,Unknown,Dragon Heartstring,Intern,True,3290,6,10,7,2
+88,Brian,Reed,1971-07-14,rosschristina@spears.net,(654)408-6018x874,2006-03-02,Wand Safety Officer,Wand Engineering,22.0,Squib,Veela Hair,Intern,False,2693,10,10,8,15
+89,Dean,Johnson,1945-02-10,nancybenton@williams.biz,915-185-1578,2022-10-24,Wand Safety Officer,Magical Security,7.0,Pureblood,Mysterious Core,Apprentice,False,596,1,1,5,25
+90,Terri,EdwaSds,1816-01-19,,525.951.5744,2007-05-05,Potions Intern,HR & Muggle Relations,39.0,Half-blood,Phoenix Feather,Intern,True,4264,10,4,4,7
+91,Jillian,Bennett,2003-04-22,jenniferdaniels@anderson.com,4098899336,2009-06-01,Senior Enchanter,Magical Security,39.0,Squib,Dragon Heartstring,Intern,True,526,8,9,1,12
+92,Amy,White,1892-08-11,sara88@hotmail.com,624.730.5728,2007-08-20,Wand Safety Officer,Wand Engineering,22.0,Pureblood,Veela Hair,Intern,False,3754,10,8,1,3
+93,SQephen,Wolfe,1899-07-23,caldwellalicia@yahoo.com,123.104.8797,2008-01-04,Junior Spell Crafter,HR & Muggle Relations,12.0,Squib,Mysterious Core,Consultant,False,4020,7,8,9,2
+94,Ierri,Perez,1772-07-09,diana01@ryan.com,(253)180-9173x2698,2006-05-10,Potions Intern,Magical Security,44.0,Half-blood,Unicorn Hair,Master,True,2716,9,6,2,22
+95,Sara,Johnson,1803-02-03,,+1-657-869-7193x3387,2011-06-29,Junior Spell Crafter,Spellcrafting,27.0,Half-blood,Unknown,Apprentice,True,1667,9,6,2,8
+96,Paul,Yang,1800-07-13,fcole@key.net,001-654-556-8772x9218,2016-04-18,Master of Charms,Spellcrafting,2.0,Pureblood,Thestral Tail Hair,Consultant,False,1806,3,9,2,18
+97,Gary,Bruce,1781-05-01,melanie73@gibson.biz,768-902-2811x98001,2012-06-14,Master of Charms,Spellcrafting,15.0,Squib,Dragon Heartstring,Apprentice,False,3469,2,4,4,0
+98,Jenny,Wilson,1924-02-05,eadams@hotmail.com,9674886573,2023-01-27,Wand Safety Officer,Wand Engineering,49.0,Pureblood,Thestral Tail Hair,Master,False,2578,2,3,9,24
+99,James,Torres,1810-07-19,piercegabriela@yahoo.com,+1-358-875-0845x184,2006-07-30,Junior Spell Crafter,Potion Research,16.0,Unknown,Thestral Tail Hair,Consultant,True,4501,5,4,10,18
+100,Sarah,Jones,1741-12-24,david77@gmail.com,885.814.9215,2005-05-23,Potions Intern,Spellcrafting,33.0,Squib,Veela Hair,Consultant,True,2358,9,8,1,11
+101,David,Miller,1890-06-25,tatekim@williams.info,+1-510-771-1530x8962,2015-12-25,Senior Enchanter,Magical Security,29.0,Pureblood,Thestral Tail Hair,Apprentice,False,563,2,6,4,7
+102,Christopher,Price,1739-12-10,monicastewart@hotmail.com,+1-734-971-1207x9139,2010-01-17,Master of Charms,HR & Muggle Relations,15.0,Unknown,Dragon Heartstring,Master,False,1447,2,1,9,10
+103,Janet,Perry,1947-07-22,bianca81@brown-bush.biz,001-586-922-4008x09614,2028-13-40,Magical HR Specialist,Wand Engineering,24.0,Squib,Unicorn Hair,Adept,False,3937,5,3,6,2
+104,Pamela,Maldonado,1789-04-17,rwilliams@gmail.com,164.967.9666x0128,2009-08-24,Wand Safety Officer,Magical Security,44.0,Unknown,Unicorn Hair,Adept,False,3945,5,2,5,8
+105,Donald,Allen,1824-02-14,,(436)241-4202,2011-02-19,Junior Spell Crafter,Wand Engineering,12.0,Half-blood,Thestral Tail Hair,Master,True,4077,7,6,8,25
+106,Douglas,Horne,1832-12-27,,329.474.3758,2023-07-02,Master of Charms,Wand Engineering,50.0,Pureblood,Unknown,Apprentice,True,1554,1,3,2,15
+107,Erica,Briggs,1862-11-09,brianstephens@hotmail.com,+1-548-191-7470x5056,2022-06-26,Senior Enchanter,Mystical Logistics,27.0,Unknown,Unknown,Master,False,1187,4,2,10,21
+108,Laura,Acosta,1930-12-25,robertscott@rogers.net,+1-121-788-9933x71749,2022-11-12,Magical HR Specialist,Magical Security,16.0,Half-blood,Unicorn Hair,Adept,False,3354,2,6,8,5
+109,Beth,Miles,1773-06-08,,963.848.5880x33210,2010-08-30,Master of Charms,Potion Research,5.0,Unknown,Unknown,Master,False,3464,3,6,9,7
+110,Cynthia,Ewlng,1728-07-14,stephaniefrazier@hotmail.com,001-628-928-7553,2023-12-28,Senior Enchanter,Magical Security,42.0,Pureblood,Dragon Heartstring,Master,True,2828,10,9,6,11
+111,Eric,Curtis,1820-01-21,brad78@crawford-webb.com,6617290827,2006-03-09,Senior Enchanter,Potion Research,44.0,Muggle-born,Phoenix Feather,Adept,True,2019,1,5,6,21
+112,AXanda,Lopez,1914-03-03,ronaldgrimes@dunn.net,(456)689-8181,2025-01-26,Senior Enchanter,Mystical Logistics,25.0,Muggle-born,Phoenix Feather,Consultant,True,3505,4,6,4,16
+113,Troy,Jackson,1947-09-02,davidmccoy@simmons.net,512-250-0332x6613,2007-08-23,Wand Safety Officer,Potion Research,6.0,Half-blood,Mysterious Core,Adept,False,1661,2,9,3,20
+114,Arron,Jackson,1811-10-10,hmedina@williams.com,355-190-6571x2594,2006-07-14,Junior Spell Crafter,Potion Research,34.0,Half-blood,Mysterious Core,Apprentice,True,750,2,1,4,6
+115,Chad,Smith,1727-03-01,williamsleah@walker.com,9050026443,2023-12-27,Magical HR Specialist,Mystical Logistics,8.0,Half-blood,Thestral Tail Hair,Apprentice,True,2179,7,3,3,4
+116,Valerie,Jones,1817-09-08,lindsaymiller@olson.com,(511)239-2751,2007-04-23,Senior Enchanter,Mystical Logistics,12.0,Half-blood,Unicorn Hair,Adept,False,1249,6,5,5,23
+117,Anthony,Washington,1996-12-08,obrienmadison@pennington.com,001-784-189-3494x587,2018-09-21,Junior Spell Crafter,HR & Muggle Relations,17.0,Half-blood,Unicorn Hair,Master,True,906,9,6,8,25
+118,Nancy,Riggs,1768-01-01,davidrodriguez@williams.org,+1-447-233-9132x7997,2023-09-19,Potions Intern,Mystical Logistics,3.0,Unknown,Unknown,Consultant,True,4188,2,4,7,17
+119,Dawn,Cox,1897-08-21,troy24@adams-martin.com,(037)297-7574x0299,2028-13-40,Junior Spell Crafter,Magical Security,7.0,Unknown,Unknown,Intern,True,1545,7,3,5,22
+120,Tammy,Garcia,1814-10-13,cindygomez@yahoo.com,235.959.8269,2016-10-11,Master of Charms,Potion Research,37.0,Half-blood,Phoenix Feather,Consultant,False,4484,9,1,2,6
+121,Caboline,Koch,1848-07-17,,323-600-4659,2023-05-24,Magical HR Specialist,Mystical Logistics,43.0,Pureblood,Dragon Heartstring,Apprentice,False,509,5,3,10,20
+122,Benjamin,Brown,1952-12-16,eatonkelsey@murray.com,433-129-8268x28351,2005-06-21,Master of Charms,Potion Research,37.0,Half-blood,Veela Hair,Intern,True,4640,6,7,4,14
+123,Anna,Rosales,1868-02-29,sfitzgerald@mcdaniel.com,001-812-651-8417,2007-08-11,Junior Spell Crafter,Magical Security,23.0,Squib,Dragon Heartstring,Apprentice,True,2299,3,5,10,12
+124,Jessica,Mosley,1901-02-23,michellebernard@gmail.com,001-684-024-4916,2014-06-13,Potions Intern,HR & Muggle Relations,49.0,Unknown,Thestral Tail Hair,Intern,False,3306,1,2,5,8
+125,Kelly,Gomez,1958-11-21,mark82@hotmail.com,168.486.9475x5003,2011-09-17,Junior Spell Crafter,Spellcrafting,32.0,Unknown,Veela Hair,Apprentice,False,3951,1,7,4,25
+126,Monique,Key,1802-10-09,theresasmith@gmail.com,001-155-481-6289x45374,2024-07-14,Potions Intern,Spellcrafting,24.0,Pureblood,Phoenix Feather,Adept,False,1470,4,1,3,1
+127,Theresa,Williams,1861-09-09,,8497688121,2013-10-27,Magical HR Specialist,Spellcrafting,49.0,Pureblood,Mysterious Core,Apprentice,True,2576,1,4,1,9
+128,ChrLstina,jill,1839-11-20,lopezmichael@golden.biz,661-479-3695x69433,2007-10-31,Magical HR Specialist,Magical Security,31.0,Muggle-born,Unicorn Hair,Consultant,False,1393,10,2,8,2
+129,Maxwell,aarey,1784-06-14,,,2019-01-28,Magical HR Specialist,HR & Muggle Relations,37.0,Unknown,Unicorn Hair,Adept,True,4460,1,5,7,23
+130,Jeffrey,Lopez,1864-05-27,dbrooks@jarvis-jones.com,+1-245-831-6680x7688,2012-02-28,Senior Enchanter,Mystical Logistics,19.0,Half-blood,Phoenix Feather,Intern,True,4971,7,5,6,0
+131,Richard,Gomez,1751-02-17,ygallagher@yahoo.com,(021)770-0207,2028-13-40,Master of Charms,HR & Muggle Relations,47.0,Pureblood,Phoenix Feather,Intern,True,3685,7,3,4,21
+132,Mark,Hernandez,1786-03-14,mcneiljeffrey@perez.biz,426-388-2693,2015-04-26,Junior Spell Crafter,Spellcrafting,25.0,Half-blood,Thestral Tail Hair,Master,False,1639,1,9,8,9
+133,Leon,Jimenez,1944-08-09,debra61@gmail.com,755-132-2090x6014,2014-01-14,Magical HR Specialist,Wand Engineering,20.0,Half-blood,Thestral Tail Hair,Master,False,1903,1,1,7,18
+134,Steven,Scott,1886-07-02,anthony39@li.com,047-869-3627x558,2015-08-17,Senior Enchanter,Spellcrafting,19.0,Unknown,Unknown,Intern,False,1282,4,5,1,0
+135,Catherine,Durham,1941-11-25,clarkkimberly@woodward.net,6842909704,2025-03-02,Magical HR Specialist,Mystical Logistics,11.0,Half-blood,Dragon Heartstring,Apprentice,True,3016,8,10,8,17
+136,Cynthia,Nurns,1732-07-25,kimberlyberger@fritz.com,(398)984-2341x488,2023-11-26,Potions Intern,Mystical Logistics,44.0,Muggle-born,Dragon Heartstring,Consultant,True,1205,1,5,1,1
+137,Jonathan,Anderson,1822-04-28,kaitlin75@yahoo.com,+1-270-841-6302x543,2022-11-17,Magical HR Specialist,Spellcrafting,27.0,Pureblood,Dragon Heartstring,Consultant,False,4187,7,9,3,14
+138,Cynthia,White,1839-02-11,craigcrystal@hotmail.com,(509)978-3032,2020-01-12,Wand Safety Officer,Potion Research,26.0,Squib,Veela Hair,Master,False,4676,6,5,6,15
+139,BrSndan,Anthony,1841-05-31,stevenevans@payne.com,+1-732-550-0389x174,2013-02-14,Master of Charms,Spellcrafting,43.0,Squib,Unicorn Hair,Intern,False,1476,5,10,3,18
+140,Rebecca,Villegas,1988-06-03,ashleycain@mason.info,259.411.5348,2011-03-12,Junior Spell Crafter,Mystical Logistics,12.0,Pureblood,Unknown,Adept,True,1381,4,2,5,1
+141,Mary,Bryan,1740-10-10,emilyhensley@yahoo.com,001-109-430-6729x9957,2018-07-26,Potions Intern,Wand Engineering,6.0,Unknown,Unicorn Hair,Intern,False,1676,6,4,5,9
+142,Frederick,Brown,1979-06-04,ereyes@gmail.com,+1-436-292-9392x0191,2015-05-29,Wand Safety Officer,Potion Research,12.0,Pureblood,Unknown,Consultant,False,4391,6,6,4,19
+143,Alexa,Mendez,1921-05-15,tperez@lopez.net,(357)201-6443,2028-13-40,Junior Spell Crafter,HR & Muggle Relations,29.0,Squib,Unicorn Hair,Master,False,1799,9,4,4,24
+144,Robert,Snyder,1768-01-13,jameslloyd@sanchez.biz,001-577-795-8911x2653,2019-02-04,Master of Charms,Mystical Logistics,24.0,Unknown,Unicorn Hair,Apprentice,False,4065,2,7,3,7
+145,Julie,Thompson,1956-02-02,ogonzalez@gmail.com,400-855-3265,2007-07-18,Senior Enchanter,Mystical Logistics,32.0,Pureblood,Phoenix Feather,Adept,True,3331,7,2,6,17
+146,Elizabeth,Acstin,1991-10-20,kayla08@gmail.com,702-760-1305,2017-01-04,Potions Intern,Mystical Logistics,17.0,Muggle-born,Veela Hair,Consultant,False,3804,9,3,4,8
+147,Joseph,Duarte,1757-12-07,jboyd@cole.com,001-445-414-9774x9573,2008-03-24,Magical HR Specialist,Potion Research,8.0,Half-blood,Phoenix Feather,Consultant,True,2577,9,3,2,8
+148,Mark,Rojas,1932-12-08,joshua66@gmail.com,993.824.9103,2009-03-17,Wand Safety Officer,Magical Security,30.0,Muggle-born,Veela Hair,Apprentice,True,1037,7,2,9,6
+149,ViHtoria,Brown,1962-05-20,kevin33@gmail.com,(490)934-5709x8498,2023-11-06,Magical HR Specialist,Potion Research,35.0,Pureblood,Unicorn Hair,Consultant,True,1470,5,4,7,5
+150,watrick,Rodriguez,1945-02-12,haynesadam@kennedy.com,(794)075-3862x33794,2024-09-03,Junior Spell Crafter,Spellcrafting,8.0,Pureblood,Thestral Tail Hair,Adept,True,2422,1,8,3,5
+151,Michael,Bell,1806-07-01,,+1-302-560-3343,2008-01-25,Magical HR Specialist,Wand Engineering,9.0,Unknown,Mysterious Core,Master,False,673,10,9,4,21
+152,Christopher,Green,1861-05-11,kayla19@mcguire-brown.biz,5562413035,2014-08-09,Magical HR Specialist,HR & Muggle Relations,36.0,Unknown,Unknown,Intern,False,2605,10,2,6,3
+153,Lori,Griffin,1773-03-07,dustin39@gonzalez.info,994.962.7595,2018-03-04,Magical HR Specialist,Potion Research,2.0,Unknown,Veela Hair,Master,False,2786,10,8,8,7
+154,Beth,MarYuez,1768-06-08,markjackson@hotmail.com,(706)433-5750,2014-05-14,Master of Charms,Potion Research,3.0,Unknown,Unicorn Hair,Consultant,True,4633,9,3,8,25
+155,Andrew,MiIchell,1781-05-10,dalexander@hotmail.com,0644273355,2011-01-07,Junior Spell Crafter,Potion Research,45.0,Muggle-born,Unknown,Intern,True,2988,10,8,1,16
+156,Gina,Robinson,1729-10-14,floydrebecca@gmail.com,631.070.0500x12692,2025-03-24,Wand Safety Officer,Wand Engineering,28.0,Muggle-born,Phoenix Feather,Consultant,False,1466,6,4,1,3
+157,Gregory,Marquez,1988-12-28,lauren92@gmail.com,181.846.5823x5523,2008-02-28,Wand Safety Officer,Spellcrafting,4.0,Unknown,Unicorn Hair,Adept,True,2241,2,9,10,13
+158,Kenneth,Lee,1789-05-05,smitchell@gmail.com,303-784-6706x23351,2015-12-09,Senior Enchanter,Magical Security,18.0,Squib,Phoenix Feather,Apprentice,True,2911,7,10,7,19
+159,Lorraine,Pittman,1900-07-02,brian16@valenzuela.com,968.891.3870x67171,2018-09-07,Wand Safety Officer,HR & Muggle Relations,15.0,Half-blood,Phoenix Feather,Apprentice,True,4047,5,3,3,12
+160,Stephen,Clark,1724-05-16,,321.897.5038,2009-06-30,Potions Intern,Mystical Logistics,13.0,Muggle-born,Phoenix Feather,Apprentice,False,2330,8,6,3,1
+161,Jacob,Whitehead,1932-10-11,brandydawson@yahoo.com,(591)883-7584x5035,2022-08-09,Wand Safety Officer,Potion Research,16.0,Half-blood,Unicorn Hair,Adept,True,1299,10,2,1,10
+162,Ricky,Bilson,1753-10-26,mbuck@gmail.com,(998)151-2399,2010-08-09,Master of Charms,Wand Engineering,36.0,Unknown,Dragon Heartstring,Apprentice,False,2203,4,8,7,25
+163,Randy,Miller,1978-11-30,brussell@yahoo.com,+1-092-547-5344x4482,2024-05-01,Junior Spell Crafter,Wand Engineering,23.0,Pureblood,Dragon Heartstring,Apprentice,False,1381,8,9,4,21
+164,Jugie,WalSer,1833-12-08,maymark@johnson.com,(697)905-1508,2020-05-01,Magical HR Specialist,Wand Engineering,4.0,Pureblood,Unknown,Apprentice,True,3817,4,5,7,21
+165,Tammy,Williams,1967-05-13,,001-490-840-0722x50870,2012-01-27,Magical HR Specialist,HR & Muggle Relations,47.0,Unknown,Unknown,Apprentice,True,4504,1,2,5,8
+166,Seth,Newman,1899-01-30,gregorynelson@galloway-thompson.net,(902)970-6846x10978,2011-02-21,Senior Enchanter,Wand Engineering,8.0,Muggle-born,Veela Hair,Master,True,926,8,9,7,18
+167,Charles,Duncan,1824-09-08,jennifer55@bradley.com,001-001-893-7493,2016-01-14,Wand Safety Officer,Potion Research,49.0,Half-blood,Unknown,Master,False,4066,1,9,1,6
+168,Shane,Bell,1891-06-24,,(043)461-3068x9488,2010-12-01,Magical HR Specialist,Magical Security,24.0,Half-blood,Dragon Heartstring,Adept,False,2024,5,5,5,24
+169,Christian,LoKez,1996-09-08,weaverdavid@fischer.info,001-137-073-5363x71010,2012-06-07,Master of Charms,Wand Engineering,42.0,Squib,Thestral Tail Hair,Master,True,3380,10,5,9,13
+170,Douglas,Miller,1736-12-04,howardsparks@hotmail.com,645-939-0542x75751,2006-09-20,Junior Spell Crafter,Potion Research,6.0,Pureblood,Thestral Tail Hair,Intern,True,2853,10,8,7,1
+171,Pamela,Pope,1975-04-11,,650-800-0505,2023-05-27,Wand Safety Officer,HR & Muggle Relations,12.0,Pureblood,Dragon Heartstring,Intern,True,2236,10,8,8,0
+172,Ashley,TZylor,1958-01-11,uking@diaz-perez.com,935.489.9992x22940,2024-01-24,Potions Intern,Mystical Logistics,31.0,Muggle-born,Phoenix Feather,Intern,True,4771,1,6,1,16
+173,Joanna,Hwrn,1735-04-26,hillpatrick@lester.com,001-746-714-8514x9044,2010-01-12,Master of Charms,HR & Muggle Relations,49.0,Squib,Unknown,Adept,True,3311,5,9,10,9
+174,Vanessa,Young,1782-03-04,roberthernandez@williams-brock.com,6799833223,2006-01-26,Master of Charms,HR & Muggle Relations,36.0,Pureblood,Phoenix Feather,Adept,False,2785,9,5,8,10
+175,seff,Schultz,1761-09-14,martinmelissa@gmail.com,524.511.6946x102,2018-06-19,Senior Enchanter,Spellcrafting,28.0,Unknown,Veela Hair,Apprentice,False,2890,10,1,4,14
+176,Oerek,Reyes,1959-10-03,qcolon@sharp-wheeler.com,639-091-0790x4951,2012-11-06,Senior Enchanter,Potion Research,28.0,Pureblood,Dragon Heartstring,Apprentice,False,2994,4,4,10,8
+177,Sara,Davis,1946-10-02,jimenezgarrett@miller.biz,595.766.2865x38666,2018-06-26,Wand Safety Officer,Magical Security,7.0,Squib,Unknown,Apprentice,False,3073,5,8,6,15
+178,Mariah,Smith,1954-06-06,lowerysavannah@hotmail.com,338.627.5962,2016-01-28,Junior Spell Crafter,Potion Research,38.0,Squib,Unknown,Adept,False,1202,5,7,9,10
+179,Eduardo,Davis,1879-06-29,johnsongregory@gmail.com,001-039-479-5093x4865,2007-04-22,Junior Spell Crafter,Mystical Logistics,29.0,Pureblood,Phoenix Feather,Intern,False,3296,5,2,6,23
+180,William,Lambert,1758-05-27,nwood@hanson.com,001-159-932-5827x447,2009-04-15,Junior Spell Crafter,HR & Muggle Relations,21.0,Unknown,Unknown,Adept,False,2616,9,3,6,7
+181,Amber,Maxwell,1845-03-07,cherrywendy@gmail.com,,2009-07-11,Junior Spell Crafter,Spellcrafting,48.0,Half-blood,Phoenix Feather,Adept,False,3825,3,3,4,22
+182,Christina,Fould,1931-12-13,dianakaufman@gmail.com,(409)932-6991x48204,2012-01-17,Potions Intern,Spellcrafting,16.0,Muggle-born,Mysterious Core,Adept,True,1383,5,4,5,3
+183,Deanna,Leonard,1976-05-09,christopher28@meyer-pittman.net,,2008-09-04,Senior Enchanter,HR & Muggle Relations,28.0,Half-blood,Veela Hair,Master,False,979,6,10,7,3
+184,Kenneth,Ali,1931-03-09,angelavelez@yahoo.com,(707)995-9210x8109,2008-06-12,Wand Safety Officer,Potion Research,32.0,Unknown,Veela Hair,Adept,True,1192,10,8,7,22
+185,Travis,Kane,1926-09-03,lindavasquez@hall-cruz.com,(094)565-3783x3754,2007-01-16,Junior Spell Crafter,Wand Engineering,39.0,Unknown,Thestral Tail Hair,Adept,False,4683,5,4,4,15
+186,Maura,Gibson,1960-03-09,imcneil@gmail.com,988.048.9478,2021-03-16,Magical HR Specialist,Spellcrafting,12.0,Unknown,Phoenix Feather,Adept,True,3398,8,9,9,16
+187,William,Stzne,1731-08-15,matthewspamela@orozco-costa.org,,2009-04-13,Master of Charms,HR & Muggle Relations,33.0,Unknown,Veela Hair,Adept,True,1797,3,9,2,9
+188,Steven,SnydXr,1858-10-30,levans@howell.com,2338477727,2017-09-07,Wand Safety Officer,HR & Muggle Relations,18.0,Pureblood,Mysterious Core,Master,True,757,8,10,3,17
+189,Derrick,Castro,1734-10-22,wesleytyler@anderson.com,208-802-7148x91674,2028-13-40,Senior Enchanter,Spellcrafting,20.0,Muggle-born,Phoenix Feather,Adept,True,4908,5,3,3,10
+190,Alexandra,Pineda,1848-03-03,dlopez@cooper-cain.biz,069-297-2741x74288,2020-05-16,Junior Spell Crafter,Potion Research,3.0,Pureblood,Phoenix Feather,Master,True,3717,7,3,1,21
+191,Pamela,Brooks,1766-07-19,mrussell@gmail.com,+1-195-841-4464,2019-05-16,Potions Intern,Mystical Logistics,5.0,Half-blood,Mysterious Core,Master,True,4836,6,10,9,15
+192,Joseph,Mhore,1865-12-16,andrewcolon@booth.info,+1-324-789-5677x60424,2007-03-14,Master of Charms,HR & Muggle Relations,1.0,Muggle-born,Unicorn Hair,Consultant,False,4521,2,3,8,10
+193,Steven,Hernanaez,1810-08-31,marymiller@yahoo.com,025-161-9452x6959,2016-09-21,Senior Enchanter,Potion Research,19.0,Pureblood,Dragon Heartstring,Master,False,569,6,3,8,9
+194,Sarah,Cox,1797-12-21,,554-523-1042,2014-05-21,Junior Spell Crafter,Potion Research,5.0,Half-blood,Phoenix Feather,Apprentice,True,2009,2,10,1,16
+195,Brian,Norton,1766-07-03,joseph93@gmail.com,+1-325-255-9709x7144,2021-05-10,Master of Charms,Magical Security,37.0,Muggle-born,Unknown,Apprentice,False,877,5,4,2,5
+196,Robert,Miller,1898-06-09,eriley@gmail.com,+1-972-832-2851,2011-05-05,Magical HR Specialist,Mystical Logistics,18.0,Squib,Mysterious Core,Intern,False,589,2,5,3,10
+197,Sheila,Wilson,1801-01-15,jjohnson@gmail.com,327.718.7928,2020-08-12,Wand Safety Officer,Potion Research,39.0,Half-blood,Dragon Heartstring,Intern,False,4513,9,6,7,6
+198,AmanKa,Wheeler,1953-01-26,jason84@rodriguez-moreno.com,001-823-983-5110x5863,2005-12-04,Senior Enchanter,HR & Muggle Relations,42.0,Muggle-born,Unicorn Hair,Apprentice,False,3003,4,6,5,5
+199,Faith,Howe,1964-01-04,halllaura@johnson.net,709.833.8642,2010-04-20,Magical HR Specialist,Wand Engineering,35.0,Pureblood,Veela Hair,Apprentice,True,4766,6,2,3,6
+200,Holly,Watson,1910-02-14,ecopeland@hotmail.com,001-178-056-5880x7550,2018-04-16,Master of Charms,Magical Security,9.0,Unknown,Phoenix Feather,Master,False,1309,6,10,2,19
+201,Travis,Rojas,1924-01-13,patrick82@larson-arnold.net,+1-482-016-7529,2020-03-30,Master of Charms,Mystical Logistics,21.0,Pureblood,Dragon Heartstring,Consultant,True,2627,6,1,3,6
+202,Alicia,Williams,1745-09-13,alevy@cameron.com,796.139.7870x573,2016-10-28,Potions Intern,Magical Security,5.0,Squib,Dragon Heartstring,Consultant,False,2589,3,2,3,15
+203,Kimbefly,Grant,1733-05-08,stevenpoole@gmail.com,126-608-0312x63408,2010-09-19,Junior Spell Crafter,Mystical Logistics,40.0,Muggle-born,Veela Hair,Consultant,True,4479,7,8,1,15
+204,Michael,Kennedy,1954-08-13,hartmonica@young.org,(853)260-0030,2007-12-27,Potions Intern,Magical Security,44.0,Half-blood,Phoenix Feather,Consultant,True,4161,7,3,3,14
+205,Lawrence,Evans,1754-09-04,carolynrobinson@shaffer-clark.biz,(122)576-0974x468,2019-02-22,Master of Charms,Magical Security,46.0,Squib,Mysterious Core,Master,False,916,7,3,4,16
+206,Timothy,Wvlfe,1833-10-02,jamesfoley@hotmail.com,407.123.7440x51998,2011-04-28,Magical HR Specialist,Spellcrafting,47.0,Half-blood,Unknown,Apprentice,False,2845,1,5,1,1
+207,Coystal,Thomas,1731-09-09,josephwatson@hotmail.com,904-684-7903,2014-10-10,Wand Safety Officer,Potion Research,47.0,Half-blood,Unknown,Apprentice,True,1843,2,5,4,3
+208,Pamela,Glover,1795-09-19,kendrarodriguez@wright.com,516.777.5092x4943,2021-11-23,Master of Charms,Wand Engineering,49.0,Half-blood,Unknown,Intern,False,4391,5,10,7,13
+209,Adrienne,Delgado,1760-05-18,lesliecarpenter@hotmail.com,9074000372,2015-06-03,Master of Charms,Magical Security,22.0,Pureblood,Unknown,Master,False,725,1,7,8,8
+210,Brian,Mendoza,1872-11-27,oliviahorton@rodriguez.com,880-242-8035x793,2009-03-30,Junior Spell Crafter,HR & Muggle Relations,1.0,Muggle-born,Thestral Tail Hair,Consultant,True,1225,3,3,5,13
+211,Nicholas,Anderson,1877-06-17,lisa99@hernandez.com,+1-968-387-0262x41259,2009-12-07,Senior Enchanter,HR & Muggle Relations,21.0,Squib,Unknown,Intern,False,3176,8,6,3,22
+212,Timothy,Chase,1749-01-11,ghuffman@ortiz.net,(414)645-7277x01278,2021-04-02,Potions Intern,Mystical Logistics,36.0,Muggle-born,Unknown,Adept,True,2349,6,6,8,14
+213,Jacob,Williams,1771-04-05,darleneramirez@gmail.com,293-375-0896,2011-02-10,Senior Enchanter,HR & Muggle Relations,33.0,Muggle-born,Phoenix Feather,Master,False,3801,6,1,1,10
+214,Valerie,Vega,1908-08-06,petersoncarmen@bernard.com,(766)117-7650,2023-09-07,Magical HR Specialist,Mystical Logistics,49.0,Pureblood,Thestral Tail Hair,Apprentice,True,4458,4,6,4,18
+215,John,Collins,1879-02-06,fmartin@yahoo.com,0156886904,2018-10-15,Potions Intern,Spellcrafting,8.0,Muggle-born,Mysterious Core,Apprentice,False,4109,3,9,8,19
+216,Wayne,Sexton,1867-03-07,madisonlewis@hotmail.com,177-171-6711x454,2013-03-25,Senior Enchanter,Wand Engineering,10.0,Half-blood,Phoenix Feather,Adept,True,4095,9,7,6,17
+217,Julia,Brooks,1862-11-19,,097-448-9155x48664,2011-06-12,Potions Intern,Potion Research,12.0,Pureblood,Dragon Heartstring,Consultant,True,2469,3,2,3,12
+218,Brittany,Taylor,1989-12-17,tmeyer@bell.com,001-760-509-1712,2024-09-03,Junior Spell Crafter,Magical Security,16.0,Muggle-born,Mysterious Core,Master,False,4368,10,10,5,4
+219,Kimberly,Baker,1799-12-25,plee@yahoo.com,,2017-06-10,Senior Enchanter,Mystical Logistics,9.0,Squib,Thestral Tail Hair,Adept,True,3724,10,9,2,17
+220,Sean,Edwards,1904-06-02,dsmith@gonzales.org,(468)999-4369x180,2013-02-12,Potions Intern,Wand Engineering,32.0,Half-blood,Dragon Heartstring,Intern,True,4052,5,8,4,20
+221,uilly,Wagner,1804-03-04,qmitchell@perkins.biz,(256)756-9626x062,2017-03-16,Wand Safety Officer,HR & Muggle Relations,32.0,Muggle-born,Thestral Tail Hair,Intern,False,3827,4,2,7,5
+222,Jacqueline,Jones,1758-09-17,jnolan@martinez.com,001-956-929-7420,2005-05-12,Potions Intern,Potion Research,8.0,Unknown,Dragon Heartstring,Adept,True,4081,9,1,2,25
+223,Sandra,Young,1746-06-25,jriggs@hotmail.com,968.732.4896x0049,2007-03-25,Wand Safety Officer,Potion Research,20.0,Pureblood,Unknown,Adept,True,1023,6,9,9,9
+224,Keith,Wagner,1868-08-23,tstevenson@miller.com,634-310-7033x51600,2007-09-12,Master of Charms,Magical Security,35.0,Pureblood,Dragon Heartstring,Consultant,False,868,7,1,9,21
+225,Stephanie,Ritter,1737-06-14,amychambers@hotmail.com,774-968-5805x994,2021-10-21,Potions Intern,HR & Muggle Relations,7.0,Unknown,Dragon Heartstring,Master,True,4321,4,8,10,17
+226,Cheryl,Henson,1740-07-02,jodimarshall@yahoo.com,+1-630-364-8793x118,2011-09-11,Magical HR Specialist,Wand Engineering,24.0,Pureblood,Unknown,Apprentice,False,3835,8,6,5,6
+227,Scott,Hammond,1999-09-27,choilaura@carr.com,001-749-486-7568,2011-02-19,Master of Charms,Potion Research,17.0,Half-blood,Thestral Tail Hair,Intern,False,2649,2,8,2,19
+228,Tyler,wollins,1886-04-24,williamscarol@hotmail.com,001-216-666-3464x6278,2007-07-18,Magical HR Specialist,Wand Engineering,1.0,Muggle-born,Mysterious Core,Consultant,False,3924,3,7,3,21
+229,Rendy,Thomas,1878-12-05,wallacepaul@hodge-jackson.biz,+1-105-569-5357x55639,2015-06-28,Senior Enchanter,HR & Muggle Relations,22.0,Squib,Mysterious Core,Adept,False,2173,5,5,9,12
+230,AnIrew,Chan,1734-02-04,marquezjose@gmail.com,034-274-3216x4089,2010-02-03,Magical HR Specialist,HR & Muggle Relations,8.0,Pureblood,Veela Hair,Consultant,False,950,3,10,7,18
+231,Suzanne,Hill,1862-12-31,brewercaitlin@yahoo.com,,2015-08-21,Magical HR Specialist,HR & Muggle Relations,17.0,Pureblood,Unknown,Adept,True,3195,8,6,7,10
+232,Nicholas,Wells,1727-03-13,timothy05@yahoo.com,381.143.5857x95878,2014-12-11,Master of Charms,Spellcrafting,25.0,Half-blood,Unicorn Hair,Apprentice,False,3811,6,6,10,12
+233,Lisa,Miller,1987-08-28,carrollgrace@gmail.com,214-444-7243x696,2009-11-29,Senior Enchanter,Wand Engineering,15.0,Muggle-born,Mysterious Core,Adept,True,3401,1,1,4,25
+234,Norma,Henry,1972-11-18,michael49@davis.com,+1-015-226-2466x5689,2017-03-18,Master of Charms,HR & Muggle Relations,9.0,Unknown,Unicorn Hair,Adept,False,4767,3,2,4,15
+235,Garrett,Snyder,1917-07-09,juliedavis@hotmail.com,001-740-037-4909x99963,2013-03-22,Junior Spell Crafter,Magical Security,50.0,Unknown,Unknown,Apprentice,True,1390,8,4,6,18
+236,Pamela,Andrews,1894-03-14,brian55@yahoo.com,776-748-4862x3119,2009-12-21,Magical HR Specialist,Potion Research,11.0,Muggle-born,Dragon Heartstring,Consultant,False,3606,6,8,5,0
+237,Sherri,Wyatt,1747-04-19,deborahstevenson@martin-coleman.com,2769443334,2022-02-23,Junior Spell Crafter,Mystical Logistics,8.0,Half-blood,Veela Hair,Consultant,True,2153,3,4,6,18
+238,Jason,Garcia,1890-11-18,nicholas67@gmail.com,087.260.2364,2028-13-40,Magical HR Specialist,Magical Security,44.0,Muggle-born,Veela Hair,Master,True,1032,6,3,9,20
+239,Benjamin,Jackson,1842-03-05,robinsontammy@greene.com,307-393-8029,2010-05-20,Junior Spell Crafter,Potion Research,33.0,Pureblood,Veela Hair,Adept,False,3178,6,1,9,15
+240,Kim,Lutz,1873-05-19,reneewilliams@mckenzie.com,675-399-3719x578,2017-08-03,Potions Intern,Potion Research,20.0,Muggle-born,Unknown,Consultant,False,2352,5,4,10,15
+241,Carolyn,Rodriguez,1765-11-23,moniquehernandez@medina-nguyen.com,+1-452-854-6179x34692,2013-01-03,Potions Intern,Potion Research,32.0,Squib,Thestral Tail Hair,Master,True,1412,2,7,2,10
+242,Brgan,Long,1910-12-28,berryhenry@burgess.net,+1-842-918-1960x705,2019-11-02,Senior Enchanter,Mystical Logistics,6.0,Unknown,Thestral Tail Hair,Consultant,False,753,2,9,5,4
+243,Michael,Thompson,1767-07-02,qparsons@yahoo.com,556-262-3255x54358,2009-09-07,Master of Charms,Spellcrafting,1.0,Squib,Unicorn Hair,Intern,False,3743,3,1,4,18
+244,Wendy,JoYnson,1925-01-01,douglas74@yahoo.com,665.708.9910,2019-06-08,Magical HR Specialist,Potion Research,23.0,Half-blood,Unknown,Master,False,2105,4,5,7,11
+245,Tammy,Villegas,1727-04-22,julieestrada@williamson-liu.biz,(266)139-1219x108,2008-08-28,Magical HR Specialist,Mystical Logistics,25.0,Half-blood,Unicorn Hair,Adept,False,4919,7,4,4,13
+246,Jeffrey,Donalrson,1984-03-23,wramirez@lewis.net,+1-886-711-8420,2028-13-40,Junior Spell Crafter,Wand Engineering,32.0,Half-blood,Unknown,Consultant,True,3327,5,5,6,11
+247,Jennifer,Pineda,1830-03-26,allencarolyn@kemp.info,001-015-296-2382x976,2010-03-04,Potions Intern,Wand Engineering,15.0,Muggle-born,Dragon Heartstring,Intern,True,4556,6,9,1,7
+248,TPny,Martinez,1945-05-29,,976.196.1061,2025-03-03,Senior Enchanter,HR & Muggle Relations,47.0,Pureblood,Unknown,Intern,False,4184,5,10,8,2
+249,Charles,Robinson,1727-08-23,kochgary@moody.com,650.720.8008x712,2028-13-40,Senior Enchanter,Potion Research,36.0,Unknown,Dragon Heartstring,Consultant,True,647,10,4,1,12
+250,Daniel,Brennan,1788-07-16,barreradavid@jenkins.com,(367)111-4463,2010-06-09,Master of Charms,Wand Engineering,12.0,Squib,Unknown,Intern,True,4873,6,2,1,2
+251,Joshua,Hall,1875-07-06,zcarpenter@harris.info,441-979-8101x0491,2009-08-02,Magical HR Specialist,Mystical Logistics,29.0,Squib,Phoenix Feather,Adept,False,4329,8,1,6,16
+252,Shannon,Garcia,1739-04-26,mcampbell@hotmail.com,4055360071,2014-03-14,Senior Enchanter,HR & Muggle Relations,48.0,Half-blood,Unknown,Intern,False,1137,8,10,2,20
+253,KVra,Butler,1955-03-25,lchandler@gmail.com,513-763-7346x256,2005-05-26,Potions Intern,Spellcrafting,9.0,Pureblood,Thestral Tail Hair,Adept,False,3481,6,7,7,12
+254,Charles,Gill,1871-07-15,abrown@willis-perez.biz,,2024-12-20,Junior Spell Crafter,Spellcrafting,22.0,Squib,Dragon Heartstring,Intern,True,1809,5,7,2,17
+255,Dana,Johnson,1857-11-03,longdwayne@yahoo.com,001-303-719-5650x3511,2007-08-16,Senior Enchanter,Magical Security,32.0,Unknown,Veela Hair,Consultant,False,4316,6,9,9,24
+256,David,Conrad,1777-06-19,sanchezjessica@hotmail.com,(166)473-6671,2009-09-12,Junior Spell Crafter,Wand Engineering,3.0,Pureblood,Mysterious Core,Master,False,4964,2,5,4,19
+257,Samuel,Moran,1918-07-24,kevin24@porter.com,211.004.0307x799,2008-11-19,Senior Enchanter,Wand Engineering,12.0,Pureblood,Mysterious Core,Consultant,False,1884,2,7,7,1
+258,Max,Mcbride,1784-01-19,danielallen@hotmail.com,(855)640-7038x6539,2022-09-11,Junior Spell Crafter,HR & Muggle Relations,38.0,Squib,Unknown,Apprentice,False,2458,2,9,6,17
+259,Jason,Roberts,1964-09-02,kevingray@hotmail.com,+1-386-748-4144x40132,2012-09-06,Junior Spell Crafter,Spellcrafting,18.0,Muggle-born,Phoenix Feather,Master,False,679,4,9,7,18
+260,Gail,Tucker,1729-08-31,robertsmith@gmail.com,(367)403-1184,2013-07-02,Senior Enchanter,HR & Muggle Relations,6.0,Pureblood,Unknown,Intern,False,1084,9,9,10,2
+261,Zachary,Huynh,1832-03-25,matthewwade@velasquez.net,298.166.2308x1105,2016-08-10,Potions Intern,Potion Research,22.0,Squib,Unicorn Hair,Adept,False,563,5,4,5,1
+262,Emily,Anberson,1893-06-09,candacerojas@hale-shannon.org,001-620-350-0387x8874,2014-07-14,Junior Spell Crafter,HR & Muggle Relations,18.0,Unknown,Phoenix Feather,Apprentice,False,655,8,9,4,2
+263,Amy,Bradford,1984-07-27,nmarsh@hartman.com,001-630-130-9546x711,2024-12-09,Junior Spell Crafter,HR & Muggle Relations,34.0,Muggle-born,Unicorn Hair,Apprentice,False,2494,7,2,7,19
+264,Sherry,Gibson,1900-10-03,smallrobert@cole.com,+1-265-409-5462x06343,2015-11-28,Wand Safety Officer,Spellcrafting,2.0,Squib,Mysterious Core,Adept,False,1573,4,9,8,10
+265,Frank,Beck,1792-01-05,timothywhite@morris-mcintyre.biz,527-276-3338x61829,2017-01-08,Wand Safety Officer,Wand Engineering,2.0,Half-blood,Dragon Heartstring,Apprentice,True,1893,5,2,1,25
+266,Erik,Hall,1787-09-24,zlambert@campos-strickland.com,964-426-9761,2011-04-22,Junior Spell Crafter,Potion Research,39.0,Half-blood,Dragon Heartstring,Apprentice,True,4726,2,6,9,20
+267,Judiph,Bennett,1817-09-22,hannadavid@hotmail.com,335.240.5470,2005-11-02,Master of Charms,Wand Engineering,38.0,Half-blood,Thestral Tail Hair,Adept,True,849,10,5,6,7
+268,Dgvid,Chase,1773-07-15,williefrazier@yahoo.com,230.179.1148x10706,2008-01-11,Master of Charms,HR & Muggle Relations,13.0,Muggle-born,Dragon Heartstring,Consultant,True,3364,8,2,8,9
+269,Brenda,Collins,1931-05-29,erinmiller@yahoo.com,+1-242-357-7875x56463,2015-07-25,Magical HR Specialist,Wand Engineering,13.0,Unknown,Unicorn Hair,Intern,False,4073,4,7,6,14
+270,Tyler,Brooks,1767-10-18,lcooper@rivas.info,239-294-5811x1375,2005-12-19,Potions Intern,Mystical Logistics,41.0,Squib,Mysterious Core,Apprentice,False,4035,3,8,6,15
+271,Eric,Rodgers,1981-10-02,lauren80@gates.org,001-104-670-1697x807,2011-07-14,Master of Charms,HR & Muggle Relations,34.0,Squib,Mysterious Core,Master,True,2423,4,10,10,10
+272,Charles,Myers,1806-11-16,brianavery@webster.com,522-661-5443x695,2028-13-40,Magical HR Specialist,Potion Research,20.0,Muggle-born,Dragon Heartstring,Adept,False,3143,1,9,2,13
+273,Mark,Scott,1850-11-16,erichansen@diaz-miller.com,4559362680,2023-10-08,Junior Spell Crafter,Mystical Logistics,47.0,Unknown,Phoenix Feather,Adept,False,917,7,7,8,23
+274,Lori,Brewer,1833-03-22,,206-491-4884x269,2013-04-07,Potions Intern,Magical Security,17.0,Half-blood,Veela Hair,Adept,False,2610,10,4,9,20
+275,Johnny,Black,1741-10-03,amanda84@dunn.com,,2013-07-03,Master of Charms,Spellcrafting,46.0,Half-blood,Thestral Tail Hair,Consultant,False,654,5,5,1,16
+276,Crystal,Lopez,1792-02-10,kylesantana@simpson.info,+1-492-939-8029x04583,2019-12-28,Potions Intern,HR & Muggle Relations,41.0,Muggle-born,Thestral Tail Hair,Adept,False,4602,10,1,7,0
+277,John,Wilkins,1904-08-24,grahamnicholas@yahoo.com,(831)990-3027,2016-11-29,Junior Spell Crafter,HR & Muggle Relations,40.0,Half-blood,Veela Hair,Apprentice,True,3868,1,2,9,2
+278,Emily,HGlmes,1872-10-10,davidjimenez@lewis-knox.com,+1-589-227-3798x454,2019-07-18,Master of Charms,Potion Research,9.0,Muggle-born,Unknown,Adept,True,4519,3,2,9,0
+279,Shane,Carlson,1800-12-29,rwilliams@newton.com,152-763-0755x350,2020-01-18,Wand Safety Officer,Potion Research,44.0,Squib,Thestral Tail Hair,Consultant,True,2633,6,7,9,11
+280,Amanda,Dixon,1941-03-19,david94@perez-black.com,0154855633,2016-03-20,Wand Safety Officer,Mystical Logistics,15.0,Pureblood,Dragon Heartstring,Apprentice,False,4382,6,2,8,1
+281,Anthony,Mcdaniel,1770-01-13,jorge70@yahoo.com,+1-461-233-9104x84810,2023-12-21,Potions Intern,Potion Research,25.0,Squib,Mysterious Core,Apprentice,False,1872,8,2,10,7
+282,Darius,Hayes,1760-09-17,,8756872880,2020-06-25,Magical HR Specialist,Potion Research,21.0,Half-blood,Phoenix Feather,Consultant,True,4006,7,4,9,13
+283,Jennifer,sneill,1724-10-15,troytrujillo@yahoo.com,001-826-721-9537x11755,2015-08-30,Senior Enchanter,Mystical Logistics,40.0,Unknown,Unicorn Hair,Master,True,3308,3,7,10,23
+284,Cody,Ochoa,1869-08-08,heather88@howell.com,(524)302-7246x5784,2009-06-12,Wand Safety Officer,Wand Engineering,6.0,Squib,Unknown,Intern,False,4671,7,9,4,11
+285,Sgephanie,Newton,1940-05-26,winterschristina@yahoo.com,(485)086-2485,2005-07-01,Magical HR Specialist,Mystical Logistics,6.0,Half-blood,Mysterious Core,Apprentice,True,4364,9,9,1,13
+286,RoHin,Martinez,1917-07-05,mrivas@hotmail.com,001-592-917-2248x3035,2009-06-04,Senior Enchanter,Magical Security,24.0,Muggle-born,Thestral Tail Hair,Adept,True,4263,5,3,9,13
+287,Christina,Sims,1877-07-03,kennethdunn@patton.com,(670)625-8719x09824,2020-02-14,Wand Safety Officer,Spellcrafting,25.0,Unknown,Phoenix Feather,Intern,True,3384,9,1,7,22
+288,Jonathan,Ray,1940-05-19,ryan59@hayes.com,866-485-0133,2012-11-11,Senior Enchanter,Spellcrafting,9.0,Squib,Mysterious Core,Apprentice,False,4830,7,6,9,3
+289,Amber,Prince,1941-10-20,petersandrew@davis.com,936-725-4513x668,2019-07-18,Wand Safety Officer,Spellcrafting,2.0,Half-blood,Veela Hair,Master,True,2606,1,3,1,13
+290,Jason,RReves,1876-12-15,william07@ramirez.com,445.269.9694x2338,2019-09-10,Junior Spell Crafter,Wand Engineering,45.0,Half-blood,Veela Hair,Consultant,False,4482,5,9,1,7
+291,Paul,Ramos,1724-07-31,,578-425-2373,2023-11-10,Magical HR Specialist,HR & Muggle Relations,21.0,Squib,Phoenix Feather,Master,True,4422,10,4,2,20
+292,Kristen,Ticks,1769-09-20,timothy41@gmail.com,001-061-943-6667x70155,2018-03-31,Master of Charms,Mystical Logistics,25.0,Half-blood,Unicorn Hair,Consultant,False,903,3,8,7,13
+293,Courtney,Roberts,1767-11-06,cking@gmail.com,583.621.7372x8090,2014-02-16,Magical HR Specialist,Potion Research,48.0,Half-blood,Thestral Tail Hair,Master,False,3112,2,4,6,5
+294,RichGrd,Wolf,1902-06-05,hprice@long.com,(147)110-3411x71155,2016-10-27,Senior Enchanter,HR & Muggle Relations,39.0,Half-blood,Veela Hair,Consultant,False,4286,4,10,7,16
+295,Sabrina,Gomez,1897-05-14,brandon66@yahoo.com,650-736-0832,2024-11-19,Potions Intern,HR & Muggle Relations,27.0,Muggle-born,Thestral Tail Hair,Adept,True,1146,5,3,9,19
+296,Kathryn,Friedman,1991-04-19,dannyschmidt@gmail.com,039-944-7939x14698,2012-11-02,Senior Enchanter,Magical Security,20.0,Squib,Mysterious Core,Master,False,1093,9,5,9,13
+297,Cassidy,Miranda,1724-04-22,bhoward@gmail.com,449-452-3466x325,2023-07-03,Magical HR Specialist,HR & Muggle Relations,11.0,Unknown,Phoenix Feather,Apprentice,True,4562,10,6,5,6
+298,Sherry,Allen,1911-12-07,larryavery@anderson-aguilar.com,001-097-041-9284x80944,2016-11-16,Master of Charms,Potion Research,34.0,Half-blood,Phoenix Feather,Master,False,1150,3,5,8,20
+299,Stacy,Hicks,1914-05-28,sarah19@yahoo.com,(704)665-8614x068,2009-07-09,Junior Spell Crafter,Mystical Logistics,50.0,Half-blood,Unknown,Master,True,4901,1,5,6,2
+300,Stephen,Combs,1790-11-29,ssmith@yahoo.com,001-607-373-8193,2015-06-12,Magical HR Specialist,Potion Research,49.0,Pureblood,Dragon Heartstring,Adept,True,2065,6,3,6,6
+301,Brian,Rivera,1904-02-29,mmiller@yahoo.com,001-172-945-7764x469,2024-02-23,Magical HR Specialist,Potion Research,35.0,Half-blood,Veela Hair,Apprentice,True,3558,8,1,6,25
+302,Courtney,Bell,1808-11-12,andrewssabrina@cooke-christensen.com,001-147-081-1787x71596,2028-13-40,Master of Charms,HR & Muggle Relations,13.0,Unknown,Dragon Heartstring,Intern,True,2032,6,3,9,10
+303,Tanya,Jones,1901-06-05,qwilliams@yahoo.com,,2006-10-31,Junior Spell Crafter,Magical Security,28.0,Pureblood,Mysterious Core,Consultant,False,1886,3,3,5,17
+304,Jamie,Benson,1859-06-28,miguel89@baker-parrish.com,,2028-13-40,Potions Intern,Mystical Logistics,35.0,Pureblood,Dragon Heartstring,Apprentice,False,2812,9,5,7,6
+305,Jacqueline,Mullits,1835-01-17,baxteraudrey@gmail.com,2466247928,2013-08-17,Junior Spell Crafter,Magical Security,12.0,Pureblood,Thestral Tail Hair,Master,True,4467,10,4,6,17
+306,Michael,Ward,1780-01-27,david56@gmail.com,534.433.3777,2011-05-26,Magical HR Specialist,Wand Engineering,39.0,Muggle-born,Unicorn Hair,Consultant,True,616,4,5,2,7
+307,Jessica,George,1997-04-30,allisonjames@gmail.com,2949979447,2017-09-15,Wand Safety Officer,Wand Engineering,13.0,Muggle-born,Phoenix Feather,Intern,True,1678,1,6,4,17
+308,Kimberly,Rice,1799-04-07,lindalopez@yahoo.com,(362)517-3261,2005-10-30,Master of Charms,Magical Security,1.0,Unknown,Thestral Tail Hair,Adept,True,3010,3,6,5,12
+309,Qdrienne,Larsen,1994-05-21,nhoward@gmail.com,+1-603-543-0949x15611,2010-09-28,Wand Safety Officer,Spellcrafting,21.0,Half-blood,Phoenix Feather,Apprentice,True,2896,1,9,1,11
+310,Ellen,Mills,1911-08-27,qsullivan@hotmail.com,213-549-2842,2013-08-23,Magical HR Specialist,Potion Research,7.0,Pureblood,Mysterious Core,Master,True,4012,8,3,8,0
+311,Nicholas,Johnson,1907-12-17,bryanwiley@reyes-smith.com,342-985-2061x78763,2019-06-08,Master of Charms,Magical Security,46.0,Muggle-born,Dragon Heartstring,Adept,True,4285,1,9,7,24
+312,RonaPd,Lopez,1788-05-12,erin11@gmail.com,611-834-8945x3275,2023-04-24,Senior Enchanter,Magical Security,30.0,Unknown,Phoenix Feather,Apprentice,False,2807,7,3,10,11
+313,James,Miller,1921-11-17,lukejordan@yahoo.com,834.232.2534x9390,2023-06-21,Magical HR Specialist,Mystical Logistics,33.0,Squib,Thestral Tail Hair,Apprentice,False,3969,8,5,3,25
+314,Dana,Horton,1900-07-03,candice62@gmail.com,(838)652-7086x21710,2021-09-02,Potions Intern,Magical Security,46.0,Half-blood,Mysterious Core,Adept,True,802,8,6,3,21
+315,Michelle,GDod,1854-10-20,chelsea58@gmail.com,+1-024-724-1499x1736,2005-07-18,Potions Intern,Spellcrafting,13.0,Squib,Phoenix Feather,Consultant,False,2584,2,8,10,11
+316,Nicole,Velasquez,1738-05-05,fisherbreanna@tran.com,+1-961-548-5175,2016-01-13,Magical HR Specialist,Magical Security,28.0,Squib,Veela Hair,Consultant,False,4391,7,2,3,11
+317,Brenda,Jones,1799-12-10,amy79@little.com,828-966-8778,2013-01-04,Wand Safety Officer,Wand Engineering,43.0,Unknown,Unicorn Hair,Master,True,1346,8,3,10,14
+318,Theresa,Wilclx,1741-04-23,uperez@gmail.com,+1-602-227-6134x93570,2018-01-11,Potions Intern,Potion Research,18.0,Pureblood,Mysterious Core,Adept,False,3512,5,2,5,5
+319,Uara,Williams,1803-05-09,hallmargaret@yahoo.com,457.120.7048,2019-04-22,Junior Spell Crafter,Mystical Logistics,31.0,Half-blood,Thestral Tail Hair,Consultant,True,4950,6,7,2,22
+320,James,Li,1987-04-10,nicole39@ball.com,646.781.3870x924,2008-06-30,Magical HR Specialist,Mystical Logistics,15.0,Pureblood,Unknown,Consultant,False,4234,9,9,3,6
+321,Sandra,Williams,1791-10-30,trogers@williams.com,(474)639-5692x14944,2018-01-26,Senior Enchanter,Mystical Logistics,45.0,Squib,Veela Hair,Consultant,True,3012,5,1,3,3
+322,Luke,Freeman,1957-03-03,amanda28@walker.com,+1-841-335-0864,2018-03-28,Senior Enchanter,Spellcrafting,21.0,Squib,Dragon Heartstring,Intern,True,2341,7,10,3,3
+323,Mike,Pineda,1946-08-25,thomasday@gmail.com,001-546-670-9986x278,2011-09-13,Wand Safety Officer,Potion Research,50.0,Half-blood,Unicorn Hair,Intern,True,3250,1,5,5,13
+324,Suzanne,Garcpa,1990-12-24,charles45@garcia.com,575-116-4685x6754,2024-02-27,Master of Charms,Mystical Logistics,41.0,Muggle-born,Dragon Heartstring,Adept,False,2533,7,2,8,20
+325,Uoseph,Kennedy,1780-06-20,brauncynthia@adkins.com,555.931.6980x512,2020-10-22,Junior Spell Crafter,Magical Security,26.0,Squib,Unknown,Apprentice,True,2025,3,5,1,2
+326,Lynn,BAwen,1866-10-12,ehoffman@gmail.com,,2011-10-15,Junior Spell Crafter,Potion Research,8.0,Half-blood,Unknown,Master,True,4588,9,2,4,3
+327,RQy,SeArano,1771-03-31,,708.129.3373x433,2006-03-21,Wand Safety Officer,Wand Engineering,50.0,Half-blood,Unknown,Intern,False,3931,5,9,1,19
+328,Brandon,Lee,1898-02-24,harveydonna@yahoo.com,(408)619-7777x88845,2017-10-20,Wand Safety Officer,Potion Research,30.0,Unknown,Veela Hair,Intern,True,2070,1,1,2,18
+329,Christopher,Ramirez,1812-10-27,craig77@yahoo.com,583-528-8071x081,2015-04-09,Potions Intern,Wand Engineering,41.0,Squib,Unknown,Master,True,531,2,3,7,23
+330,Sean,Phillips,1916-02-29,johnnykerr@short.net,287-033-2236,2008-04-30,Wand Safety Officer,Magical Security,18.0,Muggle-born,Thestral Tail Hair,Adept,True,4399,1,10,2,17
+331,Chelsea,Evans,1873-09-01,,(869)356-4627x14934,2011-03-19,Master of Charms,Mystical Logistics,11.0,Muggle-born,Thestral Tail Hair,Apprentice,False,1303,10,8,8,1
+332,Daniel,Pratt,1901-12-30,ucardenas@sampson-taylor.com,+1-269-254-2087x65980,2018-03-13,Senior Enchanter,HR & Muggle Relations,14.0,Squib,Phoenix Feather,Adept,False,3503,8,5,6,22
+333,Matthew,Chambers,1772-04-29,mcculloughzachary@yahoo.com,,2017-09-18,Potions Intern,Wand Engineering,50.0,Squib,Unknown,Consultant,False,3099,7,1,3,10
+334,Ronald,Baldwin,1968-04-29,nryan@hotmail.com,,2010-08-08,Magical HR Specialist,Mystical Logistics,4.0,Squib,Mysterious Core,Consultant,True,913,1,9,5,21
+335,Thomas,Owen,1837-04-26,elizabethbrock@yahoo.com,226.868.5692x6189,2014-05-24,Potions Intern,Potion Research,28.0,Pureblood,Unknown,Apprentice,True,3404,8,1,1,19
+336,Chad,Olsen,1885-05-16,john44@garrett-wolf.com,,2015-12-13,Wand Safety Officer,Magical Security,48.0,Squib,Unicorn Hair,Master,False,2017,10,7,1,5
+337,Heather,Jimenuz,1973-10-06,donsheppard@hotmail.com,,2006-10-05,Senior Enchanter,Mystical Logistics,41.0,Half-blood,Thestral Tail Hair,Intern,False,2067,3,6,10,20
+338,Sarah,French,1861-07-04,ryanpayne@hotmail.com,+1-871-368-5220x299,2007-02-27,Wand Safety Officer,Potion Research,23.0,Squib,Mysterious Core,Apprentice,True,2831,9,9,5,4
+339,Cynthia,Daugherty,1972-02-13,audrey02@yahoo.com,(036)832-8399x528,2010-09-26,Master of Charms,Mystical Logistics,43.0,Half-blood,Thestral Tail Hair,Master,True,4148,5,3,2,4
+340,DVkota,Brown,1781-07-19,amystanley@rodriguez.com,208.391.0108x824,2022-12-20,Junior Spell Crafter,Mystical Logistics,14.0,Pureblood,Veela Hair,Consultant,False,3402,9,5,4,23
+341,Connie,Maxwell,1905-01-13,dawsonemily@yahoo.com,(917)428-3700,2025-03-05,Wand Safety Officer,Potion Research,31.0,Squib,Mysterious Core,Apprentice,True,536,2,9,7,1
+342,Michelle,Moore,1890-10-21,tracy45@gonzales-murray.org,530.030.8540x624,2008-06-12,Senior Enchanter,Potion Research,42.0,Pureblood,Dragon Heartstring,Intern,True,1013,9,7,5,23
+343,Raymond,Daviqson,1746-01-21,ronnieespinoza@sims-ryan.org,,2013-11-03,Senior Enchanter,Wand Engineering,28.0,Half-blood,Thestral Tail Hair,Apprentice,True,4570,10,1,9,21
+344,Johnny,Zimmerman,1949-05-04,joe19@burke.com,760.679.3377,2006-03-10,Master of Charms,Wand Engineering,42.0,Squib,Veela Hair,Adept,False,2491,8,8,1,2
+345,Charles,Cldne,1785-06-24,austinjohnston@gmail.com,(803)530-5970,2013-06-05,Master of Charms,Wand Engineering,34.0,Squib,Unknown,Apprentice,False,4661,2,10,1,13
+346,Jose,Wnite,1761-10-20,david00@yahoo.com,+1-670-574-2098x3759,2016-12-22,Senior Enchanter,Potion Research,21.0,Half-blood,Phoenix Feather,Master,False,4608,6,9,1,4
+347,Katherize,Smith,1736-12-17,hallkyle@hotmail.com,411-000-2224,2019-12-16,Magical HR Specialist,HR & Muggle Relations,43.0,Pureblood,Unknown,Consultant,True,1205,4,10,6,5
+348,Patricia,George,1985-09-08,wmejia@hotmail.com,+1-620-128-3823x414,2006-08-16,Senior Enchanter,Potion Research,48.0,Squib,Dragon Heartstring,Adept,True,544,4,4,5,15
+349,Alejandro,Fowler,1741-04-05,ramirezmichael@diaz-baker.biz,+1-568-624-8585x584,2024-12-21,Senior Enchanter,Magical Security,24.0,Pureblood,Veela Hair,Consultant,False,2746,3,1,5,20
+350,Christine,Orr,1764-02-06,mcfarlandsarah@yahoo.com,+1-286-851-2082x8505,2018-01-06,Potions Intern,Magical Security,48.0,Half-blood,Unknown,Master,True,925,10,7,7,13
+351,Kelly,Cooper,1867-03-29,,3907809041,2017-02-22,Senior Enchanter,HR & Muggle Relations,13.0,Muggle-born,Phoenix Feather,Intern,True,2801,1,2,7,14
+352,Dillon,Carlson,1919-03-15,eric60@yahoo.com,(937)016-4519x18084,2019-07-09,Wand Safety Officer,Magical Security,23.0,Half-blood,Unknown,Master,True,3228,5,9,5,14
+353,Melissa,Harrell,1915-04-10,thomas57@hotmail.com,3302057392,2007-07-06,Potions Intern,Wand Engineering,20.0,Half-blood,Unknown,Apprentice,True,3043,3,5,3,7
+354,Matthew,Kelly,1760-04-20,reyeslauren@patel.net,086-239-1881,2014-10-14,Junior Spell Crafter,Wand Engineering,36.0,Muggle-born,Phoenix Feather,Apprentice,True,3348,5,3,10,13
+355,Jennifer,Green,1906-12-18,kyleorozco@hotmail.com,338-962-4257x91966,2015-08-17,Potions Intern,Magical Security,11.0,Half-blood,Mysterious Core,Master,True,2290,4,10,4,17
+356,Donna,Velez,1986-05-21,yburton@gmail.com,130.880.6169x96957,2016-05-21,Master of Charms,HR & Muggle Relations,36.0,Squib,Veela Hair,Intern,False,3305,1,3,1,3
+357,Levi,Hickman,1889-10-03,nburns@hotmail.com,380-186-0153,2010-12-18,Master of Charms,Mystical Logistics,16.0,Muggle-born,Dragon Heartstring,Master,False,3439,1,10,6,16
+358,Rita,Williams,1999-02-20,natalietran@barry.net,677-184-8624x872,2006-07-19,Potions Intern,Mystical Logistics,1.0,Half-blood,Unknown,Master,False,3930,5,4,1,15
+359,Laura,Mckay,1819-09-13,fcook@alexander.com,001-342-130-1890,2013-03-25,Potions Intern,Mystical Logistics,13.0,Half-blood,Veela Hair,Master,False,1131,3,6,2,6
+360,Hannah,Brady,1943-03-23,garciasarah@long.info,001-518-134-5785x3161,2011-02-27,Wand Safety Officer,Magical Security,3.0,Half-blood,Unicorn Hair,Adept,True,3307,5,5,8,8
+361,Philip,Perez,1826-05-16,woodardronald@yahoo.com,2577945098,2015-10-19,Senior Enchanter,Wand Engineering,34.0,Half-blood,Phoenix Feather,Master,True,732,1,1,9,23
+362,Kirk,Benjamin,1921-02-05,gordon51@yahoo.com,753.554.6010,2020-03-14,Junior Spell Crafter,Potion Research,25.0,Half-blood,Mysterious Core,Intern,False,1419,9,7,3,1
+363,Michelle,Greene,1743-12-28,allendenise@hotmail.com,001-783-697-7424x652,2019-05-10,Wand Safety Officer,Spellcrafting,6.0,Muggle-born,Unknown,Consultant,False,966,1,4,8,10
+364,Rodney,Brown,1792-05-08,rnielsen@baker.com,663-579-6854x1743,2024-07-18,Magical HR Specialist,Potion Research,1.0,Half-blood,Unicorn Hair,Apprentice,True,1276,2,8,9,9
+365,Tracey,Clark,1951-06-21,valerie97@hotmail.com,257.299.2483,2024-07-04,Junior Spell Crafter,HR & Muggle Relations,14.0,Half-blood,Unicorn Hair,Adept,True,3791,5,3,3,3
+366,Deanna,bay,1951-09-22,zgarcia@gmail.com,,2015-10-13,Senior Enchanter,Spellcrafting,2.0,Squib,Veela Hair,Intern,True,1089,2,9,5,5
+367,Kevin,Shew,1831-01-15,sarah29@yahoo.com,408.305.5919,2008-12-14,Wand Safety Officer,Potion Research,50.0,Unknown,Unknown,Intern,False,3122,2,7,7,16
+368,Jacob,Everett,1878-02-11,rterry@gmail.com,(077)929-6846,2006-02-25,Junior Spell Crafter,HR & Muggle Relations,4.0,Pureblood,Mysterious Core,Consultant,True,831,7,3,10,16
+369,Jessica,Martin,1785-07-03,turnerrobert@yahoo.com,7024869797,2028-13-40,Master of Charms,HR & Muggle Relations,29.0,Pureblood,Veela Hair,Intern,False,4965,10,7,7,9
+370,Lindsey,Contreras,1963-05-24,mary93@cooper-duran.com,(923)984-7815x736,2028-13-40,Magical HR Specialist,Potion Research,38.0,Half-blood,Dragon Heartstring,Apprentice,True,1149,8,2,6,8
+371,Taimy,Allen,1819-10-10,craig31@johnson-murphy.com,061.475.7305x502,2010-01-12,Junior Spell Crafter,Potion Research,41.0,Squib,Mysterious Core,Consultant,False,4927,8,10,5,11
+372,SteRen,Sanders,1775-12-21,mary24@gmail.com,323-080-2679x76691,2012-09-28,Potions Intern,Spellcrafting,29.0,Muggle-born,Veela Hair,Apprentice,False,2126,5,10,10,12
+373,Jean,Cortez,1735-01-19,rosedustin@hotmail.com,6773538539,2007-04-13,Master of Charms,HR & Muggle Relations,11.0,Half-blood,Unknown,Master,True,1592,5,9,9,23
+374,Jose,Wright,1860-01-08,dariusclark@gmail.com,(565)128-9127,2022-09-22,Magical HR Specialist,Potion Research,41.0,Pureblood,Mysterious Core,Master,True,1509,5,1,9,19
+375,Victor,Berger,1817-03-08,rdixon@yahoo.com,121.540.8958x52052,2021-08-17,Senior Enchanter,Mystical Logistics,22.0,Half-blood,Unknown,Consultant,False,2577,9,1,8,16
+376,Christine,Dean,1809-05-03,davismatthew@pena-durham.com,,2014-01-02,Magical HR Specialist,Spellcrafting,14.0,Muggle-born,Phoenix Feather,Consultant,False,3745,6,6,1,13
+377,Jared,Rodriguez,1979-07-11,allison35@yahoo.com,(287)431-1590,2005-12-03,Junior Spell Crafter,Mystical Logistics,13.0,Half-blood,Thestral Tail Hair,Consultant,True,1191,3,7,6,8
+378,Kaitlyn,Wilson,1734-12-06,jenniferpatrick@hotmail.com,(951)564-3372,2021-12-18,Senior Enchanter,Mystical Logistics,47.0,Half-blood,Mysterious Core,Master,True,4202,10,8,4,0
+379,Martin,Miller,1931-07-03,cynthiapage@robertson.com,+1-084-400-1374x209,2010-03-10,Master of Charms,Spellcrafting,25.0,Muggle-born,Mysterious Core,Master,False,4380,4,1,9,10
+380,Douglas,Jlckson,1761-03-10,caroldiaz@yahoo.com,+1-856-384-9756x8560,2007-03-11,Wand Safety Officer,Wand Engineering,30.0,Half-blood,Unicorn Hair,Adept,False,1486,8,3,9,17
+381,StephOnie,Pearson,1805-10-21,dmason@smith.info,001-521-118-3212,2028-13-40,Potions Intern,Spellcrafting,36.0,Unknown,Thestral Tail Hair,Intern,True,3545,2,2,7,20
+382,Jasmine,Vincent,1784-08-11,mgomez@gmail.com,(793)918-5095x915,2028-13-40,Wand Safety Officer,Potion Research,22.0,Half-blood,Phoenix Feather,Intern,True,3721,9,4,6,25
+383,Gregory,Thompson,1783-10-15,jacobacosta@hotmail.com,+1-365-515-7668x5891,2016-03-23,Wand Safety Officer,Spellcrafting,20.0,Squib,Mysterious Core,Adept,False,4773,9,8,1,25
+384,Joseph,Morris,1855-09-20,washingtonmelissa@gmail.com,991.656.7870x66525,2012-05-15,Magical HR Specialist,Potion Research,20.0,Muggle-born,Phoenix Feather,Apprentice,True,1542,4,9,3,7
+385,AlBxandra,Whitaker,1979-01-31,jonathandavidson@gmail.com,+1-271-400-0461x2886,2008-04-25,Potions Intern,Wand Engineering,45.0,Unknown,Thestral Tail Hair,Adept,False,2545,3,8,1,25
+386,Manuel,Moyer,1772-03-23,mking@yahoo.com,+1-274-338-2955x701,2008-04-14,Potions Intern,Potion Research,27.0,Muggle-born,Dragon Heartstring,Consultant,True,2460,5,4,7,13
+387,Kaitlyn,Blackburn,1729-04-29,yorkalicia@coffey.biz,001-407-070-0268,2010-11-28,Wand Safety Officer,Mystical Logistics,1.0,Muggle-born,Veela Hair,Adept,True,2177,7,8,3,15
+388,Robert,gerez,1975-05-29,colemanapril@jones-collins.com,+1-604-707-1471x85278,2015-12-15,Senior Enchanter,Spellcrafting,5.0,Squib,Thestral Tail Hair,Consultant,False,2295,6,6,7,2
+389,David,Knvght,1791-11-17,morsetina@yahoo.com,001-638-419-7031,2005-10-28,Senior Enchanter,HR & Muggle Relations,44.0,Squib,Mysterious Core,Consultant,True,1152,5,10,6,6
+390,Patricia,Clark,1754-03-12,smercado@hotmail.com,463-908-6297x6577,2021-09-11,Junior Spell Crafter,Wand Engineering,8.0,Pureblood,Thestral Tail Hair,Adept,False,4767,7,4,10,10
+391,Lauren,Brewer,1895-09-19,hamiltonmichelle@walker-mills.com,001-606-442-5823x550,2021-04-27,Wand Safety Officer,Potion Research,24.0,Squib,Thestral Tail Hair,Consultant,False,1177,8,3,10,11
+392,Melanie,SpeNcer,1969-11-08,rebekah18@gmail.com,9589770751,2016-08-20,Magical HR Specialist,Mystical Logistics,40.0,Muggle-born,Thestral Tail Hair,Intern,False,1333,3,2,8,3
+393,Kimberly,Guzman,1757-12-23,jennifer42@yahoo.com,356-646-8685x465,2024-10-16,Senior Enchanter,Mystical Logistics,38.0,Muggle-born,Phoenix Feather,Adept,False,539,2,6,9,15
+394,Mark,Gvrrison,1823-09-04,vroberts@hotmail.com,,2008-11-30,Junior Spell Crafter,Spellcrafting,48.0,Squib,Thestral Tail Hair,Apprentice,True,3846,6,8,5,6
+395,Taylor,Chavez,1729-01-21,,(064)100-8658x967,2023-03-24,Master of Charms,HR & Muggle Relations,17.0,Squib,Phoenix Feather,Consultant,True,2992,1,6,4,22
+396,Jennifer,Reed,1833-02-17,,(597)273-1828,2021-11-09,Wand Safety Officer,HR & Muggle Relations,32.0,Half-blood,Dragon Heartstring,Apprentice,False,3409,9,2,4,3
+397,Robert,Diaz,1740-05-02,lwilliams@hotmail.com,(182)688-0563,2019-09-24,Master of Charms,Mystical Logistics,20.0,Squib,Thestral Tail Hair,Intern,True,1466,10,9,7,4
+398,Shane,Long,1824-04-03,pjones@chung.com,330.548.7061x97801,2009-05-16,Master of Charms,Magical Security,34.0,Unknown,Unknown,Adept,False,4530,5,10,6,9
+399,Autumn,parpenter,1802-12-31,,(386)682-7960x4198,2017-11-07,Junior Spell Crafter,Potion Research,36.0,Muggle-born,Mysterious Core,Apprentice,False,3258,9,8,8,18
+400,Lulia,Yates,1852-08-03,tylergray@gmail.com,225-089-0027x4260,2019-02-27,Junior Spell Crafter,Potion Research,16.0,Unknown,Thestral Tail Hair,Intern,True,1987,8,1,7,5
+401,Charlene,Thomas,1944-02-01,,506-976-2460,2009-01-10,Junior Spell Crafter,Mystical Logistics,44.0,Muggle-born,Thestral Tail Hair,Apprentice,True,4894,6,3,10,3
+402,Tracy,Thompson,1770-03-20,browningconnie@diaz-bell.biz,841.804.1410x179,2025-02-16,Master of Charms,Mystical Logistics,39.0,Squib,Dragon Heartstring,Adept,False,1688,9,3,7,19
+403,Cynthia,Clark,1767-12-19,shaunwilliams@gmail.com,800-606-2563,2028-13-40,Potions Intern,Mystical Logistics,43.0,Squib,Veela Hair,Apprentice,False,3600,4,8,6,24
+404,Jennifer,Wood,1973-12-25,,001-508-239-5595x26118,2023-01-18,Wand Safety Officer,Mystical Logistics,12.0,Pureblood,Unknown,Master,False,1827,7,6,7,21
+405,Kyle,Roberts,1921-03-28,samueltorres@ray.net,001-663-482-7230x8241,2020-06-02,Wand Safety Officer,Mystical Logistics,47.0,Pureblood,Unknown,Master,True,614,3,3,4,7
+406,Tammy,Weber,1808-05-08,lisamiller@hale.info,001-850-452-4228,2006-07-08,Potions Intern,Wand Engineering,38.0,Pureblood,Phoenix Feather,Master,True,4148,1,6,10,25
+407,MBguel,Wallace,1825-08-27,umcclain@young.com,(002)389-2529x234,2015-06-05,Junior Spell Crafter,Mystical Logistics,40.0,Unknown,Mysterious Core,Consultant,True,555,6,9,2,1
+408,JaCmine,Bowen,1960-08-17,adamsnatalie@gmail.com,(351)839-8769x51231,2020-05-17,Master of Charms,Mystical Logistics,2.0,Half-blood,Veela Hair,Intern,True,816,10,6,5,7
+409,Brian,Coffey,1938-05-11,johnowens@campos-jacobs.com,818-236-8265,2022-11-24,Potions Intern,Spellcrafting,31.0,Half-blood,Mysterious Core,Intern,True,1775,5,8,4,14
+410,Tabitha,Cochran,1885-10-10,hollanddonald@grant.com,(157)931-4965,2006-10-26,Junior Spell Crafter,HR & Muggle Relations,18.0,Unknown,Veela Hair,Master,False,3199,4,8,9,8
+411,Kenneth,Brown,1847-09-30,,001-178-383-1332x628,2021-08-09,Junior Spell Crafter,Wand Engineering,5.0,Muggle-born,Unknown,Apprentice,False,2743,9,7,4,8
+412,Kelly,Moore,2004-12-27,danielolson@cabrera-murray.com,001-460-602-9204x02780,2010-11-17,Junior Spell Crafter,Spellcrafting,1.0,Half-blood,Unicorn Hair,Intern,True,2162,9,7,4,12
+413,Stacy,Foster,1726-08-29,zachary49@gmail.com,601.964.8122,2012-01-31,Junior Spell Crafter,Potion Research,21.0,Pureblood,Mysterious Core,Intern,True,3151,7,4,3,13
+414,James,Bryant,1832-06-09,,+1-160-381-6575x787,2019-07-05,Potions Intern,HR & Muggle Relations,35.0,Muggle-born,Unknown,Master,False,2034,4,9,6,23
+415,Miranda,Shepherd,1842-09-10,vreyes@hotmail.com,(181)508-7156x93117,2008-05-24,Junior Spell Crafter,Spellcrafting,42.0,Muggle-born,Mysterious Core,Intern,False,1587,1,2,8,23
+416,Anna,Fleming,1922-07-08,heather47@wallace.com,001-881-283-9659,2007-07-10,Senior Enchanter,Mystical Logistics,7.0,Muggle-born,Unicorn Hair,Master,False,2471,2,9,7,18
+417,Gloria,Ayers,1743-04-08,scotthoward@waters.info,542.312.7406x14036,2020-11-21,Senior Enchanter,Wand Engineering,42.0,Muggle-born,Unknown,Consultant,True,2761,2,9,6,10
+418,Jo,Smith,1794-12-27,carteralexandria@mclaughlin-johnson.com,279-224-5628x926,2017-03-07,Senior Enchanter,Mystical Logistics,31.0,Squib,Unknown,Master,False,1083,2,7,7,24
+419,Sheryl,Oliver,1941-01-10,,+1-063-766-0988,2028-13-40,Senior Enchanter,HR & Muggle Relations,42.0,Half-blood,Mysterious Core,Consultant,False,2493,4,5,5,7
+420,Michael,Whitney,1858-11-16,hicksian@gibbs.com,4431542357,2018-01-19,Wand Safety Officer,Mystical Logistics,1.0,Squib,Unknown,Intern,True,1716,6,10,10,6
+421,Connor,Foster,1864-12-16,rachelsanchez@gmail.com,323.351.1961x06746,2013-05-11,Wand Safety Officer,Spellcrafting,17.0,Half-blood,Phoenix Feather,Master,True,3230,2,10,4,6
+422,Alexandria,MKnoz,1980-01-08,matthewcummings@gmail.com,(075)793-1129,2025-03-11,Senior Enchanter,Wand Engineering,8.0,Pureblood,Unicorn Hair,Master,False,3810,5,2,6,6
+423,Donald,Hall,1840-06-04,karl64@mora.com,453-381-1527,2021-12-02,Master of Charms,HR & Muggle Relations,46.0,Squib,Veela Hair,Intern,True,2348,2,8,4,24
+424,Pamela,Mitchull,1906-07-14,matthew23@yahoo.com,605-359-2558x48206,2017-11-19,Magical HR Specialist,Wand Engineering,21.0,Unknown,Mysterious Core,Intern,True,972,7,2,4,8
+425,Joann,Miller,1761-10-26,matthewhanson@wong-stuart.biz,210.896.3615,2024-12-28,Magical HR Specialist,Wand Engineering,17.0,Half-blood,Unicorn Hair,Adept,True,4079,10,7,7,5
+426,Alexander,Williams,1859-12-10,paulharvey@simon.com,+1-412-635-5681,2005-09-01,Master of Charms,Potion Research,22.0,Pureblood,Thestral Tail Hair,Intern,True,4874,8,8,6,4
+427,JGson,Allen,1729-08-10,xcarey@rodgers-reed.com,+1-226-377-8753x908,2010-06-11,Magical HR Specialist,Wand Engineering,37.0,Muggle-born,Mysterious Core,Adept,False,2907,3,10,2,22
+428,Cgrolyn,Hernandpz,1776-10-10,chapmanjerry@hotmail.com,001-867-031-4605,2010-04-17,Magical HR Specialist,Mystical Logistics,30.0,Half-blood,Mysterious Core,Master,False,3782,1,1,2,23
+429,Mitchell,Lopez,1795-05-22,yudavid@hotmail.com,2214362325,2006-08-06,Senior Enchanter,HR & Muggle Relations,29.0,Muggle-born,Veela Hair,Apprentice,False,4220,7,1,9,2
+430,jhristopher,Lawson,1873-02-01,melissajackson@price-randall.com,921-479-7100x3948,2005-12-15,Wand Safety Officer,Spellcrafting,50.0,Unknown,Dragon Heartstring,Adept,True,1911,5,8,9,22
+431,Tony,Lewis,1917-10-14,stevensonrichard@hotmail.com,(025)413-6179,2028-13-40,Wand Safety Officer,Mystical Logistics,19.0,Pureblood,Thestral Tail Hair,Intern,True,2855,7,3,10,13
+432,Angie,Bruce,1758-05-17,yberry@hotmail.com,+1-484-631-2529x333,2008-07-13,Junior Spell Crafter,Magical Security,4.0,Muggle-born,Veela Hair,Apprentice,True,2735,3,9,3,22
+433,Jason,Cummings,1924-09-02,youngjessica@hotmail.com,276.257.1352,2008-04-25,Master of Charms,Wand Engineering,15.0,Pureblood,Thestral Tail Hair,Adept,False,1589,8,8,2,12
+434,Michelle,Salazar,1812-05-30,longalice@yahoo.com,(291)804-0084x1610,2028-13-40,Senior Enchanter,Spellcrafting,24.0,Unknown,Dragon Heartstring,Intern,False,856,9,10,3,3
+435,Jeffery,White,1811-04-11,patriciabennett@thomas.net,(354)753-8110x40307,2015-01-26,Junior Spell Crafter,Magical Security,29.0,Half-blood,Mysterious Core,Apprentice,True,1634,6,10,8,12
+436,Timothy,Baldwin,1728-10-18,joyce89@yahoo.com,653-976-7331x2882,2014-05-09,Junior Spell Crafter,Potion Research,47.0,Half-blood,Unknown,Consultant,True,827,6,6,7,3
+437,oisa,Cunningham,1877-12-06,jenniferchavez@winters-holt.org,(438)646-7615x1128,2025-02-15,Potions Intern,Potion Research,40.0,Squib,Mysterious Core,Intern,False,1566,2,9,10,9
+438,Michael,Walters,1923-10-09,elliottnicole@boyer.com,576-522-2677,2022-04-02,Wand Safety Officer,Potion Research,15.0,Half-blood,Thestral Tail Hair,Apprentice,True,4010,5,5,5,12
+439,Kevin,Gardner,1818-12-16,colemannicole@gmail.com,(493)972-2691x3527,2005-05-20,Magical HR Specialist,HR & Muggle Relations,3.0,Squib,Unicorn Hair,Adept,False,2180,3,1,3,14
+440,DaGid,Garcia,1933-11-14,imoreno@gmail.com,192.988.1316x2541,2011-07-30,Junior Spell Crafter,Spellcrafting,19.0,Squib,Thestral Tail Hair,Apprentice,False,1015,1,2,7,8
+441,Michelle,Austin,1951-09-08,carlos12@baker-matthews.com,+1-477-303-7513,2012-12-11,Senior Enchanter,Potion Research,41.0,Unknown,Dragon Heartstring,Intern,True,4956,3,2,10,14
+442,Timothy,Hill,1876-01-23,dfox@thompson-pearson.com,9462442518,2008-03-29,Magical HR Specialist,HR & Muggle Relations,1.0,Squib,Unicorn Hair,Intern,True,3325,2,2,8,15
+443,Lisa,Robinson,1740-03-31,,854.035.2744x5917,2012-10-16,Potions Intern,HR & Muggle Relations,29.0,Unknown,Mysterious Core,Apprentice,True,3271,2,4,5,22
+444,Penny,Qshley,1740-06-01,martinezheather@harris.com,(772)608-0953x706,2005-05-03,Magical HR Specialist,Wand Engineering,30.0,Half-blood,Unicorn Hair,Intern,False,1511,8,1,4,8
+445,William,Litcle,1972-07-01,mgonzales@hotmail.com,(279)803-7209x349,2019-08-10,Master of Charms,Potion Research,37.0,Squib,Unknown,Master,False,554,3,5,5,9
+446,Bridget,Wallace,1937-03-07,klopez@martin.org,+1-499-084-4468x876,2010-07-24,Senior Enchanter,Magical Security,30.0,Unknown,Unknown,Apprentice,True,3458,5,9,2,21
+447,Karen,Wilson,1944-04-07,,001-095-765-2337x288,2007-10-20,Potions Intern,Potion Research,48.0,Unknown,Unicorn Hair,Master,False,1607,6,8,2,4
+448,Julie,Shaw,1871-06-15,amandaperry@erickson.com,001-933-998-5092x956,2019-05-28,Magical HR Specialist,Magical Security,1.0,Squib,Veela Hair,Apprentice,False,2514,5,7,2,6
+449,Kiara,Nelson,1824-05-08,harold42@serrano.info,577-044-4907,2015-12-14,Magical HR Specialist,Potion Research,28.0,Squib,Mysterious Core,Adept,False,1532,6,6,10,13
+450,Katherine,HPll,1963-03-07,jimmy91@hotmail.com,910-986-2911x24474,2019-09-19,Potions Intern,Mystical Logistics,31.0,Pureblood,Veela Hair,Adept,True,2053,2,6,2,22
+451,Michelle,Torres,1933-06-08,,644.215.9371x102,2010-06-20,Master of Charms,Potion Research,6.0,Unknown,Phoenix Feather,Adept,True,3181,3,10,1,18
+452,Jared,Sxith,1726-04-11,josephgalvan@knight-williams.info,(637)576-8635,2015-05-29,Master of Charms,Mystical Logistics,3.0,Muggle-born,Unknown,Intern,False,2320,3,10,8,19
+453,Douglas,Harrison,1756-07-30,angelicanorman@gmail.com,810-131-0628,2012-06-22,Wand Safety Officer,HR & Muggle Relations,41.0,Unknown,Thestral Tail Hair,Apprentice,False,2581,7,8,10,2
+454,Amy,Barcia,1813-01-08,kyle22@yahoo.com,131.580.0007x9092,2021-09-15,Senior Enchanter,Mystical Logistics,14.0,Muggle-born,Unknown,Apprentice,True,1810,7,10,5,21
+455,Kim,Turner,1831-09-14,nclayton@jones.com,,2021-11-17,Potions Intern,HR & Muggle Relations,24.0,Unknown,Dragon Heartstring,Adept,True,1880,9,3,7,8
+456,Mark,Marks,1792-11-28,william05@yahoo.com,+1-348-840-4760x02913,2014-07-14,Senior Enchanter,Magical Security,27.0,Squib,Unicorn Hair,Master,False,2308,2,3,7,4
+457,Kaitlyn,Hernandez,1749-04-29,,(420)209-4766x5754,2011-08-28,Junior Spell Crafter,Wand Engineering,15.0,Pureblood,Thestral Tail Hair,Apprentice,False,787,1,7,3,24
+458,Alexander,Douglas,1911-04-06,ygarcia@maddox.info,248.644.3713x432,2021-08-08,Master of Charms,Spellcrafting,31.0,Pureblood,Mysterious Core,Apprentice,True,2024,8,2,7,0
+459,Zoe,Francis,1764-10-28,vhansen@gmail.com,414.233.3449x0749,2024-09-15,Master of Charms,HR & Muggle Relations,1.0,Squib,Unicorn Hair,Apprentice,True,1534,3,6,4,9
+460,Evan,Davieson,1764-10-12,amartin@hotmail.com,154.809.3999x21363,2007-05-25,Magical HR Specialist,Magical Security,42.0,Unknown,Veela Hair,Consultant,True,3495,10,6,3,5
+461,Crystal,Adams,1752-04-12,kimberlypennington@gmail.com,(166)472-2529x13089,2021-02-25,Potions Intern,Magical Security,40.0,Squib,Dragon Heartstring,Master,False,1383,4,4,3,14
+462,Destiny,Wade,1996-02-28,jessicadiaz@yahoo.com,184-089-0858x3579,2014-11-07,Wand Safety Officer,Wand Engineering,24.0,Squib,Unknown,Consultant,False,4539,6,5,5,20
+463,Derrick,Schaefer,1829-06-09,garrett73@gmail.com,(635)531-8109x3249,2018-01-03,Junior Spell Crafter,Magical Security,41.0,Half-blood,Veela Hair,Adept,False,3025,9,7,3,18
+464,Leah,Young,1816-10-15,,,2019-01-09,Wand Safety Officer,HR & Muggle Relations,24.0,Unknown,Unicorn Hair,Apprentice,False,969,9,6,1,1
+465,Launa,Peterson,2000-05-01,maxwellchristopher@allen-lee.org,5007299006,2014-04-26,Master of Charms,Spellcrafting,41.0,Unknown,Thestral Tail Hair,Consultant,True,2468,2,3,8,14
+466,Crystal,Hall,1939-11-02,kemprichard@ryan-greene.com,901-660-9078,2007-04-29,Magical HR Specialist,Wand Engineering,43.0,Pureblood,Mysterious Core,Master,True,1515,2,10,7,13
+467,Kristen,Gray,1752-10-09,johnsullivan@hotmail.com,926.259.1092,2022-05-19,Junior Spell Crafter,Spellcrafting,2.0,Pureblood,Phoenix Feather,Master,False,2875,4,9,1,23
+468,Shannon,CastiVlo,1941-12-16,mooremonica@yahoo.com,001-623-554-7652x9697,2020-07-09,Wand Safety Officer,HR & Muggle Relations,44.0,Half-blood,Unknown,Consultant,True,719,5,9,7,8
+469,John,Castillo,1761-12-20,ehanson@boone.com,659.507.2593x256,2011-10-30,Magical HR Specialist,Spellcrafting,39.0,Pureblood,Unicorn Hair,Consultant,False,3628,4,5,2,4
+470,Jeffrey,Sweeney,1856-12-16,,(741)684-4614,2018-01-10,Magical HR Specialist,Potion Research,5.0,Pureblood,Mysterious Core,Adept,False,619,4,7,10,16
+471,John,Jones,1733-03-23,,+1-593-985-7840x0816,2019-04-12,Senior Enchanter,Spellcrafting,17.0,Pureblood,Dragon Heartstring,Master,True,4261,5,1,9,17
+472,Joshua,Kennedy,1898-07-31,aknight@yahoo.com,+1-290-202-9874,2011-02-27,Senior Enchanter,HR & Muggle Relations,37.0,Squib,Unknown,Adept,True,3273,3,9,8,15
+473,Kayla,Walter,1865-01-05,martinbrianna@ramsey.com,724-873-2830x5880,2011-05-29,Potions Intern,Wand Engineering,4.0,Muggle-born,Dragon Heartstring,Intern,True,4882,5,9,9,16
+474,Lisa,Osborne,1826-02-27,fchoi@hotmail.com,7818844752,2028-13-40,Master of Charms,HR & Muggle Relations,36.0,Unknown,Phoenix Feather,Apprentice,True,2432,1,4,6,23
+475,Lisa,Mckay,1936-08-19,hunter63@gmail.com,001-484-466-2610x30444,2014-08-08,Magical HR Specialist,Mystical Logistics,38.0,Squib,Mysterious Core,Adept,False,3938,1,10,8,21
+476,Maureen,Pgpe,1778-04-03,georgedrew@gmail.com,001-478-770-8251x22436,2016-01-09,Magical HR Specialist,Magical Security,50.0,Pureblood,Phoenix Feather,Intern,False,2670,10,4,9,23
+477,Gary,Hunt,1946-05-26,ryanjimenez@lewis.com,+1-986-483-9420x194,2007-06-24,Senior Enchanter,Spellcrafting,13.0,Unknown,Phoenix Feather,Adept,True,915,2,5,4,7
+478,Amanda,Waalace,1887-01-28,mark41@yahoo.com,(204)499-8563x8762,2008-04-17,Magical HR Specialist,Potion Research,21.0,Squib,Dragon Heartstring,Master,True,3551,8,8,7,1
+479,Justin,Adams,1787-12-13,michaeltorres@gmail.com,732.278.4296x2794,2013-05-30,Magical HR Specialist,Potion Research,16.0,Muggle-born,Veela Hair,Intern,True,4221,1,10,6,25
+480,Christian,Gomez,1795-06-02,garciaalejandro@white.com,506.053.0488,2009-12-06,Wand Safety Officer,Wand Engineering,24.0,Muggle-born,Unicorn Hair,Apprentice,False,3326,1,4,5,25
+481,Nicholas,Yoder,1861-11-03,neverett@sanders.com,159.847.0177x769,2005-05-08,Potions Intern,Spellcrafting,2.0,Unknown,Unknown,Adept,True,4715,1,1,10,5
+482,Jessica,Bennett,1911-05-20,caitlinmeyer@powell-hull.com,(088)718-4268,2018-02-06,Magical HR Specialist,Magical Security,22.0,Squib,Thestral Tail Hair,Adept,True,3350,3,9,5,4
+483,JacTueline,Buckley,1750-12-08,richardmorgan@dixon.com,736.149.9555,2008-11-17,Wand Safety Officer,Spellcrafting,15.0,Pureblood,Unknown,Consultant,False,1058,1,7,8,12
+484,Nathan,Conway,1741-03-17,dmurphy@martinez-moore.com,(978)053-2649x8562,2006-11-20,Wand Safety Officer,Potion Research,11.0,Unknown,Thestral Tail Hair,Consultant,False,4030,7,5,6,20
+485,Charles,Duncan,1744-09-20,kyle54@gmail.com,+1-599-424-4219x5351,2028-13-40,Master of Charms,Mystical Logistics,34.0,Pureblood,Phoenix Feather,Consultant,True,1956,2,2,6,9
+486,Max,Moore,1934-02-20,,(475)448-7106,2024-08-20,Magical HR Specialist,Mystical Logistics,31.0,Squib,Unknown,Adept,False,4386,8,9,1,0
+487,Amanda,Mendoza,1936-11-27,brianjones@gibbs-glover.com,597.959.1873,2014-01-15,Potions Intern,Wand Engineering,8.0,Muggle-born,Phoenix Feather,Consultant,False,3878,1,5,6,11
+488,Maria,Torres,1881-03-23,gilljustin@yahoo.com,(511)394-8736x9355,2011-01-03,Senior Enchanter,Spellcrafting,19.0,Half-blood,Veela Hair,Consultant,True,3470,7,9,1,17
+489,Soseph,GuJierrez,1972-05-19,gardnermichael@yahoo.com,8867798571,2012-11-17,Magical HR Specialist,Magical Security,1.0,Muggle-born,Unknown,Apprentice,False,4744,1,8,3,10
+490,John,Farmer,1746-11-15,emack@davidson-mclaughlin.net,(372)846-0979x2626,2021-05-02,Wand Safety Officer,Mystical Logistics,43.0,Pureblood,Unicorn Hair,Consultant,False,3102,4,6,9,1
+491,Patricia,Mercado,1878-03-24,kelseyjimenez@hotmail.com,(987)181-2244,2014-11-05,Potions Intern,Wand Engineering,45.0,Half-blood,Thestral Tail Hair,Consultant,False,917,9,6,9,0
+492,Nancy,West,1990-06-23,stacey97@gmail.com,789-716-6967x59422,2013-11-28,Magical HR Specialist,HR & Muggle Relations,5.0,Unknown,Phoenix Feather,Adept,False,2935,6,2,9,0
+493,Jonathan,Allen,1983-08-04,jenniferbryant@brooks.net,001-659-449-4811x8664,2023-02-20,Senior Enchanter,Potion Research,41.0,Muggle-born,Unicorn Hair,Master,True,836,6,8,8,19
+494,Craig,Tucker,1897-03-23,jacqueline32@bradshaw.com,+1-291-552-5397x7163,2028-13-40,Master of Charms,Magical Security,43.0,Muggle-born,Mysterious Core,Consultant,False,790,6,1,8,3
+495,Amber,Gard,1752-02-18,madisonhunter@ortiz.biz,(802)901-8795x6812,2013-09-06,Wand Safety Officer,Spellcrafting,31.0,Muggle-born,Phoenix Feather,Apprentice,False,2027,2,2,10,1
+496,Jack,Castillo,1759-12-29,henrytaylor@collins.org,787.255.6258x235,2007-03-05,Senior Enchanter,Spellcrafting,31.0,Unknown,Mysterious Core,Consultant,False,4055,2,4,1,2
+497,Daniel,Adams,1867-04-25,,001-754-239-3756x98189,2015-01-12,Senior Enchanter,HR & Muggle Relations,48.0,Muggle-born,Thestral Tail Hair,Master,True,3236,8,8,4,13
+498,Robert,Good,1899-05-02,josephjuarez@gmail.com,070-027-7031x5316,2016-10-18,Wand Safety Officer,Wand Engineering,32.0,Muggle-born,Phoenix Feather,Adept,True,1883,6,6,3,10
+499,Betty,SanfFrd,1806-01-19,angelaalexander@hatfield.org,(106)942-2425x8945,2014-10-25,Magical HR Specialist,Mystical Logistics,34.0,Muggle-born,Phoenix Feather,Consultant,False,4833,9,10,8,11
+500,David,Martin,1751-12-26,brownshannon@martin-taylor.com,001-066-643-1841x401,2017-03-15,Wand Safety Officer,Potion Research,2.0,Half-blood,Phoenix Feather,Apprentice,False,2101,4,6,9,6
+501,Lisa,Wright,1918-12-12,ohall@yahoo.com,276.339.1032x046,2023-05-08,Master of Charms,Spellcrafting,45.0,Pureblood,Mysterious Core,Master,True,1963,1,4,9,21
+502,Micheal,Sharp,1899-01-01,shawn58@hester.com,575-634-6848x046,2006-04-27,Junior Spell Crafter,Magical Security,12.0,Half-blood,Phoenix Feather,Intern,True,4404,1,6,1,10
+503,Wendy,Perry,1857-03-20,icooper@gmail.com,001-486-206-8538x96740,2015-07-12,Junior Spell Crafter,Potion Research,29.0,Half-blood,Veela Hair,Apprentice,True,3244,8,8,10,23
+504,Nicholas,Hunter,1881-01-11,claudia51@gmail.com,+1-631-158-8972x290,2024-05-21,Senior Enchanter,Potion Research,36.0,Half-blood,Dragon Heartstring,Adept,True,4433,2,1,8,5
+505,Anthony,Galloway,1884-05-12,richardstamara@gmail.com,(019)078-1023,2008-08-24,Senior Enchanter,Wand Engineering,14.0,Squib,Thestral Tail Hair,Master,False,546,2,2,5,16
+506,Gina,Mccullough,1761-11-13,,(956)451-1695,2028-13-40,Magical HR Specialist,Spellcrafting,14.0,Muggle-born,Mysterious Core,Consultant,True,4448,5,9,2,14
+507,Brian,Moore,1868-10-06,thomasjohnny@mcintyre.org,9550249870,2018-12-19,Magical HR Specialist,HR & Muggle Relations,17.0,Squib,Veela Hair,Intern,False,1265,7,2,8,5
+508,Cody,Brown,1925-08-16,angela21@johnson.com,(348)953-0926x86423,2023-04-29,Junior Spell Crafter,Wand Engineering,14.0,Half-blood,Thestral Tail Hair,Master,False,1575,9,10,6,8
+509,Teresa,Martinez,1952-08-24,gary55@yahoo.com,+1-388-076-3121x113,2021-12-19,Junior Spell Crafter,Potion Research,30.0,Unknown,Mysterious Core,Apprentice,False,3024,1,2,2,23
+510,Melissa,Hart,1917-03-10,,,2005-04-20,Senior Enchanter,Mystical Logistics,18.0,Squib,Dragon Heartstring,Adept,True,2048,4,5,9,21
+511,Kristina,Ramirez,1749-10-30,dbartlett@neal-stout.com,,2028-13-40,Master of Charms,Mystical Logistics,38.0,Unknown,Dragon Heartstring,Intern,False,886,4,1,6,16
+512,Tom,Clark,1975-06-20,,+1-351-532-2239,2008-06-21,Wand Safety Officer,Wand Engineering,34.0,Pureblood,Phoenix Feather,Apprentice,True,4971,2,1,3,18
+513,Rodney,Wbeks,1766-01-19,,+1-731-702-0747x4819,2018-02-08,Master of Charms,Magical Security,26.0,Muggle-born,Veela Hair,Intern,True,3852,3,1,2,2
+514,Adam,Sibson,1906-05-13,andrew99@yahoo.com,(815)922-9996x78502,2008-08-10,Wand Safety Officer,Mystical Logistics,41.0,Squib,Phoenix Feather,Master,False,1748,10,1,6,1
+515,Heather,ritchell,1827-11-16,lauren70@hotmail.com,+1-501-476-8049,2024-09-21,Junior Spell Crafter,Spellcrafting,25.0,Squib,Thestral Tail Hair,Intern,True,4906,10,9,9,18
+516,karry,Daniels,1890-06-09,manningtimothy@yahoo.com,980-585-6277,2018-07-20,Master of Charms,Wand Engineering,20.0,Half-blood,Mysterious Core,Intern,False,4641,6,6,6,1
+517,Rachbl,Conner,1967-01-22,,667.004.4875x20940,2011-03-09,Junior Spell Crafter,Spellcrafting,17.0,Unknown,Thestral Tail Hair,Adept,True,4310,7,1,1,21
+518,James,Curry,1954-01-07,carrsarah@hotmail.com,,2013-04-25,Master of Charms,Wand Engineering,20.0,Half-blood,Phoenix Feather,Adept,False,2063,10,8,6,11
+519,Chris,MillMr,1913-01-28,,813.927.4241,2028-13-40,Senior Enchanter,Spellcrafting,4.0,Squib,Phoenix Feather,Apprentice,True,4702,10,4,3,20
+520,Patrick,Hicks,1767-09-11,michael15@gmail.com,+1-606-270-8052x38820,2018-12-30,Junior Spell Crafter,Wand Engineering,45.0,Squib,Mysterious Core,Apprentice,True,702,8,6,1,14
+521,Elizabeth,Huynh,1909-11-14,matthew75@henry-reynolds.com,654-562-7560x7122,2017-04-03,Potions Intern,Wand Engineering,39.0,Pureblood,Unicorn Hair,Adept,False,3654,4,8,4,4
+522,Kathy,Garrett,1961-10-15,timothywilliams@taylor.info,2412295500,2015-11-13,Senior Enchanter,Mystical Logistics,33.0,Squib,Unknown,Consultant,True,569,4,3,6,0
+523,Jesse,Lowe,1754-06-27,ojohnson@hotmail.com,878.636.6518,2019-03-28,Wand Safety Officer,Magical Security,10.0,Half-blood,Veela Hair,Intern,True,2626,10,8,3,16
+524,Melissa,Reeves,1742-06-01,pricejimmy@hotmail.com,001-549-763-1075,2007-10-31,Wand Safety Officer,Spellcrafting,47.0,Half-blood,Dragon Heartstring,Master,True,3436,1,5,6,23
+525,Justin,Tomres,1726-02-20,zgutierrez@gmail.com,,2016-05-11,Magical HR Specialist,Wand Engineering,38.0,Pureblood,Thestral Tail Hair,Intern,False,581,7,3,6,8
+526,Melissa,Sellers,1748-01-08,jeffrey93@james-allen.com,(100)244-0234x23531,2023-10-23,Potions Intern,Mystical Logistics,36.0,Unknown,Mysterious Core,Master,False,3169,8,6,5,7
+527,Juutin,Patel,1877-05-15,tholland@briggs.com,001-109-987-5417x75180,2007-05-23,Potions Intern,Magical Security,14.0,Pureblood,Thestral Tail Hair,Master,True,1546,2,1,6,17
+528,Sindra,Moore,1912-10-11,,001-549-446-4006x0717,2014-04-03,Magical HR Specialist,Potion Research,5.0,Muggle-born,Veela Hair,Master,True,3648,6,10,7,21
+529,Andrew,Torres,1792-07-05,,589.956.8247x85398,2007-02-19,Wand Safety Officer,Mystical Logistics,29.0,Half-blood,Thestral Tail Hair,Consultant,True,2727,2,4,8,9
+530,JaXes,Yoder,1834-02-28,travis38@carter.com,001-964-464-1236x20877,2007-10-10,Magical HR Specialist,Potion Research,6.0,Pureblood,Mysterious Core,Consultant,True,3410,3,10,3,0
+531,Jeremy,Mahoney,1947-04-25,christopher26@hotmail.com,0278666634,2013-04-24,Junior Spell Crafter,HR & Muggle Relations,8.0,Pureblood,Mysterious Core,Apprentice,True,3867,6,10,4,13
+532,Kimberly,Carey,1899-06-23,pmayer@gmail.com,353.480.4626x4815,2013-08-07,Magical HR Specialist,Mystical Logistics,19.0,Pureblood,Dragon Heartstring,Consultant,False,913,2,3,4,7
+533,Chorles,Johnston,1760-06-18,christopher48@hotmail.com,+1-269-112-2979x43136,2024-05-23,Magical HR Specialist,Potion Research,20.0,Pureblood,Veela Hair,Adept,True,2044,6,9,5,19
+534,Jennifer,Ross,1806-11-07,goodmanderek@gmail.com,908-993-2830x1053,2006-05-29,Senior Enchanter,Mystical Logistics,34.0,Unknown,Unknown,Master,True,1355,4,5,10,0
+535,William,Bailey,1805-04-14,xlong@day-eaton.org,167-812-7593,2022-06-29,Master of Charms,Spellcrafting,44.0,Half-blood,Unknown,Intern,True,2151,4,9,9,8
+536,Kyle,Brown,1957-11-08,brandy74@sanchez.com,(853)043-2868,2024-12-29,Master of Charms,Mystical Logistics,50.0,Unknown,Mysterious Core,Master,False,4780,9,8,6,10
+537,Hayden,GarQia,1781-05-12,haledaniel@solis-scott.com,001-502-330-0822x5108,2023-09-06,Potions Intern,HR & Muggle Relations,46.0,Muggle-born,Dragon Heartstring,Adept,True,3092,8,2,1,11
+538,DeboXah,Guzman,1746-10-16,zmorrison@walton.info,786.419.7072x10704,2019-01-21,Potions Intern,HR & Muggle Relations,48.0,Unknown,Unknown,Apprentice,True,4122,7,6,4,0
+539,Jerry,Martin,1734-11-26,vbaxter@sims.com,001-143-245-5540x98475,2016-06-16,Master of Charms,Spellcrafting,49.0,Squib,Dragon Heartstring,Master,True,1123,10,4,3,15
+540,Lori,Johnson,1864-08-17,rcordova@perez-combs.org,+1-305-429-6653x801,2028-13-40,Magical HR Specialist,Spellcrafting,30.0,Squib,Phoenix Feather,Master,False,1451,8,7,2,19
+541,Cynthia,Silva,1889-06-16,timothy03@price.com,4735559254,2005-08-30,Master of Charms,Wand Engineering,14.0,Unknown,Mysterious Core,Apprentice,True,1284,10,1,6,14
+542,Sharon,Woods,1787-06-29,floreskatherine@hotmail.com,(305)540-1202x6811,2009-06-17,Wand Safety Officer,HR & Muggle Relations,26.0,Pureblood,Veela Hair,Apprentice,True,814,2,8,10,6
+543,aelissa,Thomas,1919-03-30,,835.582.5542x1062,2006-12-11,Junior Spell Crafter,Spellcrafting,22.0,Half-blood,Unknown,Intern,False,2966,10,10,3,25
+544,Courtney,Mcyarland,2006-03-21,ryanmeza@rivera.net,(561)087-2329x654,2006-04-22,Master of Charms,Wand Engineering,24.0,Squib,Phoenix Feather,Intern,True,4795,4,4,5,4
+545,Cgrl,LawBence,1920-05-16,dennismontgomery@gmail.com,+1-506-120-6112x7957,2014-10-30,Senior Enchanter,Magical Security,40.0,Unknown,Phoenix Feather,Apprentice,True,1326,3,5,6,11
+546,Morgan,Kennedy,1809-09-14,john35@gibbs.org,901.189.6127,2020-02-02,Magical HR Specialist,Magical Security,11.0,Unknown,Veela Hair,Master,False,3918,6,6,5,1
+547,Amanda,Reyes,1891-06-18,lcarrillo@gmail.com,+1-502-871-4306x49273,2016-09-23,Master of Charms,Mystical Logistics,24.0,Pureblood,Unicorn Hair,Intern,True,2972,2,1,3,16
+548,Morgan,Tyler,1980-03-13,briana54@yahoo.com,(113)499-4451,2011-06-08,Master of Charms,Potion Research,2.0,Unknown,Mysterious Core,Consultant,True,3840,9,7,3,14
+549,Karen,Perry,1728-10-08,kyleosborne@hotmail.com,001-615-720-1470x4960,2022-10-16,Junior Spell Crafter,Wand Engineering,1.0,Muggle-born,Unknown,Adept,True,1843,10,1,2,6
+550,Janice,Pope,1848-11-08,latasharyan@hotmail.com,+1-086-687-0556x38730,2019-09-04,Magical HR Specialist,Wand Engineering,28.0,Unknown,Dragon Heartstring,Apprentice,False,4556,3,3,2,1
+551,Alexander,Thomas,1758-12-27,bbrown@yahoo.com,(969)103-3352x202,2018-02-14,Master of Charms,Potion Research,10.0,Muggle-born,Dragon Heartstring,Master,False,1817,4,1,4,3
+552,MiranYa,Price,1831-07-11,qcowan@ruiz.com,(241)923-5019x27810,2005-07-23,Potions Intern,Wand Engineering,25.0,Squib,Phoenix Feather,Consultant,True,3891,3,2,10,9
+553,Feorge,Williams,1832-01-02,awise@hotmail.com,(566)701-3667x5161,2023-11-28,Master of Charms,Wand Engineering,45.0,Half-blood,Dragon Heartstring,Intern,False,1252,1,7,4,6
+554,Natasha,Mccoy,1820-06-22,juliemartin@gmail.com,020-892-4616x02000,2008-09-05,Senior Enchanter,Magical Security,43.0,Squib,Phoenix Feather,Apprentice,True,2359,6,8,7,9
+555,Elizabeth,Hernandez,2003-09-16,alecmaldonado@mcintosh.com,5615064226,2007-02-06,Master of Charms,Potion Research,1.0,Half-blood,Veela Hair,Adept,False,1647,5,7,2,6
+556,Susan,Flores,1798-08-31,tmartinez@yahoo.com,546-910-3716,2017-02-07,Magical HR Specialist,HR & Muggle Relations,30.0,Muggle-born,Unknown,Master,True,3831,7,1,2,5
+557,Ashley,Walker,1763-08-30,deanjeffrey@hotmail.com,457.295.1167x809,2012-07-08,Magical HR Specialist,Magical Security,2.0,Squib,Unicorn Hair,Consultant,True,2322,9,7,5,4
+558,Lisa,Castillo,1727-07-05,tshaw@powers.com,0502762377,2016-02-10,Senior Enchanter,Mystical Logistics,6.0,Pureblood,Dragon Heartstring,Adept,True,3916,9,1,6,15
+559,Fernazdo,Rorero,1872-11-01,mchambers@yahoo.com,,2020-11-20,Wand Safety Officer,Magical Security,47.0,Half-blood,Veela Hair,Apprentice,False,4443,2,4,1,15
+560,Catherine,Arias,1960-06-20,sheila66@yahoo.com,+1-574-952-7260x6700,2018-02-15,Potions Intern,HR & Muggle Relations,37.0,Pureblood,Mysterious Core,Master,True,3624,8,9,2,5
+561,Michael,Saunders,1937-09-13,coxkimberly@hotmail.com,001-298-538-3717x02204,2018-02-24,Potions Intern,HR & Muggle Relations,48.0,Muggle-born,Veela Hair,Intern,True,1736,1,5,10,20
+562,Anne,Cross,1831-05-19,,571-095-4326x5682,2014-08-18,Wand Safety Officer,Magical Security,32.0,Half-blood,Unicorn Hair,Intern,True,3176,3,5,5,22
+563,Brenda,Norris,1732-11-06,jeffreyshah@oliver.com,838.769.2112x3193,2012-10-18,Senior Enchanter,Spellcrafting,29.0,Pureblood,Unicorn Hair,Intern,False,3129,4,10,4,20
+564,Lauren,Mayo,1751-03-16,,588.752.2309,2007-04-01,Magical HR Specialist,Spellcrafting,9.0,Squib,Dragon Heartstring,Apprentice,True,1331,3,5,1,14
+565,Robin,Ponce,1998-05-19,garyporter@hotmail.com,9015391010,2028-13-40,Potions Intern,Mystical Logistics,47.0,Half-blood,Thestral Tail Hair,Master,True,4267,7,5,5,17
+566,Michael,waley,1907-07-15,moralesalan@thomas.biz,(192)192-5752x0854,2023-05-27,Senior Enchanter,Magical Security,31.0,Muggle-born,Phoenix Feather,Apprentice,False,1179,2,8,9,10
+567,Cheyenne,Rios,1976-07-09,williamsscott@gmail.com,,2019-02-16,Wand Safety Officer,Mystical Logistics,3.0,Unknown,Veela Hair,Consultant,False,1205,7,7,2,5
+568,Anthony,Clements,1890-01-22,combsdesiree@hotmail.com,+1-839-806-3641x01421,2013-03-22,Wand Safety Officer,Mystical Logistics,39.0,Unknown,Phoenix Feather,Master,True,4243,2,2,8,1
+569,Brian,jollard,1728-11-29,fergusondaisy@wells-thompson.info,3106642069,2024-12-06,Magical HR Specialist,Mystical Logistics,37.0,Unknown,Mysterious Core,Consultant,True,3062,5,7,4,0
+570,Olivia,Thornton,1744-02-02,jaime59@johnston.net,(578)271-3451x47586,2011-05-09,Senior Enchanter,Potion Research,11.0,Muggle-born,Veela Hair,Consultant,True,3245,9,5,3,24
+571,Charles,Mejia,1838-11-15,sandra63@yahoo.com,816-513-4054x52613,2019-12-28,Junior Spell Crafter,Spellcrafting,15.0,Pureblood,Phoenix Feather,Consultant,True,4947,2,6,2,13
+572,Monica,Copeland,1821-05-05,tayloreverett@gmail.com,776-529-2423,2013-10-11,Potions Intern,Wand Engineering,20.0,Half-blood,Thestral Tail Hair,Consultant,True,4343,1,2,6,9
+573,Jennifer,Hart,1807-06-23,jeremy66@nelson-potter.biz,(188)677-6438x84676,2024-08-05,Wand Safety Officer,Wand Engineering,16.0,Unknown,Thestral Tail Hair,Apprentice,True,855,2,3,2,25
+574,Rebecca,Ymrk,1976-09-04,shawncalderon@peters-atkinson.net,(460)730-7721x55816,2028-13-40,Magical HR Specialist,Potion Research,50.0,Squib,Veela Hair,Adept,True,2410,9,6,9,6
+575,Christine,Hall,1764-06-10,laura89@malone.com,539-726-3081,2022-01-21,Master of Charms,Mystical Logistics,2.0,Half-blood,Unknown,Apprentice,True,2290,5,3,1,21
+576,Emma,Harmon,1936-07-12,rjensen@gmail.com,+1-431-023-3366,2017-04-29,Master of Charms,Potion Research,28.0,Squib,Phoenix Feather,Adept,True,3573,3,10,3,23
+577,Carol,Johnson,1784-05-16,kellyjennifer@hotmail.com,939-498-3324x78582,2028-13-40,Junior Spell Crafter,Magical Security,2.0,Pureblood,Unknown,Apprentice,True,2810,9,7,1,22
+578,Anthony,Allison,1820-01-26,tristan29@gmail.com,+1-314-835-6852,2016-01-21,Master of Charms,Potion Research,37.0,Pureblood,Veela Hair,Master,True,2729,1,5,9,25
+579,Heiwi,Patel,1766-06-13,michael67@mclaughlin.com,(929)893-6062,2005-10-09,Junior Spell Crafter,Spellcrafting,48.0,Unknown,Unknown,Intern,False,2739,1,10,2,5
+580,Megan,Calderon,1939-03-02,jacquelineross@silva.com,001-147-637-9681x1267,2015-04-15,Master of Charms,Spellcrafting,16.0,Half-blood,Mysterious Core,Apprentice,True,2213,1,10,3,7
+581,Craig,Moore,1767-08-22,dustin82@fernandez.com,085-052-9383x75676,2014-06-23,Magical HR Specialist,Potion Research,44.0,Muggle-born,Unknown,Adept,False,4396,6,3,2,8
+582,Jacqueline,Diaz,1884-01-20,christopherrivera@yahoo.com,+1-837-850-1873x75272,2020-07-12,Potions Intern,Potion Research,11.0,Squib,Unknown,Intern,False,3639,1,4,3,21
+583,Zachary,Cook,1845-05-10,gregory12@yahoo.com,001-503-184-4420x3871,2019-10-14,Wand Safety Officer,HR & Muggle Relations,33.0,Squib,Thestral Tail Hair,Consultant,False,4165,6,7,1,23
+584,Diana,Morales,1814-04-12,pittmanbrittany@collins.biz,0675427303,2012-02-07,Wand Safety Officer,Mystical Logistics,18.0,Half-blood,Dragon Heartstring,Adept,True,4261,9,4,8,12
+585,Amanda,Curvantes,1846-10-01,daniel91@gonzales-bowen.com,931.854.9692x1646,2018-02-24,Magical HR Specialist,Wand Engineering,22.0,Squib,Thestral Tail Hair,Master,False,2488,7,6,9,22
+586,Julie,Austin,1818-03-14,julie70@williams-adams.com,891-870-0003,2025-02-08,Wand Safety Officer,Spellcrafting,49.0,Squib,Thestral Tail Hair,Consultant,False,1417,4,10,1,2
+587,Rachel,Pwge,1737-10-06,leahrodriguez@gmail.com,990.155.3729x545,2008-08-30,Magical HR Specialist,Wand Engineering,47.0,Pureblood,Unknown,Master,False,1178,4,6,2,21
+588,Brianna,Johnson,1763-08-05,johngray@harris.com,827.354.8453,2025-04-01,Wand Safety Officer,Spellcrafting,48.0,Half-blood,Thestral Tail Hair,Adept,True,3911,1,3,5,20
+589,Christouher,CunnZngham,1756-02-27,wendy48@cooke.com,(489)720-8669x12264,2005-05-18,Magical HR Specialist,Potion Research,9.0,Muggle-born,Mysterious Core,Intern,False,1453,3,10,4,11
+590,Michael,Owens,1775-01-09,opaul@hotmail.com,783.902.2826,2020-05-30,Wand Safety Officer,Mystical Logistics,35.0,Half-blood,Unicorn Hair,Adept,False,1021,7,2,2,7
+591,William,Travis,1770-04-17,charleshamilton@reeves.com,,2016-11-29,Master of Charms,HR & Muggle Relations,11.0,Squib,Mysterious Core,Adept,False,1532,1,10,9,7
+592,Walter,Kennedy,1968-06-13,kmiller@hotmail.com,001-919-828-7034x48652,2012-11-11,Magical HR Specialist,Spellcrafting,36.0,Unknown,Veela Hair,Adept,False,3371,4,1,3,1
+593,Bryan,Price,1943-07-05,ashley79@jackson.net,8956176945,2022-03-07,Wand Safety Officer,Mystical Logistics,17.0,Pureblood,Unicorn Hair,Master,False,3794,3,10,1,17
+594,Gabrielle,Turner,1846-12-23,don60@hotmail.com,395.614.8004,2005-04-09,Potions Intern,Potion Research,16.0,Squib,Veela Hair,Consultant,True,633,10,1,6,5
+595,Michael,Mejia,1770-04-29,whitakerkenneth@finley-aguirre.com,0413211850,2008-10-06,Potions Intern,Wand Engineering,25.0,Pureblood,Unknown,Intern,False,3521,5,3,7,13
+596,Stacy,Castillo,1811-08-18,randymejia@clark.com,434.544.3819x3240,2016-06-21,Master of Charms,Mystical Logistics,19.0,Half-blood,Phoenix Feather,Adept,True,3989,4,4,9,12
+597,Walter,Hughes,1963-12-26,emily82@yahoo.com,(882)005-5535,2028-13-40,Wand Safety Officer,Mystical Logistics,11.0,Unknown,Thestral Tail Hair,Consultant,True,4267,2,5,2,0
+598,Erica,EvaXs,1880-02-11,bradleytaylor@gmail.com,(263)163-9287x1811,2028-13-40,Master of Charms,Potion Research,34.0,Muggle-born,Veela Hair,Consultant,True,1366,8,6,1,0
+599,MorJan,Johnston,1732-12-21,olsenjudy@gardner-joyce.com,001-013-780-4251x7530,2028-13-40,Wand Safety Officer,Magical Security,12.0,Half-blood,Thestral Tail Hair,Apprentice,True,616,8,10,9,7
+600,Sara,DelYcruz,1725-04-28,,,2007-06-17,Potions Intern,Potion Research,25.0,Pureblood,Unicorn Hair,Apprentice,True,2426,2,1,6,6
+601,Daniel,VasquLz,1769-09-18,james65@hull.com,099.375.3345x00397,2024-05-11,Potions Intern,HR & Muggle Relations,23.0,Squib,Phoenix Feather,Consultant,False,569,8,3,2,24
+602,Anna,Douglas,1816-05-20,marchenderson@yahoo.com,296-722-0950,2024-04-04,Senior Enchanter,Wand Engineering,12.0,Half-blood,Dragon Heartstring,Apprentice,False,4572,9,3,1,11
+603,AlisEa,Foster,1747-06-15,drew67@gmail.com,(463)825-1444x6372,2014-04-10,Potions Intern,Mystical Logistics,36.0,Squib,Unknown,Adept,True,1972,5,9,2,3
+604,James,Hendefson,1737-09-02,ndodson@yahoo.com,+1-516-351-4823,2017-01-25,Master of Charms,Magical Security,25.0,Half-blood,Mysterious Core,Intern,False,2395,1,8,10,21
+605,John,West,1993-05-30,jeremystewart@douglas-glenn.org,869-847-0052x92539,2006-05-18,Potions Intern,Magical Security,39.0,Pureblood,Mysterious Core,Adept,False,4965,4,8,4,0
+606,John,Miller,1968-03-21,jordanstephen@yahoo.com,035-431-1149,2024-09-15,Senior Enchanter,Spellcrafting,19.0,Muggle-born,Phoenix Feather,Master,True,4008,7,3,8,4
+607,Claudia,Johnston,1951-01-02,charles57@henderson.net,715.750.0328x307,2010-01-14,Wand Safety Officer,Potion Research,16.0,Half-blood,Phoenix Feather,Intern,False,2623,2,6,2,15
+608,Maria,Harrison,1866-05-03,christy25@parker.com,(878)671-5355x667,2021-09-19,Wand Safety Officer,HR & Muggle Relations,40.0,Muggle-born,Unknown,Master,False,2625,10,3,5,11
+609,Jason,Jenkins,1821-04-14,,001-652-710-7019x339,2016-06-08,Master of Charms,Wand Engineering,29.0,Muggle-born,Unknown,Adept,True,2833,5,10,3,8
+610,kared,Mueller,1981-12-06,cooperjohn@hotmail.com,(705)465-8858x6903,2019-04-08,Wand Safety Officer,Wand Engineering,26.0,Squib,Dragon Heartstring,Adept,False,2420,5,10,2,14
+611,George,Hodge,1989-03-07,mthomas@nguyen.biz,001-514-383-1557,2007-03-07,Master of Charms,Spellcrafting,10.0,Unknown,Mysterious Core,Adept,True,2520,5,6,2,21
+612,Mark,Williams,1802-09-06,williamflores@yahoo.com,2752008634,2011-01-29,Master of Charms,Magical Security,38.0,Unknown,Dragon Heartstring,Master,False,4070,9,3,1,2
+613,Alexandra,Smith,1770-10-27,mcdowelltodd@hotmail.com,233.683.5931x58838,2015-04-03,Wand Safety Officer,HR & Muggle Relations,50.0,Muggle-born,Veela Hair,Consultant,False,2521,2,5,2,8
+614,Morgan,Robertson,1958-02-05,juanbenitez@gmail.com,460.175.6527x6736,2013-01-23,Master of Charms,Magical Security,9.0,Muggle-born,Unknown,Consultant,True,728,1,1,6,24
+615,Carlos,Pineda,1731-08-20,baileymary@rivera.org,(485)656-1423,2018-01-20,Magical HR Specialist,Potion Research,13.0,Squib,Mysterious Core,Master,False,4540,10,10,1,23
+616,Leah,Horn,1811-03-05,lgardner@harrison-morris.com,835-884-8123x90788,2008-12-11,Wand Safety Officer,HR & Muggle Relations,30.0,Muggle-born,Dragon Heartstring,Intern,False,3751,4,9,8,25
+617,Daniel,Nixon,1759-04-14,melanieroberts@welch-lambert.biz,303-452-7449x46509,2012-05-24,Junior Spell Crafter,Potion Research,43.0,Pureblood,Unicorn Hair,Intern,True,2020,1,2,1,24
+618,Courtney,Miller,1749-09-18,wjohnson@yahoo.com,001-792-273-4662x5090,2015-08-29,Wand Safety Officer,Wand Engineering,44.0,Squib,Unicorn Hair,Adept,False,4049,1,8,8,18
+619,Sandra,Freeman,1863-08-31,stewarttroy@moody-carter.com,(055)963-8271x031,2009-06-24,Wand Safety Officer,Spellcrafting,46.0,Muggle-born,Veela Hair,Adept,False,4213,4,10,6,6
+620,Rebecca,Keith,1918-07-15,danieltownsend@chen.info,(051)003-1318,2018-11-24,Master of Charms,Wand Engineering,47.0,Half-blood,Unicorn Hair,Apprentice,False,2627,6,10,7,3
+621,Connie,Smith,1865-02-28,mariamoyer@gmail.com,+1-902-712-3731x0949,2009-12-25,Junior Spell Crafter,Magical Security,19.0,Squib,Unknown,Master,False,1553,6,3,1,15
+622,Joseph,Rivera,1988-01-06,hgarcia@thompson-davis.com,(720)513-3768x7584,2013-11-09,Senior Enchanter,Mystical Logistics,39.0,Unknown,Unicorn Hair,Consultant,False,3396,1,4,9,9
+623,Jennifer,Thomas,1785-07-04,lauren00@collins-wagner.org,+1-496-859-3620x39797,2019-08-11,Wand Safety Officer,Wand Engineering,35.0,Squib,Mysterious Core,Intern,True,3367,9,7,8,6
+624,Alan,Knight,1753-04-26,dixoncynthia@gmail.com,(861)633-1005x04530,2012-02-22,Wand Safety Officer,Potion Research,4.0,Squib,Dragon Heartstring,Master,True,3231,2,3,4,0
+625,Christina,Singh,1758-12-15,stevensonpatricia@baird.info,9570961505,2015-08-06,Magical HR Specialist,Spellcrafting,47.0,Squib,Thestral Tail Hair,Apprentice,True,4883,4,2,8,22
+626,Amanda,Matheps,1776-06-22,jaredbailey@yahoo.com,,2020-09-20,Senior Enchanter,Spellcrafting,39.0,Squib,Dragon Heartstring,Intern,True,2722,1,2,6,10
+627,Roy,Weaver,1750-05-11,michael56@hotmail.com,001-919-718-9055x12636,2015-10-17,Master of Charms,Wand Engineering,43.0,Squib,Unknown,Apprentice,True,1102,6,4,5,8
+628,Stacy,BVyer,1876-10-02,jnewton@palmer-perkins.org,627-606-4941,2028-13-40,Junior Spell Crafter,Mystical Logistics,1.0,Unknown,Unicorn Hair,Intern,True,3954,10,8,4,3
+629,Eric,Austin,1986-09-03,rmatthews@mills.info,651.256.6478x99563,2013-11-21,Junior Spell Crafter,Potion Research,36.0,Muggle-born,Veela Hair,Adept,False,3220,9,5,1,17
+630,Shannon,Hansen,1824-03-09,larry70@yahoo.com,+1-347-528-9090x5199,2006-12-23,Magical HR Specialist,Spellcrafting,27.0,Half-blood,Unicorn Hair,Intern,False,2363,3,9,9,2
+631,Sharon,Copeland,1997-01-11,kmcneil@yahoo.com,6202845659,2024-07-31,Senior Enchanter,Mystical Logistics,11.0,Pureblood,Dragon Heartstring,Apprentice,True,4025,2,2,6,22
+632,David,Jarvis,1731-09-21,thomas06@solis.com,420-821-6008x40633,2019-06-28,Magical HR Specialist,Potion Research,15.0,Muggle-born,Mysterious Core,Intern,False,4140,10,2,3,21
+633,Charles,Martinez,1800-05-08,,001-110-186-4208x3647,2021-01-17,Senior Enchanter,Potion Research,42.0,Unknown,Phoenix Feather,Apprentice,True,1109,9,10,7,2
+634,Ranry,Molina,1984-10-04,timothy45@hotmail.com,(336)685-6454x45516,2006-10-11,Senior Enchanter,Potion Research,24.0,Half-blood,Phoenix Feather,Master,True,2213,10,5,2,10
+635,Thomas,Dzvis,1858-05-15,torresrebecca@cole-schmidt.net,578.999.3075x45781,2010-11-20,Potions Intern,Wand Engineering,31.0,Unknown,Veela Hair,Adept,False,3648,2,1,7,24
+636,Chelsey,Knight,1814-05-27,fadkins@williams.com,115.343.9100,2012-10-21,Senior Enchanter,Potion Research,33.0,Muggle-born,Dragon Heartstring,Master,False,2881,3,5,9,24
+637,John,Mathis,1982-02-19,timothy85@yahoo.com,(173)040-9536,2022-07-25,Potions Intern,HR & Muggle Relations,7.0,Half-blood,Mysterious Core,Adept,False,2991,2,7,8,4
+638,Andrew,Gordon,1919-03-23,xwilliams@stein-norton.org,(786)400-5033,2028-13-40,Wand Safety Officer,Wand Engineering,13.0,Half-blood,Dragon Heartstring,Apprentice,False,4281,9,9,4,22
+639,Andrew,Guzman,1912-02-25,hsmith@bright-johnson.com,339-022-7555x555,2016-05-16,Master of Charms,Spellcrafting,6.0,Muggle-born,Thestral Tail Hair,Intern,True,3634,10,3,8,9
+640,Alexander,Murphy,1790-06-26,lhuynh@yahoo.com,030-167-5125x66106,2009-02-09,Senior Enchanter,Magical Security,37.0,Muggle-born,Unicorn Hair,Master,True,4852,3,10,9,2
+641,Valerie,Jacobs,1748-01-02,matthewreyes@henderson.com,375-503-2149x76873,2019-03-15,Potions Intern,Potion Research,47.0,Unknown,Unicorn Hair,Intern,False,4092,4,2,7,18
+642,Charles,Perez,1796-04-10,james38@martinez.com,103-071-6938x00673,2025-01-13,Potions Intern,Mystical Logistics,12.0,Muggle-born,Dragon Heartstring,Apprentice,False,2751,3,9,1,13
+643,Joshua,Harrison,1887-06-30,gonzalezbrittany@barry-jackson.biz,(936)911-7336,2015-03-08,Magical HR Specialist,Mystical Logistics,22.0,Muggle-born,Mysterious Core,Intern,False,508,8,9,1,10
+644,Matthew,Lawrence,1811-08-30,osbornemichele@hotmail.com,+1-479-703-6007x156,2017-11-03,Junior Spell Crafter,Wand Engineering,14.0,Squib,Mysterious Core,Consultant,False,4953,5,4,8,9
+645,Danielle,Bell,1832-08-27,bcrawford@gmail.com,(929)400-1090x2652,2018-12-08,Potions Intern,Wand Engineering,35.0,Squib,Dragon Heartstring,Consultant,False,4184,2,5,10,5
+646,Julie,Parker,1785-02-16,nelsonlori@marshall.com,569-851-0097x844,2006-04-14,Master of Charms,Magical Security,22.0,Unknown,Veela Hair,Intern,False,2881,10,10,7,18
+647,Kimberly,Neal,1820-11-02,charles91@yahoo.com,+1-157-087-2634,2010-01-03,Wand Safety Officer,Potion Research,26.0,Muggle-born,Phoenix Feather,Intern,False,3202,3,1,5,22
+648,Crystal,Oliver,1911-09-05,fmarsh@yahoo.com,084.598.2744,2014-07-19,Junior Spell Crafter,Wand Engineering,3.0,Muggle-born,Mysterious Core,Master,True,3368,7,7,3,12
+649,Besty,Mack,1810-05-03,slloyd@miller.com,055-419-9180x3774,2019-01-01,Potions Intern,Spellcrafting,30.0,Muggle-born,Phoenix Feather,Master,True,851,7,2,2,5
+650,Aaron,Montes,1851-09-27,kim03@gmail.com,,2007-07-12,Potions Intern,Magical Security,25.0,Muggle-born,Unknown,Master,False,2179,1,3,6,0
+651,Makayla,Harrington,1961-10-20,jasminebowen@yahoo.com,153-735-2888x971,2010-10-13,Magical HR Specialist,Potion Research,42.0,Half-blood,Unknown,Consultant,False,1485,4,4,6,3
+652,James,Hernandez,1952-12-27,jonathandawson@gmail.com,(767)996-5186x703,2017-02-06,Wand Safety Officer,Wand Engineering,40.0,Pureblood,Unknown,Apprentice,False,3745,9,6,5,25
+653,Angela,Fritz,1935-08-02,rpeterson@richardson-smith.com,,2007-02-05,Magical HR Specialist,Mystical Logistics,15.0,Unknown,Veela Hair,Consultant,True,2069,10,7,3,9
+654,Brittany,White,1760-02-16,calebrobertson@yahoo.com,(671)775-9916x64176,2010-02-05,Potions Intern,Magical Security,17.0,Unknown,Phoenix Feather,Apprentice,False,1202,6,5,1,13
+655,Matthew,Frazier,1922-10-20,patrickbrown@harmon.com,310-633-7323x45603,2024-02-01,Magical HR Specialist,Wand Engineering,25.0,Squib,Thestral Tail Hair,Intern,False,3645,1,6,5,4
+656,Brandy,HErnandez,1873-12-27,phillipsjennifer@brooks.com,001-799-349-9137x46321,2014-03-04,Wand Safety Officer,Spellcrafting,3.0,Muggle-born,Mysterious Core,Consultant,True,2127,3,7,3,25
+657,Marisa,Jilson,1880-04-09,spearsdanielle@hotmail.com,+1-402-543-8394x01282,2008-04-12,Magical HR Specialist,HR & Muggle Relations,35.0,Half-blood,Mysterious Core,Apprentice,True,1929,6,8,2,10
+658,Justin,Park,1869-04-10,cherrymolly@yahoo.com,552.038.0955,2020-10-08,Potions Intern,Wand Engineering,7.0,Squib,Thestral Tail Hair,Intern,False,4656,1,10,8,0
+659,Laurie,Parks,1985-03-02,tnunez@gmail.com,001-638-272-9781,2028-13-40,Wand Safety Officer,Magical Security,13.0,Pureblood,Veela Hair,Master,False,2496,1,3,4,20
+660,Melanie,Rhodes,1974-12-08,nclay@yahoo.com,955.223.0962,2016-12-15,Magical HR Specialist,Spellcrafting,49.0,Squib,Thestral Tail Hair,Master,True,2826,7,1,2,3
+661,Yolanda,Clarke,1939-03-01,zdaniels@rhodes.biz,001-214-039-9453x388,2028-13-40,Master of Charms,Potion Research,11.0,Unknown,Unicorn Hair,Adept,True,3761,8,2,9,9
+662,Michael,jooth,1850-06-28,rharris@lewis.com,298-822-9130x012,2010-09-06,Potions Intern,Magical Security,42.0,Squib,Unknown,Intern,False,2252,5,4,8,19
+663,John,Banks,1884-10-30,steven31@yahoo.com,095-022-9435,2024-02-14,Master of Charms,Spellcrafting,30.0,Squib,Veela Hair,Adept,True,1900,10,9,10,9
+664,Michael,zhaw,1909-12-23,hmiller@yahoo.com,159.970.7391x4937,2007-10-24,Junior Spell Crafter,Potion Research,27.0,Pureblood,Veela Hair,Apprentice,True,1904,5,7,1,19
+665,Jeffrey,Jones,1880-10-24,lindseymeyer@barnett-ray.com,001-174-478-4117,2021-05-17,Master of Charms,Mystical Logistics,7.0,Squib,Veela Hair,Apprentice,False,2952,2,5,1,4
+666,Jerry,Ellis,1809-07-28,sholmes@santos.com,332-712-7890x705,2006-12-18,Potions Intern,Potion Research,50.0,Half-blood,Dragon Heartstring,Apprentice,True,4917,9,2,2,23
+667,Michael,Willinms,1745-05-11,lperez@henderson.info,001-422-555-8455,2019-03-23,Magical HR Specialist,Spellcrafting,1.0,Muggle-born,Phoenix Feather,Adept,False,3608,5,1,5,20
+668,Ashley,Shepherd,1780-06-09,matthewharris@gmail.com,3966560380,2023-08-03,Magical HR Specialist,Wand Engineering,35.0,Muggle-born,Unknown,Master,False,1528,6,7,7,9
+669,GFegory,Graham,1750-12-07,smithalexandria@thompson.com,001-499-943-1618x80117,2016-05-19,Senior Enchanter,Mystical Logistics,3.0,Pureblood,Dragon Heartstring,Master,False,2810,4,7,1,2
+670,Whlliam,Martin,1924-07-30,hedwards@gregory.org,965-990-9701x8899,2017-09-18,Potions Intern,Mystical Logistics,43.0,Pureblood,Phoenix Feather,Master,False,3140,3,10,8,19
+671,Ashley,Russo,1952-06-26,kristenkeller@gmail.com,(379)644-4722,2012-06-09,Potions Intern,Potion Research,24.0,Muggle-born,Thestral Tail Hair,Adept,True,4997,1,6,8,9
+672,Matthew,Adams,1844-08-19,willischristina@yahoo.com,041-765-8793,2009-04-20,Magical HR Specialist,HR & Muggle Relations,46.0,Squib,Veela Hair,Consultant,False,3108,8,4,3,12
+673,Anne,Armstrong,1828-01-22,rachelbanks@sanchez.com,001-369-975-5780,2011-03-05,Junior Spell Crafter,Spellcrafting,40.0,Muggle-born,Dragon Heartstring,Consultant,True,3699,5,5,2,13
+674,Ashley,GonzOlez,1807-03-15,leonarddavid@sullivan-holloway.net,(005)962-9968,2015-11-06,Potions Intern,Spellcrafting,45.0,Half-blood,Unknown,Intern,True,656,6,10,4,17
+675,Joshua,Smith,1971-02-12,jared21@hendrix.com,(488)792-5740x89460,2005-09-25,Magical HR Specialist,Wand Engineering,48.0,Half-blood,Phoenix Feather,Consultant,True,2994,10,1,6,8
+676,Michelle,Ray,1848-02-03,alanwashington@hotmail.com,(205)645-8203,2024-09-09,Junior Spell Crafter,Wand Engineering,9.0,Half-blood,Mysterious Core,Adept,False,512,10,4,7,7
+677,Joseph,Hendrix,1763-02-05,david43@yahoo.com,(419)744-4434,2018-01-10,Senior Enchanter,HR & Muggle Relations,18.0,Squib,Thestral Tail Hair,Adept,True,3960,2,4,9,5
+678,DebNrah,Richmond,1900-09-23,chavezlouis@stanley.com,(483)623-0084,2005-05-31,Magical HR Specialist,Potion Research,21.0,Pureblood,Unicorn Hair,Adept,False,4927,9,2,4,14
+679,Angela,Ramsey,1954-11-01,timothy93@gmail.com,5152646102,2008-12-31,Junior Spell Crafter,Potion Research,6.0,Muggle-born,Thestral Tail Hair,Intern,False,2913,4,6,7,11
+680,Dennis,quber,1899-01-28,handerson@bishop.org,(069)691-5839x8007,2021-11-29,Magical HR Specialist,Magical Security,36.0,Muggle-born,Phoenix Feather,Master,True,2200,9,3,3,18
+681,Keith,Buchanan,1751-12-02,jonescharles@hotmail.com,+1-083-218-3659x9878,2008-05-09,Master of Charms,Wand Engineering,34.0,Squib,Veela Hair,Apprentice,True,2580,8,2,2,3
+682,Christopher,Morris,1725-11-26,aaron38@gmail.com,333-551-5882x12045,2011-08-17,Junior Spell Crafter,Mystical Logistics,44.0,Pureblood,Phoenix Feather,Adept,True,4202,7,3,2,3
+683,Tara,Zimmerman,1936-12-12,joshua66@mills.org,(822)385-5101x337,2016-06-05,Junior Spell Crafter,Magical Security,32.0,Muggle-born,Mysterious Core,Intern,True,2972,1,2,10,15
+684,Kelly,Hall,1748-01-06,nelsontodd@anderson.com,(532)415-4691x04776,2024-11-08,Wand Safety Officer,Spellcrafting,42.0,Pureblood,Unicorn Hair,Intern,False,1156,4,8,7,2
+685,Michael,Cox,1839-12-20,michael36@cox.com,001-458-519-1647x176,2024-07-25,Magical HR Specialist,Potion Research,47.0,Pureblood,Phoenix Feather,Consultant,False,841,9,10,2,18
+686,Thomas,Blevins,1828-06-26,jflowers@buchanan.com,+1-957-638-2523x1533,2021-11-19,Master of Charms,Magical Security,14.0,Muggle-born,Thestral Tail Hair,Intern,True,3033,10,1,10,19
+687,Deanna,Illison,1844-03-28,spena@delgado.net,(039)374-3952x597,2020-11-26,Master of Charms,Magical Security,21.0,Half-blood,Veela Hair,Adept,True,1622,6,7,7,8
+688,Joshua,Cortez,1821-07-14,richard76@hughes.com,001-397-379-8170,2015-11-05,Wand Safety Officer,Spellcrafting,8.0,Half-blood,Dragon Heartstring,Intern,True,678,5,9,10,24
+689,Eric,White,1929-07-18,jamesmartin@white-simmons.com,168-795-4375x03068,2008-09-08,Wand Safety Officer,Wand Engineering,2.0,Muggle-born,Unknown,Master,True,2084,9,4,10,17
+690,Briana,Ross,1855-09-03,lisahill@riley.com,778.935.0850,2011-12-31,Potions Intern,Potion Research,42.0,Pureblood,Mysterious Core,Consultant,False,1225,2,4,10,7
+691,George,Saiinas,1855-04-12,jennifer94@yahoo.com,001-783-996-9480x326,2013-01-28,Master of Charms,Magical Security,24.0,Pureblood,Unknown,Master,True,4440,10,6,5,14
+692,Susan,Stewart,1835-06-12,jamesgibbs@sanchez.net,+1-463-298-4734x59275,2013-05-19,Senior Enchanter,HR & Muggle Relations,10.0,Half-blood,Phoenix Feather,Intern,True,4328,10,1,5,14
+693,JoVe,Mullins,1726-07-12,qherring@medina.com,001-193-550-8424x554,2013-12-22,Magical HR Specialist,Potion Research,3.0,Pureblood,Unknown,Adept,False,4795,2,4,5,21
+694,Vicki,Mccann,1859-01-13,connie15@yahoo.com,487.474.4797x690,2008-07-27,Magical HR Specialist,Mystical Logistics,38.0,Unknown,Unicorn Hair,Apprentice,False,870,10,10,5,5
+695,Carla,zelly,1947-04-26,ralph01@yahoo.com,001-969-589-7548x6941,2006-04-04,Master of Charms,Potion Research,38.0,Squib,Phoenix Feather,Adept,False,4293,4,1,1,24
+696,YeseEia,Harrison,1806-09-26,mendozacatherine@white.com,4126054994,2014-11-24,Potions Intern,Magical Security,36.0,Half-blood,Unknown,Apprentice,False,595,10,8,1,3
+697,Robert,Andrews,1865-07-25,adamsnicholas@hotmail.com,341-253-9558,2010-12-08,Master of Charms,Potion Research,18.0,Unknown,Veela Hair,Master,True,3285,2,7,2,18
+698,Daniel,Russell,1795-03-20,kristinawilson@gmail.com,268.211.4096x089,2011-12-15,Potions Intern,Wand Engineering,43.0,Muggle-born,Dragon Heartstring,Adept,True,557,1,2,10,8
+699,Julia,Lewis,1732-12-24,ann39@hotmail.com,324-269-2521,2007-05-17,Senior Enchanter,Wand Engineering,25.0,Half-blood,Phoenix Feather,Adept,True,1345,8,3,6,23
+700,Brianna,Wilson,1848-12-11,jessica30@hotmail.com,889.349.4681,2006-08-21,Magical HR Specialist,HR & Muggle Relations,2.0,Muggle-born,Mysterious Core,Consultant,True,4075,9,1,9,17
+701,Robert,Snyder,1880-06-27,cunninghamanthony@gilbert-rose.info,237-485-6175x9213,2028-13-40,Potions Intern,Spellcrafting,13.0,Pureblood,Thestral Tail Hair,Consultant,False,1650,4,10,8,17
+702,Jeremy,Mcfarland,1756-08-16,iperez@gmail.com,001-757-756-0532,2024-10-06,Wand Safety Officer,Potion Research,18.0,Unknown,Mysterious Core,Intern,True,1992,3,3,1,23
+703,Jennifer,Patrick,1963-04-05,jillianbrooks@johnson-smith.biz,(636)511-9266x70476,2021-11-13,Magical HR Specialist,Spellcrafting,50.0,Muggle-born,Unicorn Hair,Adept,True,3998,1,1,5,11
+704,Tammy,Hardin,1897-09-16,dowens@peterson.org,001-903-873-9428x7875,2028-13-40,Senior Enchanter,Magical Security,48.0,Squib,Veela Hair,Apprentice,True,4412,6,3,4,12
+705,JeOemy,Reyes,1809-07-18,thompsonalicia@hotmail.com,(116)782-0389,2006-12-28,Senior Enchanter,Spellcrafting,23.0,Unknown,Thestral Tail Hair,Adept,True,2339,10,6,4,12
+706,Luis,Taylor,1777-03-27,clarkjohn@gmail.com,089-985-4808,2011-03-01,Magical HR Specialist,Potion Research,4.0,Unknown,Unknown,Master,True,4615,1,3,1,24
+707,Christopher,Mitchell,1837-06-24,robinmatthews@martin.org,9113970667,2013-09-10,Master of Charms,Wand Engineering,43.0,Squib,Thestral Tail Hair,Apprentice,True,3026,4,2,7,3
+708,Jonathan,Herrera,1746-10-22,alopez@jones.com,,2016-12-25,Junior Spell Crafter,HR & Muggle Relations,8.0,Pureblood,Phoenix Feather,Adept,True,622,4,8,1,25
+709,Robert,Price,1954-10-19,balexander@reyes.org,(122)158-1751x75187,2014-03-30,Wand Safety Officer,Wand Engineering,7.0,Squib,Dragon Heartstring,Apprentice,False,1098,1,4,9,17
+710,Ashley,Parks,1812-06-28,robertklein@gmail.com,+1-189-438-2505,2018-05-09,Magical HR Specialist,Potion Research,7.0,Unknown,Unknown,Intern,False,4968,6,10,2,11
+711,Caroline,Maddox,1882-05-04,reyespatricia@yahoo.com,417-589-1444x535,2028-13-40,Wand Safety Officer,Wand Engineering,34.0,Muggle-born,Dragon Heartstring,Intern,True,3268,10,7,4,10
+712,Frederick,Richards,1823-07-09,,098.547.6159,2009-09-09,Master of Charms,Wand Engineering,28.0,Squib,Veela Hair,Consultant,True,4508,3,5,10,25
+713,Gerald,Gibson,1811-07-08,nkelley@hotmail.com,298.854.4883x491,2012-10-04,Master of Charms,Magical Security,9.0,Unknown,Dragon Heartstring,Apprentice,True,1372,1,7,2,25
+714,James,Ellis,1861-09-05,fbrown@yahoo.com,405-419-3791,2016-12-03,Master of Charms,Spellcrafting,40.0,Squib,Thestral Tail Hair,Apprentice,True,1777,8,5,9,2
+715,Tharles,Anderson,1820-04-17,wrightkelly@chambers.info,637-145-2313x3660,2014-01-09,Wand Safety Officer,Spellcrafting,20.0,Squib,Dragon Heartstring,Intern,True,4712,4,6,5,22
+716,Lori,Griffith,1767-02-06,carla60@cook-webb.info,483-593-4908x121,2013-04-04,Senior Enchanter,Wand Engineering,1.0,Unknown,Mysterious Core,Apprentice,True,4451,6,8,7,12
+717,Jennifer,Scott,1959-02-24,darlenelopez@ballard.org,610-848-7173,2018-05-29,Master of Charms,Spellcrafting,27.0,Unknown,Veela Hair,Adept,False,1452,1,3,9,12
+718,Derek,Richards,1998-11-09,lsullivan@gmail.com,152.190.0093,2028-13-40,Magical HR Specialist,Magical Security,43.0,Muggle-born,Mysterious Core,Consultant,False,1901,8,10,7,15
+719,Samuel,terez,1798-09-03,petersonkeith@yahoo.com,001-049-790-8520,2011-06-13,Master of Charms,Potion Research,14.0,Squib,Phoenix Feather,Adept,False,3678,5,1,2,11
+720,Mllissa,Mccann,1818-02-14,cschwartz@zimmerman.com,643.064.9880x364,2005-10-17,Potions Intern,Mystical Logistics,4.0,Muggle-born,Thestral Tail Hair,Intern,False,2178,7,5,3,19
+721,Todd,Hayes,1876-12-04,ovaldez@weaver-bright.org,810.518.0372x0036,2008-04-29,Junior Spell Crafter,HR & Muggle Relations,20.0,Muggle-born,Veela Hair,Adept,False,2265,8,6,2,0
+722,Gary,Carter,1751-01-09,rhonda63@gmail.com,241-171-5613x1139,2005-04-08,Magical HR Specialist,Spellcrafting,2.0,Pureblood,Unknown,Intern,True,4966,9,1,10,9
+723,Robert,Barnes,1995-11-11,ablankenship@yahoo.com,001-813-231-2834,2008-06-12,Magical HR Specialist,Wand Engineering,43.0,Muggle-born,Thestral Tail Hair,Adept,True,4820,5,6,6,9
+724,Scott,kee,1946-08-30,charlesvargas@miller.net,667-432-4816,2022-05-29,Potions Intern,Potion Research,17.0,Half-blood,Veela Hair,Master,False,812,9,8,2,16
+725,Brenda,Briwn,1803-08-16,,2311828592,2024-10-19,Wand Safety Officer,Spellcrafting,45.0,Half-blood,Mysterious Core,Intern,False,4391,1,7,7,1
+726,Sean,Harris,1977-09-05,donald64@hotmail.com,(993)218-7985,2016-02-02,Junior Spell Crafter,HR & Muggle Relations,34.0,Muggle-born,Unknown,Apprentice,True,3794,10,8,8,2
+727,Justin,Fowler,1774-12-11,ian24@owen.org,,2012-06-08,Master of Charms,Spellcrafting,48.0,Pureblood,Thestral Tail Hair,Apprentice,True,2771,4,8,8,24
+728,Robert,Stewart,1997-10-25,terry44@gmail.com,124-550-3333,2016-12-25,Wand Safety Officer,Spellcrafting,18.0,Half-blood,Veela Hair,Intern,True,1522,4,8,2,16
+729,Michael,Carter,1757-02-27,donsmith@hotmail.com,076.080.3135x388,2022-01-03,Master of Charms,Mystical Logistics,45.0,Pureblood,Dragon Heartstring,Master,True,4211,9,3,6,8
+730,Danielle,Smith,1749-07-27,medinazachary@hotmail.com,565.856.5217x165,2014-10-30,Junior Spell Crafter,Potion Research,1.0,Unknown,Veela Hair,Master,False,2059,10,7,1,12
+731,Abigail,Espinoza,1782-03-22,harrisandrew@smith.org,1694877855,2020-12-14,Master of Charms,Potion Research,30.0,Half-blood,Unicorn Hair,Adept,True,790,6,10,8,23
+732,Phyllis,Smlth,1735-12-18,meghan66@yahoo.com,(496)406-9360x124,2009-06-28,Wand Safety Officer,Magical Security,25.0,Pureblood,Phoenix Feather,Master,False,3547,3,9,2,14
+733,Taylor,Tate,1862-10-23,egarcia@johnson-ho.com,001-078-169-7441,2005-12-27,Senior Enchanter,Spellcrafting,11.0,Half-blood,Unknown,Intern,False,2865,7,2,6,13
+734,Justin,Baker,1923-11-26,keithmoore@yahoo.com,542.954.9906x67753,2017-08-19,Wand Safety Officer,Mystical Logistics,25.0,Pureblood,Unknown,Intern,True,1902,6,7,7,21
+735,Bruce,Gray,1735-03-26,rosslinda@anderson.info,(847)215-1418x5989,2009-03-16,Wand Safety Officer,Spellcrafting,38.0,Unknown,Veela Hair,Adept,False,4005,3,8,7,2
+736,lrystal,Flynn,1899-04-14,jenniferbradford@murphy.info,115-431-2756,2022-12-22,Wand Safety Officer,Wand Engineering,13.0,Muggle-born,Dragon Heartstring,Consultant,False,1856,5,10,7,22
+737,Jessica,Mcgee,1794-10-29,brandilyons@jackson-melendez.biz,+1-692-521-6977x567,2011-11-11,Senior Enchanter,Magical Security,33.0,Pureblood,Thestral Tail Hair,Adept,False,2964,1,3,10,8
+738,ThoMas,Rey,1842-06-29,trose@patterson-cortez.com,648-688-4638x64329,2019-04-11,Wand Safety Officer,Wand Engineering,36.0,Half-blood,Veela Hair,Consultant,False,4209,5,7,3,7
+739,Zachary,Peterson,1971-07-27,regina76@hotmail.com,774.573.9639,2005-11-08,Master of Charms,Spellcrafting,48.0,Half-blood,Dragon Heartstring,Apprentice,True,3634,7,1,8,10
+740,Steve,Peterson,1785-12-23,deanbrian@hotmail.com,523-405-7247x4616,2016-07-18,Wand Safety Officer,Wand Engineering,15.0,Unknown,Dragon Heartstring,Apprentice,True,2973,7,6,2,4
+741,Rachel,Haley,1740-07-05,salvarez@galloway-dudley.com,540.863.2151,2007-03-13,Potions Intern,Potion Research,1.0,Pureblood,Phoenix Feather,Apprentice,True,3729,7,5,8,11
+742,Carolyn,Jones,1826-05-02,james15@yahoo.com,001-020-722-8136x82476,2023-06-15,Magical HR Specialist,Mystical Logistics,37.0,Muggle-born,Dragon Heartstring,Apprentice,False,776,7,8,3,20
+743,Adam,Adams,1995-05-14,christophereverett@gilmore.net,342-249-7976,2019-04-16,Wand Safety Officer,HR & Muggle Relations,14.0,Half-blood,Dragon Heartstring,Consultant,False,860,4,5,10,6
+744,Michele,Turner,1829-10-03,kaylahoffman@hotmail.com,+1-986-600-4179x419,2021-10-08,Master of Charms,Spellcrafting,17.0,Muggle-born,Dragon Heartstring,Adept,False,4623,3,4,4,14
+745,Christine,Johnson,1833-06-28,nicole09@adams.com,+1-603-365-5935x1283,2017-02-16,Magical HR Specialist,Magical Security,31.0,Pureblood,Veela Hair,Adept,False,4127,4,9,2,0
+746,Justin,PhiAlips,1736-04-13,greenemiranda@hotmail.com,001-164-324-7445,2008-03-10,Magical HR Specialist,Magical Security,29.0,Pureblood,Unknown,Master,True,4488,2,9,7,10
+747,KayIa,Hanson,1870-12-20,margaret17@gmail.com,8309436949,2018-11-10,Potions Intern,HR & Muggle Relations,16.0,Muggle-born,Unknown,Intern,False,3961,3,2,8,23
+748,Michael,Coleman,1734-02-12,burnsrachel@gmail.com,789-621-7584,2016-01-18,Magical HR Specialist,Potion Research,38.0,Pureblood,Veela Hair,Apprentice,True,2282,9,5,3,11
+749,Renee,Lane,1821-07-05,xdavis@yahoo.com,001-567-286-7746x764,2017-02-07,Wand Safety Officer,Mystical Logistics,19.0,Muggle-born,Unknown,Intern,False,3785,3,6,10,20
+750,Gregory,PetPrs,1808-06-23,garytaylor@smith-smith.info,001-679-512-3097x60496,2012-05-07,Potions Intern,Wand Engineering,31.0,Half-blood,Unknown,Adept,False,3684,9,8,6,22
+751,Caroldn,Doyle,1991-06-25,,+1-885-113-1381x2123,2028-13-40,Potions Intern,HR & Muggle Relations,50.0,Unknown,Phoenix Feather,Consultant,False,2839,1,7,6,21
+752,Amy,EsGrada,1733-10-17,alexandercruz@yahoo.com,+1-084-270-1199x139,2024-07-02,Senior Enchanter,HR & Muggle Relations,47.0,Pureblood,Mysterious Core,Apprentice,False,3814,3,5,5,3
+753,MatHhew,Steele,1920-07-01,xmurphy@jones.net,322.879.5283,2006-09-18,Senior Enchanter,Wand Engineering,2.0,Squib,Unicorn Hair,Consultant,True,4206,6,4,8,22
+754,Lauren,perrell,1860-07-06,hernandezamy@hotmail.com,+1-515-093-1576x86298,2007-08-03,Potions Intern,Mystical Logistics,40.0,Pureblood,Thestral Tail Hair,Consultant,False,4894,8,7,6,21
+755,Elizabeth,Bradford,1882-10-24,charles58@hotmail.com,,2005-07-06,Potions Intern,HR & Muggle Relations,37.0,Muggle-born,Phoenix Feather,Intern,False,2126,9,8,6,0
+756,Jessica,Mathis,1827-01-16,ulevy@garcia-vang.com,(992)599-7360,2007-09-29,Potions Intern,Mystical Logistics,41.0,Unknown,Mysterious Core,Apprentice,True,2340,3,8,2,15
+757,Stephanie,BaQer,2004-11-07,andrewwhite@acevedo.biz,,2015-02-28,Junior Spell Crafter,Magical Security,41.0,Half-blood,Unicorn Hair,Adept,False,4625,10,3,10,2
+758,David,Rivers,1981-11-01,michaeljones@hotmail.com,+1-821-606-4521,2010-07-12,Master of Charms,Mystical Logistics,7.0,Muggle-born,Mysterious Core,Master,True,2966,2,9,3,1
+759,Mank,Garner,1777-12-16,lestes@bell.org,399.047.5496x56311,2021-09-23,Wand Safety Officer,Spellcrafting,12.0,Half-blood,Unknown,Intern,False,3512,6,9,2,12
+760,Erik,Morgan,1842-11-09,melissaroberts@gmail.com,+1-950-583-7585x15325,2007-06-06,Senior Enchanter,Magical Security,35.0,Half-blood,Unknown,Apprentice,False,1766,10,8,8,13
+761,JoshBa,Lawson,1902-12-04,ffarmer@hotmail.com,(249)316-5540,2005-08-01,Junior Spell Crafter,Spellcrafting,17.0,Muggle-born,Thestral Tail Hair,Intern,True,614,7,6,4,12
+762,Zonald,Pena,1857-08-02,,(961)582-7844x3820,2023-07-16,Potions Intern,HR & Muggle Relations,31.0,Squib,Dragon Heartstring,Consultant,True,4915,1,9,7,22
+763,Brett,Frederick,1822-10-18,darrylrush@perez-ortiz.com,(000)164-4667x4090,2025-03-26,Senior Enchanter,HR & Muggle Relations,22.0,Pureblood,Unknown,Intern,True,4200,1,10,8,20
+764,Dawn,Ingram,1977-07-05,vjohnson@yahoo.com,1823268879,2024-01-26,Potions Intern,Magical Security,20.0,Unknown,Unknown,Apprentice,True,1131,6,5,9,4
+765,Martha,Lambert,2000-08-26,johnsonzachary@yahoo.com,001-927-707-8302,2020-02-06,Senior Enchanter,Magical Security,50.0,Unknown,Mysterious Core,Consultant,True,505,6,10,9,21
+766,Andrew,Stephens,1982-11-13,davisjohn@morales.info,001-753-199-7060,2014-12-30,Master of Charms,Spellcrafting,28.0,Pureblood,Dragon Heartstring,Consultant,True,1689,7,6,9,7
+767,Joshua,Smith,1835-07-10,rebecca66@hall-cole.com,001-457-343-1025x4822,2008-02-23,Senior Enchanter,Spellcrafting,33.0,Squib,Unknown,Adept,True,1305,8,3,4,9
+768,Lose,Stewart,1835-09-01,xharris@yahoo.com,(439)171-1094,2028-13-40,Junior Spell Crafter,Spellcrafting,23.0,Unknown,Unknown,Consultant,False,4814,6,3,9,15
+769,fartha,Elliott,1812-08-26,,(570)972-1791x43438,2019-08-16,Potions Intern,Magical Security,6.0,Squib,Veela Hair,Master,False,1941,9,1,1,2
+770,Tracy,Beck,1929-10-05,cbender@hotmail.com,038.684.4298,2012-05-15,Potions Intern,Spellcrafting,37.0,Muggle-born,Unicorn Hair,Apprentice,False,882,5,8,4,24
+771,Cnristine,Nichols,1847-09-25,lblankenship@yahoo.com,162.131.2487,2016-12-29,Senior Enchanter,HR & Muggle Relations,45.0,Unknown,Thestral Tail Hair,Intern,False,2714,8,9,6,8
+772,Angela,Brown,1855-10-19,sklein@tucker.org,835.247.6177x491,2009-10-22,Junior Spell Crafter,HR & Muggle Relations,31.0,Muggle-born,Thestral Tail Hair,Adept,True,3374,7,5,6,24
+773,Brenda,Hayes,1851-03-11,tategrant@hotmail.com,+1-064-731-2886x628,2015-12-22,Senior Enchanter,Wand Engineering,18.0,Unknown,Unknown,Master,False,861,8,4,10,13
+774,Diana,Smith,1815-12-22,ljones@gmail.com,001-857-813-7695x3508,2017-12-01,Wand Safety Officer,Wand Engineering,42.0,Pureblood,Thestral Tail Hair,Adept,True,4817,8,10,5,22
+775,Stephen,Walter,1979-02-26,kaitlynmyers@silva.info,,2005-12-01,Master of Charms,Potion Research,23.0,Half-blood,Phoenix Feather,Adept,True,4484,3,7,3,14
+776,Latasha,Jones,1797-12-09,roberthenderson@williams.org,(516)311-9891x67130,2005-10-10,Wand Safety Officer,Mystical Logistics,11.0,Muggle-born,Dragon Heartstring,Adept,True,2278,4,10,9,20
+777,Courtney,Sparks,1742-04-17,chenkenneth@gmail.com,470-213-0487,2017-01-28,Potions Intern,Wand Engineering,44.0,Unknown,Thestral Tail Hair,Consultant,True,693,2,7,4,10
+778,Michael,Wood,1836-08-19,malonestacey@gmail.com,(302)377-2245,2019-09-26,Junior Spell Crafter,Mystical Logistics,33.0,Pureblood,Mysterious Core,Consultant,False,3684,10,4,8,24
+779,Megan,Martinez,1941-08-17,danagibson@gmail.com,4653186983,2014-08-08,Master of Charms,HR & Muggle Relations,6.0,Unknown,Mysterious Core,Intern,True,4186,1,6,9,16
+780,Jonathan,Powell,1868-06-08,vjohnston@hotmail.com,+1-109-811-8388,2009-10-13,Potions Intern,Wand Engineering,13.0,Squib,Thestral Tail Hair,Intern,False,3668,6,6,8,20
+781,Christopher,Ramirez,1923-04-10,ybartlett@brooks.net,6982913576,2015-06-23,Senior Enchanter,Mystical Logistics,14.0,Pureblood,Dragon Heartstring,Consultant,True,2293,1,6,2,12
+782,Glenda,Hanson,1899-10-17,david90@ross-parker.info,772.186.0931,2008-10-11,Senior Enchanter,Magical Security,30.0,Squib,Mysterious Core,Intern,False,1933,4,9,6,0
+783,Malik,Fisher,1883-03-26,paul97@gmail.com,001-401-760-2723x59905,2008-05-23,Wand Safety Officer,Spellcrafting,4.0,Muggle-born,Phoenix Feather,Intern,True,1527,1,5,10,16
+784,John,Hoffman,1775-12-23,douglaspham@crawford.org,466-958-9452,2007-05-22,Wand Safety Officer,Mystical Logistics,29.0,Squib,Unknown,Adept,True,1738,3,5,7,3
+785,Nicholas,Lynch,1904-04-11,maxwelldebra@gmail.com,(457)250-2691,2015-01-17,Master of Charms,Potion Research,41.0,Muggle-born,Thestral Tail Hair,Adept,True,1611,2,10,8,5
+786,Jennifer,Mendoza,1726-07-20,rodrigueznicole@thomas.info,,2022-06-26,Magical HR Specialist,Magical Security,8.0,Pureblood,Veela Hair,Apprentice,True,1030,4,4,4,1
+787,Jacob,Sullivan,1923-04-27,,981-262-9194x2090,2028-13-40,Magical HR Specialist,Wand Engineering,43.0,Muggle-born,Unicorn Hair,Adept,False,1293,10,5,5,15
+788,Robin,Graves,1848-05-10,christopherhunt@yoder.com,726.170.1321,2009-04-29,Senior Enchanter,Wand Engineering,49.0,Unknown,Phoenix Feather,Master,False,1532,8,2,9,12
+789,Meean,Hutchinson,1910-03-31,gonzalesbrian@murray-davis.com,837.564.1444,2014-02-08,Junior Spell Crafter,HR & Muggle Relations,31.0,Pureblood,Phoenix Feather,Adept,True,3896,3,8,6,21
+790,KristoFher,Williams,1910-08-13,leeclay@strickland-green.com,(245)638-3070x49395,2022-10-01,Wand Safety Officer,Spellcrafting,28.0,Half-blood,Veela Hair,Adept,True,1804,4,4,4,12
+791,Laura,Daniels,1773-03-10,jenniferwillis@yahoo.com,001-350-705-3201x86038,2018-10-31,Wand Safety Officer,HR & Muggle Relations,36.0,Squib,Mysterious Core,Intern,True,1360,8,10,8,19
+792,Nichozas,Harris,1733-10-15,paigegraves@yahoo.com,+1-866-568-8035x20259,2006-08-29,Potions Intern,Wand Engineering,49.0,Unknown,Thestral Tail Hair,Master,True,3919,5,6,3,4
+793,Devin,Howwll,1974-10-17,ccole@yahoo.com,556-302-8984x29547,2010-05-01,Senior Enchanter,Wand Engineering,43.0,Unknown,Thestral Tail Hair,Intern,True,3440,4,9,6,3
+794,Karen,Mitchell,1912-01-25,jesus39@ramsey.net,117-663-8509x647,2011-04-05,Senior Enchanter,Magical Security,41.0,Pureblood,Dragon Heartstring,Adept,False,1145,4,6,4,0
+795,Kathleen,Ball,1854-07-17,dylanabbott@gmail.com,330-533-5840,2010-12-07,Junior Spell Crafter,HR & Muggle Relations,18.0,Squib,Phoenix Feather,Consultant,True,4413,9,4,1,2
+796,Cole,Smith,1995-04-30,gloverjohn@cole.biz,547-801-1943x340,2016-06-03,Senior Enchanter,Mystical Logistics,36.0,Squib,Unicorn Hair,Intern,False,2244,7,6,7,14
+797,Scott,Rios,1928-01-02,allenteresa@richardson.com,057-215-5240x96961,2007-10-01,Master of Charms,Wand Engineering,29.0,Squib,Phoenix Feather,Apprentice,True,2893,4,2,2,20
+798,Nicole,Klein,1918-01-21,melissalewis@barrett-ford.info,876-938-4221x9657,2017-10-22,Magical HR Specialist,Spellcrafting,28.0,Half-blood,Dragon Heartstring,Apprentice,True,1068,8,10,2,5
+799,Tammie,Hicks,1736-02-23,,276-796-6624x19052,2018-11-21,Magical HR Specialist,HR & Muggle Relations,12.0,Pureblood,Thestral Tail Hair,Intern,True,2976,3,6,6,21
+800,Charles,Riley,1926-09-29,jasmine36@hotmail.com,2396473697,2022-02-11,Potions Intern,Potion Research,1.0,Pureblood,Thestral Tail Hair,Consultant,True,1389,10,6,7,6
+801,Gabriel,Hernandez,1890-07-19,hhess@yahoo.com,434-291-3756,2024-05-27,Magical HR Specialist,Magical Security,24.0,Unknown,Dragon Heartstring,Adept,True,4618,5,4,10,1
+802,Candace,Saunders,1957-01-01,kmorgan@yahoo.com,+1-124-434-2457,2017-08-18,Master of Charms,Mystical Logistics,38.0,Pureblood,Mysterious Core,Apprentice,False,2276,3,6,6,18
+803,Krisuen,GIrcia,1797-04-24,johnsamy@gmail.com,+1-326-256-5991x650,2006-11-17,Magical HR Specialist,Mystical Logistics,4.0,Half-blood,Unicorn Hair,Consultant,False,4752,10,7,7,9
+804,KaPen,Parker,1849-11-07,sototara@yahoo.com,811.347.7748,2017-11-10,Senior Enchanter,HR & Muggle Relations,46.0,Pureblood,Thestral Tail Hair,Apprentice,True,3928,1,6,1,20
+805,Erin,Brennan,1919-12-06,tracey76@hotmail.com,,2018-05-15,Senior Enchanter,Spellcrafting,44.0,Muggle-born,Phoenix Feather,Apprentice,False,3631,2,4,9,17
+806,Mallory,Riley,1810-10-12,eatonchristina@yahoo.com,+1-884-516-7494x41991,2017-05-17,Junior Spell Crafter,Potion Research,30.0,Muggle-born,Dragon Heartstring,Consultant,True,3226,7,1,10,13
+807,Courtney,Casey,1788-02-16,taraward@yahoo.com,7896592018,2021-08-24,Master of Charms,Spellcrafting,2.0,Half-blood,Unicorn Hair,Intern,False,3919,10,1,8,1
+808,Douglas,Freeman,1966-12-21,,352.452.8263x7397,2023-12-06,Potions Intern,Magical Security,44.0,Half-blood,Unicorn Hair,Adept,False,969,9,9,8,9
+809,Laura,Morales,1936-01-01,,(667)345-2662,2017-12-06,Junior Spell Crafter,HR & Muggle Relations,4.0,Half-blood,Thestral Tail Hair,Master,False,1059,5,5,2,20
+810,Carolyn,Cervantes,1987-08-17,baxteralan@yahoo.com,001-353-455-9983x14271,2010-09-16,Junior Spell Crafter,Mystical Logistics,37.0,Unknown,Phoenix Feather,Intern,True,2388,1,2,5,20
+811,Steven,Wijliams,1889-07-08,eperez@gmail.com,001-169-486-6047x247,2022-09-17,Magical HR Specialist,Mystical Logistics,42.0,Half-blood,Dragon Heartstring,Intern,False,3694,3,8,1,20
+812,John,Smith,1878-05-29,qcollins@gmail.com,+1-617-631-0938x0142,2024-12-22,Magical HR Specialist,Wand Engineering,11.0,Pureblood,Veela Hair,Consultant,False,1124,10,1,5,17
+813,Scott,Woods,1848-08-31,wfisher@johnson.com,309-386-5495x6963,2018-06-02,Magical HR Specialist,Wand Engineering,38.0,Pureblood,Mysterious Core,Intern,True,2141,3,8,2,10
+814,Snacy,Wiggins,1884-02-17,,675-424-2052x0420,2012-08-11,Master of Charms,Spellcrafting,25.0,Pureblood,Mysterious Core,Master,False,2262,6,7,5,0
+815,Ashley,Bowen,1739-08-15,nathan42@henderson.com,(410)169-5448x79411,2006-09-12,Potions Intern,Wand Engineering,37.0,Squib,Mysterious Core,Adept,True,4140,5,4,5,22
+816,Valerie,Rocha,1813-04-07,,+1-113-775-7625,2010-09-03,Junior Spell Crafter,Magical Security,32.0,Unknown,Dragon Heartstring,Master,False,2688,8,8,10,11
+817,Brittany,Choi,1881-08-17,shaynes@gmail.com,975-257-6988x968,2014-09-25,Senior Enchanter,HR & Muggle Relations,40.0,Pureblood,Veela Hair,Adept,False,770,4,5,3,9
+818,Sierra,Thomas,1945-05-22,loweryemma@hotmail.com,370.027.7359,2013-01-09,Junior Spell Crafter,Potion Research,44.0,Half-blood,Unknown,Consultant,True,3341,1,3,10,24
+819,Jason,Randall,1897-06-10,manderson@yahoo.com,(985)660-8729x616,2013-02-18,Potions Intern,Potion Research,2.0,Squib,Phoenix Feather,Consultant,False,633,6,9,5,6
+820,Michael,Whber,1785-11-11,michael54@williams-collins.info,414.885.7913x725,2017-08-01,Magical HR Specialist,HR & Muggle Relations,28.0,Muggle-born,Dragon Heartstring,Adept,True,968,10,1,9,3
+821,Michael,Campbell,1756-02-03,daniel56@fernandez.com,377-323-2915x306,2024-08-26,Junior Spell Crafter,Mystical Logistics,49.0,Pureblood,Unknown,Consultant,True,1568,6,4,2,12
+822,Emily,Thcmas,1921-10-22,kstafford@schmidt-frye.com,001-841-207-1647x11450,2007-08-06,Wand Safety Officer,Wand Engineering,16.0,Unknown,Phoenix Feather,Intern,False,3267,6,7,8,9
+823,Emily,Fitzgerald,1991-12-13,mcguirevalerie@romero.biz,220-532-7203,2017-03-14,Potions Intern,Wand Engineering,33.0,Pureblood,Mysterious Core,Master,True,2648,9,6,8,15
+824,Adrian,Bolton,1833-05-11,mmiller@yahoo.com,(712)502-5439x934,2022-08-11,Master of Charms,Wand Engineering,15.0,Unknown,Thestral Tail Hair,Intern,True,4834,5,10,5,21
+825,JanQt,Sanders,1911-09-23,qfields@hotmail.com,001-402-666-3246,2005-07-09,Junior Spell Crafter,Potion Research,26.0,Half-blood,Veela Hair,Intern,True,1154,9,3,1,19
+826,Jeffrey,Davis,1979-11-20,tylerjames@hotmail.com,464.045.5925x84438,2006-02-21,Wand Safety Officer,HR & Muggle Relations,11.0,Unknown,Thestral Tail Hair,Adept,True,556,4,6,7,24
+827,Deborah,Harper,1756-08-29,,+1-513-114-9894x018,2024-06-02,Master of Charms,Spellcrafting,8.0,Squib,Veela Hair,Apprentice,True,2404,4,4,9,23
+828,Michelle,Estrada,1789-01-15,michaelmartinez@yahoo.com,966-473-1867,2022-11-30,Senior Enchanter,Mystical Logistics,26.0,Unknown,Mysterious Core,Intern,False,1456,8,1,1,3
+829,Julia,Houston,1913-10-14,riverasarah@harris-horton.org,120.700.8245,2022-05-09,Magical HR Specialist,HR & Muggle Relations,50.0,Half-blood,Dragon Heartstring,Adept,False,3326,8,5,4,17
+830,Reginald,vvans,1874-01-20,andrew73@gmail.com,+1-981-934-9066x43418,2017-02-15,Senior Enchanter,HR & Muggle Relations,32.0,Muggle-born,Mysterious Core,Consultant,True,4491,8,3,6,20
+831,Denise,Taylor,1817-10-01,smithdanielle@mckinney.com,+1-407-740-7267x5069,2016-10-01,Wand Safety Officer,Mystical Logistics,5.0,Squib,Unicorn Hair,Intern,True,1887,6,5,10,11
+832,Darren,Mosley,1928-02-29,danwarren@gmail.com,382.936.8377,2025-02-13,Magical HR Specialist,Mystical Logistics,25.0,Muggle-born,Dragon Heartstring,Intern,False,1711,10,1,6,2
+833,CAristopher,Owen,1929-02-03,patricia26@cuevas-davis.com,321-550-2229x269,2021-02-17,Senior Enchanter,Spellcrafting,3.0,Squib,Veela Hair,Apprentice,False,1743,9,1,3,16
+834,Kyle,Pineda,1835-02-20,elizabethgreene@carter.info,(991)603-9748x57792,2020-04-22,Wand Safety Officer,Mystical Logistics,11.0,Half-blood,Dragon Heartstring,Intern,True,4704,4,1,4,18
+835,Anthony,Rivera,1802-03-24,wilsonpaul@yahoo.com,,2010-02-22,Junior Spell Crafter,Magical Security,14.0,Pureblood,Thestral Tail Hair,Adept,True,3339,6,10,2,23
+836,Patricia,King,1909-08-03,tiffanyallen@ramirez.com,(242)116-6423,2015-02-08,Magical HR Specialist,Spellcrafting,33.0,Unknown,Veela Hair,Intern,False,4433,6,3,6,18
+837,Victoria,Romero,1976-04-02,,001-080-926-9123x2109,2012-12-10,Magical HR Specialist,Mystical Logistics,25.0,Pureblood,Unicorn Hair,Master,False,2937,1,4,9,13
+838,ThWmas,Mueller,1810-12-13,robertwells@jones.info,9350576424,2016-10-24,Potions Intern,HR & Muggle Relations,38.0,Muggle-born,Phoenix Feather,Master,False,3021,3,4,10,2
+839,AnthWny,Walkrr,1901-03-28,peter92@yahoo.com,221.370.2197,2005-09-18,Master of Charms,Potion Research,40.0,Squib,Mysterious Core,Master,True,1002,6,2,10,2
+840,James,Gomez,1811-08-04,jennifer11@cook.com,8910827364,2009-05-24,Junior Spell Crafter,HR & Muggle Relations,3.0,Squib,Mysterious Core,Apprentice,False,3816,2,6,7,9
+841,Cmeryl,Hunt,1918-03-04,,+1-216-651-7923x8603,2008-11-22,Master of Charms,HR & Muggle Relations,50.0,Muggle-born,Unicorn Hair,Master,False,3326,4,7,3,16
+842,Daniel,Lewis,1951-09-10,nicolelucero@mclaughlin-davenport.com,(196)455-9270x45434,2020-03-23,Magical HR Specialist,Mystical Logistics,16.0,Half-blood,Phoenix Feather,Intern,True,4349,6,8,9,20
+843,Stephanie,Hernandez,1737-04-01,robertcole@yahoo.com,,2023-07-05,Wand Safety Officer,Wand Engineering,29.0,Muggle-born,Phoenix Feather,Consultant,True,2881,10,3,10,22
+844,Taylor,Castaneda,1940-08-22,alyssa19@yahoo.com,,2006-12-15,Junior Spell Crafter,Potion Research,49.0,Half-blood,Thestral Tail Hair,Adept,True,2762,8,10,1,12
+845,Barbara,Gregory,1796-04-29,kevin77@yahoo.com,+1-986-530-3462x878,2015-03-22,Junior Spell Crafter,Potion Research,3.0,Muggle-born,Dragon Heartstring,Intern,True,4039,1,9,10,17
+846,Lauren,Peters,1901-12-03,julia28@yahoo.com,+1-751-572-7675x97998,2015-09-05,Senior Enchanter,Mystical Logistics,29.0,Pureblood,Phoenix Feather,Master,True,4612,5,2,9,18
+847,Tom,Duffy,1897-01-08,jasonschmidt@yahoo.com,,2020-07-10,Magical HR Specialist,Mystical Logistics,5.0,Half-blood,Unicorn Hair,Master,False,1117,3,6,4,6
+848,Daniel,Salazar,1979-11-13,matthewkim@hotmail.com,+1-386-725-1773,2020-04-07,Senior Enchanter,HR & Muggle Relations,15.0,Pureblood,Mysterious Core,Adept,False,4402,7,6,2,6
+849,Todd,Garcia,1837-10-20,scott69@gmail.com,001-546-196-3362,2020-11-27,Master of Charms,Wand Engineering,35.0,Half-blood,Mysterious Core,Consultant,False,1304,4,9,1,6
+850,Maria,Powell,1792-05-01,jonesharry@yahoo.com,091-688-0970x9106,2011-04-11,Potions Intern,Wand Engineering,32.0,Half-blood,Unknown,Apprentice,True,2007,5,3,10,15
+851,Victorla,Burnett,1988-10-26,danielmclean@romero.com,129-846-4571,2014-08-07,Senior Enchanter,Spellcrafting,33.0,Unknown,Veela Hair,Apprentice,False,3151,8,1,6,25
+852,Robert,Reynolds,1825-12-16,christine69@martin-bates.com,893.148.7328x953,2007-05-10,Junior Spell Crafter,HR & Muggle Relations,31.0,Muggle-born,Thestral Tail Hair,Intern,True,3364,2,3,3,23
+853,Mark,Brooks,1929-11-19,waltonlisa@yahoo.com,+1-029-615-7018x099,2019-07-12,Senior Enchanter,Magical Security,9.0,Pureblood,Veela Hair,Intern,False,873,7,8,5,9
+854,Jamie,Webster,1950-05-10,smithwilliam@hotmail.com,(434)676-4213,2013-02-23,Magical HR Specialist,Mystical Logistics,33.0,Half-blood,Thestral Tail Hair,Apprentice,True,4912,5,8,5,15
+855,Tammy,Smuth,1952-10-25,webbfrank@gmail.com,318-615-1505,2005-09-19,Potions Intern,Magical Security,33.0,Unknown,Thestral Tail Hair,Intern,True,3921,8,1,10,24
+856,SuzYnne,Mckinney,1827-12-31,hortonisaac@perez.com,(208)884-9177,2023-03-20,Senior Enchanter,Potion Research,34.0,Unknown,Thestral Tail Hair,Apprentice,True,659,5,10,2,10
+857,Bernard,Weiss,1727-08-13,bross@smith-lopez.org,001-043-174-5154,2014-11-19,Senior Enchanter,Mystical Logistics,44.0,Pureblood,Unicorn Hair,Intern,True,2223,3,10,5,21
+858,Elizabeth,Faulkner,1781-08-22,garylewis@yahoo.com,(241)542-9258x734,2005-09-22,Junior Spell Crafter,Potion Research,46.0,Squib,Mysterious Core,Master,True,4811,8,1,2,20
+859,CUitlin,Jackson,1875-01-17,ulopez@hotmail.com,1505204674,2025-03-18,Senior Enchanter,HR & Muggle Relations,44.0,Pureblood,Phoenix Feather,Apprentice,True,4724,8,3,7,17
+860,Sarah,Marshall,1790-11-09,melissa71@gmail.com,517.714.4229x425,2013-08-02,Master of Charms,Magical Security,41.0,Pureblood,Dragon Heartstring,Consultant,False,4225,5,7,2,7
+861,Chris,Villarreal,1875-01-02,rhonda15@mendoza-marshall.com,658-660-2072x664,2021-09-09,Junior Spell Crafter,HR & Muggle Relations,1.0,Half-blood,Mysterious Core,Consultant,True,3766,7,4,9,8
+862,Luis,Sparks,1747-05-10,morrisaustin@gmail.com,143-113-8698x412,2018-01-10,Master of Charms,Wand Engineering,4.0,Unknown,Phoenix Feather,Consultant,True,867,7,9,2,14
+863,DaEid,Brown,1882-12-13,stephenlee@yahoo.com,+1-112-809-8513x147,2022-06-14,Wand Safety Officer,Potion Research,18.0,Pureblood,Veela Hair,Intern,False,2883,6,7,6,8
+864,Christopher,Jones,1724-05-16,joseph16@gmail.com,001-161-791-4756x92153,2010-04-21,Magical HR Specialist,Potion Research,34.0,Half-blood,Unicorn Hair,Apprentice,True,2658,6,4,4,14
+865,Tyler,Campos,1813-09-11,cynthiacarter@gmail.com,+1-224-447-2016x56046,2020-04-14,Senior Enchanter,Wand Engineering,48.0,Squib,Unicorn Hair,Apprentice,False,1288,4,10,5,24
+866,Diane,Harris,1948-08-17,andersoncatherine@gmail.com,+1-207-582-0532x71291,2017-10-25,Magical HR Specialist,Potion Research,8.0,Half-blood,Thestral Tail Hair,Master,False,1136,2,2,8,9
+867,Johnny,Christensen,1976-03-21,cody77@gmail.com,051.534.3235x36167,2023-03-27,Master of Charms,Mystical Logistics,45.0,Unknown,Phoenix Feather,Intern,True,1188,6,6,3,2
+868,Lisa,Beasley,1736-03-09,williegonzalez@yahoo.com,+1-082-878-6970x957,2019-10-04,Master of Charms,Mystical Logistics,2.0,Squib,Unknown,Master,True,1045,8,6,1,19
+869,Elizabeth,Perez,1927-06-09,kgarcia@gmail.com,576-040-2771x587,2021-01-19,Senior Enchanter,Wand Engineering,40.0,Half-blood,Thestral Tail Hair,Master,True,2666,4,10,5,0
+870,Dennis,Brady,1926-04-05,tamarahuang@kelly-randolph.com,(735)473-0190x5453,2013-02-19,Potions Intern,Mystical Logistics,10.0,Half-blood,Unknown,Apprentice,False,3846,10,2,7,10
+871,Adrian,Rodriguez,1782-07-03,imartinez@butler.com,001-297-903-6282x82924,2007-01-04,Master of Charms,Magical Security,50.0,Half-blood,Mysterious Core,Intern,False,967,10,7,10,14
+872,Diana,Webb,1774-03-15,michellewhite@cox.info,001-943-805-1883x77434,2028-13-40,Master of Charms,Spellcrafting,39.0,Unknown,Thestral Tail Hair,Consultant,True,4836,1,10,5,21
+873,MichaGl,JorIan,1933-03-01,,410.075.5244,2006-10-05,Potions Intern,Magical Security,32.0,Muggle-born,Thestral Tail Hair,Adept,True,3693,9,2,10,18
+874,Larry,Hicks,1921-02-05,zmccormick@yahoo.com,089.793.9706,2024-03-22,Master of Charms,Magical Security,7.0,Unknown,Veela Hair,Intern,True,3332,8,6,5,3
+875,Robert,Horn,1998-08-14,jonathanburns@cantrell.com,037.789.7867x31210,2008-06-08,Senior Enchanter,HR & Muggle Relations,24.0,Muggle-born,Thestral Tail Hair,Master,False,4689,4,1,1,10
+876,Megan,LRe,1806-11-23,joseph58@yahoo.com,233-618-1228x96004,2017-05-30,Potions Intern,Potion Research,25.0,Muggle-born,Unknown,Intern,False,1907,2,8,2,14
+877,Morgan,Deleon,1826-01-18,brianwagner@thornton-blackburn.com,,2022-07-12,Magical HR Specialist,Wand Engineering,6.0,Squib,Mysterious Core,Intern,True,2733,7,7,4,14
+878,Andrew,Munoz,1744-12-29,timothymiller@santos.biz,784-641-7014x4566,2021-08-04,Wand Safety Officer,Potion Research,33.0,Half-blood,Dragon Heartstring,Adept,True,2471,10,6,6,1
+879,Sarah,Marks,1851-07-12,reginajones@gmail.com,332-519-4928x538,2018-03-21,Wand Safety Officer,HR & Muggle Relations,3.0,Squib,Phoenix Feather,Adept,False,1234,7,5,6,22
+880,Jodi,Joyce,1873-04-08,qsmith@ayala.com,677.232.8375x9563,2022-01-23,Magical HR Specialist,HR & Muggle Relations,39.0,Half-blood,Unicorn Hair,Consultant,True,1799,3,1,7,23
+881,Heather,Morris,1813-09-17,elizabeth63@gmail.com,001-291-166-0818x6429,2015-02-28,Potions Intern,Wand Engineering,44.0,Muggle-born,Unicorn Hair,Apprentice,False,3950,7,6,5,11
+882,Jacqueline,Burgess,1899-09-10,zcooper@frazier.com,304-371-1775x905,2010-04-03,Magical HR Specialist,HR & Muggle Relations,34.0,Muggle-born,Unknown,Adept,False,4993,1,2,5,12
+883,Christopher,Batler,1807-09-09,,(035)808-2388x3249,2010-11-02,Magical HR Specialist,Mystical Logistics,44.0,Half-blood,Unicorn Hair,Intern,True,2851,6,9,3,17
+884,Kristen,Mathis,1957-10-26,chapmanholly@davis.net,559-254-0195x339,2020-07-20,Magical HR Specialist,Wand Engineering,18.0,Muggle-born,Dragon Heartstring,Master,False,1072,6,1,7,21
+885,Linda,Waljer,1880-02-16,,001-776-062-3531x70020,2024-02-14,Junior Spell Crafter,Wand Engineering,40.0,Pureblood,Phoenix Feather,Intern,True,654,4,3,4,6
+886,Keith,Fitzgerald,1826-12-22,pstephens@johnson.net,+1-135-681-3397,2020-09-08,Magical HR Specialist,Magical Security,10.0,Squib,Unknown,Consultant,True,3621,6,8,1,20
+887,Alex,Wood,1951-09-23,fostersamuel@davis-mcguire.info,612-454-8835x8433,2014-06-23,Magical HR Specialist,Mystical Logistics,26.0,Unknown,Mysterious Core,Intern,False,4274,9,4,6,20
+888,Lisa,Owen,1875-01-18,castillorobert@ross.org,(501)936-6363,2010-10-25,Senior Enchanter,Mystical Logistics,45.0,Squib,Mysterious Core,Consultant,True,4942,1,7,1,16
+889,Theresa,Campbell,1752-08-30,dylan83@hotmail.com,+1-848-019-9146,2009-12-12,Junior Spell Crafter,Mystical Logistics,28.0,Squib,Dragon Heartstring,Apprentice,True,4694,9,1,5,5
+890,Jennifer,Alvarado,1892-08-04,lcole@hotmail.com,+1-265-087-6143,2012-11-22,Senior Enchanter,HR & Muggle Relations,26.0,Half-blood,Thestral Tail Hair,Master,False,3466,4,1,4,19
+891,Crystal,Anderson,1836-06-17,simonricky@mckee.com,099-959-0661,2024-09-29,Magical HR Specialist,Potion Research,7.0,Half-blood,Veela Hair,Consultant,False,4487,9,3,2,5
+892,Victor,Hamilton,1740-07-28,keith53@cobb.org,6545664087,2020-01-13,Potions Intern,Mystical Logistics,35.0,Pureblood,Unicorn Hair,Consultant,True,1191,4,6,10,8
+893,Lindsay,Haynes,1842-07-01,morgan28@gmail.com,357.272.3912,2016-04-14,Potions Intern,Mystical Logistics,45.0,Half-blood,Veela Hair,Master,False,4970,7,7,4,0
+894,Peter,Ferrell,1990-03-04,,(254)145-7549x69876,2008-02-19,Potions Intern,Mystical Logistics,34.0,Unknown,Veela Hair,Master,False,3013,4,5,2,3
+895,Brittany,Heawh,1948-01-06,hcook@madden-rodriguez.com,001-363-178-0244x616,2028-13-40,Senior Enchanter,Mystical Logistics,5.0,Half-blood,Thestral Tail Hair,Master,True,2537,1,8,8,18
+896,Jose,Young,1775-05-02,schneidershelly@hotmail.com,444-712-7785x006,2012-08-26,Wand Safety Officer,Spellcrafting,35.0,Half-blood,Thestral Tail Hair,Master,True,3467,2,8,6,0
+897,Tracey,Kaiser,1816-08-17,crystal59@gmail.com,675.322.5833,2018-04-26,Master of Charms,HR & Muggle Relations,36.0,Half-blood,Veela Hair,Apprentice,False,2977,1,4,4,5
+898,Chelsea,Kelly,1756-11-23,amy42@randolph.com,(367)797-2101x4819,2013-01-10,Magical HR Specialist,HR & Muggle Relations,25.0,Squib,Veela Hair,Intern,True,1137,6,5,5,10
+899,Brzan,MccaUn,1944-02-17,kendramolina@taylor-mitchell.info,442-373-8925,2005-08-13,Senior Enchanter,Potion Research,4.0,Squib,Thestral Tail Hair,Apprentice,False,2798,4,5,3,18
+900,Caitlin,Builey,1776-10-19,mollyneal@smith.info,(516)258-2837x57743,2011-05-01,Senior Enchanter,Potion Research,37.0,Unknown,Veela Hair,Master,False,1489,3,7,6,7
+901,Bailey,Rodriguez,1935-02-21,keith67@yahoo.com,876.369.2588,2023-07-25,Senior Enchanter,HR & Muggle Relations,5.0,Muggle-born,Dragon Heartstring,Apprentice,False,3818,7,4,8,6
+902,Amanda,Scott,1879-11-30,merrittmichael@ward.com,(512)081-1772,2020-09-05,Senior Enchanter,Magical Security,21.0,Half-blood,Dragon Heartstring,Master,True,1017,1,8,6,14
+903,Jasmine,Hoffman,1819-07-25,jordanduke@gmail.com,+1-856-911-5458x96249,2017-12-31,Master of Charms,Spellcrafting,12.0,Muggle-born,Veela Hair,Consultant,False,4445,10,10,4,22
+904,Margaret,Thompson,1899-02-07,hansenwilliam@thomas.com,923-289-7337x02774,2023-04-02,Junior Spell Crafter,Potion Research,37.0,Muggle-born,Unicorn Hair,Apprentice,False,3257,8,6,4,4
+905,Amanda,Johnson,1914-04-19,charles84@yahoo.com,523-714-5080,2018-07-02,Potions Intern,Magical Security,29.0,Half-blood,Veela Hair,Consultant,True,2269,10,5,9,6
+906,Michael,Bowmzn,1997-02-12,kiddmichael@boyd-harvey.com,+1-536-536-5939,2014-06-12,Junior Spell Crafter,Spellcrafting,34.0,Muggle-born,Unicorn Hair,Adept,True,1814,4,3,7,14
+907,Jacob,Henderson,1962-05-25,,+1-996-113-8778,2010-05-22,Magical HR Specialist,Potion Research,5.0,Half-blood,Unknown,Intern,False,4390,10,2,4,18
+908,Tammy,Lang,1909-06-24,katrinastuart@jackson-mullins.com,(882)521-4788,2014-11-19,Wand Safety Officer,Mystical Logistics,19.0,Squib,Unknown,Master,True,2845,7,1,9,16
+909,Cheyenke,Koch,1765-07-03,nguyenjoshua@scott.com,1401223693,2013-05-22,Senior Enchanter,Potion Research,30.0,Pureblood,Thestral Tail Hair,Consultant,False,987,6,8,5,0
+910,Christina,Bennett,1990-12-30,conniequinn@anderson.com,+1-042-202-4792x422,2018-01-19,Senior Enchanter,Magical Security,27.0,Muggle-born,Veela Hair,Adept,False,3765,6,9,8,20
+911,Mario,Liller,1846-02-24,jonathanmendoza@hotmail.com,001-586-889-2701,2016-03-08,Master of Charms,HR & Muggle Relations,27.0,Unknown,Unknown,Consultant,False,1748,5,7,10,11
+912,Kimberly,Rush,1919-10-06,brandonjohnson@yahoo.com,897-044-5877x35529,2013-02-04,Master of Charms,Mystical Logistics,33.0,Squib,Phoenix Feather,Adept,False,605,7,3,5,0
+913,Bobby,Fox,1782-08-17,,101-857-5400,2023-12-17,Master of Charms,Mystical Logistics,24.0,Half-blood,Thestral Tail Hair,Apprentice,False,4330,3,9,7,25
+914,Christopher,Ulynn,1819-03-03,hchoi@gmail.com,+1-704-510-9947,2022-06-13,Senior Enchanter,Mystical Logistics,46.0,Squib,Thestral Tail Hair,Master,True,4227,10,7,6,18
+915,Eric,Ward,1828-03-03,lorrainehendricks@sanchez.com,898-377-9814x5290,2007-07-22,Wand Safety Officer,Wand Engineering,25.0,Muggle-born,Dragon Heartstring,Intern,True,3695,9,5,4,19
+916,David,Turner,2002-11-03,,(928)798-9800,2012-04-24,Junior Spell Crafter,Magical Security,22.0,Squib,Phoenix Feather,Adept,False,732,8,1,10,23
+917,Paula,Mason,1917-06-29,kmoss@yahoo.com,,2024-06-06,Wand Safety Officer,Spellcrafting,37.0,Squib,Thestral Tail Hair,Apprentice,False,2208,7,7,10,6
+918,Amy,Garcia,1825-01-10,,(217)831-4100x3065,2007-01-27,Potions Intern,Wand Engineering,30.0,Half-blood,Dragon Heartstring,Intern,False,4805,9,1,7,20
+919,Emily,panders,2004-12-22,hollowayelizabeth@yahoo.com,605.584.5970x4239,2023-05-27,Potions Intern,Magical Security,29.0,Half-blood,Dragon Heartstring,Consultant,False,3789,4,7,3,13
+920,Thomas,Oadilla,1827-03-03,swu@yahoo.com,485-062-7769x545,2014-08-22,Master of Charms,Spellcrafting,1.0,Half-blood,Phoenix Feather,Apprentice,False,2706,6,10,5,18
+921,Ryan,Henderson,2001-07-14,moorechristopher@hotmail.com,2128891115,2015-02-19,Potions Intern,HR & Muggle Relations,31.0,Half-blood,Unicorn Hair,Consultant,False,1316,6,7,2,6
+922,Marcus,Crawford,1975-01-31,allenjames@gmail.com,+1-649-388-8239x90595,2013-03-28,Potions Intern,Mystical Logistics,2.0,Unknown,Dragon Heartstring,Apprentice,False,1719,2,3,1,15
+923,fhillip,Miller,1810-09-02,michael72@hotmail.com,260.827.6065x520,2025-03-07,Magical HR Specialist,Wand Engineering,43.0,Unknown,Thestral Tail Hair,Consultant,True,3171,2,9,4,20
+924,Jessica,Li,1784-11-24,,001-743-114-4674x3383,2012-12-16,Senior Enchanter,Magical Security,16.0,Unknown,Unicorn Hair,Intern,True,4186,9,2,5,5
+925,Sarah,Mcconnell,1837-07-29,gshort@gmail.com,+1-099-609-2574x5527,2007-08-25,Senior Enchanter,Wand Engineering,25.0,Pureblood,Dragon Heartstring,Adept,False,3678,9,3,9,15
+926,Beth,Foster,1885-09-10,castillorobert@gmail.com,(726)383-9413,2011-12-03,Magical HR Specialist,Wand Engineering,6.0,Unknown,Mysterious Core,Consultant,True,4417,3,8,6,12
+927,Kenneth,Smith,1887-01-22,robert19@morgan.com,001-450-880-9078x6601,2012-04-22,Master of Charms,Spellcrafting,18.0,Squib,Phoenix Feather,Master,False,1605,3,3,9,10
+928,Christopher,Peters,1802-03-27,hartmandaniel@hotmail.com,+1-044-012-2597,2020-04-03,Junior Spell Crafter,Magical Security,7.0,Unknown,Phoenix Feather,Intern,False,1242,10,10,5,2
+929,Andres,Newton,1837-07-13,,001-099-930-9391x5818,2018-01-31,Magical HR Specialist,HR & Muggle Relations,13.0,Squib,Veela Hair,Adept,True,4572,2,7,4,3
+930,Tara,Salinas,1926-01-21,traci37@bernard.com,001-779-472-3748,2015-08-28,Junior Spell Crafter,Magical Security,41.0,Unknown,Unknown,Adept,True,2315,10,5,5,6
+931,StepPanie,Williams,1897-11-04,molly47@yahoo.com,(686)170-1789x9577,2010-09-19,Potions Intern,Mystical Logistics,22.0,Squib,Unknown,Apprentice,False,4306,8,8,7,21
+932,Cynthia,Cobb,1861-06-14,lisamartinez@hotmail.com,001-008-571-8915x55240,2007-09-24,Potions Intern,Wand Engineering,39.0,Muggle-born,Dragon Heartstring,Intern,False,3590,5,4,6,9
+933,Donna,Carter,1794-04-03,michael70@yahoo.com,905-673-5956x80685,2022-06-06,Magical HR Specialist,Potion Research,22.0,Half-blood,Mysterious Core,Apprentice,False,2883,4,7,7,2
+934,Teresa,Reeves,1804-09-27,qoconnor@gmail.com,(390)640-8654x5431,2022-06-06,Potions Intern,Magical Security,43.0,Pureblood,Thestral Tail Hair,Intern,True,4802,7,5,1,23
+935,Andrew,Garcia,1944-05-01,jenningswilliam@johnson.biz,870-330-5911,2010-04-11,Wand Safety Officer,HR & Muggle Relations,38.0,Squib,Dragon Heartstring,Intern,False,4322,7,4,2,9
+936,Margaret,Williams,1987-11-25,,957.056.9933,2017-01-20,Potions Intern,Mystical Logistics,2.0,Unknown,Mysterious Core,Master,False,4799,7,3,8,24
+937,Mary,Mciee,1770-04-03,ashleylewis@burke.net,,2013-04-06,Potions Intern,Magical Security,18.0,Half-blood,Unknown,Master,True,794,5,9,5,10
+938,Kelly,Elliott,1807-04-11,lindacasey@lopez.com,359.839.2931x5231,2024-05-01,Wand Safety Officer,Mystical Logistics,32.0,Muggle-born,Unknown,Intern,False,3819,1,10,10,12
+939,Kenneth,Allen,1824-07-09,adamsalexander@yahoo.com,523.739.2714,2018-07-26,Master of Charms,HR & Muggle Relations,46.0,Muggle-born,Unknown,Consultant,False,2986,5,1,10,15
+940,Christopher,Escobar,1972-06-13,ywashington@yahoo.com,854-074-5371x0963,2024-05-13,Master of Charms,Wand Engineering,26.0,Pureblood,Unknown,Consultant,True,3445,5,2,5,22
+941,Melanie,Griffin,1856-05-26,nicole18@hotmail.com,+1-489-911-8122x3908,2012-01-17,Magical HR Specialist,Wand Engineering,31.0,Pureblood,Mysterious Core,Master,False,2487,5,3,10,8
+942,Daniel,WelLs,1783-07-23,brooke88@hotmail.com,985-057-8404,2007-08-08,Master of Charms,Spellcrafting,32.0,Squib,Mysterious Core,Intern,False,1531,6,1,4,19
+943,Jessica,Fleming,1998-01-10,nleon@pearson-rogers.com,2572850881,2023-12-04,Junior Spell Crafter,Magical Security,34.0,Unknown,Dragon Heartstring,Apprentice,False,3827,2,4,6,15
+944,Christopher,Lewis,1887-04-10,gordonashley@gmail.com,001-179-515-3199,2023-10-07,Senior Enchanter,Potion Research,42.0,Unknown,Veela Hair,Adept,True,1678,4,7,10,18
+945,Victoria,Gray,1848-07-11,nwerner@campbell.com,+1-308-337-4645x573,2006-06-20,Senior Enchanter,Mystical Logistics,9.0,Muggle-born,Mysterious Core,Consultant,False,4009,4,2,10,23
+946,Judy,AdUms,1769-12-18,bowmanjennifer@clark-collins.com,200-726-8143x97602,2009-04-05,Magical HR Specialist,Wand Engineering,32.0,Squib,Unknown,Intern,True,3789,6,3,1,23
+947,Melissa,Wagner,1989-05-21,derrick70@gmail.com,001-575-712-2102x25936,2012-12-08,Wand Safety Officer,Magical Security,29.0,Unknown,Thestral Tail Hair,Apprentice,True,605,8,4,9,23
+948,Tara,Xarlson,1831-07-31,stephaniegonzalez@bennett.org,001-343-305-3508,2023-07-30,Wand Safety Officer,Wand Engineering,47.0,Pureblood,Phoenix Feather,Intern,False,4233,5,10,10,1
+949,Juan,Phillips,1728-10-25,pgarcia@mcdaniel.info,138.071.2482x0810,2023-03-03,Junior Spell Crafter,Mystical Logistics,4.0,Squib,Thestral Tail Hair,Apprentice,False,2775,4,2,1,10
+950,MErk,Hancock,1995-09-29,angela00@gmail.com,(947)196-8787x036,2014-03-27,Junior Spell Crafter,Potion Research,37.0,Unknown,Unknown,Master,False,2915,2,2,6,1
+951,Mindy,Johcson,1866-04-20,michelemacias@yahoo.com,019.496.2963x529,2019-10-18,Magical HR Specialist,Potion Research,34.0,Half-blood,Phoenix Feather,Adept,True,658,4,8,6,0
+952,Robert,roach,1967-07-27,lopezamanda@gmail.com,375.197.9896,2028-13-40,Wand Safety Officer,Wand Engineering,21.0,Squib,Thestral Tail Hair,Master,True,4204,1,9,1,12
+953,Adam,Smith,2004-12-19,ajohnson@gmail.com,(992)817-1614,2019-10-10,Junior Spell Crafter,Wand Engineering,41.0,Half-blood,Veela Hair,Adept,True,2183,1,6,4,10
+954,Courtney,Reed,1973-12-04,romanolivia@foster.com,+1-234-065-0507,2021-09-06,Senior Enchanter,HR & Muggle Relations,23.0,Half-blood,Veela Hair,Adept,False,1023,7,3,5,21
+955,Stephen,Torres,1854-09-14,mercedes96@hotmail.com,001-662-849-7642x49095,2023-06-10,Junior Spell Crafter,HR & Muggle Relations,21.0,Unknown,Thestral Tail Hair,Apprentice,True,2676,9,10,6,15
+956,Dean,Allvn,1870-05-19,eharrington@morris-carroll.org,(257)533-8853,2012-04-21,Master of Charms,Magical Security,17.0,Unknown,Veela Hair,Master,False,4433,8,2,5,10
+957,CaMherine,kong,1860-01-03,dwayne39@taylor-gallagher.com,(010)325-1320,2019-02-14,Master of Charms,HR & Muggle Relations,16.0,Unknown,Phoenix Feather,Consultant,False,4885,6,10,10,20
+958,Andrew,Reynolds,1815-05-15,zcompton@davis.com,(532)659-6063x25236,2022-04-23,Master of Charms,Wand Engineering,26.0,Unknown,Thestral Tail Hair,Master,False,2036,4,1,8,22
+959,Tracy,Warren,1884-09-25,tara44@price.com,191.645.3848,2015-06-02,Magical HR Specialist,HR & Muggle Relations,10.0,Muggle-born,Unicorn Hair,Intern,False,4814,2,1,6,1
+960,Rachel,Griffith,1799-07-20,xjackson@hotmail.com,001-949-204-0522x021,2008-08-09,Junior Spell Crafter,Wand Engineering,17.0,Pureblood,Unknown,Master,True,2005,1,3,9,2
+961,David,Arnold,1797-06-25,jennyharris@wheeler-morrow.com,5331593361,2015-11-21,Junior Spell Crafter,Mystical Logistics,14.0,Unknown,Thestral Tail Hair,Adept,True,2539,6,9,8,20
+962,Jimothy,Carrillo,1838-10-04,karen80@chen.net,001-458-660-9459x208,2008-06-11,Junior Spell Crafter,Magical Security,37.0,Squib,Mysterious Core,Intern,False,4203,2,5,4,4
+963,Jacqueline,Reed,1803-12-10,matthewwebster@yahoo.com,+1-470-469-7325x388,2014-01-15,Junior Spell Crafter,Spellcrafting,3.0,Muggle-born,Dragon Heartstring,Apprentice,True,3993,5,10,7,24
+964,Judy,Petersen,1941-05-15,gonzalezcourtney@ramirez.info,810.336.6550,2007-09-01,Master of Charms,Wand Engineering,8.0,Squib,Thestral Tail Hair,Adept,False,4235,5,6,6,24
+965,Kevin,Lee,1905-03-25,ricesean@yahoo.com,350-341-7297x458,2013-09-22,Master of Charms,Mystical Logistics,31.0,Unknown,Dragon Heartstring,Intern,False,4177,9,3,2,3
+966,Michelle,Richardson,1911-07-03,,960.042.0643x42187,2024-09-17,Wand Safety Officer,Potion Research,48.0,Muggle-born,Unknown,Apprentice,False,1689,2,7,8,6
+967,Bruce,Zuniga,1950-10-28,kristinrivas@taylor.com,+1-805-351-1295x755,2021-02-08,Junior Spell Crafter,Magical Security,9.0,Half-blood,Mysterious Core,Master,False,659,5,10,3,9
+968,Louis,Smith,1882-12-07,fpalmer@nash.org,948-991-4883x003,2006-04-06,Junior Spell Crafter,Magical Security,7.0,Half-blood,Unknown,Master,False,4054,4,2,3,9
+969,Margaret,Roberts,1956-01-02,victorhart@yahoo.com,603-773-3459,2018-01-20,Master of Charms,Magical Security,27.0,Pureblood,Unknown,Apprentice,True,3585,5,8,2,22
+970,Shawn,ShXw,1815-05-15,christopher98@hotmail.com,065.664.1325,2023-06-04,Master of Charms,Wand Engineering,1.0,Pureblood,Unicorn Hair,Master,False,4368,8,8,5,16
+971,Michael,Nielsen,1873-08-31,steven59@ortiz.org,820-737-4129x932,2012-04-18,Master of Charms,Wand Engineering,22.0,Half-blood,Phoenix Feather,Master,True,1358,4,9,4,23
+972,Aydrew,Lopez,1817-08-23,joseph20@kennedy.com,(202)530-4282x2268,2019-04-25,Magical HR Specialist,HR & Muggle Relations,39.0,Pureblood,Phoenix Feather,Apprentice,False,2947,7,6,9,22
+973,Chad,BrIwn,1748-06-03,brentbolton@lee.org,440-495-2931x687,2024-03-04,Magical HR Specialist,Magical Security,17.0,Pureblood,Mysterious Core,Apprentice,False,1827,6,5,2,2
+974,Timothy,Beck,1793-03-10,,206-402-8163x293,2006-04-24,Magical HR Specialist,Potion Research,37.0,Squib,Thestral Tail Hair,Consultant,True,4228,7,4,4,17
+975,Rebecca,Gibson,1934-04-23,,450.179.2576,2017-02-19,Master of Charms,Mystical Logistics,23.0,Half-blood,Mysterious Core,Intern,False,2615,4,4,9,13
+976,Kimberly,Kelley,1980-06-26,jeanette34@yahoo.com,+1-634-371-4968x558,2012-09-18,Senior Enchanter,Mystical Logistics,36.0,Squib,Phoenix Feather,Adept,True,4147,9,5,1,6
+977,Diana,Vazquez,1781-07-21,iandrews@reynolds.com,(262)193-5074x860,2020-09-15,Wand Safety Officer,Spellcrafting,37.0,Muggle-born,Thestral Tail Hair,Adept,True,839,6,3,4,20
+978,Tony,Bryant,2002-05-21,wrightbrian@garcia.net,+1-762-199-9423,2016-10-21,Potions Intern,Magical Security,47.0,Pureblood,Thestral Tail Hair,Adept,True,2357,6,10,6,21
+979,Christina,HendOrson,1734-08-13,mossanita@hotmail.com,3779596925,2021-06-27,Master of Charms,Wand Engineering,17.0,Half-blood,Thestral Tail Hair,Consultant,True,3357,10,6,9,23
+980,Timothy,Parsons,1801-12-21,barbaramartinez@hotmail.com,(479)448-9007,2028-13-40,Master of Charms,Mystical Logistics,20.0,Half-blood,Veela Hair,Apprentice,False,2498,9,6,4,0
+981,JoWn,Young,1947-08-30,karencantrell@watson.biz,691-448-8293x35994,2022-08-20,Senior Enchanter,Spellcrafting,40.0,Squib,Unknown,Master,True,3779,10,1,8,24
+982,Rodney,Norman,1842-06-06,stephenwebb@hotmail.com,(956)585-1482,2008-11-24,Junior Spell Crafter,Magical Security,14.0,Pureblood,Unicorn Hair,Consultant,True,4601,5,5,4,4
+983,Jane,Jones,1823-11-10,hicksjohnathan@perez.com,+1-923-595-9309x1615,2013-06-21,Magical HR Specialist,Spellcrafting,22.0,Squib,Veela Hair,Consultant,False,1045,7,9,9,1
+984,Susan,Mcmillan,1761-07-25,amandagonzales@gmail.com,785.542.5094,2028-13-40,Senior Enchanter,HR & Muggle Relations,10.0,Pureblood,Veela Hair,Consultant,True,2906,2,7,2,9
+985,Tommy,Nguyen,1884-02-24,phillipmcdonald@gmail.com,933.917.7009x9521,2014-12-05,Senior Enchanter,Magical Security,16.0,Unknown,Unicorn Hair,Master,True,2334,2,8,10,12
+986,Nichojas,Brown,1950-03-01,sphillips@rogers-miller.info,665.168.0489x7063,2017-04-16,Wand Safety Officer,Magical Security,32.0,Unknown,Unicorn Hair,Intern,False,3078,9,2,1,9
+987,Christopher,Menwoza,1864-03-01,kennethlowery@king.net,6570252477,2010-04-28,Magical HR Specialist,Wand Engineering,15.0,Muggle-born,Veela Hair,Intern,False,2036,8,8,3,18
+988,Melinda,Morales,1998-03-13,williamsbrett@hotmail.com,001-204-231-1951,2007-02-26,Wand Safety Officer,Spellcrafting,20.0,Half-blood,Thestral Tail Hair,Consultant,True,814,2,3,10,13
+989,Tracy,Gordvn,1969-09-25,robertgarcia@gmail.com,8011097466,2007-02-28,Wand Safety Officer,Magical Security,4.0,Muggle-born,Dragon Heartstring,Adept,True,3917,7,1,5,14
+990,Donna,Orozco,2005-05-03,rroth@lynch-logan.biz,+1-780-485-4200x0371,2016-06-30,Master of Charms,HR & Muggle Relations,22.0,Muggle-born,Dragon Heartstring,Master,False,1045,5,10,7,13
+991,Jason,Jensen,1769-11-26,cookemily@yahoo.com,100.144.3705,2028-13-40,Master of Charms,Potion Research,33.0,Unknown,Dragon Heartstring,Adept,False,1626,8,1,1,21
+992,Isabella,Hall,1747-07-18,davisdouglas@yahoo.com,,2013-02-22,Master of Charms,HR & Muggle Relations,2.0,Half-blood,Veela Hair,Master,True,1799,5,2,10,22
+993,Jonathan,Anderson,1885-11-25,jjones@hall-fuller.com,884-203-9911x251,2019-05-04,Senior Enchanter,HR & Muggle Relations,24.0,Pureblood,Unicorn Hair,Apprentice,True,2200,7,4,5,21
+994,William,Carpenter,1814-05-16,clementssteven@yahoo.com,665.230.5984x88577,2014-05-25,Senior Enchanter,Potion Research,33.0,Half-blood,Unicorn Hair,Apprentice,True,2032,6,4,5,13
+995,Jeffrey,Kennedy,1941-07-20,johnwallace@sims.org,326.319.6668,2007-02-21,Magical HR Specialist,Spellcrafting,38.0,Squib,Thestral Tail Hair,Apprentice,False,4881,8,7,3,18
+996,William,Diaz,1915-04-24,nzuniga@yahoo.com,301-804-5830,2020-01-04,Wand Safety Officer,HR & Muggle Relations,46.0,Pureblood,Thestral Tail Hair,Apprentice,False,3457,2,9,9,8
+997,Joel,Shields,2003-03-18,angela02@steele-meyer.biz,561-174-7000,2017-10-21,Magical HR Specialist,Wand Engineering,14.0,Half-blood,Unknown,Apprentice,True,3735,5,10,4,14
+998,Brianna,Collins,1745-08-10,dianesanchez@gmail.com,(646)875-3393,2005-05-03,Master of Charms,Wand Engineering,38.0,Half-blood,Dragon Heartstring,Master,False,4763,9,8,4,7
+999,Nathan,Nichols,1843-02-09,marksmatthew@martin.com,(292)565-1264,2014-07-02,Wand Safety Officer,Mystical Logistics,50.0,Pureblood,Dragon Heartstring,Adept,True,4813,6,3,6,5
+1000,DamIn,Patton,1779-12-01,tbell@johnson.com,(827)370-7261,2022-12-27,Wand Safety Officer,Mystical Logistics,43.0,Pureblood,Veela Hair,Consultant,True,842,4,5,6,1
