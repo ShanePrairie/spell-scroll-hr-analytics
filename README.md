@@ -1,7 +1,10 @@
 # ✨ Spell & Scroll Solutions, Inc. — HR Analytics Project ✨
 
 <p align="center">
-  (https://github.com/ShanePrairie/spell-scroll-hr-analytics/blob/main/wizard_hr_banner.png)
+  <p align="center">
+  <img src=https://github.com/ShanePrairie/spell-scroll-hr-analytics/blob/main/wizard_hr_banner.png alt="Spell & Scroll Solutions Banner" style="width:100%; max-width:900px;">
+</p>
+
 </p>
 
 <p align="center">
