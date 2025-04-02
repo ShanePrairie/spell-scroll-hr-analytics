@@ -1,7 +1,7 @@
 # ✨ Spell & Scroll Solutions, Inc. — HR Analytics Project ✨
 
 <p align="center">
-  <img src="assets/wizard_hr_banner.png" alt="Spell & Scroll Solutions Banner" style="width:100%; max-width:900px;">
+  ![ChatGPT Image Apr 1, 2025, 10_16_36 PM](https://github.com/user-attachments/assets/453232d6-ffc0-4765-bbf6-65408bca6868)
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ This project features five interconnected tables with rich, semi-messy, realisti
 | `exit_interviews`        | Reasons for employee departures & recommendations      |
 | `promotions`             | Internal promotions and advancement records            |
 
-📄 Each table is described in detail in the [📘 HR Data Documentation](./wizard_hr_data_doc).
+📄 Each table is described in detail in the [📘 HR Data Documentation](./HR_Data_Documentation).
 
 ---
 
